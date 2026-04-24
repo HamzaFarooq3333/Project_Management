@@ -1,16 +1,147 @@
-from pathlib import Path
+from __future__ import annotations
+
+import os
 import pickle
-import faiss
-from sentence_transformers import SentenceTransformer
+import re
+from pathlib import Path
 from typing import List, Dict, Any, Tuple
+
 import numpy as np
 
 BASE_DIR = Path(__file__).resolve().parents[2]
 DATA_DIR = BASE_DIR / 'data'
 MODEL_NAME = 'sentence-transformers/all-MiniLM-L6-v2'
 
+_WORD_RE = re.compile(r"[a-zA-Z0-9']+")
+
+
+def _tokenize(text: str) -> List[str]:
+    return [m.group(0).lower() for m in _WORD_RE.finditer(text or "")]
+
+
+def _pdf_link_for_standard(standard: str, page: int) -> str | None:
+    standard_key = (standard or "").upper()
+    if 'PMBOK' in standard_key:
+        pdf_endpoint = '/pdf/PMBOK'
+    elif 'PRINCE' in standard_key:
+        pdf_endpoint = '/pdf/PRINCE2'
+    elif 'ISO21500' in standard_key:
+        pdf_endpoint = '/pdf/ISO21500'
+    elif 'ISO21502' in standard_key:
+        pdf_endpoint = '/pdf/ISO21502'
+    else:
+        pdf_endpoint = ''
+    return f"{pdf_endpoint}#page={page}" if pdf_endpoint else None
+
+
+class LightSemanticSearch:
+    """Vercel-safe fallback search (no torch/transformers/faiss/sentence-transformers).
+
+    Uses `data/meta.pkl` and a simple keyword-based relevance score.
+    This keeps the deployed bundle small enough for Vercel Lambda limits.
+    """
+
+    def __init__(self) -> None:
+        with open(DATA_DIR / 'meta.pkl', 'rb') as f:
+            self.meta = pickle.load(f)
+
+    def query(self, q: str, k: int = 10, standard_filter: str | None = None) -> List[Dict[str, Any]]:
+        q_tokens = _tokenize(q)
+        q_set = set(q_tokens)
+        if not q_set:
+            # Empty query -> return first k snippets (stable demo behavior)
+            q_set = set()
+
+        results: List[Dict[str, Any]] = []
+        for meta in self.meta:
+            if isinstance(meta, dict):
+                standard = meta.get('standard')
+                text = meta.get('text') or ''
+                page = int(meta.get('page') or 0)
+            else:
+                standard, text, page = meta
+                text = text or ''
+                page = int(page or 0)
+
+            standard_key = str(standard or '').upper()
+            if standard_filter and str(standard_filter).upper() not in standard_key:
+                continue
+
+            text_tokens = _tokenize(text)
+            if q_set:
+                # simple term frequency score
+                score = float(sum(1 for t in text_tokens if t in q_set))
+                if score <= 0:
+                    continue
+            else:
+                score = 0.0
+
+            results.append({
+                'standard': standard,
+                'text': text[:500],
+                'page': page,
+                'score': score,
+                'link': _pdf_link_for_standard(str(standard or ''), page),
+            })
+
+        results.sort(key=lambda r: (r.get('score', 0.0), -(r.get('page', 0) or 0)), reverse=True)
+        return results[:k]
+
+    def _encode_texts(self, texts: List[str]) -> np.ndarray:
+        # Not available in light mode (kept for API compatibility)
+        raise RuntimeError("Embeddings disabled in light mode")
+
+    def compare_detailed(self, topic: str, k: int = 30) -> Dict[str, Any]:
+        hits = self.query(topic, k=k)
+        buckets: Dict[str, List[Dict[str, Any]]] = {'PMBOK': [], 'PRINCE2': [], 'ISO21500': [], 'ISO21502': []}
+        for r in hits:
+            sk = str(r.get('standard') or '').upper()
+            if 'PMBOK' in sk:
+                buckets['PMBOK'].append(r)
+            elif 'PRINCE' in sk:
+                buckets['PRINCE2'].append(r)
+            elif 'ISO21500' in sk:
+                buckets['ISO21500'].append(r)
+            elif 'ISO21502' in sk:
+                buckets['ISO21502'].append(r)
+
+        summaries = {k: (v[0] if v else None) for k, v in buckets.items()}
+        return {
+            'summaries': summaries,
+            'similarities': [],
+            'differences': [],
+            'uniques': [],
+            'note': 'Light mode (keyword search). Similarity/unique analytics are disabled on Vercel.'
+        }
+
+    def analyze_two_books(self, *args, **kwargs) -> Dict[str, Any]:
+        return {'bookA': {'key': '', 'points': []}, 'bookB': {'key': '', 'points': []}, 'threshold': kwargs.get('threshold', 0.6), 'disabled': True}
+
+    def analyze_all_books_auto(self, *args, **kwargs) -> Dict[str, Any]:
+        return {'points': [], 'unique_points': [], 'similar_pairs': [], 'dissimilar_pairs': [], 'book_stats': {}, 'threshold': kwargs.get('threshold', 0.6), 'unique_threshold': kwargs.get('unique_threshold', 0.35), 'disabled': True}
+
+    def get_all_snippets_for_standard(self, standard: str) -> List[Dict[str, Any]]:
+        std_key = str(standard or '').upper()
+        snippets: List[Dict[str, Any]] = []
+        for meta_item in self.meta:
+            if isinstance(meta_item, dict):
+                item_standard = str(meta_item.get('standard', '')).upper()
+                if std_key in item_standard:
+                    snippets.append({'standard': meta_item.get('standard'), 'text': meta_item.get('text', ''), 'page': meta_item.get('page', 0)})
+            else:
+                item_standard, text, page = meta_item
+                if std_key in str(item_standard).upper():
+                    snippets.append({'standard': item_standard, 'text': text, 'page': page})
+        snippets.sort(key=lambda s: s.get('page', 0))
+        return snippets
+
+
 class SemanticSearch:
     def __init__(self) -> None:
+        # Heavy dependencies (FAISS + SentenceTransformers). Not suitable for Vercel bundle limits.
+        import faiss  # type: ignore
+        from sentence_transformers import SentenceTransformer  # type: ignore
+
         self.model = SentenceTransformer(MODEL_NAME)
         self.index = faiss.read_index(str(DATA_DIR / 'faiss.index'))
         with open(DATA_DIR / 'meta.pkl', 'rb') as f:
@@ -35,18 +166,7 @@ class SemanticSearch:
                 # Old format (tuple)
                 standard, text, page = meta
             
-            standard_key = standard.upper()
-            if 'PMBOK' in standard_key:
-                pdf_endpoint = '/pdf/PMBOK'
-            elif 'PRINCE' in standard_key:
-                pdf_endpoint = '/pdf/PRINCE2'
-            elif 'ISO21500' in standard_key:
-                pdf_endpoint = '/pdf/ISO21500'
-            elif 'ISO21502' in standard_key:
-                pdf_endpoint = '/pdf/ISO21502'
-            else:
-                pdf_endpoint = ''
-            link = f"{pdf_endpoint}#page={page}" if pdf_endpoint else None
+            link = _pdf_link_for_standard(str(standard), int(page))
             if standard_filter and standard_filter.upper() not in standard_key:
                 continue
             results.append({
@@ -417,10 +537,17 @@ class SemanticSearch:
 
 search_engine: SemanticSearch | None = None
 
-def get_engine() -> SemanticSearch:
+def get_engine() -> SemanticSearch | LightSemanticSearch:
     global search_engine
     if search_engine is None:
-        search_engine = SemanticSearch()
+        # Use light mode on Vercel (or when heavy deps are missing).
+        is_vercel = bool(os.getenv("VERCEL")) or (os.getenv("DEPLOY_TARGET", "").lower() == "vercel")
+        if is_vercel:
+            return LightSemanticSearch()
+        try:
+            search_engine = SemanticSearch()
+        except Exception:
+            return LightSemanticSearch()
     return search_engine
 
 

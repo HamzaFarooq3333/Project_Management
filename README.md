@@ -254,7 +254,9 @@ This repo includes a Vercel serverless entrypoint (`api/index.py`) and config (`
 
 - **PDF size limit**: Vercel deployments often fail if you include large PDFs in `Books/`.  
   Recommended: host PDFs elsewhere and set `PDF_BASE_URL` (see below).
-- **Cold starts**: Loading ML models/indexes can be slow on first request.
+- **Vercel bundle limits**: Torch/Transformers/SentenceTransformers/FAISS are too large for Vercel Lambda storage.
+  This repo automatically switches to a **lightweight keyword-search mode** on Vercel (using `data/meta.pkl` only).
+  For full semantic search locally, install `requirements.local.txt`.
 
 ### 2) Push to GitHub
 
