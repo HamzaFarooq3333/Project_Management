@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific
+# NOTE: The `data/` FAISS index + metadata are required to run search/compare
+# without rebuilding the index. Keep them committed for easy deploy/demo.
+convert/
+*.log
+temp/
+tmp/
+
+.cursor/
+
+# Environment variables (contains API keys)
+.env
+config.env
+*.env
+
+# Test outputs
+test_results/
+coverage/
+.pytest_cache/
+
+# Documentation builds
+docs/_build/
+site/

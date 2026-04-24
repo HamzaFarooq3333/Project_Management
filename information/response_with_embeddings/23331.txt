@@ -1,0 +1,131 @@
+Scenario: [23331] Custom Software Development | Research | Large (> 18 months) | Healthcare | PMBOK
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: ISO21500, ISO21502, PRINCE2, PMBOK
+
+================================================================================
+
+### Process Recommendation: Healthcare Research Project (PMBOK)
+
+This document outlines a comprehensive process recommendation for managing a large-scale healthcare research project, adhering to PMBOK principles and best practices. The project is expected to last longer than 18 months.
+
+#### Process Summary
+
+This process recommendation is tailored to a large healthcare research project using the PMBOK methodology [Ref 2]. It emphasizes a structured, phased approach, incorporating iterative elements where appropriate to accommodate the evolving nature of research. It also emphasizes stakeholder engagement [Ref 6], quality control [Ref 6], risk management [Ref 6], and adaptability [Ref 6]. The project should maintain open communication and documentation practices [Ref 2] throughout the project lifecycle to ensure transparency and effective decision-making [Ref 6]. The process aligns with ISO21502 guidance on project management, applicable to any organization and type of project [Ref 1].
+
+-----
+
+#### Phases and Activities
+
+The project will be structured around the following phases:
+
+I. **Initiation:**
+ i. Define project goals, objectives, and scope [Ref 2].
+ ii. Identify key stakeholders [Ref 3, Ref 6] and their roles [Ref 9].
+ iii. Develop a preliminary project charter and secure project sponsorship [Ref 9].
+ iv. Conduct a high-level risk assessment [Ref 6].
+ v. Develop a governance structure [Ref 7, Ref 8].
+
+II. **Planning:**
+ i. Develop a detailed project management plan, encompassing all knowledge areas (scope, schedule, cost, quality, resources, communications, risk, procurement, stakeholder engagement) [Ref 2].
+ ii. Create a Work Breakdown Structure (WBS) [Ref 5] to define project deliverables and activities.
+ iii. Develop a detailed budget and schedule [Ref 2].
+ iv. Establish a communication plan [Ref 2] to ensure timely and effective information dissemination.
+ v. Develop a risk management plan to identify, analyze, and respond to potential threats and opportunities [Ref 6].
+ vi. Plan the team composition [Ref 2].
+
+III. **Execution:**
+ i. Execute project activities according to the project management plan [Ref 3].
+ ii. Manage and direct project resources.
+ iii. Implement the communication plan.
+ iv. Monitor and control project progress.
+ v. Manage and address project issues [Ref 8] and changes [Ref 2].
+ vi. Ensure quality standards are met [Ref 6].
+
+IV. **Monitoring and Controlling:**
+ i. Track project performance against the project management plan [Ref 3].
+ ii. Monitor and control project scope, schedule, and cost.
+ iii. Manage changes to the project baseline [Ref 2].
+ iv. Identify and address project risks and issues [Ref 6, Ref 8].
+ v. Report project status to stakeholders [Ref 6].
+ vi. Implement corrective actions as needed.
+ vii. Measurement of performance [Ref 3].
+
+V. **Closure:**
+ i. Finalize all project deliverables.
+ ii. Obtain formal acceptance from stakeholders.
+ iii. Document lessons learned.
+ iv. Close out all project contracts and procurements [Ref 2].
+ v. Archive project documents.
+ vi. Release project resources.
+
+-----
+
+#### Roles
+
+*   **Sponsor:** Provides overall direction, resources, and support [Ref 9].
+*   **Project Manager:** Leads and manages the project team, responsible for planning, execution, monitoring, and control [Ref 15].
+*   **Research Team:** Conducts research activities, data analysis, and report writing.
+*   **Stakeholders:** Individuals or groups with an interest in the project's outcome [Ref 3, Ref 9].
+*   **Quality Assurance Team:** Ensures project deliverables meet quality standards [Ref 6].
+
+-----
+
+#### RACI Matrix
+
+| Phase                   | Sponsor | Project Manager | Research Team | Stakeholders | Quality Assurance Team |
+| ----------------------- | ------- | --------------- | ------------- | ------------ | ----------------------- |
+| Initiation [Ref 9]      | A       | R               | C             | I           | I                        |
+| Planning [Ref 2]        | I       | R               | C             | I           | I                        |
+| Execution [Ref 3]       | I       | R               | R             | C           | I                        |
+| Monitoring & Controlling | I       | R               | C             | I           | C                       |
+| Closure                 | A       | R               | C             | I           | I                        |
+
+**R:** Responsible - Person who does the work.
+**A:** Accountable - Person who owns the work and is ultimately answerable.
+**C:** Consulted - Person who provides input or feedback.
+**I:** Informed - Person who is kept up-to-date on progress.
+
+-----
+
+#### Decision Gates
+
+*   **End of Initiation Phase:** Decision to proceed with the project based on the feasibility study and business case.
+*   **End of Planning Phase:** Approval of the project management plan and budget by the sponsor and stakeholders.
+*   **Mid-Project Review:** Assessment of project progress and performance against the plan. Adjustments made as needed.
+*   **Pre-Closure Review:** Verification that all deliverables have been completed and accepted.
+
+-----
+
+#### Note
+
+Ref 1: ISO21502, Page 9 (Similarity: 0.579)
+Ref 2: PMBOK, Page 30 (Similarity: 0.578)
+Ref 3: PMBOK, Page 24 (Similarity: 0.560)
+Ref 5: ISO21502, Page 12 (Similarity: 0.533)
+Ref 6: PMBOK, Page 10 (Similarity: 0.512)
+Ref 7: ISO21502, Page 11 (Similarity: 0.495)
+Ref 8: ISO21502, Page 10 (Similarity: 0.483)
+Ref 9: ISO21500, Page 9 (Similarity: 0.482)
+Ref 15: ISO21502, Page 7 (Similarity: 0.447)
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 23331_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.579) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.578) → /pdf/PMBOK#page=30
+• [Ref 3] PMBOK - Page 24 (Similarity: 0.560) → /pdf/PMBOK#page=24
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.544) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.533) → /pdf/ISO21502#page=12
+• [Ref 6] PMBOK - Page 10 (Similarity: 0.512) → /pdf/PMBOK#page=10
+• [Ref 7] ISO21502 - Page 11 (Similarity: 0.495) → /pdf/ISO21502#page=11
+• [Ref 8] ISO21502 - Page 10 (Similarity: 0.483) → /pdf/ISO21502#page=10
+• [Ref 9] ISO21500 - Page 9 (Similarity: 0.482) → /pdf/ISO21500#page=9
+• [Ref 10] PRINCE2 - Page 6 (Similarity: 0.481) → /pdf/PRINCE2#page=6
+• [Ref 11] PMBOK - Page 9 (Similarity: 0.468) → /pdf/PMBOK#page=9
+• [Ref 12] ISO21502 - Page 1 (Similarity: 0.467) → /pdf/ISO21502#page=1
+• [Ref 13] ISO21500 - Page 9 (Similarity: 0.461) → /pdf/ISO21500#page=9
+• [Ref 14] ISO21502 - Page 7 (Similarity: 0.451) → /pdf/ISO21502#page=7
+• [Ref 15] ISO21502 - Page 7 (Similarity: 0.447) → /pdf/ISO21502#page=7

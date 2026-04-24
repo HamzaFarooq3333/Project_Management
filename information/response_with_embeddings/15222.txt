@@ -1,0 +1,142 @@
+Scenario: [15222] Custom Project (Manual Configuration) | Infrastructure | Medium (6-18 months) | Construction | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Medium-Scale Construction Infrastructure Project (PRINCE2)
+
+#### Process Summary
+
+This process recommendation outlines the project management approach for a medium-scale (6-18 months) construction infrastructure project utilizing the PRINCE2 methodology.  It considers the manual configuration aspects inherent in construction and aligns with relevant PM standards such as PMBOK [Ref 1, Ref 2, Ref 8, Ref 12, Ref 13], ISO 21502 [Ref 3, Ref 5, Ref 7, Ref 10, Ref 11, Ref 15], and PRINCE2 [Ref 4, Ref 6].  The project's success hinges on careful planning, stakeholder engagement, risk management, and effective change control, all central to the project's execution. This approach encompasses the entire project lifecycle, from initiation to closure, ensuring a structured and controlled environment [Ref 6].  The principles, practices, and processes will be adapted to the project context [Ref 6].
+-----
+
+#### Phases and Activities
+
+The project will follow a phased approach, based on PRINCE2 principles:
+
+**I. Project Initiation**
+
+*   **Objective:** Define the project and gain authorization.
+*   **Activities:**
+    i.  Develop the Project Initiation Document (PID). The PID should include project scope, objectives, approach, and a project plan [Ref 2].
+    ii. Identify key stakeholders and their interests, along with the project sponsor [Ref 9].
+    iii. Conduct a feasibility study and business case to ensure project justification.
+    iv. Define the project's overall governance and control mechanisms.
+    v. Identify and document initial risks and issues.
+    vi. Create a Communication Plan [Ref 2].
+
+**II. Project Planning**
+
+*   **Objective:** Develop a detailed project plan for execution, considering all aspects of the project.
+*   **Activities:**
+    i.  Define the project scope in detail. The Work Breakdown Structure (WBS) will be crucial for managing scope [Ref 5].
+    ii.  Develop a detailed schedule, considering dependencies and resource availability.
+    iii.  Create a detailed budget, accounting for all costs. [Ref 2].
+    iv.  Identify and plan for resource procurement, including materials and labor.
+    v.  Develop a comprehensive risk management plan, including risk identification, assessment, and response strategies [Ref 13].
+    vi.  Define change control processes and procedures [Ref 2].
+    vii.  Create quality control processes.
+    viii.  Refine the Communications Plan.
+
+**III. Project Execution and Monitoring & Controlling**
+
+*   **Objective:** Execute the project plan and monitor progress, managing risks and changes.
+*   **Activities:**
+    i.  Carry out the work packages as defined in the plan [Ref 5].
+    ii.  Manage project resources and allocate tasks.
+    iii.  Monitor project progress against the plan, including schedule and budget.
+    iv.  Track and manage risks, implementing risk responses as needed [Ref 13].
+    v.  Manage project issues, escalating as necessary.
+    vi.  Implement change control procedures. [Ref 2]
+    vii.  Manage communication with stakeholders.
+    viii.  Perform quality assurance checks.
+
+**IV. Project Closure**
+
+*   **Objective:** Formally close the project and obtain acceptance of the deliverables.
+*   **Activities:**
+    i.  Obtain formal acceptance of the project deliverables.
+    ii.  Conduct a post-project review to identify lessons learned.
+    iii.  Document all project outputs and archive project documentation.
+    iv.  Close out all contracts and procurements.
+    v.  Release project resources.
+
+-----
+
+#### Roles
+
+*   **Project Sponsor:** Responsible for securing resources and providing executive decisions [Ref 9].
+*   **Project Manager:** Responsible for day-to-day management of the project, executing the plan, and achieving project objectives [Ref 16].
+*   **Senior User:** Represents the user perspective and ensures the project delivers the expected benefits.
+*   **Senior Supplier:** Represents the supplier perspective, often the construction company.
+*   **Project Assurance:** Provides independent oversight to ensure the project adheres to PRINCE2 principles.
+
+-----
+
+#### RACI Matrix
+
+| Phase                             | Project Sponsor | Project Manager | Senior User | Senior Supplier | Project Assurance |
+| :-------------------------------- | :-------------- | :-------------- | :---------- | :------------- | :---------------- |
+| **I. Project Initiation**        | A               | R               | C           | I              | C                 |
+| **II. Project Planning**          | A               | R               | C           | I              | C                 |
+| **III. Project Execution & M&C** | I               | R               | C           | R              | A                 |
+| **IV. Project Closure**           | A               | R               | C           | I              | C                 |
+
+*   **R** = Responsible
+*   **A** = Accountable
+*   **C** = Consulted
+*   **I** = Informed
+
+-----
+
+#### Decision Gates
+
+Decision gates are crucial for project control and authorization:
+
+*   **Project Initiation Review:** Formal approval of the Project Initiation Document (PID) by the Project Sponsor (End of Phase I) [Ref 6, Ref 10].
+*   **Planning Review:** Review and approval of the project plan, budget, and schedule (End of Phase II). [Ref 2].
+*   **Stage Gate Reviews:** Periodic reviews throughout the project lifecycle to assess progress, address issues, and authorize continuation to the next stage (Ongoing during Phase III). [Ref 6]
+*   **Project Closure Review:** Formal acceptance of deliverables and closure of the project (End of Phase IV) [Ref 6].
+
+-----
+
+#### Note:
+
+*   Ref 1: PMBOK, Page 24
+*   Ref 2: PMBOK, Page 30
+*   Ref 3: ISO21502, Page 9
+*   Ref 4: PRINCE2, Page 4
+*   Ref 5: ISO21502, Page 12
+*   Ref 6: PRINCE2, Page 6
+*   Ref 7: ISO21502, Page 10
+*   Ref 8: PMBOK, Page 10
+*   Ref 9: ISO21500, Page 9
+*   Ref 10: ISO21502, Page 11
+*   Ref 11: ISO21502, Page 7
+*   Ref 12: PMBOK, Page 9
+*   Ref 13: PMBOK, Page 20
+*   Ref 14: ISO21500, Page 9
+*   Ref 15: ISO21502, Page 1
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 15222_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 24 (Similarity: 0.614) → /pdf/PMBOK#page=24
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.593) → /pdf/PMBOK#page=30
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.558) → /pdf/ISO21502#page=9
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.557) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.555) → /pdf/ISO21502#page=12
+• [Ref 6] PRINCE2 - Page 6 (Similarity: 0.532) → /pdf/PRINCE2#page=6
+• [Ref 7] ISO21502 - Page 10 (Similarity: 0.530) → /pdf/ISO21502#page=10
+• [Ref 8] PMBOK - Page 10 (Similarity: 0.514) → /pdf/PMBOK#page=10
+• [Ref 9] ISO21500 - Page 9 (Similarity: 0.511) → /pdf/ISO21500#page=9
+• [Ref 10] ISO21502 - Page 11 (Similarity: 0.508) → /pdf/ISO21502#page=11
+• [Ref 11] ISO21502 - Page 7 (Similarity: 0.495) → /pdf/ISO21502#page=7
+• [Ref 12] PMBOK - Page 9 (Similarity: 0.493) → /pdf/PMBOK#page=9
+• [Ref 13] PMBOK - Page 20 (Similarity: 0.484) → /pdf/PMBOK#page=20
+• [Ref 14] ISO21500 - Page 9 (Similarity: 0.480) → /pdf/ISO21500#page=9
+• [Ref 15] ISO21502 - Page 1 (Similarity: 0.478) → /pdf/ISO21502#page=1

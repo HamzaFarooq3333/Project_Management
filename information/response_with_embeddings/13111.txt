@@ -1,0 +1,137 @@
+Scenario: [13111] Custom Project (Manual Configuration) | Research | Small (< 6 months) | Information Technology | PMBOK
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Small-Scale IT Research Project
+
+#### Process Summary
+
+This recommendation outlines a PMBOK-aligned process for a small-scale information technology research project involving manual configuration, expected to be completed within six months. Given the project's size and research focus, a streamlined approach is necessary while adhering to key PMBOK principles. This process emphasizes stakeholder engagement, careful planning, and iterative monitoring and control. The project should be treated as a temporary endeavor to achieve defined objectives [Ref 6]. Key areas of focus include product scope, project scope, estimating, scheduling, budget, team composition, communication plan, change management, and measurement [Ref 1]. It also considers the project context which is essential for success [Ref 7].
+
+-----
+
+#### Phases and Activities
+
+I. **Initiation**
+
+   i.  Define Project Objectives and Scope: Clearly articulate the research goals, deliverables, and boundaries of the project. This involves understanding stakeholder needs [Ref 5] and defining the project's objectives, which is fundamental to successful project management [Ref 6].
+   ii. Identify Stakeholders: Identify all stakeholders and document their needs, expectations, and influence levels [Ref 4], [Ref 5]. Effective stakeholder engagement is crucial [Ref 15].
+   iii. Develop Project Charter: Formalize project authorization, outlining the project's purpose, high-level objectives, and assigned project manager [Ref 6].
+   iv. Develop High-Level Project Plan: Create a preliminary schedule, budget, and resource allocation plan [Ref 1].
+
+II. **Planning**
+
+   i.  Develop Detailed Scope Statement: Define the project scope in detail, including work breakdown structure (WBS) [Ref 5], deliverables, and acceptance criteria.
+   ii. Create the Schedule: Develop a realistic schedule, incorporating tasks, dependencies, and estimated durations. Tools for estimating may be required [Ref 1].
+   iii. Develop the Budget: Estimate costs for resources, materials, and other project expenses [Ref 1].
+   iv. Plan Resource Management: Identify required resources (personnel, equipment, etc.) and develop a resource allocation plan.
+   v. Develop a Communication Plan: Define communication channels, frequency, and stakeholders to receive updates [Ref 1].
+   vi. Risk Management Planning: Identify potential risks and develop a risk management plan, including mitigation strategies [Ref 10].
+   vii. Develop the Procurement Plan (if applicable): Plan for any necessary procurement activities, such as software or consulting services [Ref 1].
+   viii. Define Change Management Process: Establish a process for managing changes to the project scope, schedule, or budget [Ref 1].
+
+III. **Execution**
+
+   i.  Execute Project Plan: Carry out planned activities in accordance with the project plan.
+   ii. Manage Resources: Efficiently manage resources, ensuring timely availability and effective utilization.
+   iii. Conduct Manual Configuration: Perform the necessary manual configuration tasks as defined in the scope.
+   iv. Implement the Communication Plan: Regularly communicate project status, issues, and risks to stakeholders [Ref 1].
+   v. Perform Quality Assurance: Conduct quality checks to ensure deliverables meet requirements.
+
+IV. **Monitoring and Controlling**
+
+   i.  Monitor Project Performance: Track progress against the plan, measuring key performance indicators (KPIs) and comparing them to baselines [Ref 1].
+   ii. Manage Risks: Monitor identified risks, implement risk response plans, and identify new risks.
+   iii. Control Changes: Manage change requests, assess their impact, and implement approved changes through the change management process [Ref 1].
+   iv. Report Progress: Provide regular project status reports to stakeholders.
+   v. Manage Issues: Resolve project issues in a timely manner.
+
+V. **Closure**
+
+   i.  Obtain Formal Acceptance: Secure formal acceptance of project deliverables from stakeholders.
+   ii. Conduct a Project Post-Mortem: Evaluate project performance, identify lessons learned, and document best practices for future projects.
+   iii. Archive Project Documentation: Store all project documentation for future reference.
+   iv. Close Out Contracts (if applicable).
+   v. Release Project Resources.
+
+-----
+
+#### Roles
+
+*   **Project Manager:** Responsible for overall project management, planning, execution, monitoring, and closing.
+*   **Researcher(s):** Responsible for conducting the research, performing the manual configuration, and delivering the research findings.
+*   **Stakeholders:** Individuals or groups with an interest in the project. Their support and guidance is essential [Ref 14].
+*   **Sponsor:** Provides resources and executive decisions [Ref 6].
+
+-----
+
+#### RACI Matrix
+
+| Phase              | Project Manager | Researcher(s) | Stakeholders | Sponsor |
+| ------------------ | --------------- | ------------- | ------------ | ------- |
+| **I. Initiation**   | R               | C             | A            | A       |
+| **II. Planning**    | R               | A             | C            | I       |
+| **III. Execution**  | M               | A             | C            | I       |
+| **IV. Monitoring & Controlling** | R               | C             | C            | I       |
+| **V. Closure**     | R               | A             | C            | A       |
+
+**Legend:**
+
+*   R = Responsible
+*   A = Accountable
+*   C = Consulted
+*   I = Informed
+
+-----
+
+#### Decision Gates
+
+*   **Project Charter Approval (Initiation):** Approval of the project charter signifies formal authorization to begin the project [Ref 6].
+*   **Plan Approval (Planning):** Approval of the detailed project plan (scope, schedule, budget, etc.) ensures agreement and commitment [Ref 1].
+*   **Change Request Approval (Monitoring and Controlling):** Approval of change requests allows the project manager to integrate those changes if needed [Ref 1].
+*   **Deliverable Acceptance (Closure):** Formal acceptance of project deliverables from stakeholders confirms that the project's objectives have been met [Ref 11].
+*   **Project Closure Approval (Closure):** Sign-off from the sponsor and stakeholders, formally closing the project.
+
+-----
+
+#### Note
+
+Ref 1: PMBOK, Page 30 (Similarity: 0.600)
+Ref 2: ISO21502, Page 9 (Similarity: 0.595)
+Ref 3: PRINCE2, Page 4 (Similarity: 0.582)
+Ref 4: PMBOK, Page 24 (Similarity: 0.581)
+Ref 5: ISO21502, Page 12 (Similarity: 0.575)
+Ref 6: ISO21500, Page 9 (Similarity: 0.535)
+Ref 7: PRINCE2, Page 6 (Similarity: 0.528)
+Ref 8: ISO21502, Page 1 (Similarity: 0.526)
+Ref 9: ISO21502, Page 7 (Similarity: 0.525)
+Ref 10: ISO21502, Page 14 (Similarity: 0.516)
+Ref 11: ISO21502, Page 10 (Similarity: 0.516)
+Ref 12: ISO21502, Page 11 (Similarity: 0.511)
+Ref 13: ISO21500, Page 9 (Similarity: 0.509)
+Ref 14: ISO21502, Page 7 (Similarity: 0.509)
+Ref 15: PMBOK, Page 10 (Similarity: 0.505)
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 13111_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 30 (Similarity: 0.600) → /pdf/PMBOK#page=30
+• [Ref 2] ISO21502 - Page 9 (Similarity: 0.595) → /pdf/ISO21502#page=9
+• [Ref 3] PRINCE2 - Page 4 (Similarity: 0.582) → /pdf/PRINCE2#page=4
+• [Ref 4] PMBOK - Page 24 (Similarity: 0.581) → /pdf/PMBOK#page=24
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.575) → /pdf/ISO21502#page=12
+• [Ref 6] ISO21500 - Page 9 (Similarity: 0.535) → /pdf/ISO21500#page=9
+• [Ref 7] PRINCE2 - Page 6 (Similarity: 0.528) → /pdf/PRINCE2#page=6
+• [Ref 8] ISO21502 - Page 1 (Similarity: 0.526) → /pdf/ISO21502#page=1
+• [Ref 9] ISO21502 - Page 7 (Similarity: 0.525) → /pdf/ISO21502#page=7
+• [Ref 10] ISO21502 - Page 14 (Similarity: 0.516) → /pdf/ISO21502#page=14
+• [Ref 11] ISO21502 - Page 10 (Similarity: 0.516) → /pdf/ISO21502#page=10
+• [Ref 12] ISO21502 - Page 11 (Similarity: 0.511) → /pdf/ISO21502#page=11
+• [Ref 13] ISO21500 - Page 9 (Similarity: 0.509) → /pdf/ISO21500#page=9
+• [Ref 14] ISO21502 - Page 7 (Similarity: 0.509) → /pdf/ISO21502#page=7
+• [Ref 15] PMBOK - Page 10 (Similarity: 0.505) → /pdf/PMBOK#page=10

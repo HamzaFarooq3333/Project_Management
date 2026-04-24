@@ -1,0 +1,149 @@
+Scenario: [24131] Custom Software Development | Marketing | Small (< 6 months) | Healthcare | PMBOK
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: ISO21500, ISO21502, PRINCE2, PMBOK
+
+================================================================================
+
+```markdown
+### Process Recommendation for Small Healthcare Marketing Project (PMBOK)
+
+**Process Summary:** This process recommendation outlines a project management approach for a small-scale healthcare marketing project, estimated to be completed within six months, and is aligned with the PMBOK framework [Ref 3]. This framework considers stakeholder engagement, project team dynamics, development approach, planning, project work, delivery, measurement, and uncertainty (risks) throughout the project lifecycle [Ref 3, Ref 6]. It also recognizes the importance of tailoring the approach to the specific context of the project within the healthcare industry [Ref 6, Ref 14]. The plan emphasizes efficient communication, collaborative team environment and adaptability [Ref 6, Ref 11].
+
+-----
+
+### Phases and Activities
+
+I. **Initiating:**
+ i.  **Define Project Objectives:** Clearly articulate the marketing project's goals and how they align with the overall healthcare organization's strategic objectives. Refer to ISO21502's guidance on project management principles, which emphasizes defining project objectives [Ref 2, Ref 10].
+ ii. **Identify Key Stakeholders:** Determine individuals or groups who have an interest in or can affect the project's outcome [Ref 3, Ref 10]. Engage stakeholders early to ensure alignment and gather requirements [Ref 6].
+ iii. **Develop Project Charter:** Document the project's purpose, objectives, high-level requirements, and key stakeholders. This serves as an authorization for the project to begin.
+
+II. **Planning:**
+ i.  **Define Scope:** Develop a detailed work breakdown structure (WBS) to decompose the project into manageable tasks [Ref 4].
+ ii. **Estimate Resources and Budget:** Determine the resources (personnel, budget, equipment) required to complete each task.
+ iii. **Create Schedule:** Develop a realistic project schedule with clearly defined start and end dates for each task.
+ iv. **Develop Communication Plan:** Outline how project information will be communicated to stakeholders [Ref 1].
+ v.  **Identify and Assess Risks:** Identify potential risks (threats and opportunities) that could impact the project and develop mitigation strategies [Ref 7]. Consider the organization's risk appetite and threshold when addressing risks [Ref 7].
+ vi. **Procurement Planning:** If external vendors are required, develop a procurement plan.
+
+III. **Executing:**
+ i.  **Execute Tasks:** Implement the marketing activities as defined in the project plan.
+ ii. **Manage Project Team:** Ensure effective team collaboration and communication [Ref 6, Ref 11].
+ iii. **Monitor Progress:** Track project progress against the schedule, budget, and scope.
+
+IV. **Monitoring and Controlling:**
+ i.  **Monitor Scope Creep:** Manage and control changes to the project scope.
+ ii. **Track Budget and Schedule:** Regularly monitor budget and schedule performance and take corrective action as needed [Ref 1].
+ iii. **Manage Risks and Issues:** Implement risk mitigation strategies and address any issues that arise.
+ iv. **Communicate Progress:** Regularly communicate project status to stakeholders [Ref 6].
+ v.  **Change Management:** Implement a change management process to handle changes to the project effectively [Ref 1].
+
+V. **Closing:**
+ i.  **Final Deliverables:** Ensure that all project deliverables are completed and accepted by the stakeholders.
+ ii. **Project Closure Report:** Prepare a final project report documenting the project's performance, lessons learned, and recommendations for future projects.
+ iii. **Obtain Formal Acceptance:** Obtain formal acceptance of the project deliverables from the project sponsor.
+ iv. **Archive Project Documents:** Archive all project documents for future reference.
+
+-----
+
+### Roles
+
+*   **Project Sponsor:** Provides overall direction, resources, and support.
+*   **Project Manager:** Responsible for planning, executing, monitoring, and controlling the project.
+*   **Marketing Team:** Executes the marketing activities.
+*   **Stakeholders:** Provide input, feedback, and approval throughout the project.
+
+-----
+
+### RACI Matrix
+
+| Phase                   | Project Sponsor | Project Manager | Marketing Team | Stakeholders         |
+| :---------------------- | :-------------: | :-------------: | :-------------: | :-----------------: |
+| Initiating              |        A        |        R        |        C        |         I         |
+| Planning                |        I        |        R        |        C        |         C [Ref 1]         |
+| Executing               |        I        |        R        |        R        |         I         |
+| Monitoring & Controlling |        I        |        R        |        C        |         I         |
+| Closing                 |        A        |        R        |        C        |         I         |
+
+**R** = Responsible, **A** = Accountable, **C** = Consulted, **I** = Informed
+
+-----
+
+### Decision Gates
+
+I.  **Initiation Gate:** Approval of the Project Charter by the project sponsor authorizes the project to proceed.
+II. **Planning Gate:** Approval of the Project Plan by the stakeholders validates the project approach and scope.
+III. **Execution Gate:** Regular review of the project progress against the plan allows for adjustments to ensure project success.
+IV. **Closure Gate:** Formal acceptance of the project deliverables by the sponsor signifies project completion and success.
+
+-----
+
+### Embeddings & Citations Section
+
+**Note:**
+Ref 1: PMBOK, Page 30 (Similarity: 0.586)
+Ref 2: ISO21502, Page 9 (Similarity: 0.571)
+Ref 3: PMBOK, Page 24 (Similarity: 0.564)
+Ref 4: ISO21502, Page 12 (Similarity: 0.530)
+Ref 6: PMBOK, Page 10 (Similarity: 0.520)
+Ref 7: PMBOK, Page 20 (Similarity: 0.475)
+Ref 10: ISO21500, Page 9 (Similarity: 0.467)
+Ref 11: PMBOK, Page 9 (Similarity: 0.450)
+Ref 14: ISO21502, Page 14 (Similarity: 0.437)
+```
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 8: Page 9, Similarity: 0.472 (/pdf/ISO21500#page=9)
+- Ref 10: Page 9, Similarity: 0.467 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 12: Page 1, Similarity: 0.441 (/pdf/ISO21502#page=1)
+- Ref 2: Page 9, Similarity: 0.571 (/pdf/ISO21502#page=9)
+- Ref 13: Page 10, Similarity: 0.439 (/pdf/ISO21502#page=10)
+- Ref 4: Page 12, Similarity: 0.530 (/pdf/ISO21502#page=12)
+- Ref 15: Page 12, Similarity: 0.436 (/pdf/ISO21502#page=12)
+- Ref 14: Page 14, Similarity: 0.437 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 11: Page 9, Similarity: 0.450 (/pdf/PMBOK#page=9)
+- Ref 6: Page 10, Similarity: 0.520 (/pdf/PMBOK#page=10)
+- Ref 7: Page 20, Similarity: 0.475 (/pdf/PMBOK#page=20)
+- Ref 3: Page 24, Similarity: 0.564 (/pdf/PMBOK#page=24)
+- Ref 1: Page 30, Similarity: 0.586 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 5: Page 4, Similarity: 0.520 (/pdf/PRINCE2#page=4)
+- Ref 9: Page 6, Similarity: 0.469 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 24131_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 30 (Similarity: 0.586) → /pdf/PMBOK#page=30
+• [Ref 2] ISO21502 - Page 9 (Similarity: 0.571) → /pdf/ISO21502#page=9
+• [Ref 3] PMBOK - Page 24 (Similarity: 0.564) → /pdf/PMBOK#page=24
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.530) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.520) → /pdf/PRINCE2#page=4
+• [Ref 6] PMBOK - Page 10 (Similarity: 0.520) → /pdf/PMBOK#page=10
+• [Ref 7] PMBOK - Page 20 (Similarity: 0.475) → /pdf/PMBOK#page=20
+• [Ref 8] ISO21500 - Page 9 (Similarity: 0.472) → /pdf/ISO21500#page=9
+• [Ref 9] PRINCE2 - Page 6 (Similarity: 0.469) → /pdf/PRINCE2#page=6
+• [Ref 10] ISO21500 - Page 9 (Similarity: 0.467) → /pdf/ISO21500#page=9
+• [Ref 11] PMBOK - Page 9 (Similarity: 0.450) → /pdf/PMBOK#page=9
+• [Ref 12] ISO21502 - Page 1 (Similarity: 0.441) → /pdf/ISO21502#page=1
+• [Ref 13] ISO21502 - Page 10 (Similarity: 0.439) → /pdf/ISO21502#page=10
+• [Ref 14] ISO21502 - Page 14 (Similarity: 0.437) → /pdf/ISO21502#page=14
+• [Ref 15] ISO21502 - Page 12 (Similarity: 0.436) → /pdf/ISO21502#page=12

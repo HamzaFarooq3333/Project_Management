@@ -1,0 +1,129 @@
+Scenario: [15112] Custom Project (Manual Configuration) | Infrastructure | Small (< 6 months) | Information Technology | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Summary
+
+This process recommendation outlines a project management approach for a small-scale information technology (IT) infrastructure project, leveraging the PRINCE2 methodology within a timeframe of less than six months. The project will involve manual configuration. The project leverages best practices drawn from various PM standards including PMBOK [Ref 1, 2, 10, 11, 12], ISO 21502 [Ref 3, 5, 7, 13, 14, 15], and PRINCE2 [Ref 4, 8]. The PRINCE2 methodology provides a structured framework for managing projects with a focus on defined roles and responsibilities, planning, and control of all project activities to meet the objectives [Ref 4]. This approach emphasizes the need for diligent planning, stakeholder engagement [Ref 1, 9], and proactive risk management to ensure successful project delivery.
+
+-----
+
+### Phases and Activities
+
+This infrastructure project will be managed using a phased approach. The phases and activities outlined below incorporate key elements of PRINCE2 and other PM best practices. The project lifecycle should include a defined set of phases from the start to the end [Ref 15].
+
+#### I. Project Initiation
+
+i.  **Define Project Objectives and Scope:** Clearly articulate the project's goals, deliverables, and scope in alignment with stakeholder needs [Ref 3]. This includes creating a detailed work breakdown structure (WBS) that decomposes the defined scope into manageable elements [Ref 5].
+ii.  **Identify Stakeholders:** Identify all stakeholders who will be impacted by the project [Ref 9], and define communication plans [Ref 1].
+iii. **Appoint Project Team and Roles**: Assemble the project team and define the key roles [Ref 1, 4] for the project (Project Manager, Senior User, Senior Supplier, etc.).
+iv. **Create Project Initiation Documentation (PID):** Compile a comprehensive PID that includes the project's objectives, scope, risks, budget, schedule, and quality requirements.
+
+#### II. Planning
+
+i.  **Create Project Plan:** Develop a detailed project plan [Ref 1]. This includes defining the activities, tasks, and dependencies.
+ii.  **Estimate Effort and Resources:** Accurately estimate the effort required for each task [Ref 1], and identify the necessary resources.
+iii. **Develop Schedule:** Create a realistic schedule, incorporating task dependencies and resource availability [Ref 1].
+iv.  **Define Communication Plan:**  Develop a communication plan outlining how project information will be shared among stakeholders [Ref 1].
+v.  **Risk Management Plan:** Identify and assess potential project risks (threats and opportunities) [Ref 12] and develop mitigation strategies [Ref 12].
+vi.  **Define Configuration Management:**  Establish the configuration management processes to track and control project artifacts, including manual configuration documentation and deployed components.
+
+#### III. Execution and Monitoring
+
+i.  **Configure Infrastructure:** Perform manual configuration in accordance with the project plan, adhering to established standards and best practices.
+ii.  **Monitor Progress:** Track project progress against the plan using appropriate metrics and performance indicators [Ref 1].
+iii. **Manage Issues and Risks:** Address any issues or risks [Ref 7] as they arise.
+iv.  **Change Management:**  Implement a change management process to control and approve changes to the project scope, schedule, or budget [Ref 1].
+v.  **Quality Assurance:** Conduct regular quality checks to ensure the quality of the work and deliverables.
+vi. **Stakeholder Communication:** Maintain regular communication with stakeholders, reporting progress, issues, and risks [Ref 1].
+
+#### IV. Delivery and Acceptance
+
+i.  **Testing and Validation:** Conduct thorough testing to validate the configuration and ensure the infrastructure meets requirements.
+ii.  **User Acceptance Testing (UAT):** Involve end-users in acceptance testing to validate that the delivered infrastructure meets their requirements.
+iii. **Obtain Project Deliverable Sign-Off:** Obtain formal acceptance of the project deliverables from the appropriate stakeholders.
+iv. **Delivery**: Deliver the final configured infrastructure.
+
+#### V. Project Closure
+
+i.  **Project Review:** Conduct a project review to assess the project's performance, lessons learned, and identify areas for improvement.
+ii.  **Final Documentation:**  Compile all project documentation, including configuration manuals, test results, and final reports.
+iii.  **Project Sign-Off:** Obtain final project sign-off from all stakeholders.
+iv.  **Project Closeout:**  Close out all contracts and formally release the project team.
+-----
+
+### Roles
+
+*   **Project Manager:** Responsible for planning, executing, and closing the project [Ref 13].
+*   **Senior User:** Represents the business interests and ensures that the project delivers the expected benefits.
+*   **Senior Supplier:** Represents the technical expertise and ensures the project delivers the required infrastructure.
+*   **Project Assurance:** Responsible for assessing and assuring that the project is being managed appropriately.
+*   **Team Members:** Responsible for performing the tasks as per project requirements.
+*   **Project Board**: Provides overall project direction, approves significant plans and changes.
+
+-----
+
+### RACI Matrix
+
+| Phase                    | Project Manager | Senior User | Senior Supplier | Project Assurance | Team Members |
+| :----------------------- | :-------------: | :----------: | :-------------: | :---------------: | :----------: |
+| **I. Project Initiation** |        R        |      A       |        C        |         C         |      I       |
+| **II. Planning**        |        R        |      A       |        C        |         C         |      I       |
+| **III. Execution & Monitoring** |        R        |      C       |        A        |         C         |      R,A      |
+| **IV. Delivery and Acceptance**        |        R        |      A       |        C        |         I         |      A,I       |
+| **V. Project Closure**       |        R        |      A       |        C        |         C         |      I       |
+
+**R** = Responsible; **A** = Accountable; **C** = Consulted; **I** = Informed
+
+-----
+
+### Decision Gates
+
+*   **Project Initiation Approval:** Before the project moves from the initiation stage to the planning stage. Requires approval of the PID.
+*   **Project Plan Approval:** Before the project moves from the planning stage to the execution phase. The Project Board must approve the Project Plan.
+*   **Delivery and Acceptance:**  Based on successful testing and UAT. Sign-off by the Senior User.
+*   **Project Closure Approval:**  Final acceptance and sign-off by the Project Board and key stakeholders, following the project review.
+
+-----
+
+### Note: Embeddings & Citations Section
+
+*   Ref 1: PMBOK, Page 30 (Similarity: 0.598)
+*   Ref 2: PMBOK, Page 24 (Similarity: 0.585)
+*   Ref 3: ISO21502, Page 9 (Similarity: 0.567)
+*   Ref 4: PRINCE2, Page 4 (Similarity: 0.564)
+*   Ref 5: ISO21502, Page 12 (Similarity: 0.562)
+*   Ref 6: ISO21500, Page 9 (Similarity: 0.516)
+*   Ref 7: ISO21502, Page 10 (Similarity: 0.515)
+*   Ref 8: PRINCE2, Page 6 (Similarity: 0.514)
+*   Ref 9: ISO21500, Page 9 (Similarity: 0.512)
+*   Ref 10: PMBOK, Page 10 (Similarity: 0.503)
+*   Ref 11: PMBOK, Page 9 (Similarity: 0.500)
+*   Ref 12: PMBOK, Page 20 (Similarity: 0.497)
+*   Ref 13: ISO21502, Page 14 (Similarity: 0.495)
+*   Ref 14: ISO21502, Page 7 (Similarity: 0.495)
+*   Ref 15: ISO21502, Page 11 (Similarity: 0.494)
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 15112_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 30 (Similarity: 0.598) → /pdf/PMBOK#page=30
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.585) → /pdf/PMBOK#page=24
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.567) → /pdf/ISO21502#page=9
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.564) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.562) → /pdf/ISO21502#page=12
+• [Ref 6] ISO21500 - Page 9 (Similarity: 0.516) → /pdf/ISO21500#page=9
+• [Ref 7] ISO21502 - Page 10 (Similarity: 0.515) → /pdf/ISO21502#page=10
+• [Ref 8] PRINCE2 - Page 6 (Similarity: 0.514) → /pdf/PRINCE2#page=6
+• [Ref 9] ISO21500 - Page 9 (Similarity: 0.512) → /pdf/ISO21500#page=9
+• [Ref 10] PMBOK - Page 10 (Similarity: 0.503) → /pdf/PMBOK#page=10
+• [Ref 11] PMBOK - Page 9 (Similarity: 0.500) → /pdf/PMBOK#page=9
+• [Ref 12] PMBOK - Page 20 (Similarity: 0.497) → /pdf/PMBOK#page=20
+• [Ref 13] ISO21502 - Page 14 (Similarity: 0.495) → /pdf/ISO21502#page=14
+• [Ref 14] ISO21502 - Page 7 (Similarity: 0.495) → /pdf/ISO21502#page=7
+• [Ref 15] ISO21502 - Page 11 (Similarity: 0.494) → /pdf/ISO21502#page=11

@@ -1,0 +1,177 @@
+Scenario: [14332] Custom Project (Manual Configuration) | Marketing | Large (> 18 months) | Healthcare | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Large-Scale Healthcare Marketing Project (PRINCE2)
+
+#### 1. Process Summary
+
+This process recommendation outlines a structured approach for managing a large-scale healthcare marketing project, conforming to PRINCE2 methodology, and leveraging best practices from PMBOK and ISO standards. The project’s size (over 18 months) and the healthcare industry context require a phased approach with rigorous control, communication, and risk management. This process emphasizes stakeholder engagement [Ref 3, 6, 9], a focus on value delivery [Ref 6], and adaptability to changes inherent in such long-term projects. It covers the entire project lifecycle, from initiation through closure, providing a framework for clear responsibilities and decision-making [Ref 10]. The manual configuration aspect necessitates careful planning, change management, and configuration control. This methodology ensures the project meets its objectives, considering potential challenges [Ref 5].
+
+-----
+
+#### 2. Phases and Activities
+
+The project will be managed in distinct phases aligned with PRINCE2 principles:
+
+**I. Project Initiation:**
+
+i.   **Project Mandate Review:** Review the project mandate and business case. Ensure alignment with organizational goals.
+ii.  **Project Definition:** Define the project scope, objectives, and deliverables. This aligns with project scope definition [Ref 1]. Create a Work Breakdown Structure (WBS) to decompose the scope into manageable work packages [Ref 4].
+iii. **Stakeholder Identification and Analysis:** Identify and analyze all stakeholders, their interests, and influence. Proper stakeholder engagement is crucial in this phase [Ref 3, 6, 9].
+iv.  **Risk Assessment and Planning:** Conduct an initial risk assessment and develop a risk management plan. Consider potential threats and opportunities [Ref 8, 7].
+v.   **Project Team Formation:** Assemble the project team, defining roles and responsibilities.
+vi.  **Project Plan Development:** Create a detailed project plan, including the project schedule, budget, communication plan, and quality management plan [Ref 1]. Tailor the plan based on the project context [Ref 6, 10].
+
+**II. Project Planning:**
+
+i.   **Scope Refinement:** Further refine the project scope, ensuring it aligns with the business case and stakeholder expectations.
+ii.  **Detailed Planning:** Develop detailed plans for each work package.
+iii. **Resource Allocation:** Allocate resources, including personnel, budget, and other necessary assets.
+iv.  **Configuration Management:** Establish a configuration management system to track and control all project deliverables, especially considering the manual configuration aspect.
+v.   **Communication Plan Finalization:** Finalize the communication plan, outlining communication frequency, methods, and stakeholders.
+vi.  **Quality Planning:** Define quality standards and processes. This aligns with building quality into processes [Ref 6].
+
+**III. Project Execution:**
+
+i.   **Work Package Execution:** Execute work packages according to the project plan, adhering to defined quality standards.
+ii.  **Configuration Implementation:** Implement and configure the marketing elements as specified in the project plan.
+iii. **Progress Monitoring:** Continuously monitor project progress against the plan (schedule, budget, scope). Use measurement to track performance [Ref 1].
+iv.  **Issue and Risk Management:** Proactively manage issues and risks as they arise, implementing mitigation strategies.
+v.   **Change Management:** Implement change control processes to manage changes to the project scope, schedule, or budget [Ref 1].
+vi.  **Communication and Reporting:** Regularly communicate project progress to stakeholders according to the communication plan.
+
+**IV. Project Control and Monitoring:**
+
+i.   **Progress Review:** Regularly review project progress against the plan, including scope, schedule, budget, and quality.
+ii.  **Performance Measurement:** Measure project performance against key performance indicators (KPIs).
+iii. **Change Request Management:** Manage and assess change requests, obtaining approvals as needed.
+iv.  **Risk Monitoring:** Continuously monitor and manage identified risks and proactively assess new risks that arise.
+v.   **Issue Resolution:** Ensure timely resolution of issues.
+vi.  **Stakeholder Communication:** Maintain consistent communication with all stakeholders, as established in the communication plan [Ref 1].
+
+**V. Project Closure:**
+
+i.   **Project Acceptance:** Obtain formal acceptance of the project deliverables from the relevant stakeholders.
+ii.  **Final Report:** Prepare a final project report summarizing the project's performance.
+iii. **Lessons Learned:** Conduct a lessons-learned workshop to identify what went well, what could be improved, and capture best practices for future projects.
+iv.  **Documentation Archiving:** Archive all project documentation.
+v.   **Project Sign-off:** Obtain formal project sign-off from the project sponsor.
+
+-----
+
+#### 3. Roles
+
+*   **Project Sponsor:** Responsible for securing resources and providing overall project direction. Acts as the executive decision-maker and is responsible for obtaining the resources [Ref 9].
+*   **Project Manager:** Responsible for the day-to-day management of the project, including planning, execution, monitoring, and control. This includes planning, project work, and delivery [Ref 3].
+*   **Project Team:** Responsible for executing the project tasks and delivering the project deliverables.
+*   **Senior User(s):** Responsible for the specification of the user requirements.
+*   **Senior Supplier(s):** Responsible for the supply of the services, resources or equipment.
+*   **Project Assurance:** Provides independent oversight to ensure the project is adhering to PRINCE2 principles.
+
+-----
+
+#### 4. RACI Matrix
+
+| **Phase**              | Project Sponsor | Project Manager | Project Team | Project Assurance | Senior User | Senior Supplier |
+| :---------------------- | :-------------: | :-------------: | :----------: | :---------------: | :---------: | :--------------: |
+| **I. Project Initiation**   |        A        |        R        |       I       |         C         |      C      |       I         |
+| **II. Project Planning**    |        A        |        R        |       R       |         C         |      C      |       I         |
+| **III. Project Execution**  |        C        |        R        |       A       |         I         |      I      |       I         |
+| **IV. Project Control and Monitoring** |        A        |        R        |       I       |         C         |      C      |       I         |
+| **V. Project Closure**      |        A        |        R        |       I       |         C         |      C      |       I         |
+
+*   **R** - Responsible: The person or role that does the work.
+*   **A** - Accountable: The person or role that is ultimately accountable for the correct and thorough completion of the deliverable or task [Ref 5].
+*   **C** - Consulted: The person or role that is consulted before a decision or action is taken.
+*   **I** - Informed: The person or role that is kept informed of progress and outcomes.
+
+-----
+
+#### 5. Decision Gates
+
+Decision gates are critical points in the project where decisions are made to proceed or not, based on project performance and alignment with business objectives. Key decision gates include:
+
+i.   **Project Initiation Sign-off:** At the end of the Project Initiation phase, the project is reviewed and approved (or rejected) by the Project Sponsor.
+ii.  **Project Plan Approval:** Following the Project Planning phase, the Project Plan needs approval to proceed.
+iii. **Stage Gate Reviews:** Reviews will occur at the end of each stage. Progress is measured and the plan for the next stage is approved.
+iv.  **Change Request Approvals:** Significant changes to scope, schedule, or budget require formal approval through the Change Control process.
+v.   **Project Closure Acceptance:** At project closure, the Project Sponsor formally accepts the completed project deliverables.
+
+-----
+
+#### 6. Embeddings & Citations Section
+
+*   Ref 1: PMBOK, Page 30 (Similarity: 0.587)
+*   Ref 2: ISO21502, Page 9 (Similarity: 0.576)
+*   Ref 3: PMBOK, Page 24 (Similarity: 0.559)
+*   Ref 4: ISO21502, Page 12 (Similarity: 0.533)
+*   Ref 5: PRINCE2, Page 4 (Similarity: 0.522)
+*   Ref 6: PMBOK, Page 10 (Similarity: 0.513)
+*   Ref 7: ISO21500, Page 9 (Similarity: 0.480)
+*   Ref 8: PMBOK, Page 20 (Similarity: 0.478)
+*   Ref 9: ISO21500, Page 9 (Similarity: 0.477)
+*   Ref 10: PRINCE2, Page 6 (Similarity: 0.475)
+*   Ref 11: ISO21502, Page 1 (Similarity: 0.451)
+*   Ref 12: PMBOK, Page 9 (Similarity: 0.447)
+*   Ref 13: ISO21502, Page 10 (Similarity: 0.447)
+*   Ref 14: ISO21502, Page 11 (Similarity: 0.446)
+*   Ref 15: ISO21502, Page 15 (Similarity: 0.440)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 7: Page 9, Similarity: 0.480 (/pdf/ISO21500#page=9)
+- Ref 9: Page 9, Similarity: 0.477 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 11: Page 1, Similarity: 0.451 (/pdf/ISO21502#page=1)
+- Ref 2: Page 9, Similarity: 0.576 (/pdf/ISO21502#page=9)
+- Ref 13: Page 10, Similarity: 0.447 (/pdf/ISO21502#page=10)
+- Ref 14: Page 11, Similarity: 0.446 (/pdf/ISO21502#page=11)
+- Ref 4: Page 12, Similarity: 0.533 (/pdf/ISO21502#page=12)
+- Ref 15: Page 15, Similarity: 0.440 (/pdf/ISO21502#page=15)
+
+**PMBOK:**
+- Ref 12: Page 9, Similarity: 0.447 (/pdf/PMBOK#page=9)
+- Ref 6: Page 10, Similarity: 0.513 (/pdf/PMBOK#page=10)
+- Ref 8: Page 20, Similarity: 0.478 (/pdf/PMBOK#page=20)
+- Ref 3: Page 24, Similarity: 0.559 (/pdf/PMBOK#page=24)
+- Ref 1: Page 30, Similarity: 0.587 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 5: Page 4, Similarity: 0.522 (/pdf/PRINCE2#page=4)
+- Ref 10: Page 6, Similarity: 0.475 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 14332_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 30 (Similarity: 0.587) → /pdf/PMBOK#page=30
+• [Ref 2] ISO21502 - Page 9 (Similarity: 0.576) → /pdf/ISO21502#page=9
+• [Ref 3] PMBOK - Page 24 (Similarity: 0.559) → /pdf/PMBOK#page=24
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.533) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.522) → /pdf/PRINCE2#page=4
+• [Ref 6] PMBOK - Page 10 (Similarity: 0.513) → /pdf/PMBOK#page=10
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.480) → /pdf/ISO21500#page=9
+• [Ref 8] PMBOK - Page 20 (Similarity: 0.478) → /pdf/PMBOK#page=20
+• [Ref 9] ISO21500 - Page 9 (Similarity: 0.477) → /pdf/ISO21500#page=9
+• [Ref 10] PRINCE2 - Page 6 (Similarity: 0.475) → /pdf/PRINCE2#page=6
+• [Ref 11] ISO21502 - Page 1 (Similarity: 0.451) → /pdf/ISO21502#page=1
+• [Ref 12] PMBOK - Page 9 (Similarity: 0.447) → /pdf/PMBOK#page=9
+• [Ref 13] ISO21502 - Page 10 (Similarity: 0.447) → /pdf/ISO21502#page=10
+• [Ref 14] ISO21502 - Page 11 (Similarity: 0.446) → /pdf/ISO21502#page=11
+• [Ref 15] ISO21502 - Page 15 (Similarity: 0.440) → /pdf/ISO21502#page=15

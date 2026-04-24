@@ -1,0 +1,130 @@
+Scenario: [14121] Custom Project (Manual Configuration) | Marketing | Small (< 6 months) | Construction | PMBOK
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Construction Marketing Project (Small Scale)
+
+#### Process Summary
+
+This project recommendation outlines a streamlined marketing project process for a small-scale construction project, designed to be completed within six months, using a PMBOK-aligned approach. The core of this project will focus on manual configuration, requiring careful planning, execution, and monitoring. This process emphasizes stakeholder engagement [Ref 1], clear communication [Ref 2], and adapting to project context [Ref 7, 14]. We will use a predictive approach suitable for the project's purpose [Ref 3]. This framework focuses on value delivery, quality and collaboration to ensure success [Ref 7, 15]. The project will encompass key aspects of planning (scope, schedule, budget, team composition, and communication), executing the work, and monitoring and controlling the project to ensure successful delivery.
+
+-----
+
+#### Phases and Activities
+
+I. **Initiation**
+
+   i.  Define Project Scope: Clearly articulate the marketing project's objectives, deliverables, and success criteria. Identify the target audience and the desired outcomes, such as brand awareness or lead generation. [Ref 2]
+   ii. Stakeholder Identification and Analysis: Identify all stakeholders (internal and external) and their expectations. Understand their influence and interests in the project [Ref 1, 8].
+   iii. Develop Project Charter: Formalize the project's authorization, outlining the project's purpose, objectives, high-level requirements, and assigned project manager [Ref 4].
+   iv. Risk Identification (Initial): Identify potential risks and opportunities related to the marketing project. This includes market conditions, resource availability, and the competitive landscape. [Ref 13]
+   v.  Team Assembly: Define the project team roles and responsibilities.
+
+II. **Planning**
+
+   i. Develop Scope Management Plan: Define how the project scope will be defined, validated, and controlled.
+   ii. Create the Work Breakdown Structure (WBS): Decompose the project scope into manageable work packages [Ref 5].
+   iii. Develop Schedule: Create a realistic project schedule, including task dependencies, estimated durations, and resource allocation.
+   iv.  Budget Development: Estimate the costs associated with the project, including marketing materials, advertising expenses, and personnel costs.  [Ref 2]
+   v. Communication Plan: Define how project information will be collected, distributed, stored, retrieved, and ultimately disposed of [Ref 2].
+   vi. Risk Management Plan (Detailed): Evaluate the identified risks, develop risk responses, and define triggers. [Ref 13]
+
+III. **Execution**
+
+   i.  Execute Marketing Activities: Implement the activities defined in the marketing plan. Examples include content creation, social media campaigns, and advertising placements.
+   ii.  Manage Project Team: Lead and manage the project team, ensuring they have the resources and support needed to complete their tasks.
+   iii.  Procurement (If Applicable): Procure any required goods or services, such as graphic design, printing, or advertising space. [Ref 2]
+   iv.  Issue Management: Address and resolve any issues that arise during project execution [Ref 12].
+   v.  Change Management: Manage changes to the project scope, schedule, or budget through the established change control process [Ref 2].
+
+IV. **Monitoring and Controlling**
+
+   i.  Track Progress: Monitor the project's progress against the planned schedule and budget.
+   ii.  Performance Reporting: Regularly report on the project's status, including progress, risks, issues, and budget performance.
+   iii.  Risk Monitoring: Monitor identified risks and implement risk response plans when needed [Ref 13].
+   iv.  Quality Control: Ensure the quality of project deliverables and processes [Ref 7].
+   v.  Change Control: Process and approve or reject change requests.
+   vi.  Stakeholder Communication: Maintain open communication with stakeholders and keep them informed of project progress and any issues. [Ref 1, 8]
+
+V. **Closure**
+
+   i.  Final Deliverable Acceptance: Obtain formal acceptance of the marketing deliverables from stakeholders.
+   ii.  Conduct Project Review: Review the project's performance, identify lessons learned, and document best practices.
+   iii.  Close Out Procurement: Finalize any outstanding procurement activities.
+   iv.  Archive Project Documentation: Archive all project documentation for future reference.
+
+-----
+
+#### Roles
+
+*   **Project Manager:** Responsible for overall project management, planning, execution, monitoring, and closing.
+*   **Marketing Team:** Executes marketing activities, creates content, and manages campaigns.
+*   **Stakeholders:** Provide input and feedback on project deliverables and project progress. [Ref 1, 8]
+*   **Sponsor:** Provides resources and executive decisions to enable success [Ref 8].
+
+-----
+
+#### RACI Matrix
+
+| Phase                     | Project Manager | Marketing Team | Stakeholders | Sponsor |
+| ------------------------- | :-------------: | :------------: | :----------: | :-----: |
+| **I. Initiation**         |        R        |       C        |      A       |    A    |
+| **II. Planning**          |        R        |        R       |      C       |    I    |
+| **III. Execution**        |        A        |        R       |      C       |    I    |
+| **IV. Monitoring/Controlling** |        R        |        I       |      C       |    I    |
+| **V. Closure**            |        R        |        C       |      A       |    I    |
+
+**R** = Responsible, **A** = Accountable, **C** = Consulted, **I** = Informed
+
+-----
+
+#### Decision Gates
+
+*   **Project Charter Approval:** At the end of the initiation phase, the Project Charter is approved by the sponsor [Ref 4].
+*   **Marketing Plan Approval:** Upon completion of the planning phase, the detailed marketing plan and associated documents (schedule, budget, communication plan, risk management plan) are approved by the relevant stakeholders [Ref 2].
+*   **Deliverable Acceptance:** Upon completion of a work package or the project as a whole, deliverables are accepted by the relevant stakeholders [Ref 12].
+*   **Project Closure Approval:** At the end of the closure phase, project closure is approved by the sponsor.
+
+-----
+
+#### Note: Embeddings & Citations Section
+
+*   Ref 1: PMBOK, Page 24
+*   Ref 2: PMBOK, Page 30
+*   Ref 3: ISO21502, Page 9
+*   Ref 4: PRINCE2, Page 4
+*   Ref 5: ISO21502, Page 12
+*   Ref 6: PRINCE2, Page 6
+*   Ref 7: PMBOK, Page 10
+*   Ref 8: ISO21500, Page 9
+*   Ref 9: ISO21500, Page 9
+*   Ref 10: ISO21502, Page 7
+*   Ref 11: ISO21502, Page 1
+*   Ref 12: ISO21502, Page 10
+*   Ref 13: PMBOK, Page 20
+*   Ref 14: ISO21502, Page 14
+*   Ref 15: PMBOK, Page 9
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 14121_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 24 (Similarity: 0.631) → /pdf/PMBOK#page=24
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.625) → /pdf/PMBOK#page=30
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.586) → /pdf/ISO21502#page=9
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.575) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.572) → /pdf/ISO21502#page=12
+• [Ref 6] PRINCE2 - Page 6 (Similarity: 0.541) → /pdf/PRINCE2#page=6
+• [Ref 7] PMBOK - Page 10 (Similarity: 0.527) → /pdf/PMBOK#page=10
+• [Ref 8] ISO21500 - Page 9 (Similarity: 0.527) → /pdf/ISO21500#page=9
+• [Ref 9] ISO21500 - Page 9 (Similarity: 0.503) → /pdf/ISO21500#page=9
+• [Ref 10] ISO21502 - Page 7 (Similarity: 0.501) → /pdf/ISO21502#page=7
+• [Ref 11] ISO21502 - Page 1 (Similarity: 0.499) → /pdf/ISO21502#page=1
+• [Ref 12] ISO21502 - Page 10 (Similarity: 0.499) → /pdf/ISO21502#page=10
+• [Ref 13] PMBOK - Page 20 (Similarity: 0.494) → /pdf/PMBOK#page=20
+• [Ref 14] ISO21502 - Page 14 (Similarity: 0.493) → /pdf/ISO21502#page=14
+• [Ref 15] PMBOK - Page 9 (Similarity: 0.489) → /pdf/PMBOK#page=9

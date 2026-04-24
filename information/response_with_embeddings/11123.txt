@@ -1,0 +1,187 @@
+Scenario: [11123] Custom Project (Manual Configuration) | Software Development | Small (< 6 months) | Construction | ISO Standards
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Project Management Process Recommendation: Construction Software Development
+
+This recommendation outlines a project management process tailored for a small-scale construction software development project, aligning with ISO standards, and the expected timeframe of under six months. This approach leverages key project management principles to ensure successful project delivery. The process is flexible and adaptable, ensuring focus on people, stakeholders and collaboration, not just tasks [Ref 12].
+
+-----
+
+#### Process Summary
+
+This project will follow a structured approach based on the ISO 21502 standard, incorporating relevant elements from the PMBOK Guide and PRINCE2 for effective project management. The project will be broken down into phases, with clear activities, roles, and responsibilities defined. The focus will be on delivering a functional software solution for construction purposes within the specified timeframe and budget. This will incorporate a focus on stakeholder engagement [Ref 7] and change management [Ref 2]. Key aspects of project management include scope definition, planning, execution, monitoring and controlling, and project closure. A Work Breakdown Structure (WBS) will be used to decompose the scope into manageable work packages [Ref 4]. This process is suitable for any type of project, regardless of complexity [Ref 3].
+
+-----
+
+#### Phases and Activities
+
+This project will follow the following phases and associated activities.
+
+I. **Initiation**
+
+i. Project Definition: Define the project's objectives, scope, and deliverables. This aligns with the understanding of what the project will deliver, costs and when [Ref 5].
+ii. Stakeholder Identification and Analysis: Identify all stakeholders and document their needs and expectations [Ref 8]. This will focus on effective engagement with stakeholders [Ref 7].
+iii. Project Charter Development: Develop a project charter outlining the project's purpose, objectives, scope, and high-level requirements.
+iv. High-Level Risk Assessment: Conduct a preliminary risk assessment to identify potential risks and threats [Ref 14].
+v. Approval of the Project Charter: Obtain formal approval to proceed with the project [Ref 13].
+
+II. **Planning**
+
+i. Scope Definition: Develop a detailed project scope statement, including the required software features and functionalities [Ref 2].
+ii. Work Breakdown Structure (WBS) Creation: Break down the project scope into manageable work packages [Ref 4].
+iii. Schedule Development: Create a detailed project schedule, including task dependencies, durations, and milestones [Ref 2].
+iv. Budget Development: Develop a project budget, including resource costs, software development costs, and contingency funds [Ref 2].
+v. Resource Planning: Identify and allocate resources (personnel, software, hardware) required for the project.
+vi. Communication Plan Development: Develop a communication plan outlining how project information will be shared with stakeholders [Ref 2].
+vii. Risk Management Planning: Develop a risk management plan to identify, assess, and mitigate potential risks [Ref 10].
+viii. Procurement Planning: If applicable, develop a procurement plan for any necessary software or services [Ref 2].
+ix. Quality Management Planning: Plan how quality will be built into processes and deliverables [Ref 7].
+x. Obtain approval of the project plan.
+
+III. **Execution**
+
+i. Software Development: Perform software development activities in accordance with the project plan.
+ii. Configuration: Manually configure software.
+iii. Testing and Quality Assurance: Conduct testing and quality assurance activities to ensure the software meets the defined requirements [Ref 8].
+iv. Stakeholder Communication: Communicate project progress to stakeholders as defined in the communication plan.
+v. Risk Management: Monitor and manage identified risks, implementing mitigation strategies as necessary.
+vi. Issue Management: Address and resolve project issues as they arise [Ref 9].
+vii. Change Management: Manage changes to the project scope, schedule, or budget [Ref 2].
+
+IV. **Monitoring and Controlling**
+
+i. Progress Monitoring: Track project progress against the project plan, monitoring key performance indicators (KPIs).
+ii. Schedule Control: Manage and control the project schedule, making adjustments as needed.
+iii. Cost Control: Manage and control project costs, ensuring the project remains within budget.
+iv. Quality Control: Monitor and control the quality of project deliverables.
+v. Risk Monitoring and Control: Monitor and control project risks, implementing mitigation strategies as needed.
+vi. Issue Management: Address and resolve project issues as they arise [Ref 9].
+vii. Change Management: Manage changes to the project scope, schedule, or budget [Ref 2].
+
+V. **Closure**
+
+i. Project Deliverable Acceptance: Obtain formal acceptance of the project deliverables from the client.
+ii. Project Closure Activities: Perform project closure activities, such as document archiving, lessons learned analysis, and team disbandment.
+iii. Final Project Report: Prepare a final project report summarizing the project's outcomes, lessons learned, and recommendations.
+iv. Contract Closure: Close out any outstanding contracts with vendors or suppliers.
+
+-----
+
+#### Roles
+
+| Role                     | Responsibilities                                                                                                 |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------|
+| Project Manager          | Overall responsibility for project success, planning, execution, monitoring, and closure.                       |
+| Sponsor                  | Provides resources and executive decisions to enable success [Ref 8].                                                |
+| Software Developers      | Develop and configure the software in accordance with the project requirements.                                 |
+| Tester/QA Specialist     | Conduct testing and quality assurance activities.                                                              |
+| Stakeholders             | Provide requirements, review deliverables, and approve project outputs.                                          |
+| Construction Subject Matter Expert (SME)| Provides Construction domain knowledge.                                                                  |
+| Project Team | Support the project manager and contribute to project deliverables.      |
+
+-----
+
+#### RACI Matrix
+
+| Phase                    | Project Manager | Sponsor | Software Developers | Tester/QA Specialist | Stakeholders | Construction SME |
+|--------------------------|-----------------|---------|----------------------|-----------------------|---------------|-----------------------|
+| Initiation               | R               | A       | I                    | I                     | C             | I                     |
+| Planning                 | R               | A       | C                    | I                     | C             | I                     |
+| Execution                | A               | C       | R                    | R                     | C             | I                     |
+| Monitoring & Controlling | R               | C       | C                    | R                     | C             | I                     |
+| Closure                  | R               | A       | I                    | C                     | A             | I                     |
+
+*   **R** = Responsible: The person who does the work.
+*   **A** = Accountable: The person who is ultimately answerable for the correct and thorough completion of the deliverable or task. [Ref 5]
+*   **C** = Consulted: The person who is consulted before a decision or action is taken.
+*   **I** = Informed: The person who is kept informed of progress.
+
+-----
+
+#### Decision Gates
+
+Decision gates are critical points in the project where decisions are made to proceed to the next phase.
+
+i.  **Project Charter Approval:** (Initiation phase) - The sponsor must approve the project charter before project planning can begin.
+ii.  **Project Plan Approval:** (Planning phase) - Approval of the complete project plan, including scope, schedule, budget, and risk management plans, is required before execution.
+iii.  **Deliverable Acceptance:** (Closure phase) - Formal acceptance of the completed software solution by the stakeholders, signifying successful project completion [Ref 10].
+iv.  **Change Requests:** (Throughout the project) - Each change request should be assessed, approved, and integrated with corresponding impacts of schedule and budget.
+
+-----
+
+#### Embeddings & Citations Section
+
+*   Ref 1: PMBOK, Page 24 (Similarity: 0.614)
+*   Ref 2: PMBOK, Page 30 (Similarity: 0.613)
+*   Ref 3: ISO21502, Page 9 (Similarity: 0.605)
+*   Ref 4: ISO21502, Page 12 (Similarity: 0.589)
+*   Ref 5: PRINCE2, Page 4 (Similarity: 0.578)
+*   Ref 6: PRINCE2, Page 6 (Similarity: 0.546)
+*   Ref 7: PMBOK, Page 10 (Similarity: 0.525)
+*   Ref 8: ISO21500, Page 9 (Similarity: 0.521)
+*   Ref 9: ISO21502, Page 10 (Similarity: 0.516)
+*   Ref 10: ISO21502, Page 7 (Similarity: 0.514)
+*   Ref 11: ISO21502, Page 1 (Similarity: 0.507)
+*   Ref 12: PMBOK, Page 9 (Similarity: 0.499)
+*   Ref 13: ISO21502, Page 11 (Similarity: 0.498)
+*   Ref 14: ISO21500, Page 9 (Similarity: 0.494)
+*   Ref 15: ISO21502, Page 14 (Similarity: 0.493)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 8: Page 9, Similarity: 0.521 (/pdf/ISO21500#page=9)
+- Ref 14: Page 9, Similarity: 0.494 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 11: Page 1, Similarity: 0.507 (/pdf/ISO21502#page=1)
+- Ref 10: Page 7, Similarity: 0.514 (/pdf/ISO21502#page=7)
+- Ref 3: Page 9, Similarity: 0.605 (/pdf/ISO21502#page=9)
+- Ref 9: Page 10, Similarity: 0.516 (/pdf/ISO21502#page=10)
+- Ref 13: Page 11, Similarity: 0.498 (/pdf/ISO21502#page=11)
+- Ref 4: Page 12, Similarity: 0.589 (/pdf/ISO21502#page=12)
+- Ref 15: Page 14, Similarity: 0.493 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 12: Page 9, Similarity: 0.499 (/pdf/PMBOK#page=9)
+- Ref 7: Page 10, Similarity: 0.525 (/pdf/PMBOK#page=10)
+- Ref 1: Page 24, Similarity: 0.614 (/pdf/PMBOK#page=24)
+- Ref 2: Page 30, Similarity: 0.613 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 5: Page 4, Similarity: 0.578 (/pdf/PRINCE2#page=4)
+- Ref 6: Page 6, Similarity: 0.546 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 11123_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 24 (Similarity: 0.614) → /pdf/PMBOK#page=24
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.613) → /pdf/PMBOK#page=30
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.605) → /pdf/ISO21502#page=9
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.589) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.578) → /pdf/PRINCE2#page=4
+• [Ref 6] PRINCE2 - Page 6 (Similarity: 0.546) → /pdf/PRINCE2#page=6
+• [Ref 7] PMBOK - Page 10 (Similarity: 0.525) → /pdf/PMBOK#page=10
+• [Ref 8] ISO21500 - Page 9 (Similarity: 0.521) → /pdf/ISO21500#page=9
+• [Ref 9] ISO21502 - Page 10 (Similarity: 0.516) → /pdf/ISO21502#page=10
+• [Ref 10] ISO21502 - Page 7 (Similarity: 0.514) → /pdf/ISO21502#page=7
+• [Ref 11] ISO21502 - Page 1 (Similarity: 0.507) → /pdf/ISO21502#page=1
+• [Ref 12] PMBOK - Page 9 (Similarity: 0.499) → /pdf/PMBOK#page=9
+• [Ref 13] ISO21502 - Page 11 (Similarity: 0.498) → /pdf/ISO21502#page=11
+• [Ref 14] ISO21500 - Page 9 (Similarity: 0.494) → /pdf/ISO21500#page=9
+• [Ref 15] ISO21502 - Page 14 (Similarity: 0.493) → /pdf/ISO21502#page=14

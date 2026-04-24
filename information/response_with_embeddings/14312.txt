@@ -1,0 +1,201 @@
+Scenario: [14312] Custom Project (Manual Configuration) | Marketing | Large (> 18 months) | Information Technology | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Large-Scale IT Marketing Project (PRINCE2)
+
+This recommendation outlines a project management process for a large-scale (over 18 months) information technology marketing project, utilizing the PRINCE2 methodology. Given the project's size, industry, and the requirement for manual configuration, the process emphasizes structured planning, controlled execution, and rigorous monitoring, aligning with best practices described in PMBOK and ISO standards. This project will require significant stakeholder engagement and a robust risk management plan.
+
+-----
+
+#### I. Process Summary
+
+This project will employ a phased approach aligned with PRINCE2 principles [Ref 4]. This approach will encompass thorough planning, execution, monitoring and controlling, and project closure. The project's complexity requires strong emphasis on scope management, schedule management, and cost management. The project team will need to create a project scope, define project tasks, develop project schedules, manage project costs, and formulate a strong communication plan and change management processes [Ref 1]. The project should be structured to deliver value [Ref 12] and requires a focus on stakeholder engagement [Ref 3]. Given the manual configuration aspect, detailed documentation and configuration control will be critical. Throughout the project, adaptability and resilience must be fostered [Ref 12], and risk responses must be appropriate [Ref 14].
+
+-----
+
+#### II. Phases and Activities
+
+This section details the key phases and activities to be undertaken. Each phase is linked to specific PRINCE2 principles and supported by relevant PM standards.
+
+#### Phase 1: Project Initiation & Planning
+
+i. **Project Mandate Review:** Review the project mandate/brief.
+ii. **Project Definition:** Define the project scope, objectives, and deliverables [Ref 5].
+iii. **Stakeholder Identification and Analysis:** Identify and analyze stakeholders [Ref 3, Ref 7].
+iv. **Risk Management Planning:** Develop a risk management plan, considering both positive and negative risks [Ref 14].
+v. **Project Schedule and Budget Development:** Create a detailed project schedule and budget. Consider the duration [Ref 2], resources available, and the need for adaptability [Ref 12].
+vi. **Communication Plan:** Define the communication plan, detailing the frequency and channels for communication [Ref 1].
+vii. **Quality Management Approach:** Determine how to ensure quality standards.
+viii. **Project Initiation Documentation (PID):** Prepare the PID containing a project management approach and project controls (defining responsibilities).
+
+#### Phase 2: Project Execution & Delivery
+
+i. **Team Management:** Assign responsibilities, and manage project team, considering team composition [Ref 1].
+ii. **Manual Configuration and Implementation:** Implement marketing initiatives and configurations, documenting everything in detail.
+iii. **Progress Monitoring:** Track progress against the plan and measure key performance indicators (KPIs) [Ref 1, Ref 3].
+iv. **Issue Management:** Identify and resolve any issues.
+v. **Risk Management:** Manage identified risks and implement mitigation strategies [Ref 14].
+vi. **Change Control:** Manage project changes through a formal change control process [Ref 1].
+
+#### Phase 3: Project Monitoring & Controlling
+
+i. **Performance Monitoring:** Continuously monitor project performance (scope, schedule, cost, quality).
+ii. **Variance Analysis:** Analyze variances (schedule, budget, quality) and take corrective actions as needed.
+iii. **Reporting:** Generate regular progress reports to stakeholders.
+iv. **Issue Resolution:** Actively manage and resolve identified issues, escalate critical problems.
+v. **Change Control:** Evaluate and approve or reject change requests.
+vi. **Configuration Management:** Maintain rigorous configuration management.
+
+#### Phase 4: Project Closure
+
+i. **Project Deliverable Acceptance:** Formally obtain acceptance of project deliverables.
+ii. **Project Performance Review:** Conduct a post-project review to assess lessons learned.
+iii. **Project Documentation:** Archive all project documentation.
+iv. **Final Reporting:** Prepare and distribute a final project report.
+v. **Resource Release:** Release project resources.
+vi. **Project Closure:** Formally close the project.
+
+-----
+
+#### III. Roles
+
+The following key roles are crucial for this project's success. This is a general outline. Individual projects may have specific roles.
+
+i. **Project Sponsor:** Provides the resources and is responsible for making the executive decisions [Ref 7].
+ii. **Project Manager:** Responsible for the day-to-day management of the project, including planning, executing, and controlling activities.
+iii. **Project Team:** Carries out the project's work, including marketing, IT configuration, and others.
+iv. **Senior User(s):** Represents the primary beneficiaries.
+v. **Senior Supplier(s):** Represents the supplier(s) providing the project's products.
+vi. **Project Assurance:** Performs independent checks on the project's progress and ensures compliance with project standards.
+vii. **Change Authority:** Responsible for evaluating and approving/rejecting change requests.
+
+-----
+
+#### IV. RACI Matrix
+
+This RACI matrix shows the responsibilities for each activity across the project phases.
+
+| **Phase/Activity**                     | Project Sponsor | Project Manager | Project Team | Senior User(s) | Senior Supplier(s) | Project Assurance | Change Authority |
+|----------------------------------------|-----------------|-----------------|--------------|-----------------|----------------------|-------------------|------------------|
+| **Phase 1: Project Initiation & Planning** |                 |                 |              |                 |                      |                   |                  |
+| Project Mandate Review                 | A               | R               | I            | C               | I                    | C                 | I                |
+| Project Definition                     | I               | R               | C            | C               | I                    | C                 | I                |
+| Stakeholder Analysis                  | I               | R               | C            | C               | I                    | I                 | I                |
+| Risk Management Planning             | A               | R               | C            | I               | I                    | C                 | I                |
+| Schedule & Budget Development          | I               | R               | C            | I               | I                    | C                 | I                |
+| Communication Plan                    | I               | R               | C            | C               | I                    | C                 | I                |
+| Quality Management Approach            | I               | R               | C            | I               | I                    | C                 | I                |
+| PID Preparation                        | A               | R               | C            | C               | I                    | C                 | I                |
+| **Phase 2: Project Execution & Delivery** |                 |                 |              |                 |                      |                   |                  |
+| Team Management                        | I               | R               | C            | I               | I                    | I                 | I                |
+| Manual Configuration & Implementation   | I               | R               | R            | C               | C                    | I                 | I                |
+| Progress Monitoring                    | I               | R               | C            | C               | I                    | I                 | I                |
+| Issue Management                       | I               | R               | C            | C               | I                    | I                 | I                |
+| Risk Management                        | I               | R               | C            | I               | I                    | I                 | I                |
+| Change Control                         | A               | R               | C            | C               | I                    | I                 | A                |
+| **Phase 3: Project Monitoring & Controlling** |                 |                 |              |                 |                      |                   |                  |
+| Performance Monitoring                 | I               | R               | C            | C               | I                    | I                 | I                |
+| Variance Analysis                      | I               | R               | C            | C               | I                    | I                 | I                |
+| Reporting                              | I               | R               | C            | C               | I                    | I                 | I                |
+| Issue Resolution                       | I               | R               | C            | C               | I                    | I                 | I                |
+| Change Control                         | A               | R               | C            | C               | I                    | I                 | A                |
+| Configuration Management              | I               | R               | R            | I               | I                    | I                 | I                |
+| **Phase 4: Project Closure**           |                 |                 |              |                 |                      |                   |                  |
+| Deliverable Acceptance                 | A               | C               | I            | R               | I                    | I                 | I                |
+| Project Performance Review           | I               | R               | C            | C               | I                    | C                 | I                |
+| Documentation                          | I               | R               | C            | I               | I                    | I                 | I                |
+| Final Reporting                        | A               | R               | C            | C               | I                    | I                 | I                |
+| Resource Release                       | A               | R               | I            | I               | I                    | I                 | I                |
+| Project Closure                        | A               | R               | I            | I               | I                    | I                 | I                |
+
+*   **R** = Responsible, **A** = Accountable, **C** = Consulted, **I** = Informed
+
+-----
+
+#### V. Decision Gates
+
+Decision gates are critical control points within the project [Ref 8]. The following are key decision gates for this project, supported by relevant references:
+
+i.  **Project Initiation Approval:** A decision by the Project Sponsor (A) to officially launch the project, based on the approved PID and project justification.
+ii.  **Stage Boundary Review:** At the end of each stage, a formal review is conducted to assess progress and approve moving on to the next stage. Decision on continuation from Project Board.
+iii.  **Change Requests Approval:** Formal assessment and decision-making on all change requests, managed by the Change Authority [Ref 1].
+iv.  **Project Closure Approval:** The final decision by the Project Sponsor (A) to formally close the project, based on the acceptance of all deliverables.
+
+-----
+
+#### VI. Embeddings & Citations Section
+
+*   Ref 1: PMBOK, Page 30 (Similarity: 0.620)
+*   Ref 2: ISO21502, Page 9 (Similarity: 0.591)
+*   Ref 3: PMBOK, Page 24 (Similarity: 0.585)
+*   Ref 4: PRINCE2, Page 4 (Similarity: 0.585)
+*   Ref 5: ISO21502, Page 12 (Similarity: 0.577)
+*   Ref 6: ISO21500, Page 9 (Similarity: 0.534)
+*   Ref 7: ISO21500, Page 9 (Similarity: 0.533)
+*   Ref 8: PRINCE2, Page 6 (Similarity: 0.528)
+*   Ref 9: ISO21502, Page 1 (Similarity: 0.515)
+*   Ref 10: ISO21502, Page 14 (Similarity: 0.507)
+*   Ref 11: ISO21502, Page 7 (Similarity: 0.505)
+*   Ref 12: PMBOK, Page 10 (Similarity: 0.502)
+*   Ref 13: ISO21502, Page 14 (Similarity: 0.498)
+*   Ref 14: PMBOK, Page 20 (Similarity: 0.495)
+*   Ref 15: ISO21502, Page 9 (Similarity: 0.487)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 6: Page 9, Similarity: 0.534 (/pdf/ISO21500#page=9)
+- Ref 7: Page 9, Similarity: 0.533 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 9: Page 1, Similarity: 0.515 (/pdf/ISO21502#page=1)
+- Ref 11: Page 7, Similarity: 0.505 (/pdf/ISO21502#page=7)
+- Ref 2: Page 9, Similarity: 0.591 (/pdf/ISO21502#page=9)
+- Ref 15: Page 9, Similarity: 0.487 (/pdf/ISO21502#page=9)
+- Ref 5: Page 12, Similarity: 0.577 (/pdf/ISO21502#page=12)
+- Ref 10: Page 14, Similarity: 0.507 (/pdf/ISO21502#page=14)
+- Ref 13: Page 14, Similarity: 0.498 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 12: Page 10, Similarity: 0.502 (/pdf/PMBOK#page=10)
+- Ref 14: Page 20, Similarity: 0.495 (/pdf/PMBOK#page=20)
+- Ref 3: Page 24, Similarity: 0.585 (/pdf/PMBOK#page=24)
+- Ref 1: Page 30, Similarity: 0.620 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 4: Page 4, Similarity: 0.585 (/pdf/PRINCE2#page=4)
+- Ref 8: Page 6, Similarity: 0.528 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 14312_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 30 (Similarity: 0.620) → /pdf/PMBOK#page=30
+• [Ref 2] ISO21502 - Page 9 (Similarity: 0.591) → /pdf/ISO21502#page=9
+• [Ref 3] PMBOK - Page 24 (Similarity: 0.585) → /pdf/PMBOK#page=24
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.585) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.577) → /pdf/ISO21502#page=12
+• [Ref 6] ISO21500 - Page 9 (Similarity: 0.534) → /pdf/ISO21500#page=9
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.533) → /pdf/ISO21500#page=9
+• [Ref 8] PRINCE2 - Page 6 (Similarity: 0.528) → /pdf/PRINCE2#page=6
+• [Ref 9] ISO21502 - Page 1 (Similarity: 0.515) → /pdf/ISO21502#page=1
+• [Ref 10] ISO21502 - Page 14 (Similarity: 0.507) → /pdf/ISO21502#page=14
+• [Ref 11] ISO21502 - Page 7 (Similarity: 0.505) → /pdf/ISO21502#page=7
+• [Ref 12] PMBOK - Page 10 (Similarity: 0.502) → /pdf/PMBOK#page=10
+• [Ref 13] ISO21502 - Page 14 (Similarity: 0.498) → /pdf/ISO21502#page=14
+• [Ref 14] PMBOK - Page 20 (Similarity: 0.495) → /pdf/PMBOK#page=20
+• [Ref 15] ISO21502 - Page 9 (Similarity: 0.487) → /pdf/ISO21502#page=9

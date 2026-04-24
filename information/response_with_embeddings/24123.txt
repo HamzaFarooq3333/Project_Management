@@ -1,0 +1,180 @@
+Scenario: [24123] Custom Software Development | Marketing | Small (< 6 months) | Construction | ISO Standards
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: ISO21500, ISO21502, PRINCE2, PMBOK
+
+================================================================================
+
+### Process Recommendation: Construction Marketing Project (ISO Standards)
+
+**1. Process Summary:**
+
+This process recommendation outlines a structured approach to managing a small-scale construction marketing project, adhering to ISO standards. Given the project size (under 6 months) and the construction industry context, a simplified yet robust process will be implemented. The process aligns with ISO 21502, providing guidelines for project management, irrespective of the project's size, cost, or duration [Ref 3]. Key aspects will include meticulous planning [Ref 2], stakeholder engagement [Ref 1], risk management [Ref 13], and consistent monitoring [Ref 1]. The process will also consider tailoring the approach to the specific organizational context and promoting adaptability [Ref 7].
+
+-----
+
+**2. Phases and Activities:**
+
+I. **Initiation:**
+ i. Project Charter Development: Defining project objectives, scope, and key stakeholders. [Ref 2, Ref 8]
+ ii. Stakeholder Identification: Identifying all individuals or groups affected by the project. [Ref 1, Ref 8]
+ iii. Initial Risk Assessment: Identifying potential threats and opportunities. [Ref 9, Ref 13]
+ iv. Project Team Formation: Assembling the core project team. [Ref 1]
+
+II. **Planning:**
+ i. Scope Definition: Clearly defining the project scope, deliverables, and acceptance criteria. [Ref 2, Ref 5]
+ ii. Work Breakdown Structure (WBS) Development: Decomposing the project scope into manageable work packages. [Ref 5]
+ iii. Schedule Development: Creating a realistic project schedule with milestones and dependencies. [Ref 2]
+ iv. Budget Development: Estimating project costs and allocating resources. [Ref 2]
+ v. Communication Plan Development: Establishing communication protocols and frequency. [Ref 2]
+ vi. Risk Management Planning: Developing a plan to identify, assess, and respond to project risks. [Ref 13]
+
+III. **Execution:**
+ i. Marketing Material Creation: Designing and developing marketing materials (e.g., brochures, website content, social media posts).
+ ii. Campaign Implementation: Executing the marketing campaign across chosen channels.
+ iii. Content Distribution: Ensuring marketing materials are distributed effectively.
+ iv. Stakeholder Communication: Keeping stakeholders informed of project progress. [Ref 1]
+
+IV. **Monitoring and Controlling:**
+ i. Progress Tracking: Monitoring project progress against the schedule and budget. [Ref 1]
+ ii. Performance Measurement: Measuring the effectiveness of marketing efforts. [Ref 1]
+ iii. Issue Management: Identifying and resolving project issues. [Ref 12]
+ iv. Risk Monitoring: Continuously monitoring identified risks and implementing mitigation plans. [Ref 13]
+ v. Change Management: Managing changes to the project scope, schedule, or budget. [Ref 2]
+
+V. **Closure:**
+ i. Deliverable Acceptance: Obtaining formal acceptance of project deliverables.
+ ii. Project Documentation: Archiving all project documentation.
+ iii. Stakeholder Communication: Informing stakeholders of project closure.
+ iv. Lessons Learned: Documenting lessons learned for future projects.
+ v. Final Project Report: Preparing a final report summarizing project outcomes.
+
+-----
+
+**3. Roles:**
+
+*   **Project Sponsor:** Provides overall direction and resources. [Ref 8]
+*   **Project Manager:** Responsible for planning, executing, and controlling the project.
+*   **Marketing Specialist:** Develops and implements the marketing strategy and materials.
+*   **Stakeholders:** Individuals or groups with an interest in the project's outcome. [Ref 8]
+
+-----
+
+**4. RACI Matrix:**
+
+| Task/Phase                      | Project Sponsor | Project Manager | Marketing Specialist | Stakeholders | PM Standard Evidence |
+| :----------------------------- | :-------------: | :-------------: | :------------------: | :----------: | :--------------------: |
+| **I. Initiation**             |                 |                 |                      |              |                        |
+| i. Project Charter Development |       A         |        R        |          C           |      I       |       [Ref 2, 8]      |
+| ii. Stakeholder Identification |       I         |        R        |          C           |      A       |       [Ref 1, 8]      |
+| iii. Initial Risk Assessment   |       I         |        R        |          C           |      I       |       [Ref 9, 13]     |
+| iv. Project Team Formation    |       A         |        R        |          C           |      I       |        [Ref 1]       |
+| **II. Planning**               |                 |                 |                      |              |                        |
+| i. Scope Definition             |       I         |        R        |          C           |      A       |       [Ref 2, 5]      |
+| ii. WBS Development           |       I         |        R        |          C           |      I       |        [Ref 5]       |
+| iii. Schedule Development      |       I         |        R        |          C           |      I       |        [Ref 2]       |
+| iv. Budget Development         |       I         |        R        |          C           |      I       |        [Ref 2]       |
+| v. Communication Plan Dev.    |       I         |        R        |          C           |      I       |        [Ref 2]       |
+| vi. Risk Management Planning   |       I         |        R        |          C           |      I       |        [Ref 13]      |
+| **III. Execution**              |                 |                 |                      |              |                        |
+| i. Material Creation          |       I         |        I        |          R           |      C       |                        |
+| ii. Campaign Implementation    |       I         |        R        |          A           |      C       |                        |
+| iii. Content Distribution      |       I         |        R        |          A           |      C       |                        |
+| iv. Stakeholder Communication  |       I         |        R        |          I           |      C       |        [Ref 1]       |
+| **IV. Monitoring & Controlling** |                 |                 |                      |              |                        |
+| i. Progress Tracking          |       I         |        R        |          I           |      C       |        [Ref 1]       |
+| ii. Performance Measurement    |       I         |        R        |          A           |      C       |        [Ref 1]       |
+| iii. Issue Management          |       I         |        R        |          C           |      I       |        [Ref 12]      |
+| iv. Risk Monitoring            |       I         |        R        |          C           |      I       |        [Ref 13]      |
+| v. Change Management          |       A         |        R        |          C           |      I       |        [Ref 2]       |
+| **V. Closure**                |                 |                 |                      |              |                        |
+| i. Deliverable Acceptance    |       A         |        R        |          C           |      I       |                        |
+| ii. Project Documentation       |       I         |        R        |          I           |      I       |                        |
+| iii. Stakeholder Communication |       I         |        R        |          I           |      C       |                        |
+| iv. Lessons Learned            |       I         |        R        |          C           |      I       |                        |
+| v. Final Project Report        |       A         |        R        |          C           |      I       |                        |
+
+**RACI Legend:**
+
+*   R: Responsible (person who does the work)
+*   A: Accountable (person who owns the task)
+*   C: Consulted (person who needs to be consulted)
+*   I: Informed (person who needs to be kept informed)
+
+-----
+
+**5. Decision Gates:**
+
+i. **End of Initiation Phase:** Decision to proceed to the planning phase based on the feasibility and alignment of the project with organizational goals. Supported by initial stakeholder agreement and identified resources. [Ref 3, Ref 7, Ref 8]
+ii. **End of Planning Phase:** Decision to proceed to the execution phase based on the completeness and accuracy of the project plan. Should the plan be accepted, the team can proceed and execute [Ref 2].
+iii. **Mid-Execution Review:** Assessment of project progress and performance against the plan. Go/no-go decision based on the effectiveness of the marketing efforts and the likelihood of achieving project objectives. [Ref 1, Ref 7, Ref 14]
+
+-----
+
+**6. Note:**
+
+Ref 1: PMBOK, Page 24 (Similarity: 0.631)
+Ref 2: PMBOK, Page 30 (Similarity: 0.625)
+Ref 3: ISO21502, Page 9 (Similarity: 0.586)
+Ref 5: ISO21502, Page 12 (Similarity: 0.572)
+Ref 7: PMBOK, Page 10 (Similarity: 0.527)
+Ref 8: ISO21500, Page 9 (Similarity: 0.527)
+Ref 9: ISO21500, Page 9 (Similarity: 0.503)
+Ref 12: ISO21502, Page 10 (Similarity: 0.499)
+Ref 13: PMBOK, Page 20 (Similarity: 0.494)
+Ref 14: ISO21502, Page 14 (Similarity: 0.493)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 8: Page 9, Similarity: 0.527 (/pdf/ISO21500#page=9)
+- Ref 9: Page 9, Similarity: 0.503 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 11: Page 1, Similarity: 0.499 (/pdf/ISO21502#page=1)
+- Ref 10: Page 7, Similarity: 0.501 (/pdf/ISO21502#page=7)
+- Ref 3: Page 9, Similarity: 0.586 (/pdf/ISO21502#page=9)
+- Ref 12: Page 10, Similarity: 0.499 (/pdf/ISO21502#page=10)
+- Ref 5: Page 12, Similarity: 0.572 (/pdf/ISO21502#page=12)
+- Ref 14: Page 14, Similarity: 0.493 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 15: Page 9, Similarity: 0.489 (/pdf/PMBOK#page=9)
+- Ref 7: Page 10, Similarity: 0.527 (/pdf/PMBOK#page=10)
+- Ref 13: Page 20, Similarity: 0.494 (/pdf/PMBOK#page=20)
+- Ref 1: Page 24, Similarity: 0.631 (/pdf/PMBOK#page=24)
+- Ref 2: Page 30, Similarity: 0.625 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 4: Page 4, Similarity: 0.575 (/pdf/PRINCE2#page=4)
+- Ref 6: Page 6, Similarity: 0.541 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 24123_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 24 (Similarity: 0.631) → /pdf/PMBOK#page=24
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.625) → /pdf/PMBOK#page=30
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.586) → /pdf/ISO21502#page=9
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.575) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.572) → /pdf/ISO21502#page=12
+• [Ref 6] PRINCE2 - Page 6 (Similarity: 0.541) → /pdf/PRINCE2#page=6
+• [Ref 7] PMBOK - Page 10 (Similarity: 0.527) → /pdf/PMBOK#page=10
+• [Ref 8] ISO21500 - Page 9 (Similarity: 0.527) → /pdf/ISO21500#page=9
+• [Ref 9] ISO21500 - Page 9 (Similarity: 0.503) → /pdf/ISO21500#page=9
+• [Ref 10] ISO21502 - Page 7 (Similarity: 0.501) → /pdf/ISO21502#page=7
+• [Ref 11] ISO21502 - Page 1 (Similarity: 0.499) → /pdf/ISO21502#page=1
+• [Ref 12] ISO21502 - Page 10 (Similarity: 0.499) → /pdf/ISO21502#page=10
+• [Ref 13] PMBOK - Page 20 (Similarity: 0.494) → /pdf/PMBOK#page=20
+• [Ref 14] ISO21502 - Page 14 (Similarity: 0.493) → /pdf/ISO21502#page=14
+• [Ref 15] PMBOK - Page 9 (Similarity: 0.489) → /pdf/PMBOK#page=9

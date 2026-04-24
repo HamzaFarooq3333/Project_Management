@@ -1,0 +1,177 @@
+Scenario: [15212] Custom Project (Manual Configuration) | Infrastructure | Medium (6-18 months) | Information Technology | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: IT Infrastructure Project (PRINCE2)
+
+This recommendation outlines a project management process for a medium-scale information technology infrastructure project, incorporating manual configuration and adhering to the PRINCE2 methodology. The project duration is estimated to be medium (6-18 months) [Ref 1]. It addresses project governance [Ref 7, Ref 10], stakeholder management [Ref 2, Ref 8], planning [Ref 1, Ref 2], and change management [Ref 1]. This project will be executed using a predictive (waterfall) or potentially an incremental or iterative delivery approach [Ref 3].
+
+-----
+
+#### I. Project Initiation and Planning
+
+This phase focuses on defining the project scope, objectives, and approach, ensuring alignment with organizational goals.
+
+i.  **Project Mandate Review & Initiation:** Review the project mandate (business case) and ensure alignment with the overall strategic objectives. This is a critical step to ensure that the project delivers value [Ref 12, Ref 14].
+
+ii.  **Project Definition:**
+    -   Define the project scope, deliverables, and acceptance criteria. This includes a clear definition of the desired outcomes [Ref 5, Ref 7].
+    -   Identify stakeholders and their expectations [Ref 2, Ref 8].
+    -   Develop a Work Breakdown Structure (WBS) to decompose the scope into manageable work packages [Ref 5].
+    -   Create a detailed project plan including:
+        -   Activity definition, sequencing, and estimation [Ref 1].
+        -   Resource planning (personnel, equipment, budget) [Ref 1].
+        -   Risk assessment and mitigation strategies [Ref 1, Ref 9].
+        -   Communication plan [Ref 1].
+        -   Quality Management Approach.
+        -   Configuration Management Strategy.
+iii.  **Project Team Formation:** Assign roles and responsibilities within the project team. A collaborative team environment is essential for success [Ref 12].
+iv.  **Project Controls Setup:** Establish project controls, including change control, issue management, and reporting mechanisms.
+
+#### II. Execution and Configuration
+
+This phase involves the actual implementation of the IT infrastructure components, encompassing configuration, testing, and integration.
+
+i.  **Configuration and Installation:** Following the approved design, perform manual configuration and installation of the IT infrastructure components.
+
+ii.  **Testing:**
+    -   Conduct unit testing of each component to ensure functionality.
+    -   Perform integration testing to ensure that all components work together seamlessly.
+    -   Conduct user acceptance testing (UAT) to ensure the infrastructure meets user requirements.
+iii.  **Risk Management:** Continuously monitor and manage identified project risks [Ref 10, Ref 1].
+
+iv.  **Change Management:** Implement the change control process to manage any changes to the project scope, schedule, or budget [Ref 1].
+
+v.  **Progress Monitoring and Reporting:** Track progress against the plan, monitor key performance indicators (KPIs), and report on status regularly [Ref 1].
+
+#### III. Acceptance and Transition
+
+This phase focuses on formal acceptance of the deliverables and the transition of the new infrastructure into operational use.
+
+i.  **Obtain Project Acceptance:** Obtain formal sign-off from stakeholders (e.g., Project Board) [Ref 1].
+
+ii.  **Knowledge Transfer:** Conduct training sessions for the operations team and users to facilitate the handover of the infrastructure.
+iii.  **Document final infrastructure documentation:**
+
+iv.  **Transition to Operations:** Hand over the infrastructure to the operations team for ongoing management and maintenance.
+
+v.  **Project Closure:** Close the project officially, including:
+    -   Finalizing documentation.
+    -   Conducting a post-project review and lessons learned exercise [Ref 6].
+    -   Obtaining final sign-off.
+
+-----
+
+#### IV. Roles
+
+*   **Project Sponsor:** Responsible for obtaining the resources and making executive decisions necessary for project success [Ref 8].
+*   **Project Manager:** Responsible for the day-to-day management of the project and ensuring its successful completion [Ref 4].
+*   **Project Team:** Responsible for executing the project tasks, including configuration, testing, and implementation.
+*   **Business Analyst (Optional):** Responsible for gathering and documenting requirements.
+*   **Technical Lead:** Provides technical expertise and guidance.
+*   **Operations Team:** Responsible for the ongoing management and maintenance of the infrastructure after the project.
+*   **Stakeholders:** Individuals or groups with an interest in the project. Their input is vital throughout the project lifecycle [Ref 2, Ref 8].
+*   **Change Manager:** Manages changes to the project's scope, schedule, or budget [Ref 1].
+
+-----
+
+#### V. RACI Matrix
+
+| Phase                            | Project Sponsor | Project Manager | Project Team | Business Analyst | Technical Lead | Operations Team | Change Manager |
+| :------------------------------- | :-------------: | :-------------: | :----------: | :--------------: | :------------: | :--------------: | :-------------: |
+| **I. Project Initiation & Planning** |        A        |        R        |       I      |         C        |       C        |        I         |        I        |
+| **II. Execution & Configuration**  |        C        |        A        |       R      |        C         |       R        |        I         |        A        |
+| **III. Acceptance & Transition**     |        A        |        R        |       I      |        C         |       C        |        R         |        C        |
+
+*   **R** = Responsible: The person who does the work.
+*   **A** = Accountable: The person who is ultimately answerable for the correct and thorough completion of the deliverable or task [Ref 4].
+*   **C** = Consulted: The person who needs to be consulted before a decision or action is taken.
+*   **I** = Informed: The person who needs to be kept informed of decisions and actions.
+
+-----
+
+#### VI. Decision Gates
+
+*   **Project Initiation Approval:** Before starting Phase I, the project must be formally initiated and approved by the Project Sponsor or Project Board. [Ref 6, Ref 8].
+*   **Project Plan Approval:** Following the planning phase, the project plan must be formally approved by the Project Board.
+*   **Completion of Phase Deliverables:** At the end of each phase, ensure the deliverables are satisfactory by obtaining formal approval from the relevant stakeholders.
+*   **Acceptance of Deliverables:** Formal sign-off by the Project Sponsor/Board on the completion of the project and acceptance of the final deliverables. This is a critical step in project closure [Ref 7, Ref 1].
+*   **Change Requests:** All Change Requests will be reviewed by the Change Manager, then they will be approved or rejected by the Project Manager, Project Sponsor or Project Board.
+
+-----
+
+#### Embeddings & Citations Section:
+
+*   Ref 1: PMBOK, Page 30 (Similarity: 0.596)
+*   Ref 2: PMBOK, Page 24 (Similarity: 0.581)
+*   Ref 3: ISO21502, Page 9 (Similarity: 0.568)
+*   Ref 4: PRINCE2, Page 4 (Similarity: 0.566)
+*   Ref 5: ISO21502, Page 12 (Similarity: 0.562)
+*   Ref 6: PRINCE2, Page 6 (Similarity: 0.523)
+*   Ref 7: ISO21502, Page 10 (Similarity: 0.517)
+*   Ref 8: ISO21500, Page 9 (Similarity: 0.517)
+*   Ref 9: ISO21500, Page 9 (Similarity: 0.514)
+*   Ref 10: ISO21502, Page 11 (Similarity: 0.512)
+*   Ref 11: ISO21502, Page 7 (Similarity: 0.502)
+*   Ref 12: PMBOK, Page 10 (Similarity: 0.500)
+*   Ref 13: ISO21502, Page 9 (Similarity: 0.499)
+*   Ref 14: PMBOK, Page 9 (Similarity: 0.496)
+*   Ref 15: ISO21502, Page 1 (Similarity: 0.495)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 8: Page 9, Similarity: 0.517 (/pdf/ISO21500#page=9)
+- Ref 9: Page 9, Similarity: 0.514 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 15: Page 1, Similarity: 0.495 (/pdf/ISO21502#page=1)
+- Ref 11: Page 7, Similarity: 0.502 (/pdf/ISO21502#page=7)
+- Ref 3: Page 9, Similarity: 0.568 (/pdf/ISO21502#page=9)
+- Ref 13: Page 9, Similarity: 0.499 (/pdf/ISO21502#page=9)
+- Ref 7: Page 10, Similarity: 0.517 (/pdf/ISO21502#page=10)
+- Ref 10: Page 11, Similarity: 0.512 (/pdf/ISO21502#page=11)
+- Ref 5: Page 12, Similarity: 0.562 (/pdf/ISO21502#page=12)
+
+**PMBOK:**
+- Ref 14: Page 9, Similarity: 0.496 (/pdf/PMBOK#page=9)
+- Ref 12: Page 10, Similarity: 0.500 (/pdf/PMBOK#page=10)
+- Ref 2: Page 24, Similarity: 0.581 (/pdf/PMBOK#page=24)
+- Ref 1: Page 30, Similarity: 0.596 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 4: Page 4, Similarity: 0.566 (/pdf/PRINCE2#page=4)
+- Ref 6: Page 6, Similarity: 0.523 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 15212_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 30 (Similarity: 0.596) → /pdf/PMBOK#page=30
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.581) → /pdf/PMBOK#page=24
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.568) → /pdf/ISO21502#page=9
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.566) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.562) → /pdf/ISO21502#page=12
+• [Ref 6] PRINCE2 - Page 6 (Similarity: 0.523) → /pdf/PRINCE2#page=6
+• [Ref 7] ISO21502 - Page 10 (Similarity: 0.517) → /pdf/ISO21502#page=10
+• [Ref 8] ISO21500 - Page 9 (Similarity: 0.517) → /pdf/ISO21500#page=9
+• [Ref 9] ISO21500 - Page 9 (Similarity: 0.514) → /pdf/ISO21500#page=9
+• [Ref 10] ISO21502 - Page 11 (Similarity: 0.512) → /pdf/ISO21502#page=11
+• [Ref 11] ISO21502 - Page 7 (Similarity: 0.502) → /pdf/ISO21502#page=7
+• [Ref 12] PMBOK - Page 10 (Similarity: 0.500) → /pdf/PMBOK#page=10
+• [Ref 13] ISO21502 - Page 9 (Similarity: 0.499) → /pdf/ISO21502#page=9
+• [Ref 14] PMBOK - Page 9 (Similarity: 0.496) → /pdf/PMBOK#page=9
+• [Ref 15] ISO21502 - Page 1 (Similarity: 0.495) → /pdf/ISO21502#page=1

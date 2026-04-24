@@ -1,0 +1,182 @@
+Scenario: [14222] Custom Project (Manual Configuration) | Marketing | Medium (6-18 months) | Construction | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Construction Marketing Project (PRINCE2)
+
+#### 1. Process Summary
+
+This project recommendation outlines a PRINCE2-aligned process for a medium-sized (6-18 months) marketing project within the construction industry. This process leverages PRINCE2 principles [Ref 4, Ref 6] and is informed by the PMBOK Guide [Ref 1, Ref 2, Ref 8, Ref 14], and ISO 21502 standards [Ref 3, Ref 5, Ref 7, Ref 9, Ref 10, Ref 11, Ref 12, Ref 13, Ref 15]. The focus will be on delivering marketing objectives within the project's scope, budget, and time constraints. A key element is manual configuration, so risk management, stakeholder engagement, and clear communication are crucial for success. The project will be managed in phases, each with defined activities, decision gates, and clear role responsibilities.
+
+-----
+
+#### 2. Phases and Activities
+
+This project will follow a phased approach aligned with PRINCE2, encompassing the project lifecycle from initiation to closure [Ref 6].
+
+**I. Project Initiation**
+
+*   **Activities:**
+    i.  Define project objectives, scope, and deliverables in a Project Initiation Document (PID). [Ref 2]
+    ii.  Identify stakeholders and their requirements. [Ref 1, Ref 7]
+    iii.  Develop a communication plan. [Ref 2]
+    iv.  Establish a risk management plan. [Ref 14]
+    v.  Define project roles and responsibilities.
+    vi.  Create a project schedule and budget. [Ref 2]
+    vii. Assess Organizational Strategy [Ref 13, Ref 15]
+
+**II. Project Planning**
+
+*   **Activities:**
+    i.  Refine the scope and create a Work Breakdown Structure (WBS). [Ref 5]
+    ii.  Develop detailed tasks and activities.
+    iii.  Refine the schedule and resource allocation. [Ref 2]
+    iv.  Finalize the budget. [Ref 2]
+    v.  Develop detailed plans for communication, risk management, and quality assurance. [Ref 2]
+    vi. Create a configuration management plan.
+
+**III. Project Execution**
+
+*   **Activities:**
+    i.  Execute the marketing activities as per the plan. [Ref 1]
+    ii.  Manage the project team and resources.
+    iii.  Monitor progress against the plan.
+    iv.  Manage risks and issues. [Ref 14]
+    v.  Maintain configuration control.
+    vi.  Document all project changes.
+    vii. Conduct regular stakeholder meetings and reporting.
+
+**IV. Project Control**
+
+*   **Activities:**
+    i.  Monitor and control progress against the plan. [Ref 2]
+    ii.  Manage issues and risks, implementing corrective actions. [Ref 14]
+    iii.  Control change requests through a formal change management process. [Ref 2]
+    iv.  Report progress and performance to stakeholders.
+    v.  Verify quality of deliverables.
+
+**V. Project Closure**
+
+*   **Activities:**
+    i.  Obtain formal acceptance of the project deliverables.
+    ii.  Conduct a post-project review.
+    iii.  Document lessons learned.
+    iv.  Archive project documents.
+    v.  Close out contracts.
+
+-----
+
+#### 3. Roles
+
+*   **Project Sponsor:** Responsible for obtaining the resources and making executive decisions to enable success [Ref 7].
+*   **Project Manager:** Responsible for day-to-day management of the project, including planning, execution, and control.
+*   **Project Team:** Individuals responsible for completing project tasks.
+*   **Stakeholders:** Individuals or groups with an interest in the project. [Ref 1, Ref 7, Ref 8]
+*   **Change Control Board (CCB):** Responsible for evaluating change requests.
+*   **Configuration Manager:** Responsible for managing the configuration of project deliverables.
+
+-----
+
+#### 4. RACI Matrix
+
+| Phase              | Project Sponsor | Project Manager | Project Team | Stakeholders | Configuration Manager | Change Control Board |
+| ------------------ | --------------- | --------------- | ------------ | ------------- | --------------------- | --------------------- |
+| I. Project Initiation     | A               | R               | I            | C             | I                     | I                     |
+| II. Project Planning    | C               | R               | A            | C             | I                     | I                     |
+| III. Project Execution  | C               | R               | A            | C             | R                     | I                     |
+| IV. Project Control     | C               | R               | I            | C             | R                     | A                     |
+| V. Project Closure      | A               | R               | C            | C             | I                     | I                     |
+
+*   **R** = Responsible
+*   **A** = Accountable
+*   **C** = Consulted
+*   **I** = Informed
+
+-----
+
+#### 5. Decision Gates
+
+*   **Project Initiation Review:** Formal approval of the Project Initiation Document (PID) by the Project Sponsor. This ensures that the project has defined objectives, scope, and is aligned with organizational strategy [Ref 13].
+*   **Project Plan Approval:** Formal approval of the Project Plan by the Project Sponsor. [Ref 2]
+*   **Change Request Approvals:** The Change Control Board (CCB) reviews and approves or rejects change requests, ensuring that changes are managed effectively. [Ref 2]
+*   **Project End Review:** The final review by the Project Sponsor to ensure that the project objectives have been met and deliverables are acceptable.
+
+-----
+
+#### 6. Embeddings & Citations Section
+
+**Note:**
+
+Ref 1: PMBOK, Page 24
+Ref 2: PMBOK, Page 30
+Ref 3: ISO21502, Page 9
+Ref 4: PRINCE2, Page 4
+Ref 5: ISO21502, Page 12
+Ref 6: PRINCE2, Page 6
+Ref 7: ISO21500, Page 9
+Ref 8: PMBOK, Page 10
+Ref 9: ISO21502, Page 7
+Ref 10: ISO21502, Page 1
+Ref 11: ISO21502, Page 10
+Ref 12: ISO21500, Page 9
+Ref 13: ISO21502, Page 14
+Ref 14: PMBOK, Page 20
+Ref 15: ISO21502, Page 14
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 7: Page 9, Similarity: 0.538 (/pdf/ISO21500#page=9)
+- Ref 12: Page 9, Similarity: 0.504 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 10: Page 1, Similarity: 0.512 (/pdf/ISO21502#page=1)
+- Ref 9: Page 7, Similarity: 0.514 (/pdf/ISO21502#page=7)
+- Ref 3: Page 9, Similarity: 0.592 (/pdf/ISO21502#page=9)
+- Ref 11: Page 10, Similarity: 0.509 (/pdf/ISO21502#page=10)
+- Ref 5: Page 12, Similarity: 0.574 (/pdf/ISO21502#page=12)
+- Ref 13: Page 14, Similarity: 0.493 (/pdf/ISO21502#page=14)
+- Ref 15: Page 14, Similarity: 0.490 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 8: Page 10, Similarity: 0.531 (/pdf/PMBOK#page=10)
+- Ref 14: Page 20, Similarity: 0.491 (/pdf/PMBOK#page=20)
+- Ref 1: Page 24, Similarity: 0.636 (/pdf/PMBOK#page=24)
+- Ref 2: Page 30, Similarity: 0.625 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 4: Page 4, Similarity: 0.581 (/pdf/PRINCE2#page=4)
+- Ref 6: Page 6, Similarity: 0.553 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 14222_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 24 (Similarity: 0.636) → /pdf/PMBOK#page=24
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.625) → /pdf/PMBOK#page=30
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.592) → /pdf/ISO21502#page=9
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.581) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.574) → /pdf/ISO21502#page=12
+• [Ref 6] PRINCE2 - Page 6 (Similarity: 0.553) → /pdf/PRINCE2#page=6
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.538) → /pdf/ISO21500#page=9
+• [Ref 8] PMBOK - Page 10 (Similarity: 0.531) → /pdf/PMBOK#page=10
+• [Ref 9] ISO21502 - Page 7 (Similarity: 0.514) → /pdf/ISO21502#page=7
+• [Ref 10] ISO21502 - Page 1 (Similarity: 0.512) → /pdf/ISO21502#page=1
+• [Ref 11] ISO21502 - Page 10 (Similarity: 0.509) → /pdf/ISO21502#page=10
+• [Ref 12] ISO21500 - Page 9 (Similarity: 0.504) → /pdf/ISO21500#page=9
+• [Ref 13] ISO21502 - Page 14 (Similarity: 0.493) → /pdf/ISO21502#page=14
+• [Ref 14] PMBOK - Page 20 (Similarity: 0.491) → /pdf/PMBOK#page=20
+• [Ref 15] ISO21502 - Page 14 (Similarity: 0.490) → /pdf/ISO21502#page=14

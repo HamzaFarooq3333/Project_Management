@@ -1,0 +1,123 @@
+Scenario: [41212] Large Government Project | Software Development | Medium (6-18 months) | Information Technology | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21500, ISO21502
+
+================================================================================
+
+### Process Recommendation: Software Development Project (PRINCE2)
+
+**Process Summary:** This recommendation outlines a project management process tailored for a medium-sized (6-18 months) software development project within the IT industry, leveraging the PRINCE2 methodology [Ref 4, Ref 6]. This process adheres to ISO21502 guidelines [Ref 1, Ref 8, Ref 11], incorporating planning best practices from the PMBOK Guide [Ref 2, Ref 5]. The process emphasizes stakeholder engagement [Ref 7], risk management [Ref 3, Ref 9], and iterative development [Ref 1].
+
+-----
+
+### Phases and Activities
+
+**I. Initiation (Starting Up a Project - SU):**
+
+i.   **Appoint the Project Management Team:** Define roles and responsibilities. [Ref 4].
+ii.  **Create the Project Mandate:** Capture the initial reason for the project.
+iii. **Develop the Project Brief:** Expand the Project Mandate into a more detailed document including the project's scope [Ref 2].
+iv.  **Select the Project Approach:** Define the project lifecycle and delivery method [Ref 1].
+v.   **Plan the Initiation Stage:** Develop a detailed plan for the next stage.
+
+**II. Planning (Initiating a Project - IP):**
+
+i.   **Develop the Project Management Plan (PMP):** Comprehensive plan covering all aspects of the project, including scope [Ref 2], timeline, budget, resources, communication [Ref 2], quality, risk, and change management [Ref 2].
+ii.  **Define the Project Scope:** Break down the project scope using a Work Breakdown Structure (WBS). [Ref 3]
+iii. **Identify and Assess Risks:** Identify potential threats and opportunities and develop risk responses [Ref 3, Ref 9].
+iv.  **Develop the Communication Plan:** Outline how project information will be communicated to stakeholders [Ref 2].
+v.   **Obtain Approval to Proceed:** Secure formal approval from the Project Board to move into the next stage.
+
+**III. Execution (Controlling a Stage - CS & Managing Product Delivery - MP):**
+
+i.   **Work Package Execution:** Deliver the project's products according to the specifications outlined in the work packages [Ref 3].
+ii.  **Monitor and Control Progress:** Track progress against the plan, manage issues, and escalate risks.
+iii. **Manage Product Delivery:** Ensure that products meet the defined quality criteria and are approved.
+iv.  **Manage Stage Boundaries:** Review the current stage, update the Project Plan, and plan the next stage.
+
+**IV. Monitoring & Controlling (Managing a Stage Boundary - SB):**
+
+i.   **Monitor project performance:** Compare planned vs actual [Ref 5]
+ii.  **Control changes:** Implement a formal change management process [Ref 2, Ref 15].
+iii. **Manage project issues:** Record, assess and resolve any issues that arise.
+
+**V. Closing (Closing a Project - CP):**
+
+i.   **Prepare Planned Closure:** Verify that all products have been delivered, accepted, and that project objectives have been met.
+ii.  **Evaluate the Project:** Assess the project's performance against the Project Management Plan, identify lessons learned, and update organizational process assets.
+iii. **Recommend Project Closure:** Obtain formal approval from the Project Board to close the project.
+iv.  **Follow-up Actions:** Address any outstanding issues or recommendations.
+
+-----
+
+### Roles
+
+i.   **Project Board (Executive, Senior User, Senior Supplier):** Responsible for the overall direction and management of the project.
+ii.  **Project Manager:** Responsible for the day-to-day management of the project.
+iii. **Team Manager:** Responsible for managing the team members who deliver the products.
+iv.  **Project Assurance (Business Assurance, User Assurance, Technical Assurance):** Responsible for independently monitoring the project's progress and performance.
+
+-----
+
+### RACI Matrix
+
+| Phase                     | Project Board | Project Manager | Team Manager | Project Assurance | Reference |
+| -------------------------- | :-----------: | :-------------: | :-----------: | :---------------: | :-------: |
+| **I. Initiation (SU)**     |       A       |        R        |       I       |         C         |  [Ref 4] |
+| **II. Planning (IP)**       |       A       |        R        |       C       |         C         |  [Ref 2] |
+| **III. Execution (CS & MP)** |       I       |        R        |       R       |         C         |  [Ref 5] |
+| **IV. Monitoring & Controlling (SB)** |       I       |        R        |       C       |         C         |  [Ref 5] |
+| **V. Closing (CP)**        |       A       |        R        |       I       |         C         |          |
+
+*R = Responsible, A = Accountable, C = Consulted, I = Informed*
+
+-----
+
+### Decision Gates
+
+i.   **End of Initiation Stage:**  Decide whether to proceed with the project after assessing the Project Brief and Initiation Stage Plan.
+ii.  **End of Planning Stage:** Decide whether to proceed with the project after assessing the Project Management Plan.
+iii. **End of each Delivery Stage:** Review progress, risks, and issues and decide whether to continue to the next stage.  Assess and update the Project Plan [Ref 6].
+iv.  **Project Closure:** Decide whether the project has met its objectives and can be formally closed.
+
+-----
+
+### Note:
+
+Ref 1: ISO21502, Page 9 (Similarity: 0.607)
+Ref 2: PMBOK, Page 30 (Similarity: 0.597)
+Ref 3: ISO21502, Page 12 (Similarity: 0.587)
+Ref 4: PRINCE2, Page 4 (Similarity: 0.576)
+Ref 5: PMBOK, Page 24 (Similarity: 0.570)
+Ref 6: PRINCE2, Page 6 (Similarity: 0.533)
+Ref 7: ISO21500, Page 9 (Similarity: 0.527)
+Ref 8: ISO21502, Page 1 (Similarity: 0.521)
+Ref 9: ISO21500, Page 9 (Similarity: 0.516)
+Ref 10: ISO21502, Page 7 (Similarity: 0.514)
+Ref 11: ISO21502, Page 7 (Similarity: 0.513)
+Ref 12: ISO21502, Page 14 (Similarity: 0.505)
+Ref 13: ISO21502, Page 9 (Similarity: 0.505)
+Ref 14: ISO21502, Page 11 (Similarity: 0.505)
+Ref 15: PMBOK, Page 10 (Similarity: 0.502)
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 41212_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.607) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.597) → /pdf/PMBOK#page=30
+• [Ref 3] ISO21502 - Page 12 (Similarity: 0.587) → /pdf/ISO21502#page=12
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.576) → /pdf/PRINCE2#page=4
+• [Ref 5] PMBOK - Page 24 (Similarity: 0.570) → /pdf/PMBOK#page=24
+• [Ref 6] PRINCE2 - Page 6 (Similarity: 0.533) → /pdf/PRINCE2#page=6
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.527) → /pdf/ISO21500#page=9
+• [Ref 8] ISO21502 - Page 1 (Similarity: 0.521) → /pdf/ISO21502#page=1
+• [Ref 9] ISO21500 - Page 9 (Similarity: 0.516) → /pdf/ISO21500#page=9
+• [Ref 10] ISO21502 - Page 7 (Similarity: 0.514) → /pdf/ISO21502#page=7
+• [Ref 11] ISO21502 - Page 7 (Similarity: 0.513) → /pdf/ISO21502#page=7
+• [Ref 12] ISO21502 - Page 14 (Similarity: 0.505) → /pdf/ISO21502#page=14
+• [Ref 13] ISO21502 - Page 9 (Similarity: 0.505) → /pdf/ISO21502#page=9
+• [Ref 14] ISO21502 - Page 11 (Similarity: 0.505) → /pdf/ISO21502#page=11
+• [Ref 15] PMBOK - Page 10 (Similarity: 0.502) → /pdf/PMBOK#page=10

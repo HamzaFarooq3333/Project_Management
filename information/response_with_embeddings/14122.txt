@@ -1,0 +1,221 @@
+Scenario: [14122] Custom Project (Manual Configuration) | Marketing | Small (< 6 months) | Construction | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Construction Marketing Project
+
+#### Process Summary
+
+This project aims to deliver a successful marketing campaign for a construction company, adhering to PRINCE2 principles for effective project management within a small-scale, short-duration (less than 6 months) framework. The project will leverage a manual configuration approach. The project will involve typical challenges like defining responsibilities, clarity on deliverables, costs, and timeline, as mentioned in [Ref 4]. This recommendation incorporates elements from PMBOK (Project Management Body of Knowledge), ISO 21502 (Guidance on Project Management), and ISO 21500 (Guidance on Project Management), emphasizing adaptability, stakeholder engagement, and value delivery [Ref 1, Ref 7, Ref 8]. It recognizes that a project is a temporary endeavor to achieve defined objectives [Ref 8]. The project's context is paramount [Ref 6, Ref 14].
+
+-----
+
+#### Phases and Activities
+
+The project lifecycle is divided into the following phases:
+
+**I. Project Initiation**
+
+This phase establishes the project's foundation. It involves defining project objectives, scope, and initial requirements, as described in planning [Ref 2].
+
+i. **Project Mandate Review:** Review the initial project request and business case.
+ii. **Project Manager Appointment:** Appoint the project manager, establishing their role and responsibilities.
+iii. **Project Team Assembly:** Identify and onboard the core project team. Consider team composition [Ref 2].
+iv. **Stakeholder Identification and Analysis:** Identify and analyze project stakeholders [Ref 1, Ref 8].
+v. **Project Brief Development:** Develop a comprehensive project brief outlining the project's purpose, objectives, scope, and key deliverables. The project brief should include details of what the project will deliver, costs, and a timeline [Ref 4].
+vi. **Risk Assessment (Initial):** Conduct an initial risk assessment to identify potential threats and opportunities [Ref 13].
+
+**II. Planning**
+
+This phase focuses on detailed planning. It covers the creation of the project plan, including scheduling, budgeting, and resource allocation.
+
+i. **Scope Definition:** Define the detailed project scope, including specific marketing activities (e.g., website updates, social media campaigns, brochures) and deliverables [Ref 2, Ref 5].
+ii. **Work Breakdown Structure (WBS):** Decompose the project scope into manageable work packages [Ref 5].
+iii. **Activity Definition and Sequencing:** Define project activities and determine their dependencies.
+iv. **Estimating:** Estimate the effort and resources required for each activity.
+v. **Scheduling:** Create a detailed project schedule, including start and end dates for each activity [Ref 2].
+vi. **Budgeting:** Develop a detailed project budget, allocating resources and costs to each activity [Ref 2].
+vii. **Resource Planning:** Identify and allocate necessary resources (personnel, budget) for each task.
+viii. **Communication Planning:** Develop a communication plan to manage stakeholder expectations and facilitate information sharing [Ref 2].
+ix. **Risk Management Planning:** Develop a comprehensive risk management plan, including mitigation strategies for identified risks [Ref 13].
+x. **Procurement Planning:** Plan for any required procurement activities, such as hiring external vendors or contractors [Ref 2].
+xi. **Change Management Planning:** Define the change management process [Ref 2].
+
+**III. Execution**
+
+This phase involves carrying out the planned activities and managing the project deliverables.
+
+i. **Marketing Campaign Implementation:** Execute the planned marketing activities according to the project plan.
+ii. **Team Management:** Manage and coordinate the project team.
+iii. **Issue and Risk Management:** Monitor and manage identified risks and issues, implementing mitigation strategies. The project team should consider factors both within and outside the organization [Ref 14].
+iv. **Progress Reporting:** Generate regular progress reports to track project performance against the plan, including the project's overall context [Ref 6].
+v. **Communication:** Maintain open and effective communication with stakeholders [Ref 7].
+
+**IV. Monitoring and Controlling**
+
+This phase involves monitoring project progress, identifying deviations from the plan, and taking corrective actions.
+
+i. **Performance Measurement:** Track project progress against the baseline plan (scope, schedule, budget).
+ii. **Variance Analysis:** Analyze variances from the plan and identify the causes of deviations.
+iii. **Change Control:** Manage change requests, assess their impact, and implement approved changes.
+iv. **Risk Management:** Continuously monitor and manage project risks [Ref 13].
+v. **Issue Management:** Address and resolve project issues promptly.
+vi. **Stakeholder Management:** Manage stakeholder expectations and address any concerns.
+
+**V. Project Closure**
+
+This phase formalizes project completion.
+
+i. **Deliverable Acceptance:** Obtain formal acceptance of all project deliverables from the client.
+ii. **Lessons Learned:** Conduct a lessons learned session to identify best practices and areas for improvement.
+iii. **Project Documentation:** Finalize and archive all project documentation.
+iv. **Financial Closure:** Close out all project financials and ensure all invoices are paid.
+v. **Resource Release:** Release project resources and reassign team members.
+vi. **Project Sign-off:** Obtain formal project sign-off from the project sponsor and/or client.
+
+-----
+
+#### Roles
+
+*   **Project Sponsor:** Responsible for obtaining the resources and executive decisions [Ref 8].
+*   **Project Manager:** Leads and manages the project, ensuring its successful completion.
+*   **Marketing Team:** Executes the marketing activities and delivers the project deliverables.
+*   **Stakeholders:** Individuals or groups with an interest in the project.
+
+-----
+
+#### RACI Matrix
+
+| Phase                    | Project Sponsor | Project Manager | Marketing Team | Stakeholders |
+| ------------------------ | --------------- | --------------- | --------------- | ------------ |
+| **I. Project Initiation**   | A               | R               | C               | C            |
+| ii. Project Manager Appointment      | C               | R               | I               | I            |
+| iii. Project Team Assembly       | C               | R               | R               | C            |
+| iv. Stakeholder Identification     | C               | R               | R               | I            |
+| v. Project Brief Development      | A               | R               | C               | C            |
+| vi. Risk Assessment (Initial)          | C               | R               | C               | I            |
+| **II. Planning**             | A               | R               | C               | C            |
+| vii. Scope Definition            | A               | R               | R               | C            |
+| viii. Work Breakdown Structure (WBS) | A               | R               | R               | C            |
+| ix. Activity Definition and Sequencing   | C               | R               | R               | I            |
+| x. Estimating                     | C               | R               | R               | I            |
+| xi. Scheduling                    | A               | R               | R               | C            |
+| xii. Budgeting                    | A               | R               | C               | C            |
+| xiii. Resource Planning              | A               | R               | R               | I            |
+| xiv. Communication Planning             | A               | R               | R               | C            |
+| xv. Risk Management Planning          | A               | R               | R               | C            |
+| xvi. Procurement Planning             | A               | R               | C               | C            |
+| xvii. Change Management Planning        | A               | R               | C               | C            |
+| **III. Execution**            | C               | R               | R               | I            |
+| xviii. Marketing Campaign Implementation     | C               | R               | R               | I            |
+| xix. Team Management                   | C               | R               | R               | I            |
+| xx. Issue and Risk Management            | C               | R               | R               | I            |
+| xxi. Progress Reporting                | C               | R               | R               | I            |
+| xxii. Communication                  | C               | R               | R               | I            |
+| **IV. Monitoring and Controlling**        | C               | R               | R               | C            |
+| xxiii. Performance Measurement           | C               | R               | R               | C            |
+| xxiv. Variance Analysis                | C               | R               | R               | C            |
+| xxv. Change Control                  | A               | R               | C               | C            |
+| xxvi. Risk Management                  | C               | R               | R               | I            |
+| xxvii. Issue Management                 | C               | R               | R               | C            |
+| xxviii. Stakeholder Management           | C               | R               | R               | C            |
+| **V. Project Closure**         | A               | R               | C               | C            |
+| xxix. Deliverable Acceptance             | A               | R               | C               | C            |
+| xxx. Lessons Learned                   | C               | R               | R               | I            |
+| xxxi. Project Documentation              | C               | R               | R               | I            |
+| xxxii. Financial Closure                 | A               | R               | C               | C            |
+| xxxiii. Resource Release                 | A               | R               | C               | I            |
+| xxxiv. Project Sign-off               | A               | R               | C               | I            |
+
+*   **R** = Responsible (does the work)
+*   **A** = Accountable (owns the work)
+*   **C** = Consulted (provides input)
+*   **I** = Informed (kept up-to-date)
+
+-----
+
+#### Decision Gates
+
+*   **Project Initiation Approval:** Before proceeding to the planning phase, the project brief must be approved by the Project Sponsor (A), based on feasibility (business case) and alignment with strategic goals [Ref 8].
+*   **Project Plan Approval:** Before executing the project, the detailed project plan (scope, schedule, budget, resources) must be approved by the Project Sponsor (A).
+*   **Phase Gate Reviews:** Formal reviews at the end of each phase to assess deliverables, performance, and make decisions on whether to proceed to the next phase, change direction, or close the project. These reviews should include stakeholder involvement.
+*   **Change Request Approval:** Any changes to the project scope, schedule, or budget must be formally approved through the change control process [Ref 2].
+*   **Project Closure Approval:** The final acceptance of all project deliverables, lessons learned review, and the closing of all activities are confirmed by the Project Sponsor (A).
+
+-----
+
+#### Embeddings & Citations Section: Note
+
+Ref 1: PMBOK, Page 24 (Similarity: 0.631)
+Ref 2: PMBOK, Page 30 (Similarity: 0.625)
+Ref 3: ISO21502, Page 9 (Similarity: 0.586)
+Ref 4: PRINCE2, Page 4 (Similarity: 0.575)
+Ref 5: ISO21502, Page 12 (Similarity: 0.572)
+Ref 6: PRINCE2, Page 6 (Similarity: 0.541)
+Ref 7: PMBOK, Page 10 (Similarity: 0.527)
+Ref 8: ISO21500, Page 9 (Similarity: 0.527)
+Ref 9: ISO21500, Page 9 (Similarity: 0.503)
+Ref 10: ISO21502, Page 7 (Similarity: 0.501)
+Ref 11: ISO21502, Page 1 (Similarity: 0.499)
+Ref 12: ISO21502, Page 10 (Similarity: 0.499)
+Ref 13: PMBOK, Page 20 (Similarity: 0.494)
+Ref 14: ISO21502, Page 14 (Similarity: 0.493)
+Ref 15: PMBOK, Page 9 (Similarity: 0.489)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 8: Page 9, Similarity: 0.527 (/pdf/ISO21500#page=9)
+- Ref 9: Page 9, Similarity: 0.503 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 11: Page 1, Similarity: 0.499 (/pdf/ISO21502#page=1)
+- Ref 10: Page 7, Similarity: 0.501 (/pdf/ISO21502#page=7)
+- Ref 3: Page 9, Similarity: 0.586 (/pdf/ISO21502#page=9)
+- Ref 12: Page 10, Similarity: 0.499 (/pdf/ISO21502#page=10)
+- Ref 5: Page 12, Similarity: 0.572 (/pdf/ISO21502#page=12)
+- Ref 14: Page 14, Similarity: 0.493 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 15: Page 9, Similarity: 0.489 (/pdf/PMBOK#page=9)
+- Ref 7: Page 10, Similarity: 0.527 (/pdf/PMBOK#page=10)
+- Ref 13: Page 20, Similarity: 0.494 (/pdf/PMBOK#page=20)
+- Ref 1: Page 24, Similarity: 0.631 (/pdf/PMBOK#page=24)
+- Ref 2: Page 30, Similarity: 0.625 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 4: Page 4, Similarity: 0.575 (/pdf/PRINCE2#page=4)
+- Ref 6: Page 6, Similarity: 0.541 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 14122_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 24 (Similarity: 0.631) → /pdf/PMBOK#page=24
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.625) → /pdf/PMBOK#page=30
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.586) → /pdf/ISO21502#page=9
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.575) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.572) → /pdf/ISO21502#page=12
+• [Ref 6] PRINCE2 - Page 6 (Similarity: 0.541) → /pdf/PRINCE2#page=6
+• [Ref 7] PMBOK - Page 10 (Similarity: 0.527) → /pdf/PMBOK#page=10
+• [Ref 8] ISO21500 - Page 9 (Similarity: 0.527) → /pdf/ISO21500#page=9
+• [Ref 9] ISO21500 - Page 9 (Similarity: 0.503) → /pdf/ISO21500#page=9
+• [Ref 10] ISO21502 - Page 7 (Similarity: 0.501) → /pdf/ISO21502#page=7
+• [Ref 11] ISO21502 - Page 1 (Similarity: 0.499) → /pdf/ISO21502#page=1
+• [Ref 12] ISO21502 - Page 10 (Similarity: 0.499) → /pdf/ISO21502#page=10
+• [Ref 13] PMBOK - Page 20 (Similarity: 0.494) → /pdf/PMBOK#page=20
+• [Ref 14] ISO21502 - Page 14 (Similarity: 0.493) → /pdf/ISO21502#page=14
+• [Ref 15] PMBOK - Page 9 (Similarity: 0.489) → /pdf/PMBOK#page=9

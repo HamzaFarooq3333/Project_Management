@@ -1,0 +1,176 @@
+Scenario: [21113] Custom Software Development | Software Development | Small (< 6 months) | Information Technology | ISO Standards
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Project Management Process Recommendation: Small-Scale ISO-Aligned Software Development Project
+
+#### Process Summary
+This recommendation outlines a comprehensive project management process for a small-scale (< 6 months) software development project within the Information Technology industry, explicitly aligned with ISO Standards. The process is designed to be lean yet robust, ensuring adherence to established project management principles while being adaptable to the project's size and duration. ISO 21502 provides a foundational framework, stating its applicability to any project, regardless of purpose, delivery approach, life cycle model, complexity, size, cost, or duration [Ref 1]. This allows for the selection of an appropriate development approach (e.g., iterative or adaptive, often suited for software development) within the structured lifecycle. The overall aim is the coordinated activities to direct and control the accomplishment of agreed objectives [Ref 7, Ref 9], ensuring successful delivery of value while managing typical challenges such as scope ambiguity, resource availability, and unrealistic expectations [Ref 4].
+
+-----
+
+### Phases and Activities
+
+The project lifecycle will follow a structured approach, encompassing the core elements of project management as described by ISO standards and other recognized frameworks, tailored for a small software development initiative. Project management integrates practices to direct, initiate, plan, monitor, control, and close the project [Ref 9].
+
+#### I. Project Initiation
+The goal of this phase is to define the project and gain formal authorization to proceed.
+
+i.  **Define Project Objectives and Scope**: Clearly articulate what the project aims to achieve and what product features will be delivered. A project is a "temporary endeavour to achieve one or more defined objectives" [Ref 7].
+ii. **Identify Key Stakeholders**: Determine all individuals, groups, or organizations that have interests in, or can affect, be affected by, or perceive themselves to be affected by, any aspect of the project [Ref 3, Ref 7]. Effective engagement with stakeholders is a core principle [Ref 13].
+iii. **Appoint Project Sponsor and Project Manager**: The Sponsor is responsible for obtaining resources and executive decisions [Ref 7]. The Project Manager is responsible for coordinating activities to direct and control objectives [Ref 7, Ref 9, Ref 12].
+iv. **Develop Project Charter**: Document the project's purpose, high-level objectives, initial scope, and assign the Project Manager with authority. Obtain formal authorization from the Project Sponsor.
+
+#### II. Project Planning
+This phase involves developing a detailed project plan to guide all subsequent activities.
+
+i.  **Define Product and Project Scope**: Further elaborate on the product features and the work required to deliver them. This includes defining requirements, and potentially developing a Work Breakdown Structure (WBS) to decompose the defined scope into progressively lower levels of work elements [Ref 3].
+ii. **Estimate and Schedule**: Develop estimates for tasks, establish a project timeline, and create a schedule [Ref 2]. For software, an iterative or incremental approach may be chosen, aligning with ISO 21502's allowance for any delivery approach [Ref 1].
+iii. **Determine Budget and Resources**: Allocate financial resources and identify required team composition and other resources [Ref 2, Ref 9].
+iv. **Develop Management Plans**: Create plans for communication, procurement (if any), and change management [Ref 2]. Establish a plan for measurement to track progress and performance [Ref 2, Ref 5].
+v.  **Identify and Plan Risk Responses**: Identify potential threats (risk occurrences with a negative impact) and opportunities, and plan appropriate responses [Ref 3, Ref 8, Ref 13].
+vi. **Tailor Development Approach and Lifecycle**: Select and refine the software development approach (e.g., agile, hybrid) that fits the project context and ensures quality deliverables [Ref 5, Ref 6, Ref 13].
+vii. **Finalize Project Management Plan**: Compile all detailed plans into a single, comprehensive document.
+
+#### III. Project Execution (Project Work & Delivery)
+This phase involves carrying out the planned work to produce the project's deliverables.
+
+i.  **Direct and Manage Project Work**: Perform the defined activities according to the project plan [Ref 5, Ref 9]. This includes coding, testing, and documentation.
+ii. **Manage Team and Resources**: Lead and support the project team, foster a collaborative environment, and manage assigned resources [Ref 9, Ref 13].
+iii. **Implement Quality Assurance**: Build quality into processes and deliverables through reviews, inspections, and testing [Ref 13].
+iv. **Communicate Progress**: Implement the communication plan to keep stakeholders informed.
+v.  **Deliver Outputs**: Produce and provide the project outputs [Ref 6, Ref 9].
+
+#### IV. Monitoring and Control
+This phase runs concurrently with Execution, ensuring the project stays on track and addresses deviations.
+
+i.  **Monitor Project Performance**: Track progress against the schedule, budget, and scope baselines. Use established measurements [Ref 2, Ref 5].
+ii. **Manage Changes**: Control changes to the project scope, schedule, and budget using the defined change management process [Ref 2]. Address ambiguity or conflict regarding project deliverables, costs, and timelines [Ref 4].
+iii. **Manage Risks**: Monitor identified risks, implement risk responses, and identify new risks [Ref 13].
+iv. **Ensure Quality**: Continuously verify that deliverables meet quality standards.
+
+#### V. Project Closure
+This phase formally completes the project and hands over deliverables.
+
+i.  **Verify Deliverables and Obtain Acceptance**: Confirm all project objectives have been met and obtain formal acceptance of the final product from the customer/sponsor.
+ii. **Complete Administrative Closure**: Finalize all contracts, close out procurement activities, and release project resources.
+iii. **Conduct Lessons Learned**: Document successes, failures, and best practices to improve future projects.
+iv. **Formal Project Closure**: Formally close the project and archive project documentation [Ref 6, Ref 9].
+
+-----
+
+### Roles
+
+The success of the project relies on clear responsibilities and engaged individuals [Ref 4].
+
+i.  **Project Sponsor**: Person responsible for obtaining the resources and executive decisions to enable success [Ref 7]. Provides strategic guidance and resolves high-level issues.
+ii. **Project Manager**: Coordinates activities to direct and control the accomplishment of agreed objectives [Ref 7]. Integrates practices to initiate, plan, monitor, control, and close the project, managing resources and motivating individuals [Ref 9, Ref 12].
+iii. **Development Lead**: Responsible for the technical direction and execution of software development activities. Manages the development team.
+iv. **Quality Assurance (QA) Lead/Tester**: Responsible for ensuring the quality of deliverables, performing testing, and verifying requirements. Integral to building quality into deliverables [Ref 13].
+v.  **Key Stakeholders**: Persons, groups, or organizations that have interests in, or can affect, be affected by, or perceive themselves to be affected by, any aspect of a project [Ref 3, Ref 7]. This includes users, product owners, and potentially external customers.
+
+-----
+
+### RACI Matrix
+
+| Activity/Phase                  | Project Sponsor   | Project Manager | Development Lead | QA Lead    | Key Stakeholders |
+| :------------------------------ | :---------------- | :-------------- | :--------------- | :--------- | :--------------- |
+| **I. Project Initiation**       | A                 | R               | C                | I          | C, I             |
+| i. Define Objectives & Scope    | C                 | R               | I                | I          | C                |
+| ii. Identify Stakeholders       | I                 | R               | I                | I          | C                |
+| iii. Appoint Roles              | A, R [Ref 7]      | A, R            | C                | C          | I                |
+| iv. Develop Project Charter     | A [Ref 7]         | R               | I                | I          | I                |
+| **II. Project Planning**        | C                 | A, R [Ref 2, 9] | C                | C          | I                |
+| i. Define Product/Project Scope | C                 | R               | C [Ref 3]        | C          | A                |
+| ii. Estimate & Schedule         | I                 | R [Ref 2]       | C                | I          | I                |
+| iii. Determine Budget/Resources | A, C              | R [Ref 2]       | C                | I          | I                |
+| iv. Develop Management Plans    | C                 | R [Ref 2]       | C                | C          | I                |
+| v. Identify & Plan Risk Resp.   | C                 | R [Ref 13]      | C                | C          | I                |
+| vi. Tailor Dev Approach         | I                 | R [Ref 5, 6]    | A, C             | C          | I                |
+| vii. Finalize Project Plan      | A                 | R               | C                | C          | I                |
+| **III. Project Execution**      | I                 | A, R [Ref 9]    | R                | C          | C                |
+| i. Direct & Manage Project Work | I                 | A [Ref 5]       | R                | C          | I                |
+| ii. Manage Team & Resources     | I                 | R [Ref 13]      | A                | I          | I                |
+| iii. Implement Quality Assurance| I                 | C               | C                | A, R [Ref 13]| C                |
+| iv. Communicate Progress        | C                 | R               | I                | I          | A, I             |
+| v. Deliver Outputs              | C                 | R [Ref 6]       | A                | C          | C                |
+| **IV. Monitoring & Control**    | I                 | A, R [Ref 9]    | C                | C          | C                |
+| i. Monitor Project Performance  | C                 | R [Ref 2, 5]    | C                | C          | I                |
+| ii. Manage Changes              | A                 | R [Ref 2]       | C                | I          | C                |
+| iii. Manage Risks               | C                 | R [Ref 13]      | C                | I          | I                |
+| iv. Ensure Quality              | I                 | C               | C                | R [Ref 13] | C                |
+| **V. Project Closure**          | A                 | R [Ref 9]       | C                | C          | C                |
+| i. Verify & Obtain Acceptance   | A                 | R               | C                | C          | A                |
+| ii. Complete Admin. Closure     | I                 | R               | C                | I          | I                |
+| iii. Conduct Lessons Learned    | I                 | R               | C                | C          | C                |
+| iv. Formal Project Closure      | A                 | R               | C                | C          | I                |
+
+*R = Responsible, A = Accountable, C = Consulted, I = Informed*
+
+-----
+
+### Decision Gates
+
+Decision gates are crucial checkpoints where progress is reviewed, and a formal decision is made to proceed to the next phase, re-plan, or terminate the project. These gates are typically managed by the Project Manager and approved by the Project Sponsor, aligning with the concept of coordinated activities to direct and control objectives [Ref 7, Ref 9].
+
+i.  **Project Authorization Gate (End of Initiation)**:
+    *   **Purpose**: To formally authorize the project and commit resources for detailed planning.
+    *   **Inputs**: Project Charter, initial scope, high-level objectives.
+    *   **Decision**: Go/No-Go decision by the Project Sponsor [Ref 7]. If "Go," proceed to detailed planning.
+ii. **Planning Approval Gate (End of Planning)**:
+    *   **Purpose**: To approve the detailed Project Management Plan and commit resources for execution.
+    *   **Inputs**: Detailed Project Management Plan (including scope, schedule, budget, risk plan, quality plan) [Ref 2].
+    *   **Decision**: Project Sponsor approval based on the readiness and feasibility of the plan. This directs the next set of activities [Ref 9].
+iii. **Phase/Iteration Completion Gates (During Execution)**:
+    *   **Purpose**: For iterative software development, these gates occur at the end of each iteration or major development phase to review progress, completed deliverables, and adapt plans as needed.
+    *   **Inputs**: Completed features, test results, updated plans, risk logs.
+    *   **Decision**: Project Manager and Key Stakeholders (e.g., product owner) decide on proceeding to the next iteration or requiring re-work. This involves continuous monitoring and control [Ref 9] and ensures delivery aligns with expectations [Ref 4].
+iv. **Final Acceptance Gate (End of Execution/Start of Closure)**:
+    *   **Purpose**: To confirm that all agreed-upon project objectives and deliverables have been met and are accepted by the customer/sponsor.
+    *   **Inputs**: Final product, test reports, user acceptance sign-off.
+    *   **Decision**: Formal acceptance of deliverables by the Project Sponsor/Customer. This signifies successful completion of the "delivery" performance domain [Ref 5].
+v.  **Project Closure Gate (End of Closure)**:
+    *   **Purpose**: To formally close the project and document its completion.
+    *   **Inputs**: Final project report, lessons learned documentation, resource release confirmation.
+    *   **Decision**: Project Sponsor confirms formal project closure [Ref 6, Ref 9].
+
+-----
+
+### Note
+This section lists all references used in the process recommendation:
+
+Ref 1: ISO21502, Page 9 (Similarity: 0.609)
+Ref 2: PMBOK, Page 30 (Similarity: 0.599)
+Ref 3: ISO21502, Page 12 (Similarity: 0.589)
+Ref 4: PRINCE2, Page 4 (Similarity: 0.575)
+Ref 5: PMBOK, Page 24 (Similarity: 0.569)
+Ref 6: PRINCE2, Page 6 (Similarity: 0.528)
+Ref 7: ISO21500, Page 9 (Similarity: 0.519)
+Ref 8: ISO21500, Page 9 (Similarity: 0.515)
+Ref 9: ISO21502, Page 14 (Similarity: 0.514)
+Ref 12: ISO21502, Page 7 (Similarity: 0.506)
+Ref 13: PMBOK, Page 10 (Similarity: 0.501)
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 21113_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.609) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.599) → /pdf/PMBOK#page=30
+• [Ref 3] ISO21502 - Page 12 (Similarity: 0.589) → /pdf/ISO21502#page=12
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.575) → /pdf/PRINCE2#page=4
+• [Ref 5] PMBOK - Page 24 (Similarity: 0.569) → /pdf/PMBOK#page=24
+• [Ref 6] PRINCE2 - Page 6 (Similarity: 0.528) → /pdf/PRINCE2#page=6
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.519) → /pdf/ISO21500#page=9
+• [Ref 8] ISO21500 - Page 9 (Similarity: 0.515) → /pdf/ISO21500#page=9
+• [Ref 9] ISO21502 - Page 14 (Similarity: 0.514) → /pdf/ISO21502#page=14
+• [Ref 10] ISO21502 - Page 1 (Similarity: 0.513) → /pdf/ISO21502#page=1
+• [Ref 11] ISO21502 - Page 7 (Similarity: 0.507) → /pdf/ISO21502#page=7
+• [Ref 12] ISO21502 - Page 7 (Similarity: 0.506) → /pdf/ISO21502#page=7
+• [Ref 13] PMBOK - Page 10 (Similarity: 0.501) → /pdf/PMBOK#page=10
+• [Ref 14] ISO21502 - Page 12 (Similarity: 0.496) → /pdf/ISO21502#page=12
+• [Ref 15] ISO21502 - Page 9 (Similarity: 0.494) → /pdf/ISO21502#page=9

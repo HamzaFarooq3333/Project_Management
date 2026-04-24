@@ -1,0 +1,118 @@
+Scenario: [34331] Innovative Product Development | Marketing | Large (> 18 months) | Healthcare | PMBOK
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21500, ISO21502
+
+================================================================================
+
+### Process Recommendation: Large-Scale Healthcare Marketing Project (PMBOK)
+
+This process recommendation outlines the key phases, activities, roles, and decision gates for a large-scale marketing project within the healthcare industry, aligned with PMBOK principles and considering relevant guidance from ISO21502. Given the project's size ( >18 months), a structured and iterative approach is essential. The project should adopt a project management approach described in ISO 21502 and applicable to "any organization, including public, private and charitable, as well as to any type of project, regardless of purpose, delivery approaches, life cycle model used, complexity, size, cost or duration." [Ref 2]
+
+-----
+
+### Phases and Activities
+
+This project will follow a standard project lifecycle with the following key phases:
+
+I. **Initiation:**
+   i.  **Project Charter Development:** Define the project's purpose, objectives, scope, stakeholders, and initial resources. This establishes the foundation for the project [Ref 3].
+   ii. **Stakeholder Identification:** Identify all relevant stakeholders and analyze their needs, expectations, and level of influence. Engaging stakeholders effectively is crucial [Ref 6].
+
+II. **Planning:**
+   i.  **Scope Definition:** Develop a detailed project scope statement and Work Breakdown Structure (WBS) to decompose project deliverables into manageable work packages [Ref 4].
+   ii. **Schedule Development:** Create a realistic project schedule with clearly defined tasks, dependencies, milestones, and resource allocations.
+   iii. **Budgeting:** Estimate the project's total cost, including labor, materials, and other expenses. A detailed budget serves as a baseline for cost control [Ref 1].
+   iv.  **Resource Planning:** Determine the required resources (human, equipment, materials) and their availability.
+   v.  **Communication Planning:** Develop a communication plan to ensure timely and effective communication with all stakeholders.
+   vi. **Risk Management Planning:** Identify potential risks (both threats and opportunities), assess their impact and probability, and develop mitigation strategies [Ref 8].
+   vii. **Procurement Planning:** Plan for any necessary external procurement of goods or services [Ref 1].
+
+III. **Execution:**
+    i. **Team Development:** Foster a collaborative project team environment [Ref 6].
+    ii. **Deliverable Creation:** Execute the tasks defined in the project schedule and WBS to produce the project deliverables.
+    iii. **Quality Assurance:** Implement quality control measures to ensure that deliverables meet the defined quality standards.
+    iv. **Communication & Stakeholder Management:** Maintain regular communication with stakeholders and manage their expectations.
+
+IV. **Monitoring and Controlling:**
+    i. **Performance Measurement:** Track project progress against the schedule, budget, and scope baselines. Measure project performance regularly [Ref 1].
+    ii. **Change Management:** Implement a change management process to handle changes to the project scope, schedule, or budget effectively. All changes should be documented and approved [Ref 1].
+    iii. **Risk Monitoring and Control:** Monitor identified risks and implement mitigation plans as needed. Identify and assess new risks that may arise during the project.
+    iv. **Issue Management:** Track and resolve any issues that arise during the project.
+
+V. **Closure:**
+   i.  **Deliverable Acceptance:** Obtain formal acceptance of all project deliverables from the stakeholders.
+   ii. **Project Documentation:** Archive all project documentation, including plans, reports, and lessons learned.
+   iii. **Final Reporting:** Prepare and distribute a final project report summarizing the project's outcomes and performance.
+   iv. **Team Recognition:** Recognize and celebrate the team's accomplishments.
+
+-----
+
+### Roles
+
+i.  **Project Sponsor:** Provides overall direction, resources, and executive support [Ref 9].
+ii. **Project Manager:** Leads the project team, manages the project plan, and ensures that the project is completed on time, within budget, and to the required quality standards.
+iii. **Marketing Lead:** Subject matter expert responsible for marketing strategy, execution, and results.
+iv.  **Project Team Members:** Execute project tasks and contribute their expertise to the project deliverables.
+v.  **Stakeholders:** Individuals or groups who have an interest in the project or who are affected by its outcome.
+
+-----
+
+### RACI Matrix
+
+| Phase                     | Project Sponsor | Project Manager | Marketing Lead | Project Team Members | Stakeholders |
+|--------------------------|-----------------|-----------------|----------------|-----------------------|--------------|
+| Initiation                | A               | R               | C               | I                     | I            |
+| Planning                  | C               | R               | A               | I                     | I            |
+| Execution                 | I               | R               | A               | R/C                   | I            |
+| Monitoring and Controlling| I               | R               | C               | I                     | I/C          |
+| Closure                   | A               | R               | C               | I                     | I            |
+
+**Key:**
+*   R = Responsible
+*   A = Accountable
+*   C = Consulted
+*   I = Informed
+
+-----
+
+### Decision Gates
+
+i.  **End of Initiation Phase:** Approval of the Project Charter. This ensures alignment on project objectives and scope before significant resources are invested.
+ii. **End of Planning Phase:** Approval of the Project Management Plan. This ensures that the project plan is comprehensive, realistic, and aligned with stakeholder expectations. [Ref 1]
+iii. **Mid-Project Review:** A formal review of project progress, risks, and issues. This provides an opportunity to make adjustments to the project plan if necessary.
+iv. **Pre-Closure Review:** Review of deliverables and confirmation of stakeholder acceptance before formal project closure.
+v.  **Project Closure:** Formal sign-off and completion of all project documentation and closure activities.
+
+-----
+
+### Note
+
+Ref 1: PMBOK, Page 30 (Similarity: 0.587)
+Ref 2: ISO21502, Page 9 (Similarity: 0.576)
+Ref 3: PMBOK, Page 24 (Similarity: 0.559)
+Ref 4: ISO21502, Page 12 (Similarity: 0.533)
+Ref 6: PMBOK, Page 10 (Similarity: 0.513)
+Ref 8: PMBOK, Page 20 (Similarity: 0.478)
+Ref 9: ISO21500, Page 9 (Similarity: 0.477)
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 34331_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 30 (Similarity: 0.587) → /pdf/PMBOK#page=30
+• [Ref 2] ISO21502 - Page 9 (Similarity: 0.576) → /pdf/ISO21502#page=9
+• [Ref 3] PMBOK - Page 24 (Similarity: 0.559) → /pdf/PMBOK#page=24
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.533) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.522) → /pdf/PRINCE2#page=4
+• [Ref 6] PMBOK - Page 10 (Similarity: 0.513) → /pdf/PMBOK#page=10
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.480) → /pdf/ISO21500#page=9
+• [Ref 8] PMBOK - Page 20 (Similarity: 0.478) → /pdf/PMBOK#page=20
+• [Ref 9] ISO21500 - Page 9 (Similarity: 0.477) → /pdf/ISO21500#page=9
+• [Ref 10] PRINCE2 - Page 6 (Similarity: 0.475) → /pdf/PRINCE2#page=6
+• [Ref 11] ISO21502 - Page 1 (Similarity: 0.451) → /pdf/ISO21502#page=1
+• [Ref 12] PMBOK - Page 9 (Similarity: 0.447) → /pdf/PMBOK#page=9
+• [Ref 13] ISO21502 - Page 10 (Similarity: 0.447) → /pdf/ISO21502#page=10
+• [Ref 14] ISO21502 - Page 11 (Similarity: 0.446) → /pdf/ISO21502#page=11
+• [Ref 15] ISO21502 - Page 15 (Similarity: 0.440) → /pdf/ISO21502#page=15

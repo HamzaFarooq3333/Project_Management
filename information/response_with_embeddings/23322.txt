@@ -1,0 +1,164 @@
+Scenario: [23322] Custom Software Development | Research | Large (> 18 months) | Construction | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: ISO21500, ISO21502, PRINCE2, PMBOK
+
+================================================================================
+
+### Process Recommendation: Large-Scale Construction Research Project (PRINCE2)
+
+#### 1. Process Summary
+
+This process recommendation outlines the management of a large-scale construction research project using the PRINCE2 methodology, which is specifically designed to meet the challenges of such complex endeavors. PRINCE2 provides a structured, flexible framework that emphasizes control, stakeholder engagement, and a focus on delivering value [Ref 4, Ref 6]. This project, given its research nature, will leverage PRINCE2's principles, processes, and themes to ensure the project meets its objectives, including a focus on the delivery of a unique and verifiable element that is required to be produced by a project [Ref 7]. The project's large size (> 18 months) necessitates a phased approach, incorporating rigorous planning, monitoring, and control mechanisms. The project will be managed using a life cycle that contains clearly defined phases [Ref 8], each with specific objectives and deliverables. This aligns with PRINCE2's emphasis on managing projects from start to finish [Ref 6]. This project plan will also need to be flexible enough to handle changes through change management [Ref 2] and will ensure the project team works in a collaborative environment [Ref 11].
+
+-----
+
+#### 2. Phases and Activities
+
+The project will be structured in the following phases, mirroring a typical PRINCE2 project lifecycle:
+
+I. **Project Initiation:**
+   i. Define Project Brief: Clearly articulate the project's objectives, scope, and desired outcomes [Ref 4].
+   ii. Create Project Initiation Documentation (PID): A crucial document outlining the project's scope, risks, issues, approach, and project controls [Ref 4]. This phase establishes the foundations of the project.
+   iii. Identify Key Stakeholders: Define all stakeholders and their requirements [Ref 1, Ref 9, Ref 18].
+   iv. Risk Assessment: Identify and assess potential risks [Ref 11].
+
+II. **Project Planning:**
+   i. Break Down Work: Develop a Work Breakdown Structure (WBS) to decompose the project scope into manageable work packages [Ref 5].
+   ii. Define Product Scope: Clearly define the product scope [Ref 2].
+   iii. Develop Project Schedule: Create a detailed schedule outlining activities, dependencies, and timelines.
+   iv. Budget Development: Prepare a comprehensive project budget [Ref 2].
+   v. Communication Planning: Establish a communication plan to manage stakeholder communication [Ref 2].
+   vi. Resource Planning: Determine required resources, including personnel, equipment, and materials.
+   vii. Procurement Planning: If needed, establish procurement processes [Ref 2].
+
+III. **Project Execution:**
+   i. Manage Project Work: Execute the project activities as defined in the project plan.
+   ii. Deliver Deliverables: Create and deliver the required project deliverables [Ref 7].
+   iii. Manage Issues and Risks: Actively manage issues and risks, implementing mitigation strategies.
+   iv. Monitor and Control: Monitor project progress against the plan, using metrics for measurement [Ref 1, Ref 2].
+   v. Change Management: Implement the change management plan to handle scope changes, document all changes, and get approvals [Ref 2].
+
+IV. **Project Closure:**
+   i. Acceptance of Deliverables: Obtain formal acceptance of all deliverables from the relevant stakeholders.
+   ii. Project Evaluation: Conduct a post-project review to assess project performance.
+   iii. Final Reporting: Prepare and distribute final project reports.
+   iv. Administrative Closure: Close out all project contracts and administrative tasks.
+
+-----
+
+#### 3. Roles
+
+Key roles within the project team will align with PRINCE2 principles:
+
+*   **Project Sponsor:** Responsible for the overall success of the project and provides resources [Ref 9, Ref 17].
+*   **Project Manager:** Responsible for day-to-day management, planning, and execution [Ref 14].
+*   **Senior User(s):** Represent the user community and ensure the project delivers the expected benefits.
+*   **Senior Supplier(s):** Represent the suppliers and ensure the deliverables meet the required quality standards.
+*   **Project Assurance:** Provides independent oversight and assurance on the project.
+*   **Project Team Members:** Perform the project's tasks, contributing to its deliverables.
+*   **Project Support:** Provides administrative and logistical support to the project team.
+
+-----
+
+#### 4. RACI Matrix
+
+| Phase                    | Project Sponsor | Project Manager | Senior User(s) | Senior Supplier(s) | Project Assurance | Project Team Members | Project Support |
+| :----------------------- | :-------------: | :-------------: | :--------------: | :----------------: | :----------------: | :------------------: | :-------------: |
+| **I. Project Initiation** |       A         |        R        |        C         |          I         |         C          |          I           |        I        |
+| **II. Project Planning** |       A         |        R        |        C         |          C         |         I          |          C           |        I        |
+| **III. Project Execution** |       C         |        R        |        C         |          I         |         A          |          R           |        I        |
+| **IV. Project Closure**   |       A         |        R        |        C         |          I         |         C          |          I           |        I        |
+
+*   **R** = Responsible: Performs the work.
+*   **A** = Accountable: Ultimately answerable for the correct and thorough completion of the deliverable or task.
+*   **C** = Consulted: Consulted before a decision or action.
+*   **I** = Informed: Kept informed of progress and decisions.
+
+-----
+
+#### 5. Decision Gates
+
+Decision gates are critical checkpoints throughout the project lifecycle. Key decision points include:
+
+i. **Project Initiation Approval:** The Project Sponsor approves the Project Initiation Documentation (PID), signifying the project's official start.
+ii. **Project Plan Approval:** The Project Sponsor approves the detailed project plan, including the budget and schedule.
+iii. **Stage-Gate Reviews:** At the end of each stage, a stage-gate review will evaluate the stage's performance against the plan, to ensure that the project is likely to achieve its objectives [Ref 8].
+iv. **Change Control Approvals:** Formal approvals are required for any change requests.
+v. **Project Closure Approval:** The Project Sponsor approves the project closure report and the project's final acceptance.
+
+-----
+
+#### 6. Embeddings & Citations Section
+
+Note:
+Ref 1: PMBOK, Page 24 (Similarity: 0.612)
+Ref 2: PMBOK, Page 30 (Similarity: 0.600)
+Ref 3: ISO21502, Page 9 (Similarity: 0.583)
+Ref 4: PRINCE2, Page 4 (Similarity: 0.572)
+Ref 5: ISO21502, Page 12 (Similarity: 0.560)
+Ref 6: PRINCE2, Page 6 (Similarity: 0.547)
+Ref 7: ISO21502, Page 10 (Similarity: 0.543)
+Ref 8: ISO21502, Page 11 (Similarity: 0.534)
+Ref 9: ISO21500, Page 9 (Similarity: 0.531)
+Ref 10: ISO21502, Page 1 (Similarity: 0.515)
+Ref 11: PMBOK, Page 10 (Similarity: 0.511)
+Ref 12: ISO21502, Page 7 (Similarity: 0.509)
+Ref 13: PMBOK, Page 9 (Similarity: 0.501)
+Ref 14: ISO21502, Page 7 (Similarity: 0.496)
+Ref 15: PRINCE2, Page 1 (Similarity: 0.483)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 9: Page 9, Similarity: 0.531 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 10: Page 1, Similarity: 0.515 (/pdf/ISO21502#page=1)
+- Ref 12: Page 7, Similarity: 0.509 (/pdf/ISO21502#page=7)
+- Ref 14: Page 7, Similarity: 0.496 (/pdf/ISO21502#page=7)
+- Ref 3: Page 9, Similarity: 0.583 (/pdf/ISO21502#page=9)
+- Ref 7: Page 10, Similarity: 0.543 (/pdf/ISO21502#page=10)
+- Ref 8: Page 11, Similarity: 0.534 (/pdf/ISO21502#page=11)
+- Ref 5: Page 12, Similarity: 0.560 (/pdf/ISO21502#page=12)
+
+**PMBOK:**
+- Ref 13: Page 9, Similarity: 0.501 (/pdf/PMBOK#page=9)
+- Ref 11: Page 10, Similarity: 0.511 (/pdf/PMBOK#page=10)
+- Ref 1: Page 24, Similarity: 0.612 (/pdf/PMBOK#page=24)
+- Ref 2: Page 30, Similarity: 0.600 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 15: Page 1, Similarity: 0.483 (/pdf/PRINCE2#page=1)
+- Ref 4: Page 4, Similarity: 0.572 (/pdf/PRINCE2#page=4)
+- Ref 6: Page 6, Similarity: 0.547 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 23322_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 24 (Similarity: 0.612) → /pdf/PMBOK#page=24
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.600) → /pdf/PMBOK#page=30
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.583) → /pdf/ISO21502#page=9
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.572) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.560) → /pdf/ISO21502#page=12
+• [Ref 6] PRINCE2 - Page 6 (Similarity: 0.547) → /pdf/PRINCE2#page=6
+• [Ref 7] ISO21502 - Page 10 (Similarity: 0.543) → /pdf/ISO21502#page=10
+• [Ref 8] ISO21502 - Page 11 (Similarity: 0.534) → /pdf/ISO21502#page=11
+• [Ref 9] ISO21500 - Page 9 (Similarity: 0.531) → /pdf/ISO21500#page=9
+• [Ref 10] ISO21502 - Page 1 (Similarity: 0.515) → /pdf/ISO21502#page=1
+• [Ref 11] PMBOK - Page 10 (Similarity: 0.511) → /pdf/PMBOK#page=10
+• [Ref 12] ISO21502 - Page 7 (Similarity: 0.509) → /pdf/ISO21502#page=7
+• [Ref 13] PMBOK - Page 9 (Similarity: 0.501) → /pdf/PMBOK#page=9
+• [Ref 14] ISO21502 - Page 7 (Similarity: 0.496) → /pdf/ISO21502#page=7
+• [Ref 15] PRINCE2 - Page 1 (Similarity: 0.483) → /pdf/PRINCE2#page=1

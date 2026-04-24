@@ -1,0 +1,137 @@
+Scenario: [13123] Custom Project (Manual Configuration) | Research | Small (< 6 months) | Construction | ISO Standards
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Small-Scale Construction Research Project
+
+This document outlines a project management process tailored for a small-scale construction research project, adhering to ISO standards and considering the project's limited scope (< 6 months). The process emphasizes a structured yet adaptable approach, considering the manual configuration aspect. Key to success will be strong stakeholder engagement and proactive risk management.
+
+-----
+
+#### I. Process Summary
+
+This project will follow a phased approach aligned with the principles of project management, as outlined in the PMBOK Guide and ISO 21502. The project's success hinges on clear objectives, effective communication, and diligent execution. Key domains include stakeholder management, project planning, execution, and monitoring. The entire project lifecycle will be managed, from pre-project activities to project closure [Ref 6]. This approach is applicable to any type of project [Ref 3]. The emphasis will be on delivering a unique and verifiable deliverable [Ref 7].
+
+-----
+
+#### II. Phases and Activities
+
+The project will be divided into the following phases:
+
+I. **Initiation**
+   i. Define project scope and objectives. Clearly define the deliverables and their required quality.
+   ii. Identify stakeholders and their requirements [Ref 1, Ref 8].
+   iii. Develop a Project Charter and secure sponsor approval [Ref 8, Ref 17].
+   iv. Identify project team members and assign roles and responsibilities.
+   v. Develop a communication plan outlining how information will be shared among stakeholders [Ref 2].
+
+II. **Planning**
+   i. Develop a detailed Work Breakdown Structure (WBS) to decompose the project scope into manageable tasks [Ref 5].
+   ii. Create a project schedule, including task dependencies, durations, and resource allocation [Ref 2].
+   iii. Estimate the project budget, considering all costs, including labor, materials, and potential contingencies [Ref 2].
+   iv. Develop a risk management plan to identify potential risks and mitigation strategies [Ref 9, Ref 10].
+   v. Define a change management process [Ref 2].
+   vi. Document the project plan and secure stakeholder approval.
+
+III. **Execution**
+   i. Execute project tasks according to the project plan.
+   ii. Monitor progress against the schedule and budget.
+   iii. Manage project resources effectively.
+   iv. Implement the communication plan to keep stakeholders informed.
+   v. Manage and resolve issues that arise.
+   vi. Implement the risk management plan, addressing identified risks and any new risks that emerge.
+   vii. Build quality into processes and deliverables [Ref 9].
+
+IV. **Monitoring and Controlling**
+   i. Track project performance using appropriate metrics [Ref 2].
+   ii. Regularly review the project schedule, budget, and scope.
+   iii. Manage changes according to the change management plan [Ref 2].
+   iv. Report project status to stakeholders [Ref 2].
+   v. Implement the measurement domain [Ref 1].
+
+V. **Closure**
+   i. Obtain formal acceptance of project deliverables from the sponsor and stakeholders.
+   ii. Conduct a project review to identify lessons learned.
+   iii. Archive project documentation.
+   iv. Formally close the project.
+
+-----
+
+#### III. Roles
+
+i. **Project Sponsor:** Responsible for obtaining resources and making executive decisions to enable success [Ref 8].
+ii. **Project Manager:** Responsible for overall project management, including planning, execution, monitoring, and closure.
+iii. **Team Members:** Individuals responsible for completing specific project tasks.
+iv. **Stakeholders:** Individuals or groups affected by the project [Ref 8]. They must be actively engaged [Ref 9].
+
+-----
+
+#### IV. RACI Matrix
+
+| Phase               | Project Sponsor | Project Manager | Team Members | Stakeholders |
+|---------------------|-----------------|-----------------|--------------|--------------|
+| **Initiation**       | R               | A               | C            | I            |
+| **Planning**         | C               | A               | R            | I            |
+| **Execution**        | I               | A               | R            | C            |
+| **Monitoring & Controlling** | I               | A               | C            | R            |
+| **Closure**          | A               | A               | C            | I            |
+
+*   **R** = Responsible
+*   **A** = Accountable
+*   **C** = Consulted
+*   **I** = Informed
+
+-----
+
+#### V. Decision Gates
+
+Key decision points requiring stakeholder approval include:
+
+i.  Project Charter Approval (Initiation) - Signifies project commencement [Ref 8].
+ii.  Project Plan Approval (Planning) - Confirms the project roadmap [Ref 2].
+iii.  Change Request Approval (Execution/Monitoring) - Changes undergo formal review and approval.
+iv.  Deliverable Acceptance (Closure) - Formal acceptance of the completed work.
+
+-----
+
+#### Note: Embeddings & Citations Section
+
+*   Ref 1: PMBOK, Page 24 (Similarity: 0.625)
+*   Ref 2: PMBOK, Page 30 (Similarity: 0.606)
+*   Ref 3: ISO21502, Page 9 (Similarity: 0.587)
+*   Ref 4: PRINCE2, Page 4 (Similarity: 0.580)
+*   Ref 5: ISO21502, Page 12 (Similarity: 0.565)
+*   Ref 6: PRINCE2, Page 6 (Similarity: 0.549)
+*   Ref 7: ISO21502, Page 10 (Similarity: 0.541)
+*   Ref 8: ISO21500, Page 9 (Similarity: 0.530)
+*   Ref 9: PMBOK, Page 10 (Similarity: 0.524)
+*   Ref 10: ISO21502, Page 11 (Similarity: 0.517)
+*   Ref 11: ISO21502, Page 1 (Similarity: 0.515)
+*   Ref 12: ISO21502, Page 7 (Similarity: 0.508)
+*   Ref 13: PMBOK, Page 9 (Similarity: 0.508)
+*   Ref 14: ISO21502, Page 7 (Similarity: 0.502)
+*   Ref 15: PRINCE2, Page 1 (Similarity: 0.487)
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 13123_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 24 (Similarity: 0.625) → /pdf/PMBOK#page=24
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.606) → /pdf/PMBOK#page=30
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.587) → /pdf/ISO21502#page=9
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.580) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.565) → /pdf/ISO21502#page=12
+• [Ref 6] PRINCE2 - Page 6 (Similarity: 0.549) → /pdf/PRINCE2#page=6
+• [Ref 7] ISO21502 - Page 10 (Similarity: 0.541) → /pdf/ISO21502#page=10
+• [Ref 8] ISO21500 - Page 9 (Similarity: 0.530) → /pdf/ISO21500#page=9
+• [Ref 9] PMBOK - Page 10 (Similarity: 0.524) → /pdf/PMBOK#page=10
+• [Ref 10] ISO21502 - Page 11 (Similarity: 0.517) → /pdf/ISO21502#page=11
+• [Ref 11] ISO21502 - Page 1 (Similarity: 0.515) → /pdf/ISO21502#page=1
+• [Ref 12] ISO21502 - Page 7 (Similarity: 0.508) → /pdf/ISO21502#page=7
+• [Ref 13] PMBOK - Page 9 (Similarity: 0.508) → /pdf/PMBOK#page=9
+• [Ref 14] ISO21502 - Page 7 (Similarity: 0.502) → /pdf/ISO21502#page=7
+• [Ref 15] PRINCE2 - Page 1 (Similarity: 0.487) → /pdf/PRINCE2#page=1

@@ -1,0 +1,127 @@
+Scenario: [13112] Custom Project (Manual Configuration) | Research | Small (< 6 months) | Information Technology | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Summary
+
+This process recommendation outlines a PRINCE2-aligned approach for managing a small-scale information technology research project involving manual configuration, with a planned duration of under six months. This project is rooted in the fundamental principles of project management as defined across various standards including PMBOK, ISO 21502 and PRINCE2. The project will prioritize effective planning, stakeholder engagement, and continuous monitoring to ensure objectives are met within the specified timeframe and budget. This approach recognizes that projects are "temporary endeavors to achieve one or more defined objectives" [Ref 6]. This approach is adaptable and tailors the process according to context [Ref 15]. The project will leverage key PRINCE2 elements, focusing on defined stages, clear responsibilities, and effective change management. This document provides a framework of activities and responsibilities [Ref 7].
+
+-----
+
+### Phases and Activities
+
+The project lifecycle will be structured into the following phases, designed to align with PRINCE2 principles [Ref 3, Ref 7].
+
+#### I. Project Initiation
+
+i.  **Define Project Objectives and Scope:** Clearly outline the research goals, scope, and deliverables. This includes identifying key stakeholders and their requirements [Ref 1, Ref 5].
+ii. **Create Project Brief:** Document the project's purpose, objectives, constraints, and anticipated benefits.
+iii. **Develop Project Initiation Documentation (PID):** This key document will define the project's approach, including roles, responsibilities, communication plan, and risk management strategy [Ref 1, Ref 4, Ref 7].
+iv. **Conduct Feasibility Study:** Assess the technical feasibility and resource availability for the manual configuration aspects of the research.
+v. **Establish Project Team:** Identify and assign roles to relevant team members, considering skill sets and expertise.
+
+#### II. Planning
+
+i.  **Define Product Scope and Deliverables:**  Break down the overall project scope into manageable work packages and define tangible deliverables [Ref 1, Ref 5, Ref 11].
+ii. **Develop a Project Schedule:** Create a realistic schedule, considering task dependencies, resource availability, and the project's duration.
+iii. **Develop a Budget:**  Estimate and allocate resources, including labor, materials, and any necessary procurement.
+iv.  **Develop a Communication Plan:** Define how and when to communicate project information to stakeholders [Ref 1].
+v.  **Identify and Assess Risks:** Conduct a risk assessment to identify potential threats and develop mitigation strategies [Ref 4, Ref 13].
+vi. **Create a Change Management Process:**  Establish a process for managing and controlling changes to the project scope, schedule, or budget [Ref 1].
+
+#### III. Execution and Control
+
+i.  **Execute the Project Plan:**  Carry out the planned activities, as per the established project schedule and budget.
+ii. **Configure and Test:** Implement manual configurations, adhering to the project's scope and quality standards.
+iii. **Monitor Project Progress:** Regularly track progress against the project plan, including schedule, budget, and scope [Ref 4, Ref 10].
+iv.  **Manage Issues and Risks:** Address any issues or risks, and implement mitigation plans as needed.
+v.  **Manage Project Team:**  Provide project direction, support, and necessary training.
+vi. **Manage Communication:** Ensure relevant information is disseminated appropriately and promptly [Ref 1, Ref 10].
+vii. **Control Change Requests:**  Implement the established change management process to manage and control any project changes [Ref 1].
+
+#### IV. Closure
+
+i.  **Deliver Project Deliverables:** Ensure that project deliverables meet specified requirements and are validated by the relevant stakeholders [Ref 11].
+ii. **Obtain Project Acceptance:** Formally obtain acceptance of deliverables from the project's sponsor and stakeholders.
+iii. **Review Project Performance:** Conduct a post-project review to identify lessons learned and identify areas of improvement for future projects.
+iv.  **Close Project:** Complete all administrative closure activities, including the final project report.
+
+-----
+
+### Roles
+
+*   **Project Manager:** Responsible for the overall management of the project, including planning, execution, monitoring, and control.
+*   **Project Sponsor:** Provides overall project support and authorization, provides resources, and makes executive decisions [Ref 6].
+*   **Team Members:** Responsible for performing the tasks as assigned by the Project Manager.
+*   **Stakeholders:** Any individuals or organizations that may affect, be affected by, or perceive themselves to be affected by the project [Ref 5, Ref 6].
+
+-----
+
+### RACI Matrix
+
+| Phase                    | Project Manager | Project Sponsor | Team Members | Stakeholders |
+| ------------------------ | --------------- | --------------- | ------------ | ------------- |
+| **I. Project Initiation** | R               | A               | C            | I             |
+| **II. Planning**         | R               | A               | C            | I             |
+| **III. Execution & Control** | R               | I               | A            | C             |
+| **IV. Closure**          | R               | A               | C            | I             |
+
+*   **R** = Responsible (The person or role that performs the work)
+*   **A** = Accountable (The person or role ultimately accountable for the correct and thorough completion of the deliverable or task)
+*   **C** = Consulted (The person or role that is consulted for advice and input)
+*   **I** = Informed (The person or role that is kept informed of progress and decisions)
+
+-----
+
+### Decision Gates
+
+These are key decision points where project progress and direction are reviewed.
+
+i.  **Project Initiation Approval:** The project sponsor formally approves the Project Initiation Documentation (PID). [Ref 6]
+ii.  **Project Plan Approval:** The project sponsor and key stakeholders review and approve the project plan. [Ref 1]
+iii.  **Change Request Approval:** Change requests are formally reviewed and approved or rejected via the defined change management process. [Ref 1]
+iv.  **Deliverable Acceptance:**  Project deliverables are reviewed and accepted by the project sponsor and key stakeholders. [Ref 11]
+v.  **Project Closure Approval:** The project sponsor formally approves the project closure.
+
+-----
+
+### Note
+*   Ref 1: PMBOK, Page 30
+*   Ref 2: ISO21502, Page 9
+*   Ref 3: PRINCE2, Page 4
+*   Ref 4: PMBOK, Page 24
+*   Ref 5: ISO21502, Page 12
+*   Ref 6: ISO21500, Page 9
+*   Ref 7: PRINCE2, Page 6
+*   Ref 8: ISO21502, Page 1
+*   Ref 9: ISO21502, Page 7
+*   Ref 10: ISO21502, Page 14
+*   Ref 11: ISO21502, Page 10
+*   Ref 12: ISO21502, Page 11
+*   Ref 13: ISO21500, Page 9
+*   Ref 14: ISO21502, Page 7
+*   Ref 15: PMBOK, Page 10
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 13112_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 30 (Similarity: 0.600) → /pdf/PMBOK#page=30
+• [Ref 2] ISO21502 - Page 9 (Similarity: 0.595) → /pdf/ISO21502#page=9
+• [Ref 3] PRINCE2 - Page 4 (Similarity: 0.582) → /pdf/PRINCE2#page=4
+• [Ref 4] PMBOK - Page 24 (Similarity: 0.581) → /pdf/PMBOK#page=24
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.575) → /pdf/ISO21502#page=12
+• [Ref 6] ISO21500 - Page 9 (Similarity: 0.535) → /pdf/ISO21500#page=9
+• [Ref 7] PRINCE2 - Page 6 (Similarity: 0.528) → /pdf/PRINCE2#page=6
+• [Ref 8] ISO21502 - Page 1 (Similarity: 0.526) → /pdf/ISO21502#page=1
+• [Ref 9] ISO21502 - Page 7 (Similarity: 0.525) → /pdf/ISO21502#page=7
+• [Ref 10] ISO21502 - Page 14 (Similarity: 0.516) → /pdf/ISO21502#page=14
+• [Ref 11] ISO21502 - Page 10 (Similarity: 0.516) → /pdf/ISO21502#page=10
+• [Ref 12] ISO21502 - Page 11 (Similarity: 0.511) → /pdf/ISO21502#page=11
+• [Ref 13] ISO21500 - Page 9 (Similarity: 0.509) → /pdf/ISO21500#page=9
+• [Ref 14] ISO21502 - Page 7 (Similarity: 0.509) → /pdf/ISO21502#page=7
+• [Ref 15] PMBOK - Page 10 (Similarity: 0.505) → /pdf/PMBOK#page=10

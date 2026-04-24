@@ -1,0 +1,191 @@
+Scenario: [15231] Custom Project (Manual Configuration) | Infrastructure | Medium (6-18 months) | Healthcare | PMBOK
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Healthcare Infrastructure Project
+
+This process recommendation outlines a project management framework for a medium-scale healthcare infrastructure project involving manual configuration, aligned with the PMBOK Guide. The framework prioritizes planning, stakeholder management, risk mitigation, and quality control, leveraging PMBOK and ISO 21502 standards [Ref 1, Ref 2, Ref 3]. Manual configuration requires a focus on detailed planning and careful execution. The project will be managed within an estimated timeframe of 6-18 months.
+
+-----
+
+#### I. Process Summary
+
+This project will adhere to the principles outlined in the PMBOK Guide [Ref 11], focusing on value delivery, stakeholder engagement [Ref 4], and adaptability. The methodology will encompass the standard PMBOK project management processes. The project lifecycle will consist of defined phases from initiation to closure [Ref 8]. Key areas of focus include:
+
+i.  **Scope Management:** Defining and controlling the project scope, including detailed requirements gathering and documentation [Ref 3].
+ii.  **Schedule Management:** Developing a realistic project schedule and tracking progress.  This includes estimating activities [Ref 1] and managing dependencies.
+iii. **Cost Management:** Budgeting, cost estimating, and controlling project expenditures.
+iv.  **Quality Management:** Implementing quality assurance and control processes to ensure deliverables meet requirements [Ref 4, Ref 8].
+v.  **Resource Management:** Acquiring and managing project resources, including personnel and equipment.
+vi.  **Communications Management:** Establishing a communication plan to ensure timely and effective information flow [Ref 1].
+vii. **Risk Management:** Identifying, analyzing, and mitigating project risks [Ref 10].
+viii. **Procurement Management:** Managing procurement activities, if applicable [Ref 1].
+ix.  **Stakeholder Management:** Engaging and managing stakeholders' expectations throughout the project [Ref 4].
+x.  **Change Management:** Establishing a change control process to manage project changes.
+
+#### II. Phases and Activities
+
+The project will be broken down into the following phases:
+
+**I. Initiation Phase:**
+
+i.  Define project objectives, scope, and deliverables. This includes identifying stakeholders [Ref 2] and documenting their needs.
+ii.  Develop the project charter, outlining the project's purpose and authorization.
+iii. Identify key stakeholders and their expectations.
+iv. Conduct a feasibility study and obtain project approval.
+
+**II. Planning Phase:**
+
+i.  Develop a detailed project management plan, including scope, schedule, budget, and resource plans [Ref 1].
+ii.  Create a Work Breakdown Structure (WBS) to decompose the project scope into manageable work packages [Ref 5].
+iii.  Estimate activity durations and develop a project schedule using appropriate scheduling tools.
+iv.  Develop a budget and cost management plan [Ref 1].
+v.  Identify and analyze project risks [Ref 10]. Develop risk mitigation plans.
+vi.  Develop a communication plan [Ref 1].
+vii.  Develop a procurement plan, if applicable [Ref 1].
+viii. Define Quality requirements, measures and controls.
+ix. Develop change management plan [Ref 1].
+
+**III. Execution Phase:**
+
+i.  Execute the project management plan, coordinating and managing project activities. This will be the longest phase.
+ii.  Conduct manual configuration according to the design specifications.
+iii. Manage project resources effectively.
+iv.  Monitor and control project progress against the schedule and budget.
+v.  Implement the risk response plans.
+vi.  Manage stakeholder expectations and communication [Ref 4].
+vii.  Perform quality assurance and control activities.
+viii. Follow the defined change management plan, tracking changes and their impact.
+ix.  Conduct regular project status meetings and reporting.
+
+**IV. Monitoring and Controlling Phase:**
+
+i. Track project performance (schedule, budget, scope, and quality).
+ii.  Compare planned vs. actual performance and take corrective actions.
+iii.  Manage changes through a formal change control process [Ref 1].
+iv.  Monitor and control project risks.
+v.  Manage communications and stakeholder expectations.
+vi. Perform quality audits.
+
+**V. Closing Phase:**
+
+i.  Obtain formal project acceptance from stakeholders.
+ii.  Conduct a post-project review to identify lessons learned.
+iii.  Close out contracts and procurements, as applicable.
+iv.  Archive project documents and records.
+v.  Release project resources.
+
+-----
+
+#### III. Roles
+
+i.  **Project Sponsor:** Provides overall support and ensures resources are available [Ref 12].
+ii.  **Project Manager:** Leads and manages the project, responsible for all aspects of project execution.
+iii. **Project Team:** Performs project tasks, provides technical expertise.
+iv.  **Stakeholders:** Individuals or groups with an interest in the project's outcome [Ref 12].
+v.  **Quality Assurance (QA) Team/Individual:** Ensures the project deliverables meet the required quality standards.
+vi. **Change Control Board (CCB):** Evaluates and approves or rejects change requests.
+vii. **Configuration Lead:** Manages the configuration process, and works alongside Project Team and stakeholders.
+viii. **Procurement Manager (if applicable):** Manages all procurement activities.
+
+-----
+
+#### IV. RACI Matrix
+
+| Phase                    | Project Sponsor | Project Manager | Project Team | Configuration Lead | QA | Stakeholders | Change Control Board | Procurement Manager (if applicable) |
+|-------------------------|-----------------|-----------------|--------------|----------------------|----|---------------|----------------------|--------------------------------------|
+| **Initiation**          | A               | R               | I            | I                    | C  | C             | I                    | I                                    |
+| **Planning**            | C               | R               | A            | A                    | C  | C             | I                    | R                                    |
+| **Execution**           | C               | R               | A            | A                    | I  | C             | C                    | I                                    |
+| **Monitoring & Control** | C               | R               | I            | I                    | A  | C             | A                    | I                                    |
+| **Closing**             | A               | R               | I            | C                    | C  | R             | I                    | I                                    |
+
+*   **R** = Responsible
+*   **A** = Accountable
+*   **C** = Consulted
+*   **I** = Informed
+
+-----
+
+#### V. Decision Gates
+
+i.  **Project Charter Approval:**  Sign-off from the Project Sponsor, formally authorizing the project to begin [Ref 12].
+ii.  **Project Management Plan Approval:**  Approval of the Project Management Plan from the relevant stakeholders, confirming the approach and plan [Ref 1].
+iii.  **Change Requests Approval/Rejection:** Decision by the Change Control Board (CCB) on change requests (as needed).
+iv.  **Deliverable Acceptance:**  Formal acceptance of project deliverables by stakeholders.
+v.  **Project Closure Approval:**  Final approval by the Project Sponsor and stakeholders, confirming project completion.
+
+-----
+
+#### VI. Embeddings & Citations Section
+
+*   Ref 1: PMBOK, Page 30 (Similarity: 0.577)
+*   Ref 2: PMBOK, Page 24 (Similarity: 0.569)
+*   Ref 3: ISO21502, Page 9 (Similarity: 0.552)
+*   Ref 4: PMBOK, Page 10 (Similarity: 0.524)
+*   Ref 5: ISO21502, Page 12 (Similarity: 0.523)
+*   Ref 8: ISO21502, Page 11 (Similarity: 0.482)
+*   Ref 9: ISO21502, Page 10 (Similarity: 0.481)
+*   Ref 10: PMBOK, Page 20 (Similarity: 0.467)
+*   Ref 11: PMBOK, Page 9 (Similarity: 0.467)
+*   Ref 12: ISO21500, Page 9 (Similarity: 0.457)
+*   Ref 13: ISO21500, Page 9 (Similarity: 0.455)
+*   Ref 15: PMBOK, Page 27 (Similarity: 0.434)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 12: Page 9, Similarity: 0.457 (/pdf/ISO21500#page=9)
+- Ref 13: Page 9, Similarity: 0.455 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 14: Page 7, Similarity: 0.439 (/pdf/ISO21502#page=7)
+- Ref 3: Page 9, Similarity: 0.552 (/pdf/ISO21502#page=9)
+- Ref 9: Page 10, Similarity: 0.481 (/pdf/ISO21502#page=10)
+- Ref 8: Page 11, Similarity: 0.482 (/pdf/ISO21502#page=11)
+- Ref 5: Page 12, Similarity: 0.523 (/pdf/ISO21502#page=12)
+
+**PMBOK:**
+- Ref 11: Page 9, Similarity: 0.467 (/pdf/PMBOK#page=9)
+- Ref 4: Page 10, Similarity: 0.524 (/pdf/PMBOK#page=10)
+- Ref 10: Page 20, Similarity: 0.467 (/pdf/PMBOK#page=20)
+- Ref 2: Page 24, Similarity: 0.569 (/pdf/PMBOK#page=24)
+- Ref 15: Page 27, Similarity: 0.434 (/pdf/PMBOK#page=27)
+- Ref 1: Page 30, Similarity: 0.577 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 6: Page 4, Similarity: 0.521 (/pdf/PRINCE2#page=4)
+- Ref 7: Page 6, Similarity: 0.488 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 15231_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 30 (Similarity: 0.577) → /pdf/PMBOK#page=30
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.569) → /pdf/PMBOK#page=24
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.552) → /pdf/ISO21502#page=9
+• [Ref 4] PMBOK - Page 10 (Similarity: 0.524) → /pdf/PMBOK#page=10
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.523) → /pdf/ISO21502#page=12
+• [Ref 6] PRINCE2 - Page 4 (Similarity: 0.521) → /pdf/PRINCE2#page=4
+• [Ref 7] PRINCE2 - Page 6 (Similarity: 0.488) → /pdf/PRINCE2#page=6
+• [Ref 8] ISO21502 - Page 11 (Similarity: 0.482) → /pdf/ISO21502#page=11
+• [Ref 9] ISO21502 - Page 10 (Similarity: 0.481) → /pdf/ISO21502#page=10
+• [Ref 10] PMBOK - Page 20 (Similarity: 0.467) → /pdf/PMBOK#page=20
+• [Ref 11] PMBOK - Page 9 (Similarity: 0.467) → /pdf/PMBOK#page=9
+• [Ref 12] ISO21500 - Page 9 (Similarity: 0.457) → /pdf/ISO21500#page=9
+• [Ref 13] ISO21500 - Page 9 (Similarity: 0.455) → /pdf/ISO21500#page=9
+• [Ref 14] ISO21502 - Page 7 (Similarity: 0.439) → /pdf/ISO21502#page=7
+• [Ref 15] PMBOK - Page 27 (Similarity: 0.434) → /pdf/PMBOK#page=27

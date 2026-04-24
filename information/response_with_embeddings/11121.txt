@@ -1,0 +1,172 @@
+Scenario: [11121] Custom Project (Manual Configuration) | Software Development | Small (< 6 months) | Construction | PMBOK
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Construction Software Development Project (Small Scale)
+
+#### 1. Process Summary
+
+This process recommendation outlines a streamlined approach for a small-scale (< 6 months) construction software development project, adhering to PMBOK principles. Given the project's size and manual configuration emphasis, the process prioritizes flexibility and iterative planning. The framework encompasses project initiation, planning, execution, monitoring and controlling, and closure, aligning with the project life cycle described in [Ref 6] and [Ref 13]. Effective stakeholder engagement, as highlighted in [Ref 3], and proactive risk management, informed by [Ref 14], are crucial for success. The approach will emphasize the use of proven methodologies and techniques to deliver value, adapt to change, and ensure the project meets its objectives [Ref 7], [Ref 12]. The project will strive to achieve the defined objectives of the project [Ref 8].
+
+-----
+
+#### 2. Phases and Activities
+
+I. **Initiation**
+
+   i.  Define Project Scope and Objectives: Clearly articulate the software's functionality, deliverables (as defined in [Ref 9]), and success criteria. Identify project needs and organizational opportunities [Ref 15].
+   ii.  Identify Stakeholders: Identify key stakeholders and their expectations. Understand their interests and influence [Ref 8].
+   iii. Develop Project Charter: Formalize the project's existence and authorize the project manager.
+   iv.  Conduct Feasibility Study: Assess technical feasibility and resource availability.
+   v. Define high-level risks: Identifying potential risks early in the project [Ref 14].
+
+II. **Planning** (This phase should be iterative based on the needs of a small project.)
+
+   i.  Develop the Work Breakdown Structure (WBS): Decompose project scope into manageable work packages ([Ref 4]).
+   ii. Define Activities and Sequence: Develop the WBS.
+   iii. Estimate Resources and Duration: Estimate the time and resources required for each task (relevant information listed in [Ref 2]).
+   iv.  Develop the Project Schedule: Create a realistic schedule, incorporating dependencies and critical paths.
+   v.  Develop the Budget: Estimate and allocate funds for project tasks (relevant information listed in [Ref 2]).
+   vi.  Develop a Communication Plan: Outline communication frequency, channels, and stakeholders ([Ref 2]).
+   vii.  Identify and Analyze Risks: Identify potential risks and develop mitigation strategies (optimize risk responses as stated in [Ref 7]).
+   viii.  Develop a Procurement Plan (if applicable): Plan for external resources, services, or software.
+
+III. **Execution**
+
+   i.  Manage and Perform Work: Execute project activities according to the plan.
+   ii.  Manage the team: Create a collaborative project team environment [Ref 7].
+   iii. Manual Configuration and Development: Implement the software's functionalities and perform manual configurations.
+   iv.  Conduct regular status meetings: Ensure there is clear communication.
+   v.  Implement Approved Changes: Manage changes through a formal change control process.
+
+IV. **Monitoring and Controlling**
+
+   i.  Monitor Progress: Track project performance against the plan.
+   ii.  Manage Risks: Review and manage identified risks.
+   iii.  Control Changes: Manage changes throughout the project.
+   iv.  Control Schedule: Ensure the project stays on track.
+   v.  Control Costs: Monitor and manage the project budget.
+   vi.  Report Performance: Provide regular status reports to stakeholders.
+   vii.  Ensure focus on value [Ref 7].
+
+V. **Closure**
+
+   i.  Project Deliverable Acceptance: Obtain formal acceptance of deliverables.
+   ii.  Conduct a Project Post-Mortem: Review the project's successes, lessons learned, and areas for improvement.
+   iii.  Close Contracts: Close out all procurement agreements.
+   iv.  Final Project Report: Create a final report summarizing the project's outcomes.
+   v.  Archive Project Documentation.
+
+-----
+
+#### 3. Roles
+
+*   **Project Manager:** Responsible for overall project planning, execution, monitoring, and closure.
+*   **Software Developer(s):** Responsible for software development and configuration.
+*   **Stakeholders:** Individuals or groups with an interest in the project.
+*   **Sponsor:** Obtains resources and executive decisions [Ref 8].
+*   **Project Team:** People responsible for different aspects of the project.
+
+-----
+
+#### 4. RACI Matrix
+
+| Phase               | Project Manager | Software Developer(s) | Stakeholders | Sponsor |
+| ------------------- | --------------- | ------------------------ | ------------ | ------- |
+| **I. Initiation**    | R               | I                      | A            | A       |
+| **II. Planning**     | R               | R                      | C            | I       |
+| **III. Execution**   | A               | R                      | C            | I       |
+| **IV. Monitoring & Controlling** | A               | I                      | C            | I       |
+| **V. Closure**       | R               | C                      | A            | A       |
+
+*   **R** = Responsible
+*   **A** = Accountable
+*   **C** = Consulted
+*   **I** = Informed
+
+-----
+
+#### 5. Decision Gates
+
+*   **Project Charter Approval:** (End of Initiation Phase): The project sponsor authorizes the project and commits resources. [Ref 8].
+*   **Project Plan Approval:** (End of Planning Phase): Stakeholders approve the project plan, schedule, and budget.
+*   **Deliverable Acceptance:** (End of Execution Phase and/or Iterations): Stakeholders formally accept completed deliverables. [Ref 9].
+*   **Project Closure Approval:** (End of Closure Phase): The project is formally closed, with all deliverables accepted and all contracts closed out.
+
+-----
+
+#### 6. Note
+
+*   Ref 1: PMBOK, Page 24
+*   Ref 2: PMBOK, Page 30
+*   Ref 3: ISO21502, Page 9
+*   Ref 4: ISO21502, Page 12
+*   Ref 5: PRINCE2, Page 4
+*   Ref 6: PRINCE2, Page 6
+*   Ref 7: PMBOK, Page 10
+*   Ref 8: ISO21500, Page 9
+*   Ref 9: ISO21502, Page 10
+*   Ref 10: ISO21502, Page 7
+*   Ref 11: ISO21502, Page 1
+*   Ref 12: PMBOK, Page 9
+*   Ref 13: ISO21502, Page 11
+*   Ref 14: ISO21500, Page 9
+*   Ref 15: ISO21502, Page 14
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 8: Page 9, Similarity: 0.521 (/pdf/ISO21500#page=9)
+- Ref 14: Page 9, Similarity: 0.494 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 11: Page 1, Similarity: 0.507 (/pdf/ISO21502#page=1)
+- Ref 10: Page 7, Similarity: 0.514 (/pdf/ISO21502#page=7)
+- Ref 3: Page 9, Similarity: 0.605 (/pdf/ISO21502#page=9)
+- Ref 9: Page 10, Similarity: 0.516 (/pdf/ISO21502#page=10)
+- Ref 13: Page 11, Similarity: 0.498 (/pdf/ISO21502#page=11)
+- Ref 4: Page 12, Similarity: 0.589 (/pdf/ISO21502#page=12)
+- Ref 15: Page 14, Similarity: 0.493 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 12: Page 9, Similarity: 0.499 (/pdf/PMBOK#page=9)
+- Ref 7: Page 10, Similarity: 0.525 (/pdf/PMBOK#page=10)
+- Ref 1: Page 24, Similarity: 0.614 (/pdf/PMBOK#page=24)
+- Ref 2: Page 30, Similarity: 0.613 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 5: Page 4, Similarity: 0.578 (/pdf/PRINCE2#page=4)
+- Ref 6: Page 6, Similarity: 0.546 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 11121_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 24 (Similarity: 0.614) → /pdf/PMBOK#page=24
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.613) → /pdf/PMBOK#page=30
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.605) → /pdf/ISO21502#page=9
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.589) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.578) → /pdf/PRINCE2#page=4
+• [Ref 6] PRINCE2 - Page 6 (Similarity: 0.546) → /pdf/PRINCE2#page=6
+• [Ref 7] PMBOK - Page 10 (Similarity: 0.525) → /pdf/PMBOK#page=10
+• [Ref 8] ISO21500 - Page 9 (Similarity: 0.521) → /pdf/ISO21500#page=9
+• [Ref 9] ISO21502 - Page 10 (Similarity: 0.516) → /pdf/ISO21502#page=10
+• [Ref 10] ISO21502 - Page 7 (Similarity: 0.514) → /pdf/ISO21502#page=7
+• [Ref 11] ISO21502 - Page 1 (Similarity: 0.507) → /pdf/ISO21502#page=1
+• [Ref 12] PMBOK - Page 9 (Similarity: 0.499) → /pdf/PMBOK#page=9
+• [Ref 13] ISO21502 - Page 11 (Similarity: 0.498) → /pdf/ISO21502#page=11
+• [Ref 14] ISO21500 - Page 9 (Similarity: 0.494) → /pdf/ISO21500#page=9
+• [Ref 15] ISO21502 - Page 14 (Similarity: 0.493) → /pdf/ISO21502#page=14

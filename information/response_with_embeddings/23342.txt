@@ -1,0 +1,153 @@
+Scenario: [23342] Custom Software Development | Research | Large (> 18 months) | Finance | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: ISO21500, ISO21502, PRINCE2, PMBOK
+
+================================================================================
+
+### Process Recommendation: Large-Scale Finance Research Project (PRINCE2)
+
+**Process Summary:**
+
+This process recommendation outlines the project management approach for a large-scale finance research project, leveraging the PRINCE2 methodology. The project, expected to last over 18 months, requires a structured and controlled approach to manage its complexity and ensure the delivery of valuable research outcomes. This recommendation incorporates elements from PRINCE2 [Ref 5, Ref 9], ISO21500 [Ref 7, Ref 13], ISO21502 [Ref 1, Ref 6] and the PMBOK Guide [Ref 2, Ref 3]. It emphasizes clearly defined roles and responsibilities, stage-gate reviews, and robust planning and control mechanisms. This methodology is applicable to all types of projects, regardless of size or delivery approach [Ref 1].
+
+-----
+
+### Phases and Activities
+
+I. **Starting Up a Project (SU)**
+
+  i. Appoint the Project Management Team.
+  ii. Prepare the Project Brief.
+  iii. Define the Project Approach.
+  iv. Plan the Initiation Stage.
+
+II. **Initiating a Project (IP)**
+
+  i. Refine the Business Case.
+  ii. Define the Project Management Approach.
+  iii. Set up Project Controls.
+  iv. Create the Project Plan.
+
+III. **Controlling a Stage (CS)**
+
+  i. Authorize Work Packages.
+  ii. Review Work Package Status.
+  iii. Report Highlights.
+  iv. Take Corrective Action.
+  v. Escalate Issues.
+
+IV. **Managing Product Delivery (MP)**
+
+  i. Accept a Work Package.
+  ii. Execute a Work Package.
+  iii. Deliver a Work Package.
+
+V. **Managing a Stage Boundary (SB)**
+
+  i. Plan the Next Stage.
+  ii. Update the Project Plan.
+  iii. Update the Business Case.
+  iv. Report Stage End.
+  v. Produce an Exception Plan (if necessary).
+
+VI. **Directing a Project (DP)**
+
+  i. Authorize Initiation.
+  ii. Authorize a Project.
+  iii. Authorize a Stage or Exception Plan.
+  iv. Give Ad Hoc Direction.
+  v. Authorize Project Closure.
+
+VII. **Closing a Project (CP)**
+
+  i. Prepare Planned Closure.
+  ii. Prepare Premature Closure (if necessary).
+  iii. Hand Over Products.
+  iv. Evaluate the Project.
+  v. Recommend Project Closure.
+
+-----
+
+### Roles
+
+*   **Project Board:** Responsible for overall project direction and approval.
+*   **Senior User:** Represents the interests of those who will use the project's output.
+*   **Senior Supplier:** Represents the interests of those providing resources to the project.
+*   **Project Manager:** Responsible for day-to-day management of the project. [Ref 5]
+*   **Team Manager:** Manages the project team members and their work.
+*   **Project Assurance:** Provides independent oversight of the project.
+*   **Project Support:** Provides administrative and logistical support to the project.
+*   **Stakeholders:** Individuals affected by the project [Ref 7]. Effectively engaging with stakeholders is crucial [Ref 11].
+
+-----
+
+### RACI Matrix
+
+| Phase                       | Project Board | Senior User | Senior Supplier | Project Manager | Team Manager | Project Assurance | Project Support |
+| :-------------------------- | :-----------: | :---------: | :-------------: | :-------------: | :-----------: | :---------------: | :-------------: |
+| Starting Up Project (SU)  |      A        |      C      |        C        |        R        |       I       |         I         |        I        |
+| Initiating Project (IP)   |      A        |      C      |        C        |        R        |       I       |         I         |        I        |
+| Controlling a Stage (CS)  |      I        |      C      |        C        |        R        |       R       |         I         |        I        |
+| Managing Prod Delivery (MP) |      I        |      I      |        I        |        C        |       R       |         I         |        I        |
+| Managing Stage Boundary (SB) |      A        |      C      |        C        |        R        |       I       |         I         |        I        |
+| Directing a Project (DP)   |      R        |      C      |        C        |        I        |       I       |         I         |        I        |
+| Closing a Project (CP)    |      A        |      C      |        C        |        R        |       I       |         I         |        I        |
+
+**Legend:**
+
+*   **R:** Responsible - The person who does the work.
+*   **A:** Accountable - The person who owns the work.
+*   **C:** Consulted - The person who needs to be consulted before a decision or action.
+*   **I:** Informed - The person who needs to be kept informed.
+
+-----
+
+### Decision Gates
+
+The project should have defined stage-gate reviews at the end of each stage. These reviews should assess:
+
+i. **Business Justification:** Is the project still aligned with the organization's strategic objectives?
+ii. **Project Plan:** Is the plan realistic and achievable? [Ref 3]
+iii. **Risk Assessment:** Are the risks identified and managed appropriately? Risk responses should be optimized [Ref 11].
+iv. **Resource Availability:** Are the necessary resources available for the next stage?
+v. **Overall Performance:** Has the project performed satisfactorily during the previous stage?
+vi. **Authorize Initiation:** Approval to commence the Initiation Stage.
+vii. **Authorize Project:** Approval to commence the project after the Initiation Stage.
+viii. **Authorize Stage or Exception Plan:** Approval to commence the stage, or an exception plan if there are significant deviations from the original plan.
+ix. **Authorize Project Closure:** Approval to formally close the project.
+
+-----
+
+### Note
+**Embeddings & Citations Section**
+Ref 1: ISO21502, Page 9 (Similarity: 0.631)
+Ref 2: PMBOK, Page 24 (Similarity: 0.591)
+Ref 3: PMBOK, Page 30 (Similarity: 0.580)
+Ref 5: PRINCE2, Page 4 (Similarity: 0.564)
+Ref 6: ISO21502, Page 1 (Similarity: 0.560)
+Ref 7: ISO21500, Page 9 (Similarity: 0.559)
+Ref 9: PRINCE2, Page 6 (Similarity: 0.523)
+Ref 11: PMBOK, Page 10 (Similarity: 0.513)
+Ref 13: ISO21500, Page 7 (Similarity: 0.502)
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 23342_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.631) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.591) → /pdf/PMBOK#page=24
+• [Ref 3] PMBOK - Page 30 (Similarity: 0.580) → /pdf/PMBOK#page=30
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.564) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.564) → /pdf/PRINCE2#page=4
+• [Ref 6] ISO21502 - Page 1 (Similarity: 0.560) → /pdf/ISO21502#page=1
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.559) → /pdf/ISO21500#page=9
+• [Ref 8] ISO21502 - Page 11 (Similarity: 0.527) → /pdf/ISO21502#page=11
+• [Ref 9] PRINCE2 - Page 6 (Similarity: 0.523) → /pdf/PRINCE2#page=6
+• [Ref 10] ISO21500 - Page 9 (Similarity: 0.520) → /pdf/ISO21500#page=9
+• [Ref 11] PMBOK - Page 10 (Similarity: 0.513) → /pdf/PMBOK#page=10
+• [Ref 12] ISO21502 - Page 10 (Similarity: 0.511) → /pdf/ISO21502#page=10
+• [Ref 13] ISO21500 - Page 7 (Similarity: 0.502) → /pdf/ISO21500#page=7
+• [Ref 14] ISO21502 - Page 7 (Similarity: 0.501) → /pdf/ISO21502#page=7
+• [Ref 15] ISO21502 - Page 7 (Similarity: 0.495) → /pdf/ISO21502#page=7

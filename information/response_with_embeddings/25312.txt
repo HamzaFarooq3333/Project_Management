@@ -1,0 +1,141 @@
+Scenario: [25312] Custom Software Development | Infrastructure | Large (> 18 months) | Information Technology | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21500, ISO21502
+
+================================================================================
+
+### Process Recommendation: Large-Scale IT Infrastructure Project (PRINCE2)
+
+#### Process Summary
+
+This recommendation outlines a project management process for a large-scale IT infrastructure project, adhering to PRINCE2 methodology, which is designed for projects lasting over 18 months. This process integrates key project management principles and practices, drawing upon evidence from PMBOK, ISO21502, and PRINCE2 standards.  The approach emphasizes structured planning, controlled execution, and rigorous monitoring to achieve project objectives, while also incorporating risk management, stakeholder engagement, and change management throughout the project lifecycle [Ref 1, Ref 2, Ref 3].  The framework is applicable across any organization and project type [Ref 3]. The project will leverage PRINCE2’s emphasis on defined roles, responsibilities, and decision gates to ensure clear accountability and effective control [Ref 5, Ref 9].
+
+-----
+
+#### Phases and Activities
+
+The project lifecycle is structured into distinct phases, mirroring PRINCE2’s stage-based approach:
+
+I.  **Project Initiation Phase:** This initial phase establishes the foundation for the project.
+    i.  **Project Mandate Review:** Review the project mandate and define high-level project objectives, scope, and constraints.
+    ii. **Project Definition:** Create a Project Product Description, defining the final deliverable. [Ref 6]
+    iii. **Project Initiation Documentation (PID) Development:** Create the PID, which will contain the project plan, business case, project organization, and risk management approach. The PID is the foundation and should include information regarding: stakeholder management, team composition, communication plans, and procurement [Ref 1].
+    iv.  **Stakeholder Analysis:** Identify and analyze project stakeholders, their interests, and influence [Ref 2, Ref 8].
+    v.  **Risk Assessment:** Conduct an initial risk assessment and develop a risk management plan [Ref 13].
+    vi. **Project Board Approval:** Present the PID to the Project Board for approval. This serves as a key decision gate.
+
+II.  **Project Planning Phase:** This phase develops detailed plans for project execution.
+    i.  **Work Breakdown Structure (WBS) Creation:** Break down the project scope into manageable work packages [Ref 4].
+    ii.  **Activity Definition and Sequencing:** Define project activities and establish dependencies.
+    iii.  **Resource Planning:** Identify and allocate resources (people, equipment, budget).
+    iv.  **Cost Estimation and Budgeting:** Estimate project costs and develop a detailed budget [Ref 1].
+    v.  **Scheduling:** Develop a detailed project schedule, including milestones and deadlines [Ref 1].
+    vi.  **Communication Planning:** Develop a communication plan, identifying stakeholders and communication methods [Ref 1].
+    vii. **Quality Management Plan:** Develop a plan to ensure deliverables meet quality standards.
+    viii. **Change Management Plan:** Develop a change management process [Ref 1].
+
+III. **Project Execution Phase:**  The project's activities are executed during this phase.
+    i.  **Project Team Management:** Manage and coordinate the project team.
+    ii.  **Work Package Execution:** Perform the work packages as defined in the project plan.
+    iii.  **Progress Monitoring:** Track progress against the schedule and budget.
+    iv.  **Issue and Risk Management:**  Identify and manage project risks and issues. Actively manage potential threats [Ref 13].
+    v.  **Change Control:**  Manage project changes through a formal change control process.
+    vi.  **Stakeholder Communication:** Keep stakeholders informed of project progress [Ref 14].
+
+IV. **Project Monitoring and Controlling Phase:**  This is a continuous process throughout the lifecycle.
+    i.  **Performance Measurement:** Monitor project performance against baselines (scope, schedule, cost, quality).
+    ii.  **Variance Analysis:** Analyze any deviations from the plan and implement corrective actions.
+    iii.  **Reporting:** Generate regular project reports for stakeholders, including Project Board.
+    iv. **Risk and Issue Review:** Regular review of risk and issue logs, along with risk response planning [Ref 13].
+    v. **Change Requests Management:** Manage and track change requests.
+    vi. **Project Performance Domains:** Consistent focus on the following domains: stakeholders, team, delivery, planning, project work, measurement, and uncertainty [Ref 2].
+
+V.  **Project Closure Phase:** This phase formally closes the project.
+    i.  **Project Deliverable Acceptance:** Obtain formal acceptance of project deliverables from the customer.
+    ii.  **Project Documentation:** Finalize and archive all project documentation.
+    iii.  **Lessons Learned:** Conduct a lessons learned session to capture insights and improvements for future projects.
+    iv.  **Project Closure Report:** Create a final project report.
+    v.  **Project Board Approval:** Obtain formal sign-off from the Project Board to formally close the project [Ref 9].
+
+-----
+
+#### Roles
+
+*   **Project Board:** Responsible for overall project direction and decisions. [Ref 10]
+*   **Senior User:** Represents the users' interests and ensures the project delivers the required benefits.
+*   **Senior Supplier:** Represents the suppliers’ interests and ensures deliverables are correctly delivered.
+*   **Project Manager:** Responsible for day-to-day management of the project, including planning, execution, and control.
+*   **Project Assurance:** Provides independent oversight to ensure the project adheres to quality standards.
+*   **Team Managers:** Manage the work of their respective teams.
+*   **Project Support:** Provides administrative and support services to the project.
+*   **Stakeholders:** Individuals and organizations impacted by the project [Ref 8].
+
+-----
+
+#### RACI Matrix
+
+| Phase                      | Project Board | Senior User | Senior Supplier | Project Manager | Project Assurance | Team Managers | Project Support |
+|----------------------------|---------------|-------------|-----------------|-----------------|-------------------|---------------|-----------------|
+| **I. Project Initiation**   | A             | R           | I               | R               | C                 |               |                 |
+| **II. Project Planning**    | A             | R           | I               | R               | C                 | C             | I               |
+| **III. Project Execution**   | I             | I           | I               | A               | C                 | R             | C               |
+| **IV. Monitoring & Control** | A             | C           | I               | R               | C                 | C             | I               |
+| **V. Project Closure**       | A             | R           | I               | R               | C                 |               |                 |
+
+*   **R** = Responsible – The person who does the work.
+*   **A** = Accountable – The person ultimately accountable for the correct and thorough completion of the deliverable.
+*   **C** = Consulted – Those whose opinions are sought; and with whom there is two-way communication.
+*   **I** = Informed – Those who are kept informed on progress; and with whom there is one-way communication.
+
+-----
+
+#### Decision Gates
+
+Decision gates are crucial checkpoints in the project. They provide opportunities to assess progress, make go/no-go decisions, and formally approve deliverables [Ref 9].
+
+*   **Project Initiation:** Approval of the PID by the Project Board.
+*   **Each Stage Boundary:** Project Board review and approval of plans for the next stage.
+*   **After Each Work Package:** Approval of completed work packages.
+*   **Project Closure:** Project Board approval of the final project deliverables, including the lessons learned report and project closure report [Ref 5, Ref 9].
+
+-----
+
+#### Note: Embeddings & Citations Section
+
+*   Ref 1: PMBOK, Page 30 (Similarity: 0.590)
+*   Ref 2: PMBOK, Page 24 (Similarity: 0.571)
+*   Ref 3: ISO21502, Page 9 (Similarity: 0.564)
+*   Ref 4: ISO21502, Page 12 (Similarity: 0.558)
+*   Ref 5: PRINCE2, Page 4 (Similarity: 0.558)
+*   Ref 6: ISO21502, Page 10 (Similarity: 0.516)
+*   Ref 7: ISO21500, Page 9 (Similarity: 0.516)
+*   Ref 8: ISO21500, Page 9 (Similarity: 0.513)
+*   Ref 9: PRINCE2, Page 6 (Similarity: 0.512)
+*   Ref 10: ISO21502, Page 11 (Similarity: 0.509)
+*   Ref 11: ISO21502, Page 7 (Similarity: 0.497)
+*   Ref 12: PMBOK, Page 9 (Similarity: 0.494)
+*   Ref 13: PMBOK, Page 20 (Similarity: 0.494)
+*   Ref 14: PMBOK, Page 10 (Similarity: 0.492)
+*   Ref 15: ISO21502, Page 14 (Similarity: 0.487)
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 25312_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 30 (Similarity: 0.590) → /pdf/PMBOK#page=30
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.571) → /pdf/PMBOK#page=24
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.564) → /pdf/ISO21502#page=9
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.558) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.558) → /pdf/PRINCE2#page=4
+• [Ref 6] ISO21502 - Page 10 (Similarity: 0.516) → /pdf/ISO21502#page=10
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.516) → /pdf/ISO21500#page=9
+• [Ref 8] ISO21500 - Page 9 (Similarity: 0.513) → /pdf/ISO21500#page=9
+• [Ref 9] PRINCE2 - Page 6 (Similarity: 0.512) → /pdf/PRINCE2#page=6
+• [Ref 10] ISO21502 - Page 11 (Similarity: 0.509) → /pdf/ISO21502#page=11
+• [Ref 11] ISO21502 - Page 7 (Similarity: 0.497) → /pdf/ISO21502#page=7
+• [Ref 12] PMBOK - Page 9 (Similarity: 0.494) → /pdf/PMBOK#page=9
+• [Ref 13] PMBOK - Page 20 (Similarity: 0.494) → /pdf/PMBOK#page=20
+• [Ref 14] PMBOK - Page 10 (Similarity: 0.492) → /pdf/PMBOK#page=10
+• [Ref 15] ISO21502 - Page 14 (Similarity: 0.487) → /pdf/ISO21502#page=14

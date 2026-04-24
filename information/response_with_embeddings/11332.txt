@@ -1,0 +1,141 @@
+Scenario: [11332] Custom Project (Manual Configuration) | Software Development | Large (> 18 months) | Healthcare | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Healthcare Software Development Project (PRINCE2)
+
+#### Process Summary
+
+This recommendation outlines a comprehensive project management process for a large-scale healthcare software development project, following the PRINCE2 methodology. The project's manual configuration aspect necessitates careful planning and execution, emphasizing risk management, stakeholder engagement, and change control. This process aligns with the principles and guidance provided by PRINCE2 [Ref 5, Ref 7, Ref 15], ISO 21502 [Ref 1, Ref 3, Ref 8, Ref 11, Ref 12, Ref 13], and incorporates relevant elements from the PMBOK Guide [Ref 2, Ref 4, Ref 6, Ref 9, Ref 14]. The process is designed to address the challenges inherent in large, long-duration projects [Ref 5] and the specific requirements of the healthcare industry. The project will be managed using a life cycle model that divides the project into manageable phases [Ref 8]. The project will focus on delivering value, adapting to change, and engaging with stakeholders effectively [Ref 6, Ref 14].
+
+-----
+
+#### Phases and Activities
+
+The project will be structured in distinct phases, each with specific activities.
+
+**I. Project Initiation**
+
+This phase is critical for establishing a solid foundation for the project [Ref 7].
+
+i.  **Define Project Objectives & Scope:** Clearly define project objectives, scope, and deliverables. This includes a detailed Work Breakdown Structure (WBS) [Ref 3].
+ii.  **Stakeholder Identification & Analysis:** Identify all stakeholders and analyze their interests and influence [Ref 4, Ref 11].
+iii. **Risk Assessment:** Perform an initial risk assessment to identify potential threats and opportunities [Ref 9, Ref 15].
+iv.  **Project Plan Development:** Develop a comprehensive project plan, including schedule, budget, resource allocation, communication plan, and change management processes [Ref 2]. This will align with PRINCE2 practices [Ref 15].
+
+**II. Project Planning**
+
+This phase focuses on detailed planning to ensure successful project execution [Ref 4].
+
+i.  **Requirements Gathering & Refinement:** Gather and refine detailed software requirements, considering healthcare-specific needs and regulations.
+ii.  **Detailed Design:** Develop the detailed software design and architecture, including specifications for manual configuration.
+iii. **Configuration Planning:** Plan the manual configuration steps, documenting them in detail for each deliverable [Ref 12].
+iv.  **Testing Strategy Development:** Develop a comprehensive testing strategy, including unit, integration, and system testing, as well as user acceptance testing (UAT).
+v.  **Procurement Planning:** Plan for any necessary procurement activities, considering vendor selection and contract management [Ref 2].
+
+**III. Project Execution**
+
+This phase involves executing the project plan and producing the software deliverables.
+
+i.  **Software Development & Configuration:** Develop the software modules and perform the required manual configuration steps.
+ii.  **Testing & Quality Assurance:** Conduct rigorous testing and quality assurance activities to ensure the software meets the specified requirements.
+iii. **Issue Management:** Manage and resolve any issues that arise during development and configuration, according to established processes.
+iv.  **Change Management:** Control changes to the project baseline through a formal change management process [Ref 2].
+v.  **Progress Monitoring & Reporting:** Track project progress, compare actual achievements against the plan, and provide regular progress reports to stakeholders [Ref 15].
+
+**IV. Project Closure**
+
+This phase formally closes the project.
+
+i.  **Final Testing & Acceptance:** Conduct final testing and obtain formal acceptance of the software from the stakeholders.
+ii.  **Documentation & Knowledge Transfer:** Complete all project documentation and transfer knowledge to relevant parties.
+iii.  **Project Review & Lessons Learned:** Conduct a project review to identify lessons learned for future projects.
+iv.  **Project Closure Activities:** Formally close out all project contracts and administrative tasks.
+
+-----
+
+#### Roles
+
+Key project roles and responsibilities are essential for a successful project.
+
+*   **Project Manager:** Responsible for overall project planning, execution, and control.
+*   **Project Sponsor:** Responsible for obtaining resources and executive decisions [Ref 11].
+*   **Senior User(s):** Representing the users' interests and ensuring the software meets their needs.
+*   **Senior Supplier(s):** Representing the development and configuration teams.
+*   **Project Assurance:** Provides independent oversight to ensure the project meets its objectives.
+*   **Team Manager(s):** Manage specific development and configuration teams.
+*   **Configuration Manager:** Responsible for managing the configuration of the software.
+*   **Quality Assurance Manager:** Responsible for all quality assurance activities.
+*   **Change Manager:** Responsible for all changes made to the project's baseline [Ref 2].
+
+-----
+
+#### RACI Matrix
+
+| Phase                    | Project Manager | Project Sponsor | Senior User | Senior Supplier | Project Assurance | Configuration Manager | Quality Assurance Manager | Change Manager |
+| ------------------------ | --------------- | --------------- | ----------- | --------------- | ----------------- | --------------------- | ------------------------- | -------------- |
+| **I. Project Initiation**   | R               | A               | C           | I               | C                 | I                     | I                         | I              |
+| **II. Project Planning**    | R               | A               | C           | R               | C                 | C                     | C                         | I              |
+| **III. Project Execution**  | R               | I               | C           | R               | C                 | R                     | R                         | A              |
+| **IV. Project Closure**     | R               | A               | C           | I               | C                 | I                     | I                         | I              |
+
+*   **R** - Responsible: The person who does the work.
+*   **A** - Accountable: The person ultimately answerable for the correct and thorough completion of the deliverable or task.
+*   **C** - Consulted: The person(s) who are consulted before a decision or activity is completed.
+*   **I** - Informed: The person(s) who are kept informed of progress.
+
+-----
+
+#### Decision Gates
+
+Important decision gates will be established throughout the project lifecycle. These are points where project progress and performance are assessed, and decisions are made regarding whether to proceed to the next phase [Ref 8].
+
+i.  **Project Initiation Approval:** Decision to formally authorize the project after the initiation phase is complete.
+ii.  **Project Planning Approval:** Decision to proceed with execution after the detailed planning phase is finalized.
+iii.  **Phase End Reviews:** Reviews at the end of each phase to assess completed deliverables, progress against the plan, and any outstanding issues.
+iv.  **Change Requests Approval:** Formal approval or rejection of all change requests, based on impact analysis.
+v.  **Project Closure Approval:** Final decision to close the project after successful completion of all activities.
+
+-----
+
+#### Note: Embeddings & Citations Section
+
+Ref 1: ISO21502, Page 9
+Ref 2: PMBOK, Page 30
+Ref 3: ISO21502, Page 12
+Ref 4: PMBOK, Page 24
+Ref 5: PRINCE2, Page 4
+Ref 6: PMBOK, Page 10
+Ref 7: PRINCE2, Page 6
+Ref 8: ISO21502, Page 11
+Ref 9: PMBOK, Page 20
+Ref 10: ISO21500, Page 9
+Ref 11: ISO21500, Page 9
+Ref 12: ISO21502, Page 10
+Ref 13: ISO21502, Page 1
+Ref 14: PMBOK, Page 9
+Ref 15: PRINCE2, Page 14
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 11332_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.585) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.574) → /pdf/PMBOK#page=30
+• [Ref 3] ISO21502 - Page 12 (Similarity: 0.542) → /pdf/ISO21502#page=12
+• [Ref 4] PMBOK - Page 24 (Similarity: 0.540) → /pdf/PMBOK#page=24
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.520) → /pdf/PRINCE2#page=4
+• [Ref 6] PMBOK - Page 10 (Similarity: 0.506) → /pdf/PMBOK#page=10
+• [Ref 7] PRINCE2 - Page 6 (Similarity: 0.481) → /pdf/PRINCE2#page=6
+• [Ref 8] ISO21502 - Page 11 (Similarity: 0.469) → /pdf/ISO21502#page=11
+• [Ref 9] PMBOK - Page 20 (Similarity: 0.465) → /pdf/PMBOK#page=20
+• [Ref 10] ISO21500 - Page 9 (Similarity: 0.464) → /pdf/ISO21500#page=9
+• [Ref 11] ISO21500 - Page 9 (Similarity: 0.458) → /pdf/ISO21500#page=9
+• [Ref 12] ISO21502 - Page 10 (Similarity: 0.452) → /pdf/ISO21502#page=10
+• [Ref 13] ISO21502 - Page 1 (Similarity: 0.450) → /pdf/ISO21502#page=1
+• [Ref 14] PMBOK - Page 9 (Similarity: 0.449) → /pdf/PMBOK#page=9
+• [Ref 15] PRINCE2 - Page 14 (Similarity: 0.444) → /pdf/PRINCE2#page=14

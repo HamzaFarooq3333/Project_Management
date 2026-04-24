@@ -1,0 +1,141 @@
+Scenario: [13331] Custom Project (Manual Configuration) | Research | Large (> 18 months) | Healthcare | PMBOK
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Project Management Process Recommendation: Healthcare Research Project
+
+#### Process Summary
+
+This recommendation outlines a comprehensive project management process for a large-scale ( >18 months) healthcare research project. The process will follow the Project Management Body of Knowledge (PMBOK) guidelines [Ref 2, Ref 3, Ref 6, Ref 11] as the core methodology, emphasizing a structured, value-driven approach and adaptability [Ref 6, Ref 11]. The project will leverage the guidance provided in ISO 21502 for general project management practices [Ref 1, Ref 12, Ref 15], integrating best practices for defining scope, managing stakeholders, and tailoring the project plan to the specific context of the healthcare research environment. This approach recognizes the importance of stakeholder engagement, a collaborative team environment, and proactive risk management, given the complexity and extended duration of the project. The manual configuration nature of the project means rigorous planning and control are essential. The project will incorporate PRINCE2 elements as needed, particularly in process definition [Ref 10].
+
+-----
+
+#### Phases and Activities
+
+The project will be structured into the following phases, each with associated activities:
+
+**I. Initiation**
+
+i.  **Project Charter Development:** Define the project objectives, scope, stakeholders, high-level requirements, and constraints. This step is crucial for defining the project's purpose and obtaining formal authorization [Ref 9]. It also establishes initial project governance principles [Ref 7].
+ii.  **Stakeholder Identification and Analysis:** Identify all stakeholders [Ref 3, Ref 9], their interests, and influence levels. Develop a communication plan tailored to each stakeholder group. Stakeholder engagement is critical throughout the project [Ref 6].
+iii. **High-Level Risk Assessment:** Conduct an initial risk assessment to identify potential threats and opportunities [Ref 5, Ref 13, Ref 19].
+iv.  **Project Team Formation:** Define and assign project roles and responsibilities.
+
+**II. Planning**
+
+i.  **Scope Management:** Develop a detailed scope statement, Work Breakdown Structure (WBS) [Ref 5], and project deliverables. Ensure a clear understanding of what needs to be delivered [Ref 4].
+ii.  **Schedule Management:** Create a detailed project schedule, including activity sequencing, duration estimates, resource allocation, and a critical path analysis.
+iii. **Cost Management:** Develop a detailed budget and cost baseline.
+iv.  **Resource Management:** Identify and secure the necessary resources (personnel, equipment, etc.) for the project.
+v.  **Communication Management:** Develop a detailed communication plan outlining communication frequency, methods, and stakeholders.
+vi.  **Risk Management:** Develop a detailed risk management plan, including risk identification, analysis, response planning, and monitoring. [Ref 6, Ref 10]
+vii. **Procurement Management:** Develop a plan if any procurement is required [Ref 2].
+viii. **Change Management:** Establish a change management process to control and manage changes to the project scope, schedule, or budget [Ref 2].
+ix. **Quality Management:** Define quality standards and establish processes to ensure the quality of project deliverables.
+
+**III. Execution**
+
+i.  **Project Work Execution:** Carry out the planned activities according to the project plan, managing the work packages [Ref 5].
+ii.  **Team Management:** Manage and motivate the project team, providing guidance and resolving conflicts [Ref 6].
+iii. **Information Management:** Manage project information and documents, ensuring accessibility and version control.
+iv.  **Communication:** Execute the communication plan, providing regular updates to stakeholders [Ref 2].
+v.  **Risk Response:** Implement risk response plans to mitigate identified risks [Ref 6, Ref 10].
+vi.  **Change Requests:** Manage and process change requests in accordance with the established change management process.
+
+**IV. Monitoring and Controlling**
+
+i.  **Progress Monitoring:** Track project progress against the baseline schedule and budget. Use appropriate metrics and Key Performance Indicators (KPIs) to monitor performance.
+ii.  **Variance Analysis:** Analyze variances from the baseline and take corrective actions as needed.
+iii.  **Performance Reporting:** Generate performance reports for stakeholders, including progress updates, issues, and risks.
+iv.  **Quality Control:** Conduct quality control checks to ensure deliverables meet quality standards.
+v.  **Risk Monitoring and Control:** Monitor and control risks, implementing mitigation strategies as needed.
+vi.  **Change Control:** Review and approve or reject change requests [Ref 2].
+
+**V. Closing**
+
+i.  **Project Closure:** Formally close the project, including administrative closure, final documentation, and stakeholder sign-off.
+ii.  **Lessons Learned:** Conduct a lessons-learned session to identify what went well, what could be improved, and best practices.
+iii.  **Final Report:** Prepare and distribute a final project report.
+
+-----
+
+#### Roles
+
+*   **Project Sponsor:** Provides resources and executive decisions to enable success [Ref 9].
+*   **Project Manager:** Responsible for overall project planning, execution, monitoring and controlling, and closing.
+*   **Team Lead(s):** Responsible for managing teams and tasks, providing expertise, and ensuring quality.
+*   **Subject Matter Experts (SMEs):** Provide specialized knowledge and expertise related to the healthcare research domain.
+*   **Stakeholders:** Individuals or groups with an interest in the project. Their input and engagement are crucial [Ref 3].
+*   **Quality Assurance (QA) Manager/Specialist:** Responsible for implementing and assuring quality throughout the project.
+*   **Project Team Members:** Assigned to project tasks.
+
+-----
+
+#### RACI Matrix
+
+| Phase              | Project Sponsor | Project Manager | Team Lead(s) | SMEs        | Stakeholders | QA Specialist |
+| ------------------ | --------------- | --------------- | ------------- | ----------- | ------------- | ------------- |
+| **I. Initiation**    | A               | R               | C             | I           | C             | I             |
+| **II. Planning**     | C               | R               | A             | I           | C             | C             |
+| **III. Execution**   | I               | A               | R             | R           | C             | C             |
+| **IV. Monitoring & Controlling** | I | A               | R             | I           | C             | R             |
+| **V. Closing**       | A               | R               | C             | I           | C             | I             |
+
+*   **R** = Responsible: Person or role responsible for doing the work.
+*   **A** = Accountable: Person or role ultimately accountable for the correct and thorough completion of the deliverable or task.
+*   **C** = Consulted: Person or role that is consulted before a decision or action is taken.
+*   **I** = Informed: Person or role that is kept informed of progress.
+
+-----
+
+#### Decision Gates
+
+*   **Project Charter Approval:** (Phase I) Formal authorization to initiate the project, including scope, objectives, and high-level requirements.  This is a critical decision point [Ref 9].
+*   **Project Plan Approval:** (Phase II) Approval of the detailed project plan (scope, schedule, budget, etc.).
+*   **Phase Gate Reviews:** (Ongoing - End of each phase): Assess the project's progress, risks, and performance.  Make go/no-go decisions for proceeding to the next phase. [Ref 10]
+*   **Change Request Approval:** (Phase III/IV) Decisions to approve or reject change requests. This utilizes the change management process [Ref 2].
+*   **Project Closure Approval:** (Phase V) Formal sign-off and acceptance of project deliverables.
+
+-----
+
+#### Note
+
+*   Ref 1: ISO21502, Page 9 (Similarity: 0.579)
+*   Ref 2: PMBOK, Page 30 (Similarity: 0.578)
+*   Ref 3: PMBOK, Page 24 (Similarity: 0.560)
+*   Ref 4: PRINCE2, Page 4 (Similarity: 0.544)
+*   Ref 5: ISO21502, Page 12 (Similarity: 0.533)
+*   Ref 6: PMBOK, Page 10 (Similarity: 0.512)
+*   Ref 7: ISO21502, Page 11 (Similarity: 0.495)
+*   Ref 8: ISO21502, Page 10 (Similarity: 0.483)
+*   Ref 9: ISO21500, Page 9 (Similarity: 0.482)
+*   Ref 10: PRINCE2, Page 6 (Similarity: 0.481)
+*   Ref 11: PMBOK, Page 9 (Similarity: 0.468)
+*   Ref 12: ISO21502, Page 1 (Similarity: 0.467)
+*   Ref 13: ISO21500, Page 9 (Similarity: 0.461)
+*   Ref 14: ISO21502, Page 7 (Similarity: 0.451)
+*   Ref 15: ISO21502, Page 7 (Similarity: 0.447)
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 13331_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.579) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.578) → /pdf/PMBOK#page=30
+• [Ref 3] PMBOK - Page 24 (Similarity: 0.560) → /pdf/PMBOK#page=24
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.544) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.533) → /pdf/ISO21502#page=12
+• [Ref 6] PMBOK - Page 10 (Similarity: 0.512) → /pdf/PMBOK#page=10
+• [Ref 7] ISO21502 - Page 11 (Similarity: 0.495) → /pdf/ISO21502#page=11
+• [Ref 8] ISO21502 - Page 10 (Similarity: 0.483) → /pdf/ISO21502#page=10
+• [Ref 9] ISO21500 - Page 9 (Similarity: 0.482) → /pdf/ISO21500#page=9
+• [Ref 10] PRINCE2 - Page 6 (Similarity: 0.481) → /pdf/PRINCE2#page=6
+• [Ref 11] PMBOK - Page 9 (Similarity: 0.468) → /pdf/PMBOK#page=9
+• [Ref 12] ISO21502 - Page 1 (Similarity: 0.467) → /pdf/ISO21502#page=1
+• [Ref 13] ISO21500 - Page 9 (Similarity: 0.461) → /pdf/ISO21500#page=9
+• [Ref 14] ISO21502 - Page 7 (Similarity: 0.451) → /pdf/ISO21502#page=7
+• [Ref 15] ISO21502 - Page 7 (Similarity: 0.447) → /pdf/ISO21502#page=7

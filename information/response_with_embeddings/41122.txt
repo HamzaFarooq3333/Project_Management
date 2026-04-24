@@ -1,0 +1,131 @@
+Scenario: [41122] Large Government Project | Software Development | Small (< 6 months) | Construction | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21500, ISO21502
+
+================================================================================
+
+### Process Recommendation: Small-Scale Construction Software Development (PRINCE2)
+
+**Process Summary:**
+
+This process recommendation outlines a PRINCE2-based approach for a small-scale software development project within the construction industry, expected to last less than 6 months.  The process emphasizes a structured, controlled, and organized project environment with clearly defined roles, responsibilities, and deliverables [Ref 5, Ref 6].  It integrates elements from PMBOK, such as stakeholder engagement, planning considerations, and adaptable development approaches [Ref 1, Ref 2, Ref 3, Ref 7], as well as relevant aspects from ISO 21500 and ISO 21502 for general project management guidance [Ref 3, Ref 8, Ref 10, Ref 11]. The project lifecycle is managed through a series of stages, with each stage controlled by management decisions to ensure project viability and alignment with business objectives [Ref 6, Ref 13, Ref 15].
+
+-----
+
+### Phases and Activities
+
+The project lifecycle is divided into distinct phases, each with specific activities and deliverables:
+
+I. **Starting Up a Project (SU):**
+   i.  Appoint the Project Management Team (PMT), including Project Board, Project Manager, and potentially Team Managers. This ensures clarity in roles and responsibilities [Ref 5].
+   ii. Capture Previous Lessons: Review previous projects to identify potential risks and best practices [Ref 5].
+   iii. Define the Project Brief: Create a high-level definition of the project, including objectives, scope, and benefits [Ref 6].
+   iv.  Design the Project Management Team structure and roles.
+
+II. **Initiating a Project (IP):**
+   i.  Refine the Project Brief into a detailed Project Initiation Documentation (PID). The PID should cover aspects outlined in PMBOK, such as scope, schedule, budget, and team composition [Ref 2, Ref 6].
+   ii.  Develop detailed plans: This includes the Project Plan, Risk Management Plan, Quality Management Plan, Communication Management Plan, and Change Management Plan [Ref 2].
+   iii. Baseline the PID to allow control of change and progress measurement.
+
+III. **Controlling a Stage (CS):**
+   i.  Authorize Work Packages: The Project Manager authorizes Team Managers (or the development team directly if no Team Manager is present) to execute specific work packages [Ref 5].
+   ii.  Monitor Progress: Track progress against the plan and take corrective action as needed. This should include regular status reporting and issue management [Ref 2, Ref 6].
+   iii. Review Stage Status: Provide the Project Board with highlight reports and updates on stage progress, including any deviations from plan and associated risks [Ref 5].
+   iv. Capture and Assess Issues and Risks: Implement risk responses [Ref 7, Ref 14].
+
+IV. **Managing Product Delivery (MP):**
+   i.  Execute Work Packages: The development team executes the tasks defined in the work packages [Ref 4].
+   ii.  Quality Control: Ensure that deliverables meet the quality criteria defined in the Quality Management Plan [Ref 7, Ref 9].
+   iii.  Report Progress: Team Managers (or the development team) provide regular progress updates to the Project Manager.
+
+V. **Managing Stage Boundary (SB):**
+   i.  Plan the Next Stage: The Project Manager develops a detailed plan for the next stage, taking into account progress made in the current stage and any changes to the project environment.
+   ii.  Update the PID: The PID is updated to reflect any changes to the project scope, schedule, budget, or risks.
+   iii.  Request Authorization: The Project Manager presents the updated PID and stage plan to the Project Board for approval to proceed to the next stage [Ref 6].
+
+VI. **Closing a Project (CP):**
+   i.  Project Completion Confirmation: Verify that all project objectives have been met and that the deliverables have been accepted by the stakeholders.
+   ii.  Benefits Realization Plan: Create a plan for measuring the benefits of the project after implementation.
+   iii.  Lessons Learned Report: Document the lessons learned during the project for future projects.
+   iv. Project Closure Reporting: Formally close the project [Ref 6].
+
+-----
+
+### Roles
+
+i. **Executive:** Provides overall direction and ensures alignment with business strategy.
+ii. **Senior User:** Represents the interests of the users of the software.
+iii. **Senior Supplier:** Represents the interests of the development team and ensures the technical feasibility of the project.
+iv. **Project Manager:** Responsible for the day-to-day management of the project.
+v. **Team Manager (Optional):** Manages a team of developers and reports to the Project Manager.
+vi. **Project Assurance:** (Can be delegated or exist as a specific role) Ensures the project follows PRINCE2 principles and standards.
+vii. **Project Support:** (Optional) Provides administrative and logistical support to the Project Manager.
+
+-----
+
+### RACI Matrix
+
+| Phase                       | Executive | Senior User | Senior Supplier | Project Manager | Team Manager | Project Assurance |
+|------------------------------|-----------|-------------|-----------------|-----------------|--------------|-----------------|
+| Starting Up a Project (SU)  | A       | C           | C             | R             | -           | I             |
+| Initiating a Project (IP)   | A       | C           | C             | R             | -           | I             |
+| Controlling a Stage (CS)    | A       | C           | C             | R             | C           | I             |
+| Managing Product Delivery (MP)| I       | I           | I             | C             | R           | I             |
+| Managing Stage Boundary (SB) | A       | C           | C             | R             | C           | I             |
+| Closing a Project (CP)      | A       | R           | C             | R             | -           | I             |
+
+**R**: Responsible - The person who does the work.
+**A**: Accountable - The person who is ultimately responsible for the correct and thorough completion of the task.
+**C**: Consulted - The person whose opinions are sought.
+**I**: Informed - The person who is kept up-to-date on progress.
+
+-----
+
+### Decision Gates
+
+i.  **End of Starting Up a Project (SU):** Go/No-Go decision to proceed with the project based on the Project Brief [Ref 6].
+ii.  **End of Initiating a Project (IP):** Approval of the Project Initiation Documentation (PID) and overall project plan. If the PID is not approved, the project will not continue [Ref 2, Ref 6].
+iii. **End of Each Stage (Managing Stage Boundary - SB):** Decision to proceed to the next stage based on progress, risks, and updated plans. If the stage objectives have not been met, or the risks are too high, the project may be terminated [Ref 6].
+iv.  **Project Closure (CP):** Formal acceptance of the final deliverables and sign-off to close the project. This is a critical decision point to ensure the product is fit for use.
+
+-----
+
+### Note
+
+Ref 1: PMBOK, Page 24 (Similarity: 0.614)
+Ref 2: PMBOK, Page 30 (Similarity: 0.613)
+Ref 3: ISO21502, Page 9 (Similarity: 0.605)
+Ref 4: ISO21502, Page 12 (Similarity: 0.589)
+Ref 5: PRINCE2, Page 4 (Similarity: 0.578)
+Ref 6: PRINCE2, Page 6 (Similarity: 0.546)
+Ref 7: PMBOK, Page 10 (Similarity: 0.525)
+Ref 8: ISO21500, Page 9 (Similarity: 0.521)
+Ref 9: ISO21502, Page 10 (Similarity: 0.516)
+Ref 10: ISO21502, Page 7 (Similarity: 0.514)
+Ref 11: ISO21502, Page 1 (Similarity: 0.507)
+Ref 12: PMBOK, Page 9 (Similarity: 0.499)
+Ref 13: ISO21502, Page 11 (Similarity: 0.498)
+Ref 14: ISO21500, Page 9 (Similarity: 0.494)
+Ref 15: ISO21502, Page 14 (Similarity: 0.493)
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 41122_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 24 (Similarity: 0.614) → /pdf/PMBOK#page=24
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.613) → /pdf/PMBOK#page=30
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.605) → /pdf/ISO21502#page=9
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.589) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.578) → /pdf/PRINCE2#page=4
+• [Ref 6] PRINCE2 - Page 6 (Similarity: 0.546) → /pdf/PRINCE2#page=6
+• [Ref 7] PMBOK - Page 10 (Similarity: 0.525) → /pdf/PMBOK#page=10
+• [Ref 8] ISO21500 - Page 9 (Similarity: 0.521) → /pdf/ISO21500#page=9
+• [Ref 9] ISO21502 - Page 10 (Similarity: 0.516) → /pdf/ISO21502#page=10
+• [Ref 10] ISO21502 - Page 7 (Similarity: 0.514) → /pdf/ISO21502#page=7
+• [Ref 11] ISO21502 - Page 1 (Similarity: 0.507) → /pdf/ISO21502#page=1
+• [Ref 12] PMBOK - Page 9 (Similarity: 0.499) → /pdf/PMBOK#page=9
+• [Ref 13] ISO21502 - Page 11 (Similarity: 0.498) → /pdf/ISO21502#page=11
+• [Ref 14] ISO21500 - Page 9 (Similarity: 0.494) → /pdf/ISO21500#page=9
+• [Ref 15] ISO21502 - Page 14 (Similarity: 0.493) → /pdf/ISO21502#page=14

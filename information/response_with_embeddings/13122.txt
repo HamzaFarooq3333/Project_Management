@@ -1,0 +1,130 @@
+Scenario: [13122] Custom Project (Manual Configuration) | Research | Small (< 6 months) | Construction | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Small-Scale Construction Research Project
+
+#### Process Summary
+
+This recommendation outlines a project management process for a small-scale (< 6 months) construction research project utilizing the PRINCE2 methodology, and based on the provided PM standards evidence. The core of this process focuses on adapting PRINCE2 principles to the project's size and complexity. The overall approach is to apply methods, tools, techniques, and competencies to meet project objectives [Ref 4]. This includes addressing typical challenges like ambiguity, unrealistic expectations, and resource constraints [Ref 4]. This process incorporates key PM domains such as planning, project work, delivery, and measurement [Ref 1, Ref 2]. Emphasis is placed on tailoring the approach based on the project context [Ref 9].  It will also focus on stakeholder engagement and communication [Ref 9]. A clear focus is maintained on providing value, navigating complexity and embracing adaptability [Ref 9].
+
+-----
+
+#### Phases and Activities
+
+The project will follow a phased approach, aligned with the PRINCE2 lifecycle [Ref 6].
+
+**I. Project Initiation:**
+
+i.  **Define Project Scope:** Clearly define the project objectives, deliverables, and scope, aligned with the PRINCE2 principle of starting up a project. This should include the product scope and project scope [Ref 2].
+ii. **Identify Stakeholders:** Identify and document all stakeholders and their interests [Ref 8].
+iii. **Develop Project Initiation Documentation (PID):** Create a concise PID encompassing the project's purpose, scope, objectives, risks, and initial plans. This document should outline the project's justification, the approach, and the key project parameters.
+iv. **Risk Identification:** Identify potential risks and develop a preliminary risk register.
+v. **Governance Structure:** Define project governance principles, policies, and procedures [Ref 10]. This will include a defined set of phases from the start to the end of the project [Ref 10]
+vi.  **Team Formation**: The team will be comprised of the project manager, a project team, and the project sponsor. Team composition is a key part of planning [Ref 2]
+
+**II. Planning:**
+
+i.  **Detailed Planning:** Develop detailed plans including work breakdown structure (WBS), schedules, budgets, communication plans, and procurement plans [Ref 2, Ref 5]. This will also include the definition of work packages [Ref 5].
+ii.  **Resource Allocation:** Allocate resources (people, equipment, etc.) to project tasks.
+iii. **Risk Assessment:** Refine the risk register and develop mitigation strategies.
+iv. **Establish Change Management:** Define the change management process.
+
+**III. Execution and Monitoring:**
+
+i.  **Project Work:** Execute the project activities, following the defined plans [Ref 1].
+ii. **Monitoring and Control:** Regularly monitor project progress against the plan, schedule, and budget [Ref 2]. This will incorporate activities defined in the PRINCE2 method [Ref 6].
+iii. **Issue Management:** Identify, assess, and manage issues as they arise.
+iv. **Risk Management:** Implement risk mitigation strategies and update the risk register.
+v.  **Change Management:** Manage changes through the defined change control process.
+vi. **Communication:** Provide regular project status updates to stakeholders.
+
+**IV. Delivery and Measurement:**
+
+i.  **Deliverables Production**: Production of the required deliverables as planned [Ref 7].
+ii.  **Acceptance:** Secure formal acceptance of deliverables from the relevant stakeholders.
+iii.  **Project Reporting**: Prepare regular project reports [Ref 1].
+iv.  **Performance Measurement:** Monitor and measure project performance using the defined metrics [Ref 1, Ref 2].
+
+**V. Project Closure:**
+
+i.  **Project Review:** Conduct a project review to assess lessons learned.
+ii.  **Final Deliverables Handover:** Hand over final deliverables to the client.
+iii.  **Project Documentation:** Finalize and archive all project documentation.
+iv.  **Project Closure:** Formally close the project and obtain sign-off.
+
+-----
+
+#### Roles
+
+*   **Project Sponsor:** Responsible for obtaining the resources and making executive decisions [Ref 8].
+*   **Project Manager:** Responsible for day-to-day management, planning, execution, and closure of the project.
+*   **Project Team:** Individuals responsible for completing project tasks.
+*   **Stakeholders:** Individuals or groups with an interest in the project.
+
+-----
+
+#### RACI Matrix
+
+| Phase                      | Project Sponsor | Project Manager | Project Team | Stakeholders |
+| -------------------------- | --------------- | --------------- | ------------ | ------------ |
+| **I. Project Initiation**   | A               | R               | C            | C            |
+| **II. Planning**          | C               | R               | A            | I            |
+| **III. Execution & Monitoring** | I               | A               | R            | C            |
+| **IV. Delivery & Measurement** | A               | R               | C            | I            |
+| **V. Project Closure**      | A               | R               | C            | C            |
+
+**R** = Responsible, **A** = Accountable, **C** = Consulted, **I** = Informed
+
+-----
+
+#### Decision Gates
+
+*   **Project Initiation Approval:** Before proceeding to planning, the Project Sponsor approves the Project Initiation Documentation (PID).
+*   **Plan Approval:** Before project execution, the project plan is approved by the Project Sponsor.
+*   **Deliverable Acceptance:** Stakeholders formally accept completed deliverables.
+*   **Project Closure Approval:** The Project Sponsor approves the project closure.
+
+-----
+
+#### Note
+
+Ref 1: PMBOK, Page 24
+Ref 2: PMBOK, Page 30
+Ref 3: ISO21502, Page 9
+Ref 4: PRINCE2, Page 4
+Ref 5: ISO21502, Page 12
+Ref 6: PRINCE2, Page 6
+Ref 7: ISO21502, Page 10
+Ref 8: ISO21500, Page 9
+Ref 9: PMBOK, Page 10
+Ref 10: ISO21502, Page 11
+Ref 11: ISO21502, Page 1
+Ref 12: ISO21502, Page 7
+Ref 13: PMBOK, Page 9
+Ref 14: ISO21502, Page 7
+Ref 15: PRINCE2, Page 1
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 13122_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 24 (Similarity: 0.625) → /pdf/PMBOK#page=24
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.606) → /pdf/PMBOK#page=30
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.587) → /pdf/ISO21502#page=9
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.580) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.565) → /pdf/ISO21502#page=12
+• [Ref 6] PRINCE2 - Page 6 (Similarity: 0.549) → /pdf/PRINCE2#page=6
+• [Ref 7] ISO21502 - Page 10 (Similarity: 0.541) → /pdf/ISO21502#page=10
+• [Ref 8] ISO21500 - Page 9 (Similarity: 0.530) → /pdf/ISO21500#page=9
+• [Ref 9] PMBOK - Page 10 (Similarity: 0.524) → /pdf/PMBOK#page=10
+• [Ref 10] ISO21502 - Page 11 (Similarity: 0.517) → /pdf/ISO21502#page=11
+• [Ref 11] ISO21502 - Page 1 (Similarity: 0.515) → /pdf/ISO21502#page=1
+• [Ref 12] ISO21502 - Page 7 (Similarity: 0.508) → /pdf/ISO21502#page=7
+• [Ref 13] PMBOK - Page 9 (Similarity: 0.508) → /pdf/PMBOK#page=9
+• [Ref 14] ISO21502 - Page 7 (Similarity: 0.502) → /pdf/ISO21502#page=7
+• [Ref 15] PRINCE2 - Page 1 (Similarity: 0.487) → /pdf/PRINCE2#page=1

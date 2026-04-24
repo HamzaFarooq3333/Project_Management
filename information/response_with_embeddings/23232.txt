@@ -1,0 +1,199 @@
+Scenario: [23232] Custom Software Development | Research | Medium (6-18 months) | Healthcare | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: ISO21500, ISO21502, PRINCE2, PMBOK
+
+================================================================================
+
+### Process Recommendation: Healthcare Research Project using PRINCE2
+
+#### Process Summary
+
+This process recommendation outlines the management approach for a medium-scale (6-18 months) healthcare research project, leveraging the PRINCE2 methodology.  It adheres to the guidelines for project management found in standards such as ISO 21502 [Ref 1, Ref 11, Ref 13, Ref 15], and incorporates key aspects from the PMBOK Guide [Ref 2, Ref 3, Ref 6, Ref 12].  PRINCE2 emphasizes a structured, process-based approach to project management, focusing on clear roles, responsibilities, and decision-making processes.  The project's success will depend on managing the project life cycle effectively, stakeholder engagement, and controlling the key project parameters, like scope, schedule, budget, and quality [Ref 4, Ref 9].
+
+-----
+
+#### Phases and Activities
+
+The following phases and associated activities are recommended for this healthcare research project, aligned with the PRINCE2 framework and the general project management guidance outlined in ISO 21502. The project's life cycle consists of the following phases, and each phase is broken down into activities designed to provide a structured approach from initiation to closure [Ref 7].
+
+**I. Project Initiation**
+
+This phase defines the project's scope and objectives and obtains the necessary authorization.
+
+i.  **Define Project Mandate:** Clearly identify the reasons for the project, including the research need and expected benefits. (Aligned with understanding project objectives from [Ref 4, Ref 9])
+ii.  **Appoint Project Team:** Identify and assign roles and responsibilities to the project manager, the project board (including a senior user, senior supplier, and executive), and relevant stakeholders. (Essential for clear accountability, per [Ref 4])
+iii.  **Develop Project Brief:** Create a high-level description of the project, including its objectives, scope, and key deliverables.
+iv.  **Develop Project Initiation Documentation (PID):** This is a key document that defines how the project will be managed.  It outlines the project's approach, scope, schedule, budget, and risk management strategy [Ref 2, Ref 3].  The PID is crucial for ensuring project governance, as referenced in [Ref 7, Ref 10].
+v.  **Obtain Project Board Approval:** Secure formal approval from the Project Board for the PID to initiate the project. This aligns with project governance principles [Ref 7, Ref 9, Ref 10].
+
+**II. Project Planning**
+
+Detailed planning to determine how to achieve the project's objectives.
+
+i.  **Define Work Breakdown Structure (WBS):** Break down the project scope into manageable work packages [Ref 5].
+ii.  **Create Detailed Schedules:** Develop a project schedule with task durations, dependencies, and resource allocations [Ref 2].
+iii.  **Develop the Budget:** Create a detailed budget for the project, accounting for all anticipated costs [Ref 2].
+iv.  **Create a Communication Plan:** Define how project information will be communicated to stakeholders [Ref 2].
+v.  **Develop a Risk Management Plan:** Identify and assess potential risks, and develop mitigation strategies [Ref 14].
+vi.  **Create a Quality Management Strategy:** Define how project quality will be managed and controlled.
+vii. **Develop a Configuration Management Strategy:** Establish how to manage and control project products and changes.
+
+**III. Project Execution and Control**
+
+This phase involves carrying out the project plan and monitoring progress.
+
+i.  **Execute Work Packages:** Carry out the tasks defined in the WBS.
+ii.  **Manage Project Team:** Manage the project team's performance and address any issues.
+iii.  **Monitor Progress:** Track progress against the schedule, budget, and quality standards.
+iv.  **Manage Issues and Risks:** Identify, assess, and address project issues and risks [Ref 10, Ref 14].
+v.  **Manage Changes:** Implement the change management process as defined in the PID [Ref 2, Ref 6].
+vi.  **Prepare Project Reports:** Regularly report on project progress to the Project Board and other stakeholders.
+
+**IV. Project Closure**
+
+This phase formally closes the project and ensures all deliverables are accepted and all required reports are completed.
+
+i.  **Prepare Project Closure Report:** Summarize the project's performance, lessons learned, and recommendations for future projects.
+ii.  **Obtain Project Board Approval for Closure:** Receive formal approval from the Project Board to close the project.
+iii.  **Deliver Project Products:** Ensure all project deliverables are delivered to the stakeholders.
+iv.  **Archive Project Documentation:** Ensure all project documentation is properly archived.
+v.  **Release Project Resources:** Release project team members and other resources.
+
+-----
+
+#### Roles
+
+i.  **Project Board:** Responsible for overall project direction, ensuring that the project delivers value, and making key decisions. It's composed of:
+    *   **Executive:** The individual ultimately responsible for the project's success [Ref 9].
+    *   **Senior User:** Represents the interests of those who will use the project's deliverables.
+    *   **Senior Supplier:** Represents the interests of those providing resources to the project.
+ii.  **Project Manager:** Responsible for day-to-day management of the project, ensuring the project's objectives are met within the agreed-upon constraints.
+iii.  **Project Team:** Individuals who perform the work defined in the project plan.
+iv.  **Stakeholders:** Individuals or groups with an interest in the project's outcome [Ref 3, Ref 9].
+
+-----
+
+#### RACI Matrix
+
+| Phase                    | Executive | Senior User | Senior Supplier | Project Manager | Project Team |
+| ------------------------ | --------- | ----------- | --------------- | --------------- | ------------ |
+| **I. Project Initiation**        | A         | C           | C               | R               | I           |
+| i. Define Project Mandate           |           | C           | C               | R               | I           |
+| ii. Appoint Project Team           | A         | I           | I               | R               | I          |
+| iii. Develop Project Brief           | C         | C           | C               | R               | I            |
+| iv. Develop Project Initiation Documentation (PID) | I         | C           | C               | R               | I            |
+| v. Obtain Project Board Approval | A         | C           | C               | I               | I          |
+| **II. Project Planning**        | C         | C           | C               | R               | A            |
+| i. Define Work Breakdown Structure (WBS)        | I         | C           | C               | R               | A            |
+| ii. Create Detailed Schedules   | I         | C           | C               | R               | A            |
+| iii. Develop the Budget      | I         | C           | C               | R               | A            |
+| iv. Create a Communication Plan | I         | C           | C               | R               | A            |
+| v. Develop a Risk Management Plan    | I         | C           | C               | R               | A            |
+| vi. Create a Quality Management Strategy       | I         | C           | C               | R               | A            |
+| vii. Develop a Configuration Management Strategy | I         | C           | C               | R               | A            |
+| **III. Project Execution and Control**  | C         | C           | C               | R               | A            |
+| i. Execute Work Packages          | I         | I           | I               | C               | A            |
+| ii. Manage Project Team | I        | I       | I              | R               | C            |
+| iii. Monitor Progress       | I         | C           | C               | R               | I            |
+| iv. Manage Issues and Risks    | I         | C           | C               | R               | I            |
+| v. Manage Changes        | I         | C           | C               | R               | I            |
+| vi. Prepare Project Reports    | I         | C           | C               | R               | I            |
+| **IV. Project Closure**       | A         | C           | C               | R               | I            |
+| i. Prepare Project Closure Report     | I         | C           | C               | R               | I            |
+| ii. Obtain Project Board Approval for Closure | A         | C           | C               | I               | I          |
+| iii. Deliver Project Products      | I         | A           | I               | C               | I            |
+| iv. Archive Project Documentation      | I         | C           | I               | R               | A            |
+| v. Release Project Resources        | A         | I           | I               | R               | I            |
+
+*   **R** = Responsible (does the work)
+*   **A** = Accountable (owns the work)
+*   **C** = Consulted (provides input)
+*   **I** = Informed (kept up-to-date)
+
+-----
+
+#### Decision Gates
+
+Key decision points requiring Project Board approval:
+
+i.  **Project Initiation:** Approval of the PID [Ref 1]. The Project Board reviews and approves the project's scope, budget, and high-level plan.
+ii.  **Stage Boundaries:** Review and approval of stage plans and work packages before the start of each stage. This includes approval for the next stage's plan, budget, and any changes [Ref 8].
+iii.  **Issue Escalation:** Decisions on significant issues that could impact the project's objectives, budget, or schedule.
+iv.  **Change Requests:** Approval or rejection of change requests to the project scope or deliverables.
+v.  **Project Closure:** Approval of the Project Closure Report and formal project closure. This confirms the project's outcomes and acceptance of the deliverables [Ref 7].
+
+-----
+
+#### Embeddings & Citations Section
+
+*   Ref 1: ISO21502, Page 9 (Similarity: 0.586)
+*   Ref 2: PMBOK, Page 30 (Similarity: 0.585)
+*   Ref 3: PMBOK, Page 24 (Similarity: 0.577)
+*   Ref 4: PRINCE2, Page 4 (Similarity: 0.555)
+*   Ref 5: ISO21502, Page 12 (Similarity: 0.540)
+*   Ref 6: PMBOK, Page 10 (Similarity: 0.524)
+*   Ref 7: ISO21502, Page 11 (Similarity: 0.498)
+*   Ref 8: PRINCE2, Page 6 (Similarity: 0.495)
+*   Ref 9: ISO21500, Page 9 (Similarity: 0.488)
+*   Ref 10: ISO21502, Page 10 (Similarity: 0.487)
+*   Ref 11: ISO21502, Page 1 (Similarity: 0.478)
+*   Ref 12: PMBOK, Page 9 (Similarity: 0.471)
+*   Ref 13: ISO21502, Page 7 (Similarity: 0.467)
+*   Ref 14: ISO21500, Page 9 (Similarity: 0.463)
+*   Ref 15: ISO21502, Page 7 (Similarity: 0.456)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 9: Page 9, Similarity: 0.488 (/pdf/ISO21500#page=9)
+- Ref 14: Page 9, Similarity: 0.463 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 11: Page 1, Similarity: 0.478 (/pdf/ISO21502#page=1)
+- Ref 13: Page 7, Similarity: 0.467 (/pdf/ISO21502#page=7)
+- Ref 15: Page 7, Similarity: 0.456 (/pdf/ISO21502#page=7)
+- Ref 1: Page 9, Similarity: 0.586 (/pdf/ISO21502#page=9)
+- Ref 10: Page 10, Similarity: 0.487 (/pdf/ISO21502#page=10)
+- Ref 7: Page 11, Similarity: 0.498 (/pdf/ISO21502#page=11)
+- Ref 5: Page 12, Similarity: 0.540 (/pdf/ISO21502#page=12)
+
+**PMBOK:**
+- Ref 12: Page 9, Similarity: 0.471 (/pdf/PMBOK#page=9)
+- Ref 6: Page 10, Similarity: 0.524 (/pdf/PMBOK#page=10)
+- Ref 3: Page 24, Similarity: 0.577 (/pdf/PMBOK#page=24)
+- Ref 2: Page 30, Similarity: 0.585 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 4: Page 4, Similarity: 0.555 (/pdf/PRINCE2#page=4)
+- Ref 8: Page 6, Similarity: 0.495 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 23232_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.586) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.585) → /pdf/PMBOK#page=30
+• [Ref 3] PMBOK - Page 24 (Similarity: 0.577) → /pdf/PMBOK#page=24
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.555) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.540) → /pdf/ISO21502#page=12
+• [Ref 6] PMBOK - Page 10 (Similarity: 0.524) → /pdf/PMBOK#page=10
+• [Ref 7] ISO21502 - Page 11 (Similarity: 0.498) → /pdf/ISO21502#page=11
+• [Ref 8] PRINCE2 - Page 6 (Similarity: 0.495) → /pdf/PRINCE2#page=6
+• [Ref 9] ISO21500 - Page 9 (Similarity: 0.488) → /pdf/ISO21500#page=9
+• [Ref 10] ISO21502 - Page 10 (Similarity: 0.487) → /pdf/ISO21502#page=10
+• [Ref 11] ISO21502 - Page 1 (Similarity: 0.478) → /pdf/ISO21502#page=1
+• [Ref 12] PMBOK - Page 9 (Similarity: 0.471) → /pdf/PMBOK#page=9
+• [Ref 13] ISO21502 - Page 7 (Similarity: 0.467) → /pdf/ISO21502#page=7
+• [Ref 14] ISO21500 - Page 9 (Similarity: 0.463) → /pdf/ISO21500#page=9
+• [Ref 15] ISO21502 - Page 7 (Similarity: 0.456) → /pdf/ISO21502#page=7

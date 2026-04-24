@@ -1,0 +1,132 @@
+Scenario: [33112] Innovative Product Development | Research | Small (< 6 months) | Information Technology | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21500, ISO21502
+
+================================================================================
+
+### Process Recommendation: Small-Scale IT Research Project (PRINCE2)
+
+This process recommendation outlines a PRINCE2-based project management approach for a small-scale (< 6 months) IT research project. It leverages relevant PM standards (PMBOK, ISO21502, and PRINCE2) to ensure a structured and controlled project execution. PRINCE2 emphasizes control, planning, and communication which are critical even in smaller projects [Ref 3]. Given the small size, tailoring of PRINCE2 is essential to avoid unnecessary overhead [Ref 7].
+
+-----
+
+#### Phases and Activities
+
+This project will be structured into the following PRINCE2 phases, tailored for a small research project:
+
+I. **Starting Up a Project (SU)**
+
+i.   **Appoint the Project Management Team:** Define roles and responsibilities [Ref 3].
+ii.  **Create the Project Brief:** Outline the project's purpose, scope, objectives, and benefits [Ref 3]. This is essential for aligning stakeholder expectations and avoiding ambiguity [Ref 3].
+iii. **Define the Project Approach:** Decide on the specific research methodologies and technologies to be used.
+iv.  **Plan the Initiation Stage:** Determine the activities and resources needed to initiate the project properly.
+
+II. **Initiating a Project (IP)**
+
+i.   **Refine the Project Brief into a Project Initiation Document (PID):** Elaborate on the project's scope, objectives, benefits, risks, and controls. This should include a detailed plan covering product scope, project scope, estimating, scheduling, budget, team composition, communication plan, procurement, change management and measurement [Ref 1].
+ii.  **Define Project Controls:** Establish procedures for managing risks, issues, and changes.
+iii. **Create detailed plan.** This includes scope, estimating, scheduling, budget, team composition, communication plan, procurement, change management, and measurement [Ref 1].
+iv.  **Secure Project Resources:** Confirm the availability of necessary resources (personnel, equipment, data).
+
+III. **Controlling a Stage (CS)**
+
+i.   **Authorize Work Packages:** Assign specific tasks to team members.
+ii.  **Monitor Progress:** Track progress against the project plan [Ref 4] and address any deviations. Measurement of project performance is essential [Ref 4].
+iii. **Manage Issues and Risks:** Identify, assess, and respond to any issues or risks that arise.
+iv.  **Report Progress:** Communicate project status to stakeholders through regular updates. Stakeholder engagement is key [Ref 4].
+
+IV. **Managing Product Delivery (MP)**
+
+i.   **Execute Research Activities:** Conduct the planned research activities, adhering to the defined methodologies.
+ii.  **Develop Deliverables:** Create the research reports, data analysis, and other project deliverables.
+iii. **Quality Review:** Ensure deliverables meet the defined quality standards. Building quality into the process is important [Ref 15].
+
+V. **Managing a Stage Boundary (SB)**
+
+i.   **Review Stage Performance:** Assess the performance of the current stage against the plan.
+ii.  **Update Project Plan:** Revise the project plan based on the stage's performance and any changes in the environment.
+iii. **Plan the Next Stage:** Develop a detailed plan for the next stage of the project.
+iv.  **Seek approval to proceed.**
+
+VI. **Closing a Project (CP)**
+
+i.   **Handover Deliverables:** Formally deliver the project deliverables to the stakeholders.
+ii.  **Evaluate Project Performance:** Assess the project's overall performance against the objectives and identify lessons learned.
+iii. **Disseminate Research Findings:** Publish or present the research findings to the relevant audience.
+iv.  **Archive Project Documentation:** Store all project documentation for future reference.
+v.  **Confirm objectives were achieved.**
+
+-----
+
+#### Roles
+
+The following key roles are required for this project:
+
+i.   **Executive (Project Sponsor):** Provides overall direction and resources [Ref 6].
+ii.  **Senior User:** Represents the interests of those who will use the research findings.
+iii. **Senior Supplier:** Represents the interests of those supplying the resources (researchers).
+iv.  **Project Manager:** Responsible for planning, executing, and controlling the project [Ref 10].
+v.   **Research Team Member:** Conducts the research activities and develops the deliverables.
+
+-----
+
+#### RACI Matrix
+
+| Activity                     | Executive | Senior User | Senior Supplier | Project Manager | Research Team Member |
+| :--------------------------- | :-------- | :---------- | :-------------- | :-------------- | :------------------- |
+| Starting Up a Project       | A [Ref 6]  | C           | C               | R             | I                    |
+| Initiating a Project        | A  | C           | C               | R              | I                    |
+| Controlling a Stage         | I  | I           | I               | R             | C                    |
+| Managing Product Delivery   | I  | C           | I               | C              | R                    |
+| Managing a Stage Boundary   | A | C           | C               | R              | I                    |
+| Closing a Project           | A | C           | C               | R             | I                    |
+
+**Key:**
+*   **R:** Responsible - The person who does the work.
+*   **A:** Accountable - The person who is ultimately answerable for the correct and thorough completion of the task.
+*   **C:** Consulted - The person who needs to be consulted before a decision or action is taken.
+*   **I:** Informed - The person who needs to be kept informed.
+
+-----
+
+#### Decision Gates
+
+The following are the key decision gates within the project lifecycle:
+
+i.   **End of Starting Up a Project:** Decision on whether to proceed to the Initiation Stage. The Project Board (Executive, Senior User, Senior Supplier) must approve the Project Brief [Ref 3].
+ii.  **End of Initiating a Project:** Decision on whether to proceed to the Execution Stage.  The Project Board must approve the Project Initiation Document (PID) [Ref 3].
+iii. **End of Each Stage:** The Project Board reviews the stage performance and approves the plan for the next stage. This ensures the project remains aligned with the objectives and the benefits are still achievable.
+iv.  **Project Closure:** The Project Board approves the project closure and confirms that all objectives have been met.
+
+-----
+
+#### Note
+Ref 1: PMBOK, Page 30 (Similarity: 0.600)
+Ref 3: PRINCE2, Page 4 (Similarity: 0.582)
+Ref 4: PMBOK, Page 24 (Similarity: 0.581)
+Ref 6: ISO21500, Page 9 (Similarity: 0.535)
+Ref 7: PRINCE2, Page 6 (Similarity: 0.528)
+Ref 10: ISO21502, Page 14 (Similarity: 0.516)
+Ref 15: PMBOK, Page 10 (Similarity: 0.505)
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 33112_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 30 (Similarity: 0.600) → /pdf/PMBOK#page=30
+• [Ref 2] ISO21502 - Page 9 (Similarity: 0.595) → /pdf/ISO21502#page=9
+• [Ref 3] PRINCE2 - Page 4 (Similarity: 0.582) → /pdf/PRINCE2#page=4
+• [Ref 4] PMBOK - Page 24 (Similarity: 0.581) → /pdf/PMBOK#page=24
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.575) → /pdf/ISO21502#page=12
+• [Ref 6] ISO21500 - Page 9 (Similarity: 0.535) → /pdf/ISO21500#page=9
+• [Ref 7] PRINCE2 - Page 6 (Similarity: 0.528) → /pdf/PRINCE2#page=6
+• [Ref 8] ISO21502 - Page 1 (Similarity: 0.526) → /pdf/ISO21502#page=1
+• [Ref 9] ISO21502 - Page 7 (Similarity: 0.525) → /pdf/ISO21502#page=7
+• [Ref 10] ISO21502 - Page 14 (Similarity: 0.516) → /pdf/ISO21502#page=14
+• [Ref 11] ISO21502 - Page 10 (Similarity: 0.516) → /pdf/ISO21502#page=10
+• [Ref 12] ISO21502 - Page 11 (Similarity: 0.511) → /pdf/ISO21502#page=11
+• [Ref 13] ISO21500 - Page 9 (Similarity: 0.509) → /pdf/ISO21500#page=9
+• [Ref 14] ISO21502 - Page 7 (Similarity: 0.509) → /pdf/ISO21502#page=7
+• [Ref 15] PMBOK - Page 10 (Similarity: 0.505) → /pdf/PMBOK#page=10

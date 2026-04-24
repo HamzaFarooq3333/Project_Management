@@ -1,0 +1,172 @@
+Scenario: [14242] Custom Project (Manual Configuration) | Marketing | Medium (6-18 months) | Finance | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Project Process Recommendation: Finance Marketing Project
+
+#### Process Summary
+
+This recommendation outlines a comprehensive project management process for a medium-scale finance marketing project, designed to be completed within 6-18 months. The project will leverage PRINCE2 methodology and incorporate elements from PMBOK and ISO standards. The project's success hinges on a clear understanding of objectives, meticulous planning, proactive risk management, and effective stakeholder engagement. The project lifecycle will follow a structured approach, allowing for adaptability while adhering to established best practices [Ref 1, 9, 11].  Given the manual configuration aspect, iterative and incremental development approaches should be considered [Ref 1]. The process emphasizes the importance of tailoring the approach based on the project's specific context, organizational culture, and resource availability [Ref 10, 15].
+
+-----
+
+#### Phases and Activities
+
+I. **Project Initiation & Definition**
+
+   i.  **Project Mandate Review & Approval:** Review and validate the project mandate/business case.  Ensure the project aligns with organizational strategy. The sponsor is responsible for obtaining resources and executive decisions [Ref 6].
+   ii. **Stakeholder Identification and Analysis:** Identify all stakeholders and assess their interests and influence [Ref 2, 6].
+   iii. **Project Initiation Document (PID) Creation:** Develop a comprehensive PID outlining the project scope, objectives, deliverables, budget, timeline, risks, quality standards, and communication plan. This aligns with PRINCE2 principles [Ref 9].  This is where the project scope is defined [Ref 3].
+   iv. **Risk Assessment:** Conduct an initial risk assessment to identify potential threats [Ref 4, 8, 19].
+   v. **Project Team Assembly:** Assign roles and responsibilities and form the project team [Ref 2, 3].
+
+II. **Planning**
+
+   i. **Detailed Scope Definition:** Refine the project scope, including product and project scope, and create a Work Breakdown Structure (WBS) to decompose the scope into manageable work packages [Ref 3, 4].
+   ii. **Activity Definition and Sequencing:** Define the specific activities required to complete each work package and establish dependencies.
+   iii. **Resource Planning:**  Allocate resources (human, financial, and material) to the activities. Ensure resource availability [Ref 5, 15].
+   iv. **Schedule Development:** Create a realistic project schedule, including activity durations, dependencies, and milestones [Ref 3].
+   v. **Budget Development:**  Develop a detailed budget, estimating costs for each activity and work package [Ref 3].
+   vi. **Communication Plan Development:** Create a communication plan to manage stakeholder expectations and facilitate information sharing [Ref 3].
+   vii. **Risk Management Planning:**  Develop a detailed risk management plan to identify, assess, and mitigate risks [Ref 3].
+   viii. **Quality Planning:** Define quality standards and processes.
+
+III. **Execution**
+
+   i. **Work Package Execution:**  Execute the planned activities according to the project plan.
+   ii. **Manual Configuration Activities:** Perform marketing campaigns and configurations.
+   iii. **Progress Monitoring:**  Track project progress against the schedule, budget, and scope.
+   iv. **Issue Management:**  Address and resolve any issues that arise during project execution.
+   v. **Change Management:**  Implement the change management process to manage change requests [Ref 3].
+   vi. **Communication Management:** Regularly communicate project status and progress to stakeholders.
+
+IV. **Monitoring & Controlling**
+
+   i. **Performance Measurement:** Regularly measure project performance against the baseline (scope, schedule, cost, quality).
+   ii. **Variance Analysis:** Analyze variances (schedule, budget, and scope) to identify areas needing corrective action.
+   iii. **Risk Response Implementation:** Implement the planned responses to identified risks.
+   iv. **Quality Control:** Conduct quality checks to ensure deliverables meet the defined standards.
+   v. **Progress Reporting:** Generate regular progress reports for stakeholders.
+   vi. **Change Requests Handling:** Managing change requests that will inevitably occur [Ref 3].
+
+V. **Project Closure**
+
+   i. **Deliverable Acceptance:**  Obtain formal acceptance of all deliverables from the relevant stakeholders.
+   ii. **Final Reporting:**  Prepare a final project report summarizing the project's achievements, lessons learned, and any outstanding issues.
+   iii. **Financial Closure:** Close out all financial aspects of the project.
+   iv. **Contract Closure:** Finalize any procurement activities related to the project.
+   v. **Team Release:** Release the project team members.
+   vi. **Project Archive:** Archive all project documentation.
+
+-----
+
+#### Roles
+
+*   **Project Sponsor:** Responsible for obtaining resources and executive decisions to enable success [Ref 6]. Provides strategic direction and support.
+*   **Project Manager:**  Responsible for the day-to-day management of the project, including planning, execution, monitoring, and closure [Ref 5].
+*   **Project Team:** Individuals with specific skills and responsibilities for completing project tasks.
+*   **Stakeholders:** Individuals or groups with an interest in the project. (e.g., Marketing Manager, Finance Team, IT Team, external vendors) [Ref 2, 6].
+*   **Change Control Board (CCB):** Group or individual responsible for reviewing and approving change requests.
+*   **Quality Assurance (QA) Team/Individual:** Responsible for ensuring that the project deliverables meet the defined quality standards.
+
+-----
+
+#### RACI Matrix
+
+| Phase                            | Project Sponsor | Project Manager | Project Team | Key Stakeholders |
+| -------------------------------- | --------------- | --------------- | ------------ | ---------------- |
+| **I. Initiation & Definition**   | A               | R               | C            | I                |
+| Project Mandate Review & Approval | A               | R               | C            | I                |
+| Stakeholder Identification      | C               | R               | I            | A                |
+| PID Creation                     | A               | R               | C            | I                |
+| Risk Assessment                  | C               | R               | C            | I                |
+| Project Team Assembly            | A               | R               | C            | I                |
+| **II. Planning**                 | C               | R               | A            | I                |
+| Scope Definition                 | C               | R               | A            | I                |
+| Activity Definition              | C               | R               | A            | I                |
+| Resource Planning                | C               | R               | A            | I                |
+| Schedule Development             | C               | R               | A            | I                |
+| Budget Development               | C               | R               | A            | I                |
+| Communication Plan               | C               | R               | A            | I                |
+| Risk Management Planning         | C               | R               | A            | I                |
+| Quality Planning                 | C               | R               | A            | I                |
+| **III. Execution**               | C               | R               | A            | I                |
+| Work Package Execution           | C               | R               | A            | I                |
+| Manual Configuration             | C               | R               | A            | I                |
+| Progress Monitoring              | C               | R               | A            | I                |
+| Issue Management                 | C               | R               | A            | I                |
+| Change Management                | A/C             | R               | I            | C                |
+| Communication Management         | C               | R               | A            | I                |
+| **IV. Monitoring & Controlling**  | C               | R               | A            | I                |
+| Performance Measurement          | C               | R               | A            | I                |
+| Variance Analysis                | C               | R               | A            | I                |
+| Risk Response Implementation     | C               | R               | A            | I                |
+| Quality Control                  | C               | R               | A            | I                |
+| Progress Reporting               | C               | R               | A            | I                |
+| Change Requests Handling         | A/C             | R               | I            | C                |
+| **V. Project Closure**           | A               | R               | C            | I                |
+| Deliverable Acceptance           | A               | R               | C            | I                |
+| Final Reporting                  | C               | R               | A            | I                |
+| Financial Closure                | A               | R               | C            | I                |
+| Contract Closure                 | A               | R               | C            | I                |
+| Team Release                     | A               | R               | C            | I                |
+| Project Archive                  | C               | R               | I            | A                |
+
+*   **R** - Responsible: The person or role that does the work.
+*   **A** - Accountable: The person or role ultimately answerable for the correct and thorough completion of the deliverable or task.
+*   **C** - Consulted: The person or role whose opinions are sought; and with whom there is two-way communication.
+*   **I** - Informed: The person or role who is kept up-to-date on progress; and with whom there is one-way communication.
+
+-----
+
+#### Decision Gates
+
+*   **Project Initiation Approval:** Before the project moves from Initiation to Planning. (Review project mandate and PID. Is the project worth the investment?)
+*   **Project Plan Approval:** Before the project moves from Planning to Execution. (Review and approve the detailed project plan, budget, schedule, risk management plan, and communication plan.)
+*   **Change Request Approval:**  Throughout the project lifecycle. (Review and approve or reject change requests based on their impact on scope, schedule, budget, and quality.) [Ref 3]
+*   **Deliverable Acceptance:**  At the completion of each deliverable and at project closure. (Formal acceptance of deliverables by the relevant stakeholders.)
+*   **Project Closure Approval:** Upon completion of all project activities. (Review project performance, ensure all deliverables have been accepted, and approve project closure.)
+
+-----
+
+#### Note
+
+*   Ref 1: ISO21502, Page 9 (Similarity: 0.618)
+*   Ref 2: PMBOK, Page 24 (Similarity: 0.610)
+*   Ref 3: PMBOK, Page 30 (Similarity: 0.610)
+*   Ref 4: ISO21502, Page 12 (Similarity: 0.570)
+*   Ref 5: PRINCE2, Page 4 (Similarity: 0.564)
+*   Ref 6: ISO21500, Page 9 (Similarity: 0.551)
+*   Ref 7: ISO21502, Page 1 (Similarity: 0.545)
+*   Ref 8: ISO21500, Page 9 (Similarity: 0.534)
+*   Ref 9: PRINCE2, Page 6 (Similarity: 0.531)
+*   Ref 10: PMBOK, Page 10 (Similarity: 0.519)
+*   Ref 11: ISO21500, Page 7 (Similarity: 0.509)
+*   Ref 12: ISO21502, Page 7 (Similarity: 0.498)
+*   Ref 13: ISO21502, Page 9 (Similarity: 0.493)
+*   Ref 14: ISO21500, Page 1 (Similarity: 0.492)
+*   Ref 15: ISO21502, Page 14 (Similarity: 0.491)
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 14242_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.618) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.610) → /pdf/PMBOK#page=24
+• [Ref 3] PMBOK - Page 30 (Similarity: 0.610) → /pdf/PMBOK#page=30
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.570) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.564) → /pdf/PRINCE2#page=4
+• [Ref 6] ISO21500 - Page 9 (Similarity: 0.551) → /pdf/ISO21500#page=9
+• [Ref 7] ISO21502 - Page 1 (Similarity: 0.545) → /pdf/ISO21502#page=1
+• [Ref 8] ISO21500 - Page 9 (Similarity: 0.534) → /pdf/ISO21500#page=9
+• [Ref 9] PRINCE2 - Page 6 (Similarity: 0.531) → /pdf/PRINCE2#page=6
+• [Ref 10] PMBOK - Page 10 (Similarity: 0.519) → /pdf/PMBOK#page=10
+• [Ref 11] ISO21500 - Page 7 (Similarity: 0.509) → /pdf/ISO21500#page=7
+• [Ref 12] ISO21502 - Page 7 (Similarity: 0.498) → /pdf/ISO21502#page=7
+• [Ref 13] ISO21502 - Page 9 (Similarity: 0.493) → /pdf/ISO21502#page=9
+• [Ref 14] ISO21500 - Page 1 (Similarity: 0.492) → /pdf/ISO21500#page=1
+• [Ref 15] ISO21502 - Page 14 (Similarity: 0.491) → /pdf/ISO21502#page=14

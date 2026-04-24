@@ -1,0 +1,189 @@
+Scenario: [23222] Custom Software Development | Research | Medium (6-18 months) | Construction | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: ISO21500, ISO21502, PRINCE2, PMBOK
+
+================================================================================
+
+### Process Recommendation: Construction Research Project (PRINCE2)
+
+This process recommendation outlines a structured approach for managing a medium-scale construction research project using the PRINCE2 methodology, which is applicable to any type of project, regardless of its purpose [Ref 3]. This approach ensures that the project meets its objectives through the application of methods, tools, techniques, and competencies [Ref 4]. The project's success hinges on a clear understanding of responsibilities, deliverables, and expectations across the entire lifecycle [Ref 6].
+
+-----
+
+#### I. Process Summary
+
+This construction research project, aligned with the PRINCE2 methodology, will be executed over a medium timeframe of 6-18 months. The project will be managed using a structured, phased approach that incorporates PRINCE2 principles, ensuring that it remains focused on delivering value and adapting to change [Ref 10, Ref 14]. Key aspects include stakeholder management, risk management, issue management, and the control of project costs and timelines. The project team will work collaboratively to define the project scope, create realistic expectations, and ensure the availability of necessary resources [Ref 4]. This process will be tailored based on the project context [Ref 10].
+
+#### II. Phases and Activities
+
+The project will be divided into the following phases, each with specific activities aligned with PRINCE2 practices:
+
+I.  **Starting Up a Project**: This initial phase establishes the foundation for the project.
+    i.  Appoint the Project Manager and Team.
+    ii.  Define the project's scope, objectives, and deliverables. [Ref 2, Ref 7]
+    iii.  Prepare the Project Brief and outline the business case.
+    iv.  Identify and document key stakeholders. [Ref 1, Ref 8]
+    v.  Establish project tolerances.
+    vi.  Plan the next stage.
+
+II.  **Initiating a Project**: This phase refines the project plan and gets formal approval to proceed.
+    i.  Develop the Project Initiation Documentation (PID). This will include the project plan, risk management strategy, configuration management strategy, and communication plan. [Ref 2]
+    ii.  Refine the business case.
+    iii.  Establish project controls.
+    iv.  Assemble the project team.
+    v.  Plan the subsequent stages.
+
+III. **Directing a Project**: This phase is concerned with governance and control throughout the project lifecycle.
+    i.  Provide overall direction and authorization to the project. [Ref 9, Ref 13]
+    ii.  Review and approve project plans and changes.
+    iii.  Manage project risks and issues. [Ref 5]
+    iv.  Monitor the project's progress and performance against the plan. [Ref 1, Ref 2]
+    v.  Approve stage and project closures.
+    vi.  Provide ongoing support to the project manager.
+
+IV. **Managing a Stage/Delivery Stage**: During this phase the project team focuses on delivering the project's products/deliverables.
+    i.  Authorize work packages. [Ref 5]
+    ii.  Execute project activities according to the work packages. [Ref 5]
+    iii.  Monitor project progress against plans.
+    iv.  Manage project risks and issues.
+    v.  Report progress to the Project Board.
+    vi.  Escalate issues to the Project Board when necessary.
+
+V. **Managing Product Delivery**: This is where the specialist teams will focus on the delivery of the specialized deliverables.
+    i.  Accepting and checking the products completed.
+    ii.  Ensure activities are completed according to the work packages.
+    iii.  Monitor project progress against plans.
+    iv.  Report progress to the Project Manager.
+    v.  Manage project risks and issues.
+
+VI. **Closing a Project**: The final phase focuses on formal project closure and handover.
+    i.  Prepare the Project Closure Report.
+    ii.  Hand over project products.
+    iii.  Assess project success and lessons learned.
+    iv.  De-brief the project team.
+    v.  Release project resources.
+
+-----
+
+#### III. Roles
+
+Key roles within the project include:
+
+i.  **Project Board:** Responsible for overall project direction, providing executive-level oversight and ensuring the project delivers value and benefits [Ref 8, Ref 14]. This is made up of:
+    *   **Executive**: Accountable for the project's success.
+    *   **Senior User**: Represents the users who will benefit from the project's outcomes.
+    *   **Senior Supplier**: Represents the providers of resources and expertise.
+ii.  **Project Manager**: Responsible for the day-to-day management of the project, ensuring the project delivers its products within the set tolerances of time, cost, quality, scope, benefits, and risk [Ref 4].
+iii.  **Project Assurance**: Provides independent checks on the project's processes and deliverables.
+iv.  **Team Managers**: Manage the work packages and the specialist teams delivering the products.
+v.  **Team Members**: Individuals responsible for executing specific tasks within work packages.
+vi.  **Project Support**: Provides administrative and logistical support to the project team.
+
+-----
+
+#### IV. RACI Matrix
+
+The following RACI matrix outlines the responsibilities for key project activities:
+
+| Phase                        | Activity                                      | Project Board | Project Manager | Project Assurance | Team Managers | Team Members |
+| :--------------------------- | :-------------------------------------------- | :-----------: | :-------------: | :---------------: | :-----------: | :-----------: |
+| **Starting Up a Project**   | Appoint Project Manager                        |       A       |        R        |         I         |       -       |       -       |
+|                             | Define Project Scope                         |       A       |        R        |         C         |       -       |       -       |
+|                             | Identify Stakeholders                         |       A       |        R        |         C         |       -       |       -       |
+| **Initiating a Project**   | Develop Project Initiation Documentation     |       A       |        R        |         C         |       -       |       -       |
+|                             | Refine Business Case                          |       A       |        R        |         C         |       -       |       -       |
+| **Directing a Project**     | Authorize Project                             |       A       |        R        |         I         |       -       |       -       |
+|                             | Monitor Project Progress                       |       A       |        R        |         C         |       -       |       -       |
+| **Managing a Stage/Delivery Stage**  | Authorize Work Packages                     |       I       |        A        |         C         |       R       |       -       |
+|                             | Execute Project Activities                    |       -       |        -        |         I         |       A       |       R       |
+| **Managing Product Delivery** | Acceptance and Checking of Products Completed  |       I       |        A        |         C         |       R       |       -       |
+| **Closing a Project**       | Prepare Project Closure Report                |       A       |        R        |         C         |       -       |       -       |
+|                             | Assess Project Success                        |       A       |        R        |         C         |       -       |       -       |
+
+Key: R = Responsible, A = Accountable, C = Consulted, I = Informed
+
+-----
+
+#### V. Decision Gates
+
+Decision gates are critical points where the Project Board assesses the project's progress and authorizes the next stage.
+*   **Project Initiation**: Authorizes the project to proceed after the Project Brief and PID is reviewed [Ref 4, Ref 6].
+*   **Stage Boundary Reviews**: The Project Board reviews the stage deliverables and progress to authorize the next stage or closure [Ref 4, Ref 6].
+*   **Project Closure**: The Project Board formally closes the project after review of the final project report [Ref 6].
+
+-----
+
+#### Embeddings & Citations Section
+
+Note:
+Ref 1: PMBOK, Page 24
+Ref 2: PMBOK, Page 30
+Ref 3: ISO21502, Page 9
+Ref 4: PRINCE2, Page 4
+Ref 5: ISO21502, Page 12
+Ref 6: PRINCE2, Page 6
+Ref 7: ISO21502, Page 10
+Ref 8: ISO21500, Page 9
+Ref 9: ISO21502, Page 11
+Ref 10: PMBOK, Page 10
+Ref 11: ISO21502, Page 1
+Ref 12: ISO21502, Page 7
+Ref 13: ISO21502, Page 7
+Ref 14: PMBOK, Page 9
+Ref 15: PRINCE2, Page 1
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 8: Page 9, Similarity: 0.539 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 11: Page 1, Similarity: 0.524 (/pdf/ISO21502#page=1)
+- Ref 12: Page 7, Similarity: 0.519 (/pdf/ISO21502#page=7)
+- Ref 13: Page 7, Similarity: 0.513 (/pdf/ISO21502#page=7)
+- Ref 3: Page 9, Similarity: 0.590 (/pdf/ISO21502#page=9)
+- Ref 7: Page 10, Similarity: 0.548 (/pdf/ISO21502#page=10)
+- Ref 9: Page 11, Similarity: 0.537 (/pdf/ISO21502#page=11)
+- Ref 5: Page 12, Similarity: 0.568 (/pdf/ISO21502#page=12)
+
+**PMBOK:**
+- Ref 14: Page 9, Similarity: 0.506 (/pdf/PMBOK#page=9)
+- Ref 10: Page 10, Similarity: 0.526 (/pdf/PMBOK#page=10)
+- Ref 1: Page 24, Similarity: 0.630 (/pdf/PMBOK#page=24)
+- Ref 2: Page 30, Similarity: 0.607 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 15: Page 1, Similarity: 0.486 (/pdf/PRINCE2#page=1)
+- Ref 4: Page 4, Similarity: 0.583 (/pdf/PRINCE2#page=4)
+- Ref 6: Page 6, Similarity: 0.559 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 23222_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 24 (Similarity: 0.630) → /pdf/PMBOK#page=24
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.607) → /pdf/PMBOK#page=30
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.590) → /pdf/ISO21502#page=9
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.583) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.568) → /pdf/ISO21502#page=12
+• [Ref 6] PRINCE2 - Page 6 (Similarity: 0.559) → /pdf/PRINCE2#page=6
+• [Ref 7] ISO21502 - Page 10 (Similarity: 0.548) → /pdf/ISO21502#page=10
+• [Ref 8] ISO21500 - Page 9 (Similarity: 0.539) → /pdf/ISO21500#page=9
+• [Ref 9] ISO21502 - Page 11 (Similarity: 0.537) → /pdf/ISO21502#page=11
+• [Ref 10] PMBOK - Page 10 (Similarity: 0.526) → /pdf/PMBOK#page=10
+• [Ref 11] ISO21502 - Page 1 (Similarity: 0.524) → /pdf/ISO21502#page=1
+• [Ref 12] ISO21502 - Page 7 (Similarity: 0.519) → /pdf/ISO21502#page=7
+• [Ref 13] ISO21502 - Page 7 (Similarity: 0.513) → /pdf/ISO21502#page=7
+• [Ref 14] PMBOK - Page 9 (Similarity: 0.506) → /pdf/PMBOK#page=9
+• [Ref 15] PRINCE2 - Page 1 (Similarity: 0.486) → /pdf/PRINCE2#page=1

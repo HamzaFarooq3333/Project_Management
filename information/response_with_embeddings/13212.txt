@@ -1,0 +1,174 @@
+Scenario: [13212] Custom Project (Manual Configuration) | Research | Medium (6-18 months) | Information Technology | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: IT Research Project using PRINCE2
+
+#### 1. Process Summary
+
+This recommendation outlines a comprehensive project management process for a medium-scale (6-18 months) information technology research project involving manual configuration, based on PRINCE2 methodology. PRINCE2 is selected as the primary methodology. This process integrates key project management principles, practices, and processes to ensure the project meets its objectives [Ref 3]. This framework incorporates the guidance provided by the ISO 21502 standard for project management [Ref 2]. This methodology emphasizes managing the project life cycle, from initiation through to closure. Key elements include project scope definition, detailed planning, resource allocation, risk management, and rigorous monitoring and control. The planning process will address various project elements including scope, estimating, scheduling, budget, team composition, communication plans, procurement, change management, and measurement [Ref 1]. The success of the project also hinges on clearly defined roles and responsibilities [Ref 3], robust decision gates, and effective stakeholder engagement [Ref 4, Ref 6].
+
+-----
+
+#### 2. Phases and Activities
+
+This project will follow a phased approach, aligned with PRINCE2 principles [Ref 3, Ref 7]. The project life cycle will have defined phases [Ref 10], with a clear set of phases from start to end [Ref 7].
+
+**I. Project Initiation:**
+
+i.  **Project Mandate Review:** Review the project mandate and business case to ensure alignment with organizational strategy and objectives. This helps the project to meet its objectives [Ref 3].
+ii.  **Project Definition:** Define the project's scope, objectives, deliverables, and success criteria. A clear definition of the scope of a project is essential [Ref 5].
+iii.  **Stakeholder Analysis:** Identify and analyze project stakeholders and their interests to determine communication and engagement strategies. Understanding stakeholders is a key project element [Ref 4].
+iv.  **Project Team Assembly:** Assign roles and responsibilities to the project team, ensuring the right skills and experience are available. Team composition is a crucial planning element [Ref 1].
+v.  **Project Plan Development:** Create a high-level project plan, including the project's approach, estimated timelines, budgets, and key milestones. Project planning is a central process [Ref 1].
+vi. **Risk Assessment:** Perform a preliminary risk assessment, including the identification of potential threats and opportunities [Ref 13].
+
+**II. Planning and Design:**
+
+i.  **Detailed Planning:** Develop detailed plans for each project stage, considering activities, resources, and dependencies.
+ii.  **Configuration Requirements Gathering:** Define the specific requirements for manual configuration, which will be the basis for project deliverables [Ref 11].
+iii.  **System Design:** Design the IT system architecture and configuration specifications.
+iv.  **Resource Allocation:** Allocate resources (personnel, budget, time, tools) required for each configuration task.
+v.  **Communication Planning:** Finalize the communication plan, which outlines how stakeholders will be updated about the project's progress. Communication is another key element of a project plan [Ref 1].
+vi.  **Procurement Planning (if required):** If any procurement is necessary, define procurement strategies and processes [Ref 1].
+
+**III. Execution and Configuration:**
+
+i.  **Configuration Implementation:** Execute the manual configuration according to the design specifications.
+ii.  **Testing and Verification:** Conduct rigorous testing and verification to ensure the configuration meets the defined requirements.
+iii.  **Risk Mitigation:** Implement risk mitigation plans to address identified threats [Ref 13].
+iv.  **Issue Management:** Manage and resolve project issues promptly [Ref 11].
+v.  **Change Management:** Control and manage changes to the project scope, schedule, and budget [Ref 1].
+
+**IV. Monitoring and Controlling:**
+
+i.  **Progress Tracking:** Regularly monitor project progress against the plan and key performance indicators. This is central to project success [Ref 4].
+ii.  **Performance Reporting:** Generate and distribute performance reports to stakeholders, outlining progress, risks, and issues.
+iii.  **Schedule Control:** Manage schedule variances and take corrective actions as needed.
+iv.  **Budget Control:** Monitor project expenditures and manage budget variances.
+v.  **Change Control:** Manage change requests, assess their impact, and implement approved changes.
+vi.  **Issue Management:** Resolve issues and escalate them as needed.
+
+**V. Project Closure:**
+
+i.  **Project Handover:** Formally hand over the completed system or research findings.
+ii.  **Final Testing and Acceptance:** Verify the final system meets acceptance criteria.
+iii.  **Project Documentation:** Complete and archive all project documentation.
+iv.  **Lessons Learned:** Conduct a lessons-learned review to identify successes and areas for improvement.
+v.  **Project Closure Report:** Produce a final project report.
+
+-----
+
+#### 3. Roles
+
+*   **Project Sponsor:** Accountable for obtaining the resources and executive decisions [Ref 6] and is responsible for overall project success.
+*   **Project Manager:** Responsible for day-to-day management of the project, including planning, execution, and control. This person should be supported by appropriate guidance [Ref 12].
+*   **Project Team Members:** Perform the tasks defined in the project plan.
+*   **Senior User(s):** Represent the users' interests and ensure the project meets their needs.
+*   **Senior Supplier(s):** Represent the suppliers’ interests.
+*   **Project Assurance:** Provides independent oversight of the project, ensuring adherence to standards and quality.
+*   **Change Authority:** Authorized to approve or reject change requests.
+
+-----
+
+#### 4. RACI Matrix
+
+| Phase | Project Sponsor | Project Manager | Project Team | Senior User | Senior Supplier | Project Assurance | Change Authority |
+|---|---|---|---|---|---|---|---|
+| **Project Initiation** | A | R | I | C | C | C | I |
+| **Planning and Design** | A | R | I | C | C | C | I |
+| **Execution and Configuration** | S | A | R | C | I | C | I |
+| **Monitoring and Controlling** | S | R | I | C | C | A | I |
+| **Project Closure** | A | R | I | C | C | I | I |
+
+*   **R** = Responsible: The person responsible for completing the task.
+*   **A** = Accountable: The person ultimately answerable for the correct and thorough completion of the task. Only one "A" per task.
+*   **C** = Consulted: The person(s) who are consulted before a decision or action is taken.
+*   **I** = Informed: The person(s) who are kept informed of progress and decisions.
+*   **S** = Support (in this context, this is a special form of "Accountable" to represent the Sponsor's accountability)
+
+-----
+
+#### 5. Decision Gates
+
+i.  **Project Initiation Approval:** Before proceeding to the Planning and Design phase, the project sponsor and key stakeholders review the project plan, business case, and risk assessment to authorize the project to proceed [Ref 10].
+ii.  **Design Review and Approval:** Before proceeding with Execution and Configuration, the Project Manager, Senior User, Senior Supplier and the Change Authority review the system design, ensuring that it meets requirements and stakeholder needs.
+iii.  **Configuration Acceptance:** Before final handoff, verify the configuration meets acceptance criteria [Ref 14].
+iv.  **Project Closure Approval:** The Project Sponsor formally approves project closure, based on the delivery of the approved deliverables, completion of the final report, and completion of lessons learned.
+
+-----
+
+#### 6. Note
+
+Ref 1: PMBOK, Page 30 (Similarity: 0.606)
+Ref 2: ISO21502, Page 9 (Similarity: 0.601)
+Ref 3: PRINCE2, Page 4 (Similarity: 0.591)
+Ref 4: PMBOK, Page 24 (Similarity: 0.585)
+Ref 5: ISO21502, Page 12 (Similarity: 0.582)
+Ref 6: ISO21500, Page 9 (Similarity: 0.545)
+Ref 7: PRINCE2, Page 6 (Similarity: 0.542)
+Ref 8: ISO21502, Page 7 (Similarity: 0.539)
+Ref 9: ISO21502, Page 1 (Similarity: 0.538)
+Ref 10: ISO21502, Page 11 (Similarity: 0.532)
+Ref 11: ISO21502, Page 10 (Similarity: 0.524)
+Ref 12: ISO21502, Page 7 (Similarity: 0.520)
+Ref 13: ISO21500, Page 9 (Similarity: 0.514)
+Ref 14: ISO21502, Page 14 (Similarity: 0.512)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 6: Page 9, Similarity: 0.545 (/pdf/ISO21500#page=9)
+- Ref 13: Page 9, Similarity: 0.514 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 9: Page 1, Similarity: 0.538 (/pdf/ISO21502#page=1)
+- Ref 8: Page 7, Similarity: 0.539 (/pdf/ISO21502#page=7)
+- Ref 12: Page 7, Similarity: 0.520 (/pdf/ISO21502#page=7)
+- Ref 2: Page 9, Similarity: 0.601 (/pdf/ISO21502#page=9)
+- Ref 15: Page 9, Similarity: 0.508 (/pdf/ISO21502#page=9)
+- Ref 11: Page 10, Similarity: 0.524 (/pdf/ISO21502#page=10)
+- Ref 10: Page 11, Similarity: 0.532 (/pdf/ISO21502#page=11)
+- Ref 5: Page 12, Similarity: 0.582 (/pdf/ISO21502#page=12)
+- Ref 14: Page 14, Similarity: 0.512 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 4: Page 24, Similarity: 0.585 (/pdf/PMBOK#page=24)
+- Ref 1: Page 30, Similarity: 0.606 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 3: Page 4, Similarity: 0.591 (/pdf/PRINCE2#page=4)
+- Ref 7: Page 6, Similarity: 0.542 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 13212_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 30 (Similarity: 0.606) → /pdf/PMBOK#page=30
+• [Ref 2] ISO21502 - Page 9 (Similarity: 0.601) → /pdf/ISO21502#page=9
+• [Ref 3] PRINCE2 - Page 4 (Similarity: 0.591) → /pdf/PRINCE2#page=4
+• [Ref 4] PMBOK - Page 24 (Similarity: 0.585) → /pdf/PMBOK#page=24
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.582) → /pdf/ISO21502#page=12
+• [Ref 6] ISO21500 - Page 9 (Similarity: 0.545) → /pdf/ISO21500#page=9
+• [Ref 7] PRINCE2 - Page 6 (Similarity: 0.542) → /pdf/PRINCE2#page=6
+• [Ref 8] ISO21502 - Page 7 (Similarity: 0.539) → /pdf/ISO21502#page=7
+• [Ref 9] ISO21502 - Page 1 (Similarity: 0.538) → /pdf/ISO21502#page=1
+• [Ref 10] ISO21502 - Page 11 (Similarity: 0.532) → /pdf/ISO21502#page=11
+• [Ref 11] ISO21502 - Page 10 (Similarity: 0.524) → /pdf/ISO21502#page=10
+• [Ref 12] ISO21502 - Page 7 (Similarity: 0.520) → /pdf/ISO21502#page=7
+• [Ref 13] ISO21500 - Page 9 (Similarity: 0.514) → /pdf/ISO21500#page=9
+• [Ref 14] ISO21502 - Page 14 (Similarity: 0.512) → /pdf/ISO21502#page=14
+• [Ref 15] ISO21502 - Page 9 (Similarity: 0.508) → /pdf/ISO21502#page=9

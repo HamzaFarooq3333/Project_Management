@@ -1,0 +1,159 @@
+Scenario: [21122] Custom Software Development | Software Development | Small (< 6 months) | Construction | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+As a senior project management expert, I recommend the following comprehensive process for your small-scale (less than 6 months) construction software development project, tailored to the PRINCE2 methodology and grounded in the provided PM standards evidence.
+
+### Process Summary
+
+This project, a small-scale software development endeavor in the construction industry, will leverage the structured governance and controlled approach of PRINCE2 while incorporating agile principles for software delivery. The overall process will be streamlined to suit the project's <6-month duration, focusing on clear roles, responsibilities, and decision points. Project management, as the application of methods, tools, techniques, and competencies to meet objectives [Ref 5], will be diligently applied across the entire project lifecycle, from pre-project activities through delivery stages, to final closure [Ref 6]. This approach emphasizes critical performance domains such as Stakeholder Engagement, Development Approach, Planning, Project Work, Delivery, Measurement, and Uncertainty Management [Ref 1], ensuring effective engagement with stakeholders [Ref 7], focus on value [Ref 7], and the ability to tailor based on context [Ref 7]. The process will also align with ISO21502's guidance on project management, applicable regardless of delivery approach, complexity, size, or duration [Ref 3].
+
+-----
+
+### Phases and Activities
+
+#### I. Starting Up a Project (Pre-Project)
+This phase establishes the foundational elements required before committing to significant planning, ensuring a viable project worth initiating.
+
+i.  **Appoint Project Management Team:** Define the Project Board (Executive, Senior User, Senior Supplier) and Project Manager [Ref 5].
+ii. **Capture Project Mandate:** Understand the initial business idea and terms of reference.
+iii. **Design and Appoint Project Management Team:** Determine the structure of the project team, including the Development Team, considering team composition [Ref 2] and the need for a collaborative environment [Ref 7].
+iv. **Prepare the Outline Business Case:** Develop an initial justification for the project, outlining expected benefits and costs.
+v.  **Select Project Approach and Assemble Project Brief:** Decide on the high-level development approach (e.g., iterative software development within PRINCE2 stages) [Ref 3], and compile initial project information.
+
+#### II. Initiating a Project (Planning & Setup)
+This phase focuses on detailed planning and establishing the project's baseline, including scope, schedule, budget, and risks.
+
+i.  **Define Project and Product Scope:** Clearly articulate what the software product will deliver and what the project encompasses [Ref 2]. This includes defining deliverables [Ref 9].
+ii. **Develop a Work Breakdown Structure (WBS):** Decompose the defined scope into progressively lower levels of work elements, including work packages for the development team [Ref 4].
+iii. **Estimate and Schedule Project Activities:** Based on the WBS, estimate effort, duration, and cost, leading to a project schedule and budget [Ref 2]. For software development, this may involve high-level estimates for early stages and more detailed estimates for subsequent iterative stages.
+iv. **Plan Quality, Risk, and Communication:** Establish how quality will be built into processes and deliverables [Ref 7], identify and plan responses to threats and risks [Ref 2], [Ref 4], [Ref 14], and define communication channels and plans for engaging effectively with stakeholders [Ref 2], [Ref 7], [Ref 8].
+v.  **Prepare the Project Initiation Documentation (PID):** Consolidate all planning information into a comprehensive document that defines the project's baseline. This includes the detailed Business Case, Project Plan, Quality Management Approach, Risk Management Approach, Communication Management Approach, and Change Control Approach [Ref 2].
+vi. **Set up Project Controls:** Define how the project will be monitored and controlled (e.g., reporting, issue management [Ref 9], change management [Ref 2]).
+
+#### III. Controlling a Stage & Managing Product Delivery (Iterative Development Stages)
+This represents the core execution and delivery phase, broken into manageable stages for iterative software development. For a small project, 2-3 stages might be appropriate.
+
+i.  **Authorize Work Package:** The Project Manager authorizes the Development Team to execute specific work packages derived from the WBS [Ref 4].
+ii. **Execute Work Package:** The Development Team carries out the actual software development activities (e.g., design, coding, testing) as per the authorized work package. This involves building quality into processes and deliverables [Ref 7].
+iii. **Monitor Progress and Report:** The Project Manager regularly monitors progress against the stage plan, reviews actuals versus planned, manages issues [Ref 9] and risks [Ref 4], and prepares regular reports for the Project Board. Measurement is a key performance domain here [Ref 1].
+iv. **Manage Stage Boundaries (Internal):** Periodically review the stage's progress against performance targets and the Business Case. This includes reviewing the stage plan, budget, and risks, and making necessary adjustments.
+v.  **Conduct Quality Checks and Reviews:** Perform internal reviews, testing, and quality assurance activities to ensure deliverables meet defined quality criteria [Ref 7].
+vi. **Manage Change:** Implement a process for handling change requests, assessing their impact on scope, schedule, and budget [Ref 2], and obtaining approval before implementation.
+
+#### IV. Managing a Stage Boundary (End-Stage Assessment)
+At the end of each delivery stage, a formal review is conducted to assess performance, update the Business Case, and plan for the next stage.
+
+i.  **Assess Current Stage Performance:** Review the current stage's performance against its plan, updating the project records.
+ii. **Update Project Business Case:** Reconfirm the project's continued viability and justification against organizational strategy [Ref 15], updating the Business Case with actuals and refined forecasts [Ref 13].
+iii. **Plan Next Stage:** If the project is still justified, plan the next stage in detail, including work packages, resources, and revised estimates.
+iv. **Report End-Stage Status to Project Board:** Present the assessment, updated Business Case, and next stage plan to the Project Board for approval to proceed.
+
+#### V. Closing a Project
+This phase ensures the formal closure of the project, including handing over the product, reviewing performance, and archiving project information.
+
+i.  **Prepare Planned Closure:** Plan activities for project closure, including formal handover of the software product.
+ii. **Hand Over Product:** Formally transfer the completed software product to the operational team or client.
+iii. **Evaluate Project Performance:** Review the project's performance against its objectives, documenting lessons learned [Ref 10], and identifying areas for improvement. This contributes to future organizational learning.
+iv. **Recommend Project Closure:** Present the final project status and lessons learned to the Project Board, recommending formal project closure.
+v.  **Archive Project Documentation:** Securely store all project records and documentation.
+
+-----
+
+### Roles
+
+*   **Executive (Project Board):** Overall business ownership and accountability, ensuring the project aligns with organizational objectives and delivers value [Ref 7], [Ref 15]. Ultimately accountable for the project's success.
+*   **Senior User (Project Board):** Represents the interests of the users of the project's product, ensuring the solution meets their needs and is fit for purpose.
+*   **Senior Supplier (Project Board):** Represents the interests of those designing, developing, facilitating, and implementing the project's product, ensuring the technical feasibility and quality of deliverables.
+*   **Project Manager:** Responsible for day-to-day management of the project, ensuring it delivers products within the specified tolerances of time, cost, quality, scope, benefits, and risk. Directly accountable for planning, monitoring, and controlling project work [Ref 1], [Ref 2].
+*   **Development Team (Team Manager/Developer):** Responsible for producing the project's specialist products (software) according to quality specifications, within agreed work packages [Ref 4].
+*   **Project Assurance:** Independent oversight role, often reporting to the Project Board, ensuring the project is being conducted correctly.
+*   **Project Support:** Provides administrative and coordination services to the project manager and team.
+
+-----
+
+### RACI Matrix
+
+| Phase/Activity                               | Executive (A) | Senior User (C) | Senior Supplier (C) | Project Manager (R/A) | Dev Team (R) | Project Assurance (I/C) | Project Support (I/C) |
+| :------------------------------------------- | :------------ | :-------------- | :------------------ | :-------------------- | :----------- | :---------------------- | :-------------------- |
+| **I. Starting Up a Project**                 |               |                 |                     |                       |              |                         |                       |
+| i. Appoint Project Mgmt Team                 | A             | C               | C                   | R                     |              | I                       | C                     |
+| ii. Capture Project Mandate                  | A             | R               | C                   | R                     |              | I                       | I                     |
+| iii. Design & Appoint Project Mgmt Team      | A             | C               | C                   | R                     |              | I                       | C                     |
+| iv. Prepare Outline Business Case            | A             | R               | C                   | R                     |              | I                       | I                     |
+| v. Select Project Approach & Assemble Brief  | A             | C               | R                   | R                     | C            | C                       | I                     |
+| **II. Initiating a Project**                 |               |                 |                     |                       |              |                         |                       |
+| i. Define Project & Product Scope [Ref 2]    | A             | R               | C                   | R                     | C            | C                       | I                     |
+| ii. Develop WBS [Ref 4]                      | I             | C               | C                   | R                     | R            | I                       | I                     |
+| iii. Estimate & Schedule [Ref 2]             | I             | C               | C                   | R                     | R            | C                       | I                     |
+| iv. Plan Quality, Risk, Comms [Ref 2], [Ref 7] | I             | C               | C                   | R                     | C            | C                       | I                     |
+| v. Prepare PID [Ref 2]                       | A             | C               | C                   | R                     | I            | R                       | C                     |
+| vi. Set up Project Controls                  | I             | I               | I                   | R                     | I            | C                       | R                     |
+| **III. Controlling a Stage & Managing Product Delivery** |               |                 |                     |                       |              |                         |                       |
+| i. Authorize Work Package [Ref 4]            | I             | I               | I                   | A                     | R            | C                       | I                     |
+| ii. Execute Work Package [Ref 7]             | I             | C               | C                   | A                     | R            | I                       | I                     |
+| iii. Monitor Progress & Report [Ref 1]       | I             | C               | C                   | R                     | R            | C                       | I                     |
+| iv. Manage Stage Boundaries (Internal)       | I             | C               | C                   | R                     | R            | C                       | I                     |
+| v. Conduct Quality Checks & Reviews [Ref 7]  | I             | R               | C                   | A                     | R            | C                       | I                     |
+| vi. Manage Change [Ref 2]                    | A             | C               | C                   | R                     | C            | C                       | I                     |
+| **IV. Managing a Stage Boundary**            |               |                 |                     |                       |              |                         |                       |
+| i. Assess Current Stage Performance          | I             | C               | C                   | R                     | R            | C                       | I                     |
+| ii. Update Project Business Case [Ref 13], [Ref 15] | A             | R               | C                   | R                     | I            | C                       | I                     |
+| iii. Plan Next Stage                         | I             | C               | C                   | R                     | R            | C                       | I                     |
+| iv. Report End-Stage Status to Project Board | A             | C               | C                   | R                     | I            | C                       | I                     |
+| **V. Closing a Project**                     |               |                 |                     |                       |              |                         |                       |
+| i. Prepare Planned Closure                   | I             | C               | C                   | R                     | R            | C                       | I                     |
+| ii. Hand Over Product                        | A             | R               | C                   | R                     | R            | C                       | I                     |
+| iii. Evaluate Project Performance [Ref 10]   | I             | C               | C                   | R                     | R            | C                       | I                     |
+| iv. Recommend Project Closure                | A             | C               | C                   | R                     | I            | C                       | I                     |
+| v. Archive Project Documentation             | I             | I               | I                   | R                     | I            | C                       | R                     |
+
+-----
+
+### Decision Gates
+
+i.  **Project Authorization (End of I. Starting Up a Project):** The Project Board reviews the Project Brief and Outline Business Case to decide whether to authorize the initiation of the project. This gate ensures initial justification and strategic alignment [Ref 15].
+ii. **Project Initiation Authorization (End of II. Initiating a Project):** The Project Board reviews the Project Initiation Documentation (PID) to confirm the project's viability and approve the Project Plan for the first stage. This is a critical point for project governance [Ref 13].
+iii. **End-Stage Assessments (End of IV. Managing a Stage Boundary):** At the end of each delivery stage, the Project Board reviews the Stage Report, updated Business Case, and the next Stage Plan. This is a formal decision gate to determine if the project should continue, be modified, or be stopped, based on its continued justification and performance [Ref 13], [Ref 15].
+iv. **Project Closure Authorization (End of V. Closing a Project):** The Project Board reviews the End Project Report and Lessons Learned Report, formally confirming that the project objectives have been met and approving the final closure of the project.
+
+-----
+
+### Note
+Ref 1: PMBOK, Page 24 (Similarity: 0.614)
+Ref 2: PMBOK, Page 30 (Similarity: 0.613)
+Ref 3: ISO21502, Page 9 (Similarity: 0.605)
+Ref 4: ISO21502, Page 12 (Similarity: 0.589)
+Ref 5: PRINCE2, Page 4 (Similarity: 0.578)
+Ref 6: PRINCE2, Page 6 (Similarity: 0.546)
+Ref 7: PMBOK, Page 10 (Similarity: 0.525)
+Ref 8: ISO21500, Page 9 (Similarity: 0.521)
+Ref 9: ISO21502, Page 10 (Similarity: 0.516)
+Ref 10: ISO21502, Page 7 (Similarity: 0.514)
+Ref 13: ISO21502, Page 11 (Similarity: 0.498)
+Ref 14: ISO21500, Page 9 (Similarity: 0.494)
+Ref 15: ISO21502, Page 14 (Similarity: 0.493)
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 21122_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 24 (Similarity: 0.614) → /pdf/PMBOK#page=24
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.613) → /pdf/PMBOK#page=30
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.605) → /pdf/ISO21502#page=9
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.589) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.578) → /pdf/PRINCE2#page=4
+• [Ref 6] PRINCE2 - Page 6 (Similarity: 0.546) → /pdf/PRINCE2#page=6
+• [Ref 7] PMBOK - Page 10 (Similarity: 0.525) → /pdf/PMBOK#page=10
+• [Ref 8] ISO21500 - Page 9 (Similarity: 0.521) → /pdf/ISO21500#page=9
+• [Ref 9] ISO21502 - Page 10 (Similarity: 0.516) → /pdf/ISO21502#page=10
+• [Ref 10] ISO21502 - Page 7 (Similarity: 0.514) → /pdf/ISO21502#page=7
+• [Ref 11] ISO21502 - Page 1 (Similarity: 0.507) → /pdf/ISO21502#page=1
+• [Ref 12] PMBOK - Page 9 (Similarity: 0.499) → /pdf/PMBOK#page=9
+• [Ref 13] ISO21502 - Page 11 (Similarity: 0.498) → /pdf/ISO21502#page=11
+• [Ref 14] ISO21500 - Page 9 (Similarity: 0.494) → /pdf/ISO21500#page=9
+• [Ref 15] ISO21502 - Page 14 (Similarity: 0.493) → /pdf/ISO21502#page=14

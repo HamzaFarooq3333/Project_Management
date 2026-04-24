@@ -1,0 +1,168 @@
+Scenario: [15132] Custom Project (Manual Configuration) | Infrastructure | Small (< 6 months) | Healthcare | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation for Small-Scale Healthcare Infrastructure Project
+
+This process recommendation outlines the project management approach for a small-scale healthcare infrastructure project, leveraging the PRINCE2 methodology, and informed by PMBOK and ISO standards. The project's manual configuration nature and short duration (<6 months) require a streamlined and agile approach. The foundation for successful project delivery is to maintain a focus on value, manage stakeholders effectively, and build quality into the processes [Ref 4].
+
+-----
+
+#### I. Process Summary
+
+This project follows a PRINCE2-aligned approach, suitable for its size and complexity, focusing on controlled processes and clear responsibilities. The project will involve the application of methods, tools, techniques, and competencies to enable the project to meet its objectives [Ref 6]. Key areas of focus will be scope definition, stakeholder engagement, risk management, and quality control. This process is applicable to any type of project, regardless of the size, cost or duration [Ref 3]. This process will be managed using a set of principles, processes, and themes. Each process will have checklists of recommended activities and responsibilities [Ref 7].
+
+-----
+
+#### II. Phases and Activities
+
+The project will be executed in the following phases, adapted from the PRINCE2 framework.
+
+**I. Project Initiation:**
+
+   i.  **Project Mandate Review:** Review the project mandate/Terms of Reference.
+   ii. **Project Definition:** Define the project scope, objectives, and deliverables. This includes a Work Breakdown Structure (WBS) to decompose the scope into manageable work packages [Ref 5].
+   iii. **Stakeholder Analysis:** Identify and analyze stakeholders, documenting their interests and influence. Effectively engaging with stakeholders is key [Ref 4].
+   iv.  **Risk Assessment:** Conduct an initial risk assessment to identify potential threats and opportunities [Ref 10].
+   v.   **Project Plan Creation:** Develop a project plan outlining the schedule, budget, resource allocation, communication plan, and change management processes [Ref 1].
+
+**II. Project Execution:**
+
+   i.  **Configuration and Installation:** Execute the manual configuration and installation as defined in the project plan.
+   ii. **Team Management:** Manage project team activities and track performance.
+   iii. **Monitoring and Control:** Regularly monitor project progress against the plan, controlling and escalating deviations. This includes measurement [Ref 1, 2].
+   iv. **Issue Management:** Address any issues that arise during the project.
+   v.  **Change Management:** Manage any changes to the project scope, schedule, or budget.
+
+**III. Project Closure:**
+
+   i. **Final Testing and Handover:** Conduct final testing to ensure the deliverables meet the required quality standards.
+   ii. **Project Acceptance:** Obtain formal acceptance of the project deliverables from the project sponsor and stakeholders.
+   iii. **Documentation:** Archive all project documentation.
+   iv. **Project Review:** Conduct a post-project review to identify lessons learned.
+
+-----
+
+#### III. Roles
+
+The following roles will be essential for the project:
+
+*   **Project Manager:** Responsible for the day-to-day management of the project, including planning, execution, monitoring, and controlling.
+*   **Project Sponsor:** Provides overall direction, obtains the resources and makes the executive decisions to enable success [Ref 13].
+*   **Senior User:** Represents the users and ensures the project deliverables meet their needs.
+*   **Senior Supplier:** Represents the suppliers and provides expertise and support for configuration and installation.
+*   **Project Team:** Individuals responsible for the execution of the project tasks.
+
+-----
+
+#### IV. RACI Matrix
+
+| Phase                    | Project Manager | Project Sponsor | Senior User | Senior Supplier | Project Team |
+| ------------------------ | --------------- | --------------- | ----------- | --------------- | ------------ |
+| **I. Project Initiation** |                 |                 |             |                 |              |
+| i. Project Mandate Review | R               | A               | C           | I               | I            |
+| ii. Project Definition   | R               | A               | C           | C               | I            |
+| iii. Stakeholder Analysis | R               | A               | C           | C               | I            |
+| iv. Risk Assessment      | R               | A               | C           | C               | I            |
+| v. Project Plan Creation | R               | A               | C           | C               | I            |
+| **II. Project Execution**  |                 |                 |             |                 |              |
+| i. Configuration/Install  | A               | I               | C           | R               | R            |
+| ii. Team Management      | R               | C               | C           | I               | A            |
+| iii. Monitoring/Control   | R               | A               | C           | C               | I            |
+| iv. Issue Management      | R               | A               | C           | I               | C            |
+| v. Change Management     | R               | A               | C           | C               | I            |
+| **III. Project Closure**   |                 |                 |             |                 |              |
+| i. Final Testing/Handover | R               | A               | C           | C               | R            |
+| ii. Project Acceptance    | R               | A               | C           | C               | I            |
+| iii. Documentation         | R               | I               | C           | C               | A            |
+| iv. Project Review        | R               | A               | C           | I               | C            |
+
+**R** = Responsible, **A** = Accountable, **C** = Consulted, **I** = Informed
+
+-----
+
+#### V. Decision Gates
+
+Decision gates are crucial checkpoints in the project. These are key decision points where progress is assessed, and authorization is sought to proceed to the next phase [Ref 11].
+
+*   **Initiation Phase Approval:** At the end of Phase I, the Project Sponsor reviews and approves the project plan and the project can go forward.
+*   **Execution Phase Review:** A review point after the installation/configuration to ensure the project meets the expected objectives.
+*   **Closure Phase Approval:** The completion of Phase III, Project Sponsor formally accepts the project deliverables.
+
+-----
+
+#### VI. Embeddings & Citations Section
+
+*   Ref 1: PMBOK, Page 30
+*   Ref 2: PMBOK, Page 24
+*   Ref 3: ISO21502, Page 9
+*   Ref 4: PMBOK, Page 10
+*   Ref 5: ISO21502, Page 12
+*   Ref 6: PRINCE2, Page 4
+*   Ref 7: PRINCE2, Page 6
+*   Ref 8: ISO21502, Page 10
+*   Ref 9: PMBOK, Page 9
+*   Ref 10: PMBOK, Page 20
+*   Ref 11: ISO21502, Page 11
+*   Ref 12: ISO21500, Page 9
+*   Ref 13: ISO21500, Page 9
+*   Ref 14: ISO21502, Page 14
+*   Ref 15: ISO21502, Page 7
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 12: Page 9, Similarity: 0.449 (/pdf/ISO21500#page=9)
+- Ref 13: Page 9, Similarity: 0.445 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 15: Page 7, Similarity: 0.423 (/pdf/ISO21502#page=7)
+- Ref 3: Page 9, Similarity: 0.545 (/pdf/ISO21502#page=9)
+- Ref 8: Page 10, Similarity: 0.471 (/pdf/ISO21502#page=10)
+- Ref 11: Page 11, Similarity: 0.455 (/pdf/ISO21502#page=11)
+- Ref 5: Page 12, Similarity: 0.516 (/pdf/ISO21502#page=12)
+- Ref 14: Page 14, Similarity: 0.429 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 9: Page 9, Similarity: 0.468 (/pdf/PMBOK#page=9)
+- Ref 4: Page 10, Similarity: 0.520 (/pdf/PMBOK#page=10)
+- Ref 10: Page 20, Similarity: 0.467 (/pdf/PMBOK#page=20)
+- Ref 2: Page 24, Similarity: 0.560 (/pdf/PMBOK#page=24)
+- Ref 1: Page 30, Similarity: 0.573 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 6: Page 4, Similarity: 0.512 (/pdf/PRINCE2#page=4)
+- Ref 7: Page 6, Similarity: 0.472 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 15132_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 30 (Similarity: 0.573) → /pdf/PMBOK#page=30
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.560) → /pdf/PMBOK#page=24
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.545) → /pdf/ISO21502#page=9
+• [Ref 4] PMBOK - Page 10 (Similarity: 0.520) → /pdf/PMBOK#page=10
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.516) → /pdf/ISO21502#page=12
+• [Ref 6] PRINCE2 - Page 4 (Similarity: 0.512) → /pdf/PRINCE2#page=4
+• [Ref 7] PRINCE2 - Page 6 (Similarity: 0.472) → /pdf/PRINCE2#page=6
+• [Ref 8] ISO21502 - Page 10 (Similarity: 0.471) → /pdf/ISO21502#page=10
+• [Ref 9] PMBOK - Page 9 (Similarity: 0.468) → /pdf/PMBOK#page=9
+• [Ref 10] PMBOK - Page 20 (Similarity: 0.467) → /pdf/PMBOK#page=20
+• [Ref 11] ISO21502 - Page 11 (Similarity: 0.455) → /pdf/ISO21502#page=11
+• [Ref 12] ISO21500 - Page 9 (Similarity: 0.449) → /pdf/ISO21500#page=9
+• [Ref 13] ISO21500 - Page 9 (Similarity: 0.445) → /pdf/ISO21500#page=9
+• [Ref 14] ISO21502 - Page 14 (Similarity: 0.429) → /pdf/ISO21502#page=14
+• [Ref 15] ISO21502 - Page 7 (Similarity: 0.423) → /pdf/ISO21502#page=7

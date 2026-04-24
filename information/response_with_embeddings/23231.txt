@@ -1,0 +1,185 @@
+Scenario: [23231] Custom Software Development | Research | Medium (6-18 months) | Healthcare | PMBOK
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: ISO21500, ISO21502, PRINCE2, PMBOK
+
+================================================================================
+
+### Process Recommendation: Healthcare Research Project
+
+This process recommendation outlines a structured approach for managing a medium-scale healthcare research project, adhering to PMBOK principles within a 6-18 month timeframe. This approach emphasizes stakeholder engagement, rigorous planning, and continuous monitoring to ensure project success. The project leverages a predictive/waterfall approach initially with flexibility for iterative adjustments if required by the research outcomes.
+
+-----
+
+#### I. Process Summary
+
+This project management plan is grounded in the guidelines for project management found in the ISO21502 standard, applicable to any project regardless of complexity or size [Ref 1, Ref 11]. It prioritizes the principles outlined in the PMBOK Guide, including diligent stewardship, effective stakeholder engagement, value-driven decision-making, and adaptation to change [Ref 6, Ref 12]. The project will encompass the Project Performance Domains identified in the PMBOK Guide [Ref 3]. This framework aims to meet project objectives through a structured lifecycle and is adaptable to the project's unique context [Ref 8]. The project's success depends on the application of methods, tools, techniques, and competencies to achieve defined objectives [Ref 4].
+
+-----
+
+#### II. Phases and Activities
+
+The project will be managed through the following phases, each with defined activities:
+
+**I. Initiation**
+
+i.  **Project Charter Development:** Define project objectives, scope, stakeholders, and high-level requirements.  This is a critical starting point [Ref 9].
+ii.  **Stakeholder Identification and Analysis:** Identify all stakeholders (e.g., researchers, medical professionals, patients, funding bodies) and assess their interests and influence.  Effective stakeholder engagement is critical [Ref 6].
+iii.  **Preliminary Risk Assessment:** Identify potential project risks and develop initial mitigation strategies.
+iv.  **High-Level Scope Definition:** Define the project scope based on research goals and objectives. [Ref 2].
+v.  **Approval of Project Charter and Initiation Phase Closure**: Obtain formal approval to proceed to the Planning Phase.
+
+**II. Planning**
+
+i.  **Detailed Scope Definition:** Create a detailed work breakdown structure (WBS) to decompose the project scope [Ref 5].
+ii.  **Schedule Development:** Create a project schedule with task dependencies, durations, and resource allocation.
+iii.  **Budget Development:** Develop a comprehensive project budget. [Ref 2]
+iv.  **Resource Planning:** Identify and secure required resources (personnel, equipment, facilities). [Ref 4].
+v.  **Communication Planning:** Develop a communication plan to manage stakeholder expectations and facilitate information sharing. [Ref 2]
+vi.  **Risk Management Planning:** Develop a detailed risk management plan to identify, assess, and mitigate project risks. [Ref 10, Ref 14].
+vii. **Procurement Planning:** Develop a procurement plan, if needed. [Ref 2]
+viii. **Change Management Planning:** Define the change management process. [Ref 2]
+ix.  **Quality Planning:** Define quality standards and processes.
+x.  **Obtain formal approval on plans to proceed to the Execution Phase**
+
+**III. Execution**
+
+i.  **Project Team Management:** Manage and lead the project team. [Ref 6]
+ii.  **Task Execution:** Carry out the project activities as defined in the project plan.
+iii.  **Data Collection and Analysis:** Conduct research activities, collect data, and analyze results.
+iv.  **Issue and Risk Management:** Monitor risks and issues, and implement mitigation plans [Ref 10].
+v.  **Communication and Reporting:** Provide regular status updates to stakeholders as per the communication plan.
+vi.  **Change Requests Handling:** Manage approved change requests.
+
+**IV. Monitoring and Controlling**
+
+i.  **Performance Monitoring:** Track project performance against the baseline plans for scope, schedule, budget, and quality.
+ii.  **Variance Analysis:** Analyze variances between planned and actual performance.
+iii.  **Issue Management:** Manage and resolve project issues promptly [Ref 10].
+iv.  **Risk Monitoring and Control:** Monitor and update the risk register.
+v.  **Change Control:** Manage and control approved changes.
+vi. **Quality Control**: Apply the quality plan to ensure quality standards.
+
+**V. Closure**
+
+i.  **Project Deliverable Completion:** Ensure all project deliverables are complete and accepted by stakeholders.
+ii.  **Final Report Preparation:** Prepare a final project report summarizing the project's outcomes, lessons learned, and recommendations.
+iii.  **Contract Closure (if applicable):** Close out any contracts.
+iv.  **Administrative Closure:** Archive project documentation and close out project accounts.
+v.  **Post-Project Review:** Conduct a post-project review to identify lessons learned and improve future project management practices.
+vi.  **Obtain formal approval to complete closure of project.**
+
+-----
+
+#### III. Roles
+
+*   **Project Sponsor:** Responsible for providing resources and executive decisions [Ref 9].
+*   **Project Manager:** Responsible for overall project management, planning, execution, monitoring, and closure.
+*   **Research Lead(s):** Responsible for the technical aspects of the research, data collection, and analysis.
+*   **Project Team Members:** Perform the tasks as defined in the project plan.
+*   **Stakeholders:** Individuals or groups affected by or with an interest in the project. [Ref 9]
+*   **Quality Assurance Specialist:** Ensures that processes follow standards.
+*   **Change Control Board (CCB):** Responsible for reviewing and approving/rejecting change requests.
+
+-----
+
+#### IV. RACI Matrix
+
+| Phase                    | Project Sponsor | Project Manager | Research Lead(s) | Project Team Members | Stakeholders | Quality Assurance Specialist | Change Control Board (CCB) |
+| :----------------------- | :-------------: | :-------------: | :----------------: | :---------------------: | :-----------: | :----------------------------: | :--------------------------: |
+| **I. Initiation**         |        A        |        R        |         I          |            I            |       C       |                I                |             N/A              |
+| **II. Planning**          |        C        |        R        |         A          |            I            |       C       |                C                |              I              |
+| **III. Execution**        |        C        |        A        |         R          |            R            |       C       |                I                |              I              |
+| **IV. Monitoring & Control** |        C        |        A        |         C          |            I            |       C       |                R                |              I              |
+| **V. Closure**            |        A        |        R        |         C          |            I            |       C       |                I                |             N/A              |
+
+*   R = Responsible
+*   A = Accountable
+*   C = Consulted
+*   I = Informed
+*   N/A = Not Applicable
+
+-----
+
+#### V. Decision Gates
+
+*   **Project Charter Approval:**  Formal approval to begin the project, solidifying the objectives, high-level scope, and key stakeholders [Ref 9].
+*   **Project Plan Approval:** Formal approval to move to the execution phase.
+*   **Change Request Approvals:** Review and approval/rejection of change requests by the Change Control Board (CCB).
+*   **Deliverable Acceptance:** Formal acceptance of deliverables by stakeholders during the execution and closure phases [Ref 10].
+*   **Project Closure Approval:** Formal approval to close out the project after verifying completion of deliverables, financial reconciliation, and post-project review. [Ref 8].
+
+-----
+
+#### VI. Embeddings & Citations Section
+
+*   Ref 1: ISO21502, Page 9 (Similarity: 0.586)
+*   Ref 2: PMBOK, Page 30 (Similarity: 0.585)
+*   Ref 3: PMBOK, Page 24 (Similarity: 0.577)
+*   Ref 4: PRINCE2, Page 4 (Similarity: 0.555)
+*   Ref 5: ISO21502, Page 12 (Similarity: 0.540)
+*   Ref 6: PMBOK, Page 10 (Similarity: 0.524)
+*   Ref 7: ISO21502, Page 11 (Similarity: 0.498)
+*   Ref 8: PRINCE2, Page 6 (Similarity: 0.495)
+*   Ref 9: ISO21500, Page 9 (Similarity: 0.488)
+*   Ref 10: ISO21502, Page 10 (Similarity: 0.487)
+*   Ref 11: ISO21502, Page 1 (Similarity: 0.478)
+*   Ref 12: PMBOK, Page 9 (Similarity: 0.471)
+*   Ref 13: ISO21502, Page 7 (Similarity: 0.467)
+*   Ref 14: ISO21500, Page 9 (Similarity: 0.463)
+*   Ref 15: ISO21502, Page 7 (Similarity: 0.456)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 9: Page 9, Similarity: 0.488 (/pdf/ISO21500#page=9)
+- Ref 14: Page 9, Similarity: 0.463 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 11: Page 1, Similarity: 0.478 (/pdf/ISO21502#page=1)
+- Ref 13: Page 7, Similarity: 0.467 (/pdf/ISO21502#page=7)
+- Ref 15: Page 7, Similarity: 0.456 (/pdf/ISO21502#page=7)
+- Ref 1: Page 9, Similarity: 0.586 (/pdf/ISO21502#page=9)
+- Ref 10: Page 10, Similarity: 0.487 (/pdf/ISO21502#page=10)
+- Ref 7: Page 11, Similarity: 0.498 (/pdf/ISO21502#page=11)
+- Ref 5: Page 12, Similarity: 0.540 (/pdf/ISO21502#page=12)
+
+**PMBOK:**
+- Ref 12: Page 9, Similarity: 0.471 (/pdf/PMBOK#page=9)
+- Ref 6: Page 10, Similarity: 0.524 (/pdf/PMBOK#page=10)
+- Ref 3: Page 24, Similarity: 0.577 (/pdf/PMBOK#page=24)
+- Ref 2: Page 30, Similarity: 0.585 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 4: Page 4, Similarity: 0.555 (/pdf/PRINCE2#page=4)
+- Ref 8: Page 6, Similarity: 0.495 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 23231_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.586) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.585) → /pdf/PMBOK#page=30
+• [Ref 3] PMBOK - Page 24 (Similarity: 0.577) → /pdf/PMBOK#page=24
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.555) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.540) → /pdf/ISO21502#page=12
+• [Ref 6] PMBOK - Page 10 (Similarity: 0.524) → /pdf/PMBOK#page=10
+• [Ref 7] ISO21502 - Page 11 (Similarity: 0.498) → /pdf/ISO21502#page=11
+• [Ref 8] PRINCE2 - Page 6 (Similarity: 0.495) → /pdf/PRINCE2#page=6
+• [Ref 9] ISO21500 - Page 9 (Similarity: 0.488) → /pdf/ISO21500#page=9
+• [Ref 10] ISO21502 - Page 10 (Similarity: 0.487) → /pdf/ISO21502#page=10
+• [Ref 11] ISO21502 - Page 1 (Similarity: 0.478) → /pdf/ISO21502#page=1
+• [Ref 12] PMBOK - Page 9 (Similarity: 0.471) → /pdf/PMBOK#page=9
+• [Ref 13] ISO21502 - Page 7 (Similarity: 0.467) → /pdf/ISO21502#page=7
+• [Ref 14] ISO21500 - Page 9 (Similarity: 0.463) → /pdf/ISO21500#page=9
+• [Ref 15] ISO21502 - Page 7 (Similarity: 0.456) → /pdf/ISO21502#page=7

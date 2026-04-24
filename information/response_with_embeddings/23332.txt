@@ -1,0 +1,138 @@
+Scenario: [23332] Custom Software Development | Research | Large (> 18 months) | Healthcare | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: ISO21500, ISO21502, PRINCE2, PMBOK
+
+================================================================================
+
+### Process Recommendation: Healthcare Research Project (PRINCE2)
+
+#### Process Summary
+
+This process recommendation outlines a project management approach for a large (>18 months) healthcare research project, utilizing the PRINCE2 methodology. This approach ensures structured planning, execution, and control throughout the project lifecycle. The project should be managed with clear roles, responsibilities, and decision gates to mitigate risks and ensure successful delivery of research objectives. The selected methodology must be fit for the context of the project [Ref 10]. Project management encompasses the application of methods, tools, techniques, and competencies to meet project objectives [Ref 4]. Stakeholder engagement and collaboration are paramount to ensure the research project effectively achieves its goals [Ref 6].
+
+-----
+
+#### Phases and Activities
+
+I. **Pre-Project (Starting Up a Project):**
+
+i.   **Project Mandate:** Define the project scope, objectives, and high-level risks. This should be documented and approved.
+ii.  **Project Brief:** Develop a concise document outlining the project's purpose, justification, objectives, and key stakeholders.
+iii. **Appoint the Project Board and Project Manager:** Establish clear roles and responsibilities for governance and management.
+iv.  **Initial Risk Assessment:** Identify potential threats and opportunities related to the project [Ref 5].
+v.   **Outline Business Case:** Develop a preliminary business case outlining the potential benefits and costs of the research.
+
+II. **Initiation Stage:**
+
+i.   **Project Initiation Document (PID):** Create a comprehensive document that includes the project's scope, objectives, deliverables, risks, assumptions, and constraints.
+ii.  **Detailed Business Case:** Develop a detailed business case with a thorough cost-benefit analysis.
+iii. **Project Management Plan:** Create detailed project management plans covering aspects like communication, risk, change, and quality [Ref 2]. These plans are critical to navigation of the project and embrace adaptability [Ref 6].
+iv.  **Risk Management Plan:** Establish a comprehensive plan to identify, assess, and mitigate project risks [Ref 5].
+v.   **Stakeholder Analysis:** Identify and analyze all stakeholders, their interests, and their potential impact on the project [Ref 3]. Effective engagement is important [Ref 6].
+vi.  **Work Breakdown Structure (WBS):** Decompose the project scope into manageable work packages [Ref 5].
+vii. **Define Quality Criteria:** Establish clear quality criteria for all project deliverables.
+
+III. **Managing Stage Boundaries (Controlling a Stage):**
+
+i.   **Work Package Assignment:** Assign work packages to team members and provide clear instructions and resources.
+ii.  **Progress Monitoring:** Track project progress against the project plan.
+iii. **Issue Management:** Identify, analyze, and resolve any issues that arise during the stage [Ref 8].
+iv.  **Risk Management:** Continuously monitor and manage project risks.
+v.   **Change Control:** Manage any changes to the project scope, schedule, or budget using a defined change control process [Ref 2].
+vi.  **Regular Reporting:** Provide regular project status reports to the project board and stakeholders.
+
+IV. **Controlling a Stage:**
+
+i.   **Monitor and Control:** Continuously monitor project progress against the plan, taking corrective actions as needed.
+ii.  **Escalate Issues:** Escalate any significant issues or risks to the project board.
+iii. **Quality Assurance:** Conduct quality assurance activities to ensure that deliverables meet the defined quality criteria.
+
+V. **Managing Product Delivery:**
+
+i.   **Product Creation:** Develop the research deliverables according to the agreed-upon specifications and quality standards.
+ii.  **Product Review:** Review and approve research deliverables with stakeholders.
+iii. **Quality Control:** Perform quality control checks on all deliverables.
+
+VI. **Closing a Project:**
+
+i.   **Project Closure Report:** Prepare a final project closure report summarizing the project's achievements, lessons learned, and any outstanding issues.
+ii.  **Benefits Realization Review:** Conduct a benefits realization review to assess the extent to which the project achieved its planned benefits.
+iii. **Archive Project Documentation:** Archive all project documentation in accordance with organizational policies.
+iv.  **Formal Project Closure:** Obtain formal sign-off from the project board to close the project.
+
+-----
+
+#### Roles
+
+i.   **Project Board:** Provides overall direction and governance for the project.
+ii.  **Project Manager:** Responsible for planning, executing, and controlling the project.
+iii. **Team Manager:** Manages the research team and ensures that work packages are completed on time and within budget.
+iv.  **Project Assurance:** Provides independent assurance that the project is being managed effectively.
+v.   **Senior User:** Represents the interests of the end-users of the research.
+vi.  **Senior Supplier:** Represents the interests of the suppliers of resources and services to the project.
+
+-----
+
+#### RACI Matrix
+
+| Phase                      | Project Board    | Project Manager  | Team Manager     | Project Assurance | Senior User      | Senior Supplier  |
+|----------------------------|------------------|-----------------|-----------------|-----------------|------------------|------------------|
+| **Pre-Project**         | A                | R                | I                | I               | I                | I                |
+| **Initiation Stage**      | A [Ref 4]       | R [Ref 2]      | C                | C               | I                | I                |
+| **Managing Stage Boundaries**| A               | R                | R                | I               | I                | I                |
+| **Controlling a Stage**    | I                | R                | R                | C               | I                | I                |
+| **Managing Product Delivery**| I                | C                | R                | C               | A                | I                |
+| **Closing a Project**     | A               | R                | I                | C               | I                | I                |
+
+**R** = Responsible, **A** = Accountable, **C** = Consulted, **I** = Informed
+
+-----
+
+#### Decision Gates
+
+i.   **End of Pre-Project (Gate 1):** Approval to proceed to the Initiation Stage. This gate assesses the viability of the project and confirms its alignment with organizational objectives.
+ii.  **End of Initiation Stage (Gate 2):** Approval of the PID and Project Management Plan. This gate ensures that the project is well-defined and that there is a clear plan for its execution.
+iii. **End of Each Stage (Gate 3+):** Approval to proceed to the next stage. These gates ensure that the current stage has been completed successfully and that the project remains on track.
+iv.  **Project Closure (Gate N):** Formal approval of project closure.
+
+-----
+
+#### Note
+
+Ref 1: ISO21502, Page 9 (Similarity: 0.579)
+Ref 2: PMBOK, Page 30 (Similarity: 0.578)
+Ref 3: PMBOK, Page 24 (Similarity: 0.560)
+Ref 4: PRINCE2, Page 4 (Similarity: 0.544)
+Ref 5: ISO21502, Page 12 (Similarity: 0.533)
+Ref 6: PMBOK, Page 10 (Similarity: 0.512)
+Ref 7: ISO21502, Page 11
+Ref 8: ISO21502, Page 10 (Similarity: 0.483)
+Ref 9: ISO21500, Page 9
+Ref 10: PRINCE2, Page 6 (Similarity: 0.481)
+Ref 11: PMBOK, Page 9
+Ref 12: ISO21502, Page 1
+Ref 13: ISO21500, Page 9
+Ref 14: ISO21502, Page 7
+Ref 15: ISO21502, Page 7
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 23332_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.579) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.578) → /pdf/PMBOK#page=30
+• [Ref 3] PMBOK - Page 24 (Similarity: 0.560) → /pdf/PMBOK#page=24
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.544) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.533) → /pdf/ISO21502#page=12
+• [Ref 6] PMBOK - Page 10 (Similarity: 0.512) → /pdf/PMBOK#page=10
+• [Ref 7] ISO21502 - Page 11 (Similarity: 0.495) → /pdf/ISO21502#page=11
+• [Ref 8] ISO21502 - Page 10 (Similarity: 0.483) → /pdf/ISO21502#page=10
+• [Ref 9] ISO21500 - Page 9 (Similarity: 0.482) → /pdf/ISO21500#page=9
+• [Ref 10] PRINCE2 - Page 6 (Similarity: 0.481) → /pdf/PRINCE2#page=6
+• [Ref 11] PMBOK - Page 9 (Similarity: 0.468) → /pdf/PMBOK#page=9
+• [Ref 12] ISO21502 - Page 1 (Similarity: 0.467) → /pdf/ISO21502#page=1
+• [Ref 13] ISO21500 - Page 9 (Similarity: 0.461) → /pdf/ISO21500#page=9
+• [Ref 14] ISO21502 - Page 7 (Similarity: 0.451) → /pdf/ISO21502#page=7
+• [Ref 15] ISO21502 - Page 7 (Similarity: 0.447) → /pdf/ISO21502#page=7

@@ -1,0 +1,190 @@
+Scenario: [24153] Custom Software Development | Marketing | Small (< 6 months) | Education | ISO Standards
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21500, ISO21502
+
+================================================================================
+
+### Process Recommendation: Education Marketing Project
+
+#### 1. Process Summary
+
+This recommendation outlines a project management process tailored for a small-scale (under 6 months) marketing project within the education sector, adhering to ISO standards. The project's structure will emphasize clear objectives, stakeholder engagement, and adaptable planning, reflecting the guidance provided by ISO 21502 and PMBOK. The temporary endeavor (project) will achieve defined marketing objectives [Ref 6, Ref 14]. The process considers the importance of tailoring the approach based on the project's context [Ref 7, Ref 9], utilizing a pragmatic and iterative approach as appropriate to address the project needs. ISO standards emphasize a coordinated approach to manage the project [Ref 6]. This approach will encompass core project performance domains, including Stakeholders, Team, and Planning [Ref 1].
+
+-----
+
+#### 2. Phases and Activities
+
+I. **Initiation:** Define the project and its scope.
+   i.  **Objective Definition:** Clearly define marketing objectives, target audience, and key performance indicators (KPIs). The project should achieve defined objectives [Ref 6, Ref 14].
+   ii. **Stakeholder Identification and Analysis:** Identify and analyze all stakeholders (e.g., school administration, faculty, potential students) and their interests [Ref 1, Ref 6].
+   iii. **Project Charter Development:** Create a project charter that documents the project's purpose, objectives, scope, high-level requirements, and stakeholders.
+   iv. **Risk Identification:** Conduct an initial risk assessment to identify potential threats and opportunities [Ref 15]. Consider the project's context which can impact performance [Ref 13].
+   v. **Preliminary Budget and Schedule:** Develop a high-level budget and schedule.
+
+II. **Planning:** Detailed planning to define how the project will be executed.
+   i.  **Scope Definition:** Define the scope and create a Work Breakdown Structure (WBS) to decompose the scope into manageable work packages [Ref 4].
+   ii. **Scheduling:** Develop a detailed project schedule, including activities, dependencies, and timelines [Ref 3].
+   iii. **Budgeting:** Create a detailed budget, accounting for all project costs [Ref 3].
+   iv. **Resource Planning:** Identify and secure the necessary resources (e.g., personnel, software, marketing materials).
+   v. **Communication Planning:** Develop a communication plan to manage stakeholder communication [Ref 3].
+   vi. **Risk Management Planning:** Develop a detailed risk management plan to address identified risks [Ref 15].
+   vii. **Quality Planning:** Define quality standards and processes.
+   viii. **Procurement Planning (If applicable):** Develop a procurement plan (if any external vendors or services are required) [Ref 3].
+   ix. **Change Management Planning:** Set up a change management process [Ref 3].
+
+III. **Execution:** Carrying out the planned work.
+   i.  **Marketing Campaign Implementation:** Execute the marketing campaign based on the defined plan.
+   ii. **Team Management:** Manage the project team, ensuring effective communication, collaboration, and performance.
+   iii. **Monitoring and Control:** Track progress against the plan, monitor performance, and manage risks and issues.
+   iv. **Change Management:** Manage changes to the project scope, schedule, or budget [Ref 3].
+   v. **Procurement Management (If applicable):** Manage procurement activities.
+
+IV. **Monitoring and Controlling:** Continuous performance monitoring and taking corrective action to achieve the project objectives.
+   i.  **Performance Monitoring:** Track project performance against the plan, schedule, and budget.
+   ii. **Variance Analysis:** Analyze variances and take corrective actions as needed.
+   iii. **Risk Management:** Implement risk responses and monitor the effectiveness of risk management activities [Ref 15].
+   iv. **Issue Management:** Manage and resolve any issues that arise.
+   v. **Quality Control:** Ensure that project deliverables meet quality standards.
+
+V. **Closure:** Formally close the project.
+   i.  **Project Deliverables Acceptance:** Obtain formal acceptance of project deliverables from stakeholders.
+   ii. **Final Reporting:** Prepare a final project report summarizing project performance, lessons learned, and recommendations.
+   iii. **Contract Closure (If applicable):** Close out any contracts.
+   iv. **Team Release:** Release the project team.
+   v. **Document Archiving:** Archive all project documentation.
+
+-----
+
+#### 3. Roles
+
+*   **Project Sponsor:** Person responsible for obtaining resources and executive decisions [Ref 6].
+*   **Project Manager:** Leads and directs the project [Ref 6], applying methods, tools, techniques, and competencies to enable the project to meet its objectives [Ref 5].
+*   **Marketing Team:** Responsible for executing marketing tasks.
+*   **Stakeholders:** Individuals or groups with an interest in the project.
+
+-----
+
+#### 4. RACI Matrix
+
+| Phase              | Activity                             | Project Sponsor | Project Manager | Marketing Team | Stakeholders |
+| ------------------ | ------------------------------------ | --------------- | --------------- | -------------- | ------------ |
+| **I. Initiation**  | Objective Definition               | C               | R               | I              | A            |
+|                    | Stakeholder Identification          | C               | R               | I              | A            |
+|                    | Project Charter Development          | A               | R               | C              | I            |
+|                    | Risk Identification                  | C               | R               | I              | I            |
+|                    | Preliminary Budget & Schedule        | A               | R               | C              | I            |
+| **II. Planning**   | Scope Definition                     | I               | R               | A              | C            |
+|                    | Scheduling                           | I               | R               | A              | C            |
+|                    | Budgeting                            | A               | R               | I              | C            |
+|                    | Resource Planning                  | A               | R               | I              | C            |
+|                    | Communication Planning              | I               | R               | A              | C            |
+|                    | Risk Management Planning           | I               | R               | A              | C            |
+|                    | Quality Planning                   | I               | R               | A              | C            |
+|                    | Procurement Planning (If applicable) | I               | R               | A              | C            |
+|                    | Change Management Planning         | I               | R               | A              | C            |
+| **III. Execution** | Campaign Implementation            | C               | A               | R              | I            |
+|                    | Team Management                   | C               | R               | A              | I            |
+|                    | Monitoring and Control            | C               | R               | A              | I            |
+|                    | Change Management                  | C               | R               | A              | I            |
+|                    | Procurement Management (If applicable) | C               | R               | A              | I            |
+| **IV. Monitoring & Controlling** | Performance Monitoring              | C               | R               | A              | I            |
+|                    | Variance Analysis                    | C               | R               | A              | I            |
+|                    | Risk Management                   | C               | R               | A              | I            |
+|                    | Issue Management                    | C               | R               | A              | I            |
+|                    | Quality Control                    | C               | R               | A              | I            |
+| **V. Closure**     | Deliverables Acceptance            | A               | C               | I              | R            |
+|                    | Final Reporting                    | C               | R               | A              | I            |
+|                    | Contract Closure (If applicable) | A               | R               | I              | C            |
+|                    | Team Release                       | A               | R               | I              | C            |
+|                    | Document Archiving                 | C               | R               | A              | I            |
+
+*   **R** = Responsible (Does the work)
+*   **A** = Accountable (Ultimately answerable for the correct and thorough completion of the deliverable)
+*   **C** = Consulted (Provides input)
+*   **I** = Informed (Kept up-to-date)
+
+-----
+
+#### 5. Decision Gates
+
+*   **Project Charter Approval:** (End of Initiation Phase). Approval of the Project Charter by the Project Sponsor (A). Confirms the project's purpose and scope [Ref 1, Ref 6].
+*   **Plan Approval:** (End of Planning Phase). Approval of the detailed project plan by the Project Sponsor (A) to ensure alignment and feasibility.
+*   **Milestone Reviews:** Regular reviews (e.g., monthly) to assess progress, address issues, and make any necessary adjustments to the project plan.
+*   **Deliverable Acceptance:** (End of Execution/Closure Phase). Formal acceptance of project deliverables by stakeholders [Ref 1].
+*   **Project Closure Approval:** (End of Closure Phase). Formal approval of project closure by the Project Sponsor (A), including sign-off on the final report and archiving of documentation.
+
+-----
+
+#### 6. Embeddings & Citations Section
+
+*   Ref 1: PMBOK, Page 24 (Similarity: 0.612)
+*   Ref 2: ISO21502, Page 9 (Similarity: 0.611)
+*   Ref 3: PMBOK, Page 30 (Similarity: 0.599)
+*   Ref 4: ISO21502, Page 12 (Similarity: 0.569)
+*   Ref 5: PRINCE2, Page 4 (Similarity: 0.562)
+*   Ref 6: ISO21500, Page 9 (Similarity: 0.545)
+*   Ref 7: PMBOK, Page 10 (Similarity: 0.539)
+*   Ref 8: ISO21500, Page 9 (Similarity: 0.537)
+*   Ref 9: PRINCE2, Page 6 (Similarity: 0.527)
+*   Ref 10: ISO21502, Page 1 (Similarity: 0.527)
+*   Ref 11: ISO21500, Page 7 (Similarity: 0.506)
+*   Ref 12: ISO21502, Page 7 (Similarity: 0.503)
+*   Ref 13: ISO21502, Page 14 (Similarity: 0.487)
+*   Ref 14: ISO21502, Page 11 (Similarity: 0.485)
+*   Ref 15: PMBOK, Page 20 (Similarity: 0.484)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 11: Page 7, Similarity: 0.506 (/pdf/ISO21500#page=7)
+- Ref 6: Page 9, Similarity: 0.545 (/pdf/ISO21500#page=9)
+- Ref 8: Page 9, Similarity: 0.537 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 10: Page 1, Similarity: 0.527 (/pdf/ISO21502#page=1)
+- Ref 12: Page 7, Similarity: 0.503 (/pdf/ISO21502#page=7)
+- Ref 2: Page 9, Similarity: 0.611 (/pdf/ISO21502#page=9)
+- Ref 14: Page 11, Similarity: 0.485 (/pdf/ISO21502#page=11)
+- Ref 4: Page 12, Similarity: 0.569 (/pdf/ISO21502#page=12)
+- Ref 13: Page 14, Similarity: 0.487 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 7: Page 10, Similarity: 0.539 (/pdf/PMBOK#page=10)
+- Ref 15: Page 20, Similarity: 0.484 (/pdf/PMBOK#page=20)
+- Ref 1: Page 24, Similarity: 0.612 (/pdf/PMBOK#page=24)
+- Ref 3: Page 30, Similarity: 0.599 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 5: Page 4, Similarity: 0.562 (/pdf/PRINCE2#page=4)
+- Ref 9: Page 6, Similarity: 0.527 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 24153_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 24 (Similarity: 0.612) → /pdf/PMBOK#page=24
+• [Ref 2] ISO21502 - Page 9 (Similarity: 0.611) → /pdf/ISO21502#page=9
+• [Ref 3] PMBOK - Page 30 (Similarity: 0.599) → /pdf/PMBOK#page=30
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.569) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.562) → /pdf/PRINCE2#page=4
+• [Ref 6] ISO21500 - Page 9 (Similarity: 0.545) → /pdf/ISO21500#page=9
+• [Ref 7] PMBOK - Page 10 (Similarity: 0.539) → /pdf/PMBOK#page=10
+• [Ref 8] ISO21500 - Page 9 (Similarity: 0.537) → /pdf/ISO21500#page=9
+• [Ref 9] PRINCE2 - Page 6 (Similarity: 0.527) → /pdf/PRINCE2#page=6
+• [Ref 10] ISO21502 - Page 1 (Similarity: 0.527) → /pdf/ISO21502#page=1
+• [Ref 11] ISO21500 - Page 7 (Similarity: 0.506) → /pdf/ISO21500#page=7
+• [Ref 12] ISO21502 - Page 7 (Similarity: 0.503) → /pdf/ISO21502#page=7
+• [Ref 13] ISO21502 - Page 14 (Similarity: 0.487) → /pdf/ISO21502#page=14
+• [Ref 14] ISO21502 - Page 11 (Similarity: 0.485) → /pdf/ISO21502#page=11
+• [Ref 15] PMBOK - Page 20 (Similarity: 0.484) → /pdf/PMBOK#page=20

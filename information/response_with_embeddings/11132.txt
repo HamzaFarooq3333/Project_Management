@@ -1,0 +1,165 @@
+Scenario: [11132] Custom Project (Manual Configuration) | Software Development | Small (< 6 months) | Healthcare | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Healthcare Software Development Project
+
+This recommendation outlines a project management process tailored for a small-scale healthcare software development project, configured manually, adhering to PRINCE2 methodology, and expected to be completed within six months. This approach leverages PRINCE2's structured framework [Ref 5, Ref 7, Ref 15] and incorporates best practices from PMBOK and ISO standards [Ref 1, Ref 2, Ref 3, Ref 4, Ref 6, Ref 8, Ref 9, Ref 10, Ref 11, Ref 12, Ref 13, Ref 14]. The project's context is paramount, ensuring the methodology is adapted to the specific needs of the healthcare environment [Ref 7].
+
+-----
+
+#### I. Phases and Activities
+
+This project will follow a phased approach, reflecting PRINCE2's lifecycle principles [Ref 7].
+
+**I. Project Initiation:**
+
+i.   **Define Project Scope:** Clearly define the project objectives, deliverables, and scope, aligned with stakeholder expectations [Ref 5, Ref 11]. Utilize a Work Breakdown Structure (WBS) to decompose the scope [Ref 4].
+ii.  **Stakeholder Identification and Management:** Identify all stakeholders (e.g., clinicians, IT staff, patients) and document their needs and expectations [Ref 3, Ref 11]. Establish a communication plan [Ref 2].
+iii. **Risk Assessment:** Conduct an initial risk assessment to identify potential threats and opportunities [Ref 8, Ref 15].
+iv.  **Project Plan Development:** Create a high-level project plan, including schedule, budget, resource allocation, and communication plan [Ref 2]. This will involve estimating effort and scheduling activities [Ref 2].
+v.   **Project Initiation Document (PID) Creation:** Develop a PID outlining the project's purpose, scope, objectives, risks, and approach.
+
+**II. Project Planning and Configuration:**
+
+i.  **Detailed Planning:** Refine the project plan with detailed task breakdown, resource assignments, and timelines.
+ii.  **Requirements Gathering and Analysis:**  Gather and analyze detailed requirements specific to the healthcare application.
+iii. **Manual Configuration:** Perform the necessary manual configuration steps.
+iv.  **Testing and Quality Assurance:**  Develop and execute a testing plan, including unit tests, integration tests, and user acceptance testing (UAT). Integrate quality control measures throughout the process [Ref 6].
+v.   **Documentation:** Create comprehensive documentation, including configuration guides, user manuals, and technical specifications.
+vi.  **Change Management:**  Establish a change management process to control and manage changes to the project scope, schedule, or budget [Ref 2, Ref 15].
+
+**III. Project Execution:**
+
+i.   **Configuration Implementation:** Implement the configuration steps, following the established plan.
+ii.  **Monitoring and Controlling:** Monitor progress against the project plan, tracking key performance indicators (KPIs), and managing risks and issues [Ref 15]. This includes establishing mechanisms to monitor and compare actual achievements against those planned [Ref 15].
+iii. **Issue Management:**  Address and resolve any issues that arise during configuration or testing [Ref 15].
+iv.  **Configuration Refinement:** Adjust configuration, based on testing feedback, and stakeholder requirements.
+
+**IV. Project Delivery and Acceptance:**
+
+i.   **User Acceptance Testing (UAT):** Conduct UAT with end-users to ensure the software meets their needs.
+ii.  **Training:** Provide training to end-users on how to use the software.
+iii. **Deployment:** Deploy the software into the production environment.
+iv.  **Project Closure:** Formally close the project, ensuring all deliverables are complete, lessons learned are documented, and a final project report is prepared.
+
+-----
+
+#### II. Roles
+
+The following roles are crucial for this project:
+
+*   **Project Manager:** Responsible for overall project planning, execution, and control.
+*   **Senior User(s):** Represents the interests of the business and validates the project's outputs meet their needs (e.g. clinicians). [Ref 11].
+*   **Project Sponsor:** Provides funding and executive decisions [Ref 11].
+*   **Configuration Specialist:** Responsible for performing the manual configuration.
+*   **Testing and QA Lead:** Responsible for the test plan, quality assurance and user acceptance testing.
+*   **Project Team Members:** Those working on software development and testing.
+
+-----
+
+#### III. RACI Matrix
+
+| Phase                        | Project Manager | Senior User(s) | Project Sponsor | Configuration Specialist | Testing & QA Lead | Project Team Members |
+| :--------------------------- | :-------------- | :------------- | :--------------- | :----------------------- | :---------------- | :------------------- |
+| **I. Project Initiation**     | R               | A              | A                | I                        | C                 | C                    |
+| **II. Planning & Configuration** | R               | C              | I                | A                        | A                 | I                    |
+| **III. Project Execution**   | R               | C              | I                | R                        | A                 | A                    |
+| **IV. Delivery & Acceptance**   | R               | A              | A                | I                        | R                 | C                    |
+
+**Key:**
+
+*   **R** = Responsible
+*   **A** = Accountable
+*   **C** = Consulted
+*   **I** = Informed
+
+-----
+
+#### IV. Decision Gates
+
+These are critical points where decisions are made to proceed or adjust the project.
+
+i.  **Project Initiation Approval:**  Review and approve the Project Initiation Document (PID) to authorize the project to proceed.  [Ref 12]
+ii.  **Plan Approval:**  Approve the detailed project plan, including schedule, budget, and resource allocation. [Ref 2]
+iii. **Configuration Acceptance:** Approve the configuration results based on testing and quality assurance [Ref 6].
+iv.  **UAT Acceptance:** Approve the completed User Acceptance Testing and sign off on project completion [Ref 11].
+v.   **Project Closure Approval:**  Final review and sign off of all deliverables and project completion.
+
+-----
+
+#### V. Embeddings & Citations Section
+
+*   Ref 1: ISO21502, Page 9 (Similarity: 0.582)
+*   Ref 2: PMBOK, Page 30 (Similarity: 0.575)
+*   Ref 3: PMBOK, Page 24 (Similarity: 0.547)
+*   Ref 4: ISO21502, Page 12 (Similarity: 0.540)
+*   Ref 5: PRINCE2, Page 4 (Similarity: 0.521)
+*   Ref 6: PMBOK, Page 10 (Similarity: 0.512)
+*   Ref 7: PRINCE2, Page 6 (Similarity: 0.477)
+*   Ref 8: PMBOK, Page 20 (Similarity: 0.463)
+*   Ref 9: ISO21500, Page 9 (Similarity: 0.458)
+*   Ref 10: PMBOK, Page 9 (Similarity: 0.451)
+*   Ref 11: ISO21500, Page 9 (Similarity: 0.450)
+*   Ref 12: ISO21502, Page 11 (Similarity: 0.448)
+*   Ref 13: ISO21502, Page 10 (Similarity: 0.446)
+*   Ref 14: ISO21502, Page 1 (Similarity: 0.444)
+*   Ref 15: PRINCE2, Page 14 (Similarity: 0.443)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 9: Page 9, Similarity: 0.458 (/pdf/ISO21500#page=9)
+- Ref 11: Page 9, Similarity: 0.450 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 14: Page 1, Similarity: 0.444 (/pdf/ISO21502#page=1)
+- Ref 1: Page 9, Similarity: 0.582 (/pdf/ISO21502#page=9)
+- Ref 13: Page 10, Similarity: 0.446 (/pdf/ISO21502#page=10)
+- Ref 12: Page 11, Similarity: 0.448 (/pdf/ISO21502#page=11)
+- Ref 4: Page 12, Similarity: 0.540 (/pdf/ISO21502#page=12)
+
+**PMBOK:**
+- Ref 10: Page 9, Similarity: 0.451 (/pdf/PMBOK#page=9)
+- Ref 6: Page 10, Similarity: 0.512 (/pdf/PMBOK#page=10)
+- Ref 8: Page 20, Similarity: 0.463 (/pdf/PMBOK#page=20)
+- Ref 3: Page 24, Similarity: 0.547 (/pdf/PMBOK#page=24)
+- Ref 2: Page 30, Similarity: 0.575 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 5: Page 4, Similarity: 0.521 (/pdf/PRINCE2#page=4)
+- Ref 7: Page 6, Similarity: 0.477 (/pdf/PRINCE2#page=6)
+- Ref 15: Page 14, Similarity: 0.443 (/pdf/PRINCE2#page=14)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 11132_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.582) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.575) → /pdf/PMBOK#page=30
+• [Ref 3] PMBOK - Page 24 (Similarity: 0.547) → /pdf/PMBOK#page=24
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.540) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.521) → /pdf/PRINCE2#page=4
+• [Ref 6] PMBOK - Page 10 (Similarity: 0.512) → /pdf/PMBOK#page=10
+• [Ref 7] PRINCE2 - Page 6 (Similarity: 0.477) → /pdf/PRINCE2#page=6
+• [Ref 8] PMBOK - Page 20 (Similarity: 0.463) → /pdf/PMBOK#page=20
+• [Ref 9] ISO21500 - Page 9 (Similarity: 0.458) → /pdf/ISO21500#page=9
+• [Ref 10] PMBOK - Page 9 (Similarity: 0.451) → /pdf/PMBOK#page=9
+• [Ref 11] ISO21500 - Page 9 (Similarity: 0.450) → /pdf/ISO21500#page=9
+• [Ref 12] ISO21502 - Page 11 (Similarity: 0.448) → /pdf/ISO21502#page=11
+• [Ref 13] ISO21502 - Page 10 (Similarity: 0.446) → /pdf/ISO21502#page=10
+• [Ref 14] ISO21502 - Page 1 (Similarity: 0.444) → /pdf/ISO21502#page=1
+• [Ref 15] PRINCE2 - Page 14 (Similarity: 0.443) → /pdf/PRINCE2#page=14

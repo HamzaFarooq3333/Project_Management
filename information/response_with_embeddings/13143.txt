@@ -1,0 +1,134 @@
+Scenario: [13143] Custom Project (Manual Configuration) | Research | Small (< 6 months) | Finance | ISO Standards
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Small-Scale Finance Research Project
+
+#### Process Summary
+
+This recommendation outlines a project management process tailored for a small-scale (under 6 months) finance research project involving manual configuration, adhering to ISO standards. The project’s success hinges on a structured, adaptable approach that addresses the unique challenges of research projects within the finance industry. This process integrates key principles from both ISO 21502 [Ref 1, Ref 6, Ref 13], and project management best practices as described in the PMBOK [Ref 2, Ref 3, Ref 8, Ref 15], and PRINCE2 [Ref 4, Ref 9]. Given the research nature and manual configuration aspect, flexibility and stakeholder engagement are paramount [Ref 8, Ref 15]. The focus will be on delivering a verifiable deliverable within the defined timeframe, achieving the project’s objectives [Ref 7, Ref 12].
+
+-----
+
+#### Phases and Activities
+
+I. **Initiation**
+
+   i.  **Project Charter Development:** Define the project’s scope, objectives, stakeholders, and high-level requirements. This includes documenting the business need for the research, the desired outcomes, and the success criteria. This aligns with project governance principles as described in ISO 21502 [Ref 12, Ref 14].
+   ii. **Stakeholder Identification and Analysis:** Identify all stakeholders [Ref 7] and analyze their needs and expectations [Ref 8]. This will inform communication strategies and risk management.
+   iii. **High-Level Planning:** Create a preliminary project schedule, budget, and resource allocation plan [Ref 3].
+   iv.  **Risk Assessment:** Identify potential risks (e.g., data unavailability, regulatory changes) [Ref 10] and define initial mitigation strategies.
+   v. **Document Management:** Implement a system for document storage and version control to maintain the audit trail for regulatory requirements.
+
+II. **Planning**
+
+   i.  **Detailed Scope Definition:** Refine the project scope, defining specific research questions, data sources, and analysis techniques. Break down the scope using a Work Breakdown Structure (WBS) [Ref 5]
+   ii.  **Schedule Development:** Create a detailed project schedule with task dependencies, durations, and milestones, considering the manual configuration element [Ref 3].
+   iii. **Budget Development:** Finalize the project budget, including resource costs, software licenses, and potential contingencies [Ref 3].
+   iv. **Resource Planning:** Identify and allocate resources, including personnel, software, and data.
+   v.  **Communication Plan:** Develop a communication plan outlining how information will be shared among stakeholders [Ref 3], adhering to requirements within the finance industry.
+   vi. **Quality Planning:** Define quality standards and processes for data collection, analysis, and reporting.
+   vii. **Risk Management Planning:** Develop a detailed risk management plan to identify, assess, and respond to potential risks.
+   viii. **Change Management Plan:** Define procedures for managing changes to the project scope, schedule, or budget [Ref 3].
+
+III. **Execution**
+
+   i.  **Data Collection and Configuration:** Execute the research plan, collecting data from identified sources and performing manual configurations.
+   ii.  **Data Analysis:** Analyze the collected data using approved methodologies.
+   iii. **Progress Monitoring:** Track progress against the project schedule and budget using established metrics. Implement processes to ensure the project meets its objectives [Ref 7].
+   iv. **Issue Management:** Document and resolve project issues as they arise [Ref 12].
+   v. **Communication and Reporting:** Regularly communicate project status to stakeholders through reports and meetings.
+
+IV. **Monitoring and Controlling**
+
+   i.  **Performance Measurement:** Monitor project performance, including schedule, budget, and scope, using key performance indicators (KPIs) [Ref 2].
+   ii.  **Variance Analysis:** Analyze variances from the baseline and take corrective actions as needed.
+   iii. **Risk Monitoring and Control:** Monitor identified risks, trigger risk responses, and assess their effectiveness.
+   iv. **Change Control:** Implement the change management plan to process and approve or reject change requests.
+   v.  **Quality Assurance:** Conduct quality reviews to ensure deliverables meet defined standards [Ref 8].
+
+V. **Closure**
+
+   i.  **Deliverable Completion:** Finalize all project deliverables, including the research report, data analysis results, and configuration documentation.
+   ii.  **Stakeholder Acceptance:** Obtain formal acceptance of the project deliverables from stakeholders.
+   iii. **Project Documentation:** Archive all project documents, including the project plan, reports, and change logs.
+   iv. **Lessons Learned:** Conduct a lessons learned session to identify what went well, what could be improved, and best practices for future projects.
+   v.  **Final Report:** Prepare a final project report summarizing the project outcomes, lessons learned, and recommendations.
+
+-----
+
+#### Roles
+
+*   **Project Manager:** Responsible for overall project planning, execution, monitoring, and closure. Acts as a steward, creates a collaborative project team, and enables change [Ref 8].
+*   **Research Lead:** Responsible for the technical aspects of the research, data collection, analysis, and report writing.
+*   **Stakeholders:** Individuals or groups with an interest in the project, providing requirements, approvals, and guidance.
+*   **Team Members:** Individuals assisting with data collection, analysis, and configuration tasks.
+
+-----
+
+#### RACI Matrix
+
+| Phase                 | Project Manager | Research Lead | Stakeholders | Team Members |
+|-----------------------|-----------------|----------------|---------------|--------------|
+| I. Initiation         | R               | A              | C             | I            |
+| II. Planning          | R               | A              | C             | I            |
+| III. Execution        | A               | R              | C             | R            |
+| IV. Monitoring & Controlling | A              | I             | C             | I            |
+| V. Closure            | R               | A              | C             | I            |
+
+*   **R** - Responsible: Performs the work.
+*   **A** - Accountable: Ultimately answerable for the correct and thorough completion of the deliverable or task.
+*   **C** - Consulted: Consulted before a decision or activity is completed.
+*   **I** - Informed: Kept informed of progress and decisions.
+
+-----
+
+#### Decision Gates
+
+*   **Project Charter Approval:** (End of Initiation Phase) - Sign-off on the project scope, objectives, and high-level plan.
+*   **Project Plan Approval:** (End of Planning Phase) - Approval of the detailed project plan, including the schedule, budget, and resource allocations.
+*   **Deliverable Acceptance:** (End of Execution Phase, Before Closure) - Formal acceptance of the completed research report and all other project deliverables.
+
+-----
+
+#### Note: Embeddings & Citations
+
+*   Ref 1: ISO21502, Page 9 (Similarity: 0.629)
+*   Ref 2: PMBOK, Page 24 (Similarity: 0.602)
+*   Ref 3: PMBOK, Page 30 (Similarity: 0.580)
+*   Ref 4: PRINCE2, Page 4 (Similarity: 0.565)
+*   Ref 5: ISO21502, Page 12 (Similarity: 0.564)
+*   Ref 6: ISO21502, Page 1 (Similarity: 0.552)
+*   Ref 7: ISO21500, Page 9 (Similarity: 0.551)
+*   Ref 8: PMBOK, Page 10 (Similarity: 0.523)
+*   Ref 9: PRINCE2, Page 6 (Similarity: 0.519)
+*   Ref 10: ISO21500, Page 9 (Similarity: 0.515)
+*   Ref 11: ISO21500, Page 7 (Similarity: 0.504)
+*   Ref 12: ISO21502, Page 10 (Similarity: 0.503)
+*   Ref 13: ISO21502, Page 7 (Similarity: 0.500)
+*   Ref 14: ISO21502, Page 11 (Similarity: 0.498)
+*   Ref 15: PMBOK, Page 9 (Similarity: 0.492)
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 13143_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.629) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.602) → /pdf/PMBOK#page=24
+• [Ref 3] PMBOK - Page 30 (Similarity: 0.580) → /pdf/PMBOK#page=30
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.565) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.564) → /pdf/ISO21502#page=12
+• [Ref 6] ISO21502 - Page 1 (Similarity: 0.552) → /pdf/ISO21502#page=1
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.551) → /pdf/ISO21500#page=9
+• [Ref 8] PMBOK - Page 10 (Similarity: 0.523) → /pdf/PMBOK#page=10
+• [Ref 9] PRINCE2 - Page 6 (Similarity: 0.519) → /pdf/PRINCE2#page=6
+• [Ref 10] ISO21500 - Page 9 (Similarity: 0.515) → /pdf/ISO21500#page=9
+• [Ref 11] ISO21500 - Page 7 (Similarity: 0.504) → /pdf/ISO21500#page=7
+• [Ref 12] ISO21502 - Page 10 (Similarity: 0.503) → /pdf/ISO21502#page=10
+• [Ref 13] ISO21502 - Page 7 (Similarity: 0.500) → /pdf/ISO21502#page=7
+• [Ref 14] ISO21502 - Page 11 (Similarity: 0.498) → /pdf/ISO21502#page=11
+• [Ref 15] PMBOK - Page 9 (Similarity: 0.492) → /pdf/PMBOK#page=9

@@ -1,0 +1,166 @@
+Scenario: [23142] Custom Software Development | Research | Small (< 6 months) | Finance | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: ISO21500, ISO21502, PRINCE2, PMBOK
+
+================================================================================
+
+### Process Recommendation for Small-Scale Finance Research Project
+
+#### 1. Process Summary
+
+This project plan outlines a PRINCE2-aligned approach for managing a small-scale finance research project, designed to be completed within six months. The framework draws upon the principles of project management as defined by ISO 21502 and PMBOK while adhering to the core tenets of PRINCE2. [Ref 1, Ref 6]. The project will encompass distinct phases focusing on planning, execution, monitoring, and closure, ensuring clear roles and responsibilities, stakeholder engagement, and structured decision-making [Ref 4, Ref 7]. The project's success will be measured by its ability to deliver the research objectives within the defined scope, time, and budget. The project's delivery approach will be based on the type of outputs needed and adapted to any changes that occur [Ref 1].
+-----
+#### 2. Phases and Activities
+
+I. **Project Initiation & Planning**
+
+   i.  **Initiation Stage:** Define the project scope, objectives, and deliverables [Ref 3]. Confirm the project's feasibility and business justification. Identify stakeholders and their requirements [Ref 2, Ref 7].
+   ii. **Planning Stage:** Develop a detailed project plan, including a work breakdown structure (WBS), schedule, budget, risk assessment, and communication plan [Ref 3, Ref 5]. Determine team composition and roles.
+   iii. **Documenting and Approvals:** Create a Project Initiation Document (PID) encompassing all the information gathered. Obtain approvals from the project board.
+
+II. **Execution**
+
+   i.  **Research Activities:** Conduct the research as per the defined methodology. This includes data collection, analysis, and interpretation.
+   ii. **Progress Monitoring:** Regularly track project progress against the plan, including scope, schedule, budget, and quality. Monitor key performance indicators (KPIs)
+   iii. **Issue Management:** Identify, assess, and manage any issues that arise during the project. Implement change control processes to manage scope changes [Ref 3].
+   iv. **Risk Management:** Monitor identified risks and implement mitigation strategies. Identify new risks and update the risk register.
+
+III. **Monitoring & Control**
+
+   i.  **Progress Reporting:** Prepare regular progress reports for the project board, highlighting achievements, challenges, and deviations from the plan [Ref 4].
+   ii. **Stakeholder Communication:** Maintain open communication with stakeholders, addressing their concerns and providing updates on project status [Ref 8].
+   iii. **Change Management:** Implement the change management plan and manage all approved changes.
+   iv. **Quality Assurance:** Ensure the quality of research outputs through reviews and validation.
+
+IV. **Project Closure**
+
+   i.  **Finalize Deliverables:** Complete all research deliverables and obtain final approval.
+   ii. **Project Review:** Conduct a post-project review to assess project performance, identify lessons learned, and document recommendations for future projects.
+   iii. **Project Closure:** Formally close the project, ensuring all administrative tasks are completed.
+-----
+#### 3. Roles
+
+*   **Project Sponsor:** Responsible for obtaining the resources and executive decisions [Ref 7].
+*   **Project Manager:** Leads and manages the project, ensuring that it meets its objectives.
+*   **Project Team:** Conducts the research and completes project tasks.
+*   **Project Board:** Provides direction and support, and makes key decisions [Ref 9].
+*   **Stakeholders:** Individuals, groups, or organizations that have an interest in the project. [Ref 2, Ref 7]
+
+-----
+#### 4. RACI Matrix
+
+| Phase                    | Project Sponsor | Project Manager | Project Team | Project Board |
+| ------------------------ | --------------- | --------------- | ------------ | ------------- |
+| **I. Initiation & Planning** |                 |                 |              |               |
+| i. Initiation Stage     | A               | R               | I            | C             |
+| ii. Planning Stage      | C               | R               | A            | I             |
+| iii. Documenting & Approvals | C               | R               | I            | A             |
+| **II. Execution**        |                 |                 |              |               |
+| i. Research Activities   | I               | C               | R            | C             |
+| ii. Progress Monitoring   | C               | R               | I            | A             |
+| iii. Issue Management     | C               | R               | I            | A             |
+| iv. Risk Management      | C               | R               | I            | A             |
+| **III. Monitoring & Control** |                 |                 |              |               |
+| i. Progress Reporting   | C               | R               | I            | A             |
+| ii. Stakeholder Communication | I               | R               | C            | C             |
+| iii. Change Management   | C               | R               | I            | A             |
+| iv. Quality Assurance    | C               | R               | A            | I             |
+| **IV. Project Closure**   |                 |                 |              |               |
+| i. Finalize Deliverables  | C               | R               | A            | I             |
+| ii. Project Review       | I               | R               | C            | A             |
+| iii. Project Closure      | C               | R               | I            | A             |
+
+*   **R** - Responsible
+*   **A** - Accountable
+*   **C** - Consulted
+*   **I** - Informed
+
+-----
+
+#### 5. Decision Gates
+
+I.  **Project Initiation Approval:** A formal approval from the Project Board to initiate the project, based on the Project Initiation Document (PID). [Ref 7, Ref 9].
+
+II.  **Plan Approval:** Formal approval of the Project Plan, including the WBS, schedule, budget, and risk management plan, from the Project Board. [Ref 3].
+
+III. **Go/No-Go Decision:** A critical point to review project progress, address any roadblocks, and determine if the project should proceed, be adjusted, or be closed down.
+
+IV.  **Final Deliverable Approval:** Sign-off from the Project Board confirming the project deliverables meet the agreed-upon requirements.
+
+V. **Project Closure Approval:** Formal approval of project closure, acknowledging the completion of all tasks and the achievement of project objectives.
+
+-----
+
+#### 6. Embeddings & Citations Section
+
+*   Ref 1: ISO21502, Page 9 (Similarity: 0.629)
+*   Ref 2: PMBOK, Page 24 (Similarity: 0.602)
+*   Ref 3: PMBOK, Page 30 (Similarity: 0.580)
+*   Ref 4: PRINCE2, Page 4 (Similarity: 0.565)
+*   Ref 5: ISO21502, Page 12 (Similarity: 0.564)
+*   Ref 6: ISO21502, Page 1 (Similarity: 0.552)
+*   Ref 7: ISO21500, Page 9 (Similarity: 0.551)
+*   Ref 8: PMBOK, Page 10 (Similarity: 0.523)
+*   Ref 9: PRINCE2, Page 6 (Similarity: 0.519)
+*   Ref 10: ISO21500, Page 9 (Similarity: 0.515)
+*   Ref 11: ISO21500, Page 7 (Similarity: 0.504)
+*   Ref 12: ISO21502, Page 10 (Similarity: 0.503)
+*   Ref 13: ISO21502, Page 7 (Similarity: 0.500)
+*   Ref 14: ISO21502, Page 11 (Similarity: 0.498)
+*   Ref 15: PMBOK, Page 9 (Similarity: 0.492)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 11: Page 7, Similarity: 0.504 (/pdf/ISO21500#page=7)
+- Ref 7: Page 9, Similarity: 0.551 (/pdf/ISO21500#page=9)
+- Ref 10: Page 9, Similarity: 0.515 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 6: Page 1, Similarity: 0.552 (/pdf/ISO21502#page=1)
+- Ref 13: Page 7, Similarity: 0.500 (/pdf/ISO21502#page=7)
+- Ref 1: Page 9, Similarity: 0.629 (/pdf/ISO21502#page=9)
+- Ref 12: Page 10, Similarity: 0.503 (/pdf/ISO21502#page=10)
+- Ref 14: Page 11, Similarity: 0.498 (/pdf/ISO21502#page=11)
+- Ref 5: Page 12, Similarity: 0.564 (/pdf/ISO21502#page=12)
+
+**PMBOK:**
+- Ref 15: Page 9, Similarity: 0.492 (/pdf/PMBOK#page=9)
+- Ref 8: Page 10, Similarity: 0.523 (/pdf/PMBOK#page=10)
+- Ref 2: Page 24, Similarity: 0.602 (/pdf/PMBOK#page=24)
+- Ref 3: Page 30, Similarity: 0.580 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 4: Page 4, Similarity: 0.565 (/pdf/PRINCE2#page=4)
+- Ref 9: Page 6, Similarity: 0.519 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 23142_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.629) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.602) → /pdf/PMBOK#page=24
+• [Ref 3] PMBOK - Page 30 (Similarity: 0.580) → /pdf/PMBOK#page=30
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.565) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.564) → /pdf/ISO21502#page=12
+• [Ref 6] ISO21502 - Page 1 (Similarity: 0.552) → /pdf/ISO21502#page=1
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.551) → /pdf/ISO21500#page=9
+• [Ref 8] PMBOK - Page 10 (Similarity: 0.523) → /pdf/PMBOK#page=10
+• [Ref 9] PRINCE2 - Page 6 (Similarity: 0.519) → /pdf/PRINCE2#page=6
+• [Ref 10] ISO21500 - Page 9 (Similarity: 0.515) → /pdf/ISO21500#page=9
+• [Ref 11] ISO21500 - Page 7 (Similarity: 0.504) → /pdf/ISO21500#page=7
+• [Ref 12] ISO21502 - Page 10 (Similarity: 0.503) → /pdf/ISO21502#page=10
+• [Ref 13] ISO21502 - Page 7 (Similarity: 0.500) → /pdf/ISO21502#page=7
+• [Ref 14] ISO21502 - Page 11 (Similarity: 0.498) → /pdf/ISO21502#page=11
+• [Ref 15] PMBOK - Page 9 (Similarity: 0.492) → /pdf/PMBOK#page=9

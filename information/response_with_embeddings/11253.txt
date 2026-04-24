@@ -1,0 +1,139 @@
+Scenario: [11253] Custom Project (Manual Configuration) | Software Development | Medium (6-18 months) | Education | ISO Standards
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Education Software Development Project
+
+This recommendation outlines a project management process for a medium-scale (6-18 months) education software development project, adhering to ISO standards. The project's manual configuration aspect will be considered throughout the lifecycle. The process is aligned with general project management guidance applicable to any organization and type of project [Ref 1].
+
+-----
+
+#### Process Summary
+
+This project management approach is designed for a medium-sized software development project in the education sector. It emphasizes a structured, phased approach aligned with ISO standards [Ref 1, Ref 6, Ref 7, Ref 14]. The process incorporates key elements of project management, including stakeholder management, team collaboration, development approach, planning, project execution, delivery, measurement, and managing uncertainty [Ref 2]. It addresses potential challenges such as ambiguity in responsibilities, deliverables, costs, and timelines [Ref 5]. The project will leverage defined processes and a focus on achieving the agreed-upon objectives [Ref 6, Ref 15]. The project will also emphasize quality through each process and deliverable [Ref 8].
+
+-----
+
+#### Phases and Activities
+
+The project will be executed in the following phases:
+
+**I. Initiation & Planning**
+
+   i.  **Project Definition:** Define project objectives, scope, and deliverables, and identify key stakeholders [Ref 3, Ref 6, Ref 15]. Consider the manual configuration aspects within the scope.
+   ii.  **Stakeholder Analysis:** Identify and analyze stakeholders, documenting their requirements and expectations [Ref 2, Ref 6]. This includes understanding their level of interest and influence.
+   iii. **Risk Identification and Assessment:** Identify potential risks (e.g., resource constraints, technology challenges, changes in educational requirements) and assess their impact and likelihood [Ref 3, Ref 11, Ref 19].
+   iv. **Work Breakdown Structure (WBS):** Decompose the project scope into manageable work packages [Ref 3].
+   v.  **Schedule Development:** Create a detailed project schedule, estimating task durations and dependencies. Manual configuration tasks should be specifically scheduled. [Ref 4]
+   vi. **Budgeting:** Develop a detailed budget, accounting for all project costs, including resources, software, and configuration efforts [Ref 4].
+   vii. **Resource Planning:** Identify and secure required resources (team members, software, and tools) [Ref 4].
+   viii. **Communication Plan:** Develop a communication plan outlining how project information will be shared with stakeholders [Ref 4].
+   ix.  **Procurement Plan (If Applicable):** If any third-party software or services are required, create a procurement plan [Ref 4].
+   x.  **Quality Management Plan:** Define quality standards, processes, and metrics [Ref 8].
+   xi. **Change Management Plan:**  Establish a process for managing project changes [Ref 4].
+
+**II. Execution**
+
+   i.  **Development:** Execute the software development tasks as defined in the WBS and project plan.
+   ii.  **Configuration:** Perform the necessary manual configuration of the software to meet the educational requirements. This includes setting up user roles, data entry, and system settings.
+   iii. **Testing:** Conduct thorough testing, including unit, integration, and system testing.
+   iv.  **Issue Tracking:** Establish a system for tracking and resolving issues identified during testing and development.
+   v. **Quality Assurance:** Monitor and ensure adherence to quality standards and processes.
+   vi. **Communication:** Regularly communicate project progress, risks, and issues to stakeholders.
+
+**III. Monitoring and Controlling**
+
+   i.  **Progress Monitoring:** Track project progress against the schedule and budget.
+   ii.  **Performance Measurement:** Measure project performance against established metrics [Ref 2].
+   iii. **Risk Management:** Monitor identified risks, implement mitigation plans, and identify new risks.
+   iv. **Change Management:** Process change requests, assess their impact, and implement approved changes.
+   v.  **Issue Management:** Manage and resolve identified issues.
+   vi. **Reporting:** Generate regular progress reports for stakeholders.
+
+**IV. Delivery & Closure**
+
+   i.  **Acceptance Testing:** Conduct acceptance testing with the end-users to ensure the software meets their requirements.
+   ii.  **Training:** Provide training to users on how to use the new software.
+   iii. **Deployment:** Deploy the software to the production environment, including the configured settings.
+   iv.  **Documentation:** Finalize project documentation.
+   v.  **Project Closure:** Formally close the project, including a project review and lessons learned [Ref 9].
+
+-----
+
+#### Roles
+
+*   **Project Sponsor:** Responsible for securing resources and making executive decisions [Ref 6, Ref 17].
+*   **Project Manager:** Leads the project team, plans and executes the project, and manages stakeholders.
+*   **Development Team:** Responsible for developing the software, including coding and testing.
+*   **Configuration Specialist:** Responsible for performing the manual configuration of the software.
+*   **Quality Assurance (QA) Team:** Responsible for testing and ensuring the quality of the software.
+*   **Stakeholders:** Individuals or groups affected by the project, including end-users, educators, and administrators [Ref 2, Ref 6].
+
+-----
+
+#### RACI Matrix
+
+| Phase                    | Project Sponsor | Project Manager | Development Team | Configuration Specialist | QA Team | Stakeholders |
+| ------------------------ | --------------- | --------------- | ----------------- | ------------------------- | ------- | ------------ |
+| **I. Initiation & Planning** | A               | R               | I                 | I                         | I       | C            |
+| **II. Execution**       | C               | R               | R                 | R                         | A       | I            |
+| **III. Monitoring & Controlling** | C               | R               | I                 | I                         | A       | C            |
+| **IV. Delivery & Closure** | A               | R               | I                 | I                         | C       | R            |
+
+*   **R** = Responsible
+*   **A** = Accountable
+*   **C** = Consulted
+*   **I** = Informed
+
+-----
+
+#### Decision Gates
+
+*   **Project Approval:** Before Phase I, the project sponsor and key stakeholders approve the project charter and initiate the project. The decision determines whether to proceed based on the project’s feasibility and alignment with strategic goals [Ref 6].
+*   **Planning Approval:** At the end of Phase I, a formal review and approval of the project plan (scope, schedule, budget, etc.) are needed to proceed to execution [Ref 4].
+*   **Phase Completion Reviews:** At the end of Phases II and III, formal reviews should occur to assess project performance, address issues, and determine if the project can move forward to the next phase.
+*   **Acceptance and Delivery:** At the end of Phase IV, final acceptance testing with stakeholders determines the successful delivery and deployment of the software.
+
+-----
+
+#### Note: Embeddings & Citations Section
+
+*   Ref 1: ISO21502, Page 9
+*   Ref 2: PMBOK, Page 24
+*   Ref 3: ISO21502, Page 12
+*   Ref 4: PMBOK, Page 30
+*   Ref 5: PRINCE2, Page 4
+*   Ref 6: ISO21500, Page 9
+*   Ref 7: ISO21502, Page 1
+*   Ref 8: PMBOK, Page 10
+*   Ref 9: PRINCE2, Page 6
+*   Ref 10: ISO21502, Page 7
+*   Ref 11: ISO21500, Page 9
+*   Ref 12: ISO21502, Page 11
+*   Ref 13: ISO21502, Page 7
+*   Ref 14: ISO21500, Page 7
+*   Ref 15: ISO21502, Page 11
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 11253_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.639) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.593) → /pdf/PMBOK#page=24
+• [Ref 3] ISO21502 - Page 12 (Similarity: 0.583) → /pdf/ISO21502#page=12
+• [Ref 4] PMBOK - Page 30 (Similarity: 0.580) → /pdf/PMBOK#page=30
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.572) → /pdf/PRINCE2#page=4
+• [Ref 6] ISO21500 - Page 9 (Similarity: 0.545) → /pdf/ISO21500#page=9
+• [Ref 7] ISO21502 - Page 1 (Similarity: 0.544) → /pdf/ISO21502#page=1
+• [Ref 8] PMBOK - Page 10 (Similarity: 0.541) → /pdf/PMBOK#page=10
+• [Ref 9] PRINCE2 - Page 6 (Similarity: 0.540) → /pdf/PRINCE2#page=6
+• [Ref 10] ISO21502 - Page 7 (Similarity: 0.530) → /pdf/ISO21502#page=7
+• [Ref 11] ISO21500 - Page 9 (Similarity: 0.524) → /pdf/ISO21500#page=9
+• [Ref 12] ISO21502 - Page 11 (Similarity: 0.514) → /pdf/ISO21502#page=11
+• [Ref 13] ISO21502 - Page 7 (Similarity: 0.513) → /pdf/ISO21502#page=7
+• [Ref 14] ISO21500 - Page 7 (Similarity: 0.509) → /pdf/ISO21500#page=7
+• [Ref 15] ISO21502 - Page 11 (Similarity: 0.506) → /pdf/ISO21502#page=11

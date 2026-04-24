@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PM Standards Comparator</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10.6.1/dist/mermaid.min.js"></script>
+  <script defer src="/static/app.js?v=20251103"></script>
+  <!-- Queries: add your questions as HTML comments next to the relevant UI sections. -->
+</head>
+<body>
+  <header>
+    <h1>PM Standards Comparator</h1>
+  </header>
+  <main>
+    <nav class="tabs">
+      <button class="tab active" data-tab="all">All Search</button>
+      <button class="tab" data-tab="book">Book Search</button>
+      <button class="tab" data-tab="compare">Compare</button>
+      <button class="tab" data-tab="process">Process Generator</button>
+      <button class="tab" data-tab="analysis">Book Analysis</button>
+      <button class="tab" data-tab="summary">Summary</button>
+      <button class="tab" data-tab="bookmarks">📚 Bookmarks</button>
+      <button class="tab" data-tab="addpdf">Add PDFs</button>
+    </nav>
+
+    <section id="tab-all" class="tab-pane active">
+      <input id="searchInput" type="text" placeholder="Search all standards (e.g., Risk Management)" />
+      <button id="searchBtn">Search</button>
+      <div class="muted" style="margin-top: 10px; font-size: 12px;">
+        💡 Tip: Click "Open" links to view PDFs. Use the page navigation in the PDF viewer if direct page links don't work in your browser.
+      </div>
+      <div id="searchResults"></div>
+    </section>
+
+    <section id="tab-summary" class="tab-pane">
+      <h2>Generate Book Summary</h2>
+      <div class="row">
+        <select id="summaryStandard">
+          <option value="">Select a standard…</option>
+          <option value="PMBOK">PMBOK</option>
+          <option value="PRINCE2">PRINCE2</option>
+          <option value="ISO21500">ISO 21500</option>
+          <option value="ISO21502">ISO 21502</option>
+        </select>
+        <button id="generateSummaryBtn">Generate Summary</button>
+      </div>
+      <div id="summaryProgress" style="display:none; margin: 10px 0;">
+        <div class="progress-container">
+          <div class="progress-bar">
+            <div id="summaryProgressFill" class="progress-fill"></div>
+          </div>
+          <div id="summaryProgressText" class="progress-text">0%</div>
+        </div>
+        <div id="summaryProgressStatus" class="muted" style="margin-top:6px;">Starting…</div>
+      </div>
+      <div id="summaryOutput" class="card" style="white-space: pre-wrap;"></div>
+    </section>
+    <section id="tab-book" class="tab-pane">
+      <div class="row">
+        <select id="standardSelect">
+          <option value="">Select a standard…</option>
+          <option value="PMBOK">PMBOK</option>
+          <option value="PRINCE2">PRINCE2</option>
+          <option value="ISO21500">ISO 21500</option>
+          <option value="ISO21502">ISO 21502</option>
+        </select>
+      </div>
+      <input id="bookSearchInput" type="text" placeholder="Search within selected standard" />
+      <button id="bookSearchBtn">Search</button>
+      <div id="bookSearchResults"></div>
+    </section>
+
+    <section id="tab-addpdf" class="tab-pane">
+      <h2>Add PDFs to Books</h2>
+      <div class="row muted" style="margin-bottom:10px;">Select one or more PDF files and upload them to the Books folder.</div>
+      <div class="row" style="gap:10px; align-items:center; flex-wrap:wrap;">
+        <input id="pdfFiles" type="file" accept="application/pdf" multiple />
+        <button id="uploadPdfsBtn" class="btn-primary">Upload</button>
+      </div>
+      <div id="uploadStatus" class="muted" style="margin-top:10px; min-height: 20px;"></div>
+      <div id="uploadResults" class="card" style="display:none; margin-top:10px; white-space: pre-wrap;"></div>
+
+      <hr style="margin: 20px 0; border: 0; border-top: 1px solid #32406f;" />
+      <h3>Run Add-Book Orchestration</h3>
+      <div class="row" style="gap:10px; align-items:center; flex-wrap:wrap;">
+        <label style="display:flex; align-items:center; gap:6px;">
+          <input type="checkbox" id="addBookDryRun" /> Dry Run
+        </label>
+        <button id="runAddBookBtn" class="btn-secondary">Run Add-Book</button>
+      </div>
+      <div id="runAddBookStatus" class="muted" style="margin-top:10px; min-height:20px;"></div>
+      <div id="runAddBookOutput" class="card" style="display:none; margin-top:10px; white-space: pre-wrap;"></div>
+    </section>
+
+    <section id="tab-compare" class="tab-pane">
+      <h2>Compare Topics</h2>
+      <input id="compareTopic" type="text" placeholder="Topic (e.g., Stakeholder Engagement)" />
+      <div class="row">
+        <button id="compareBtn">Quick Compare</button>
+        <button id="compareDetailedBtn">Detailed Similarities & Differences</button>
+      </div>
+      <div id="compareResults" class="grid"></div>
+      <div id="insights"></div>
+      <div id="compareDetailed"></div>
+      
+    </section>
+
+    <section id="tab-process" class="tab-pane">
+      <h2>Process Generator</h2>
+      <div class="row muted">Generate tailored project processes based on PM standards</div>
+      
+      <div class="form-group">
+        <label for="projectScenario">Project Scenario:</label>
+        <select id="projectScenario">
+          <option value="custom">Custom Project (Manual Configuration)</option>
+          <option value="software">Custom Software Development</option>
+          <option value="innovative">Innovative Product Development</option>
+          <option value="government">Large Government Project</option>
+        </select>
+        <div id="scenarioDescription" class="muted" style="margin-top: 8px; font-size: 14px;"></div>
+      </div>
+      
+      <div class="form-group">
+        <label for="projectType">Project Type:</label>
+        <select id="projectType">
+          <option value="software">Software Development</option>
+          <option value="construction">Construction</option>
+          <option value="research">Research</option>
+          <option value="marketing">Marketing</option>
+          <option value="infrastructure">Infrastructure</option>
+        </select>
+      </div>
+      
+      <div class="form-group">
+        <label for="projectSize">Project Size:</label>
+        <select id="projectSize">
+          <option value="small">Small (< 6 months)</option>
+          <option value="medium">Medium (6-18 months)</option>
+          <option value="large">Large (> 18 months)</option>
+        </select>
+      </div>
+      
+      <div class="form-group">
+        <label for="industry">Industry:</label>
+        <select id="industry">
+          <option value="IT">Information Technology</option>
+          <option value="construction">Construction</option>
+          <option value="healthcare">Healthcare</option>
+          <option value="finance">Finance</option>
+          <option value="education">Education</option>
+        </select>
+      </div>
+      
+      <div class="form-group">
+        <label for="methodologyPreference">Methodology Preference:</label>
+        <select id="methodologyPreference">
+          <option value="PMBOK">PMBOK</option>
+          <option value="PRINCE2">PRINCE2</option>
+          <option value="ISO">ISO Standards</option>
+        </select>
+      </div>
+      
+      <div class="row">
+        <button id="generateProcessBtn">Generate Process</button>
+        <input id="processCode" type="text" inputmode="numeric" pattern="\\d{5}" maxlength="5" placeholder="Enter 5-digit code (e.g., 11111)" style="margin-left:10px; width:180px;" />
+        <button id="fetchProcessByCodeBtn" class="btn-secondary" aria-busy="false" style="margin-left:10px;">Fetch by Code</button>
+      </div>
+      <div id="fetchStatus" class="muted" style="margin-top: 8px; min-height: 18px;"></div>
+
+      <div id="processActionButtons" class="row" style="display: none; margin: 16px 0; gap: 10px; flex-wrap: wrap; align-items: center;">
+        <button id="viewDiagramBtn" class="btn-secondary" style="display: inline-block; visibility: visible;">
+          📊 View Flowchart
+        </button>
+        <button id="exportPdfBtn" class="btn-primary" style="display: inline-block; visibility: visible;">
+          📄 Export Process Document (PDF)
+        </button>
+      </div>
+      
+      <div id="processResults" style="display: none;">
+        <div id="processRecommendations"></div>
+        <div id="processDetails"></div>
+      </div>
+    </section>
+
+    <section id="tab-analysis" class="tab-pane">
+      <h2>Book Analysis</h2>
+      <div class="row muted">Auto-analysis: compares all embeddings across all books. No inputs needed.</div>
+      <div class="row">
+        <button id="runAnalysisBtn">Run Analysis</button>
+      </div>
+      
+      <!-- Progress Bar for Book Analysis -->
+      <div id="bookAnalysisProgress" style="display: none;">
+        <div class="progress-container">
+          <div class="progress-bar">
+            <div id="bookProgressFill" class="progress-fill"></div>
+          </div>
+          <div id="bookProgressText" class="progress-text">0%</div>
+        </div>
+        <div id="bookProgressStatus" class="muted">Starting analysis...</div>
+      </div>
+      
+      <!-- Analysis Results -->
+      <div id="bookAnalysisResults" style="display: none;">
+        <div class="row">
+          <div class="card analysis-card" style="flex:1">
+            <div class="card-header">
+              <h3>Similarities (Blue)</h3>
+              <div class="graph-controls">
+                <button id="expandSimilarBtn" class="expand-btn">Expand</button>
+                <button id="contractSimilarBtn" class="contract-btn" style="display: none;">Contract</button>
+              </div>
+            </div>
+            <div class="graph-container">
+              <canvas id="chartSimilar" width="400" height="300"></canvas>
+            </div>
+          </div>
+          <div class="card analysis-card" style="flex:1">
+            <div class="card-header">
+              <h3>Dissimilarities (Red)</h3>
+              <div class="graph-controls">
+                <button id="expandDissimilarBtn" class="expand-btn">Expand</button>
+                <button id="contractDissimilarBtn" class="contract-btn" style="display: none;">Contract</button>
+              </div>
+            </div>
+            <div class="graph-container">
+              <canvas id="chartDissimilar" width="400" height="300"></canvas>
+            </div>
+          </div>
+        </div>
+        
+        <div class="row">
+          <div class="card analysis-card" style="flex:1">
+            <div class="card-header">
+              <h3>Unique Content (Purple)</h3>
+              <div class="graph-controls">
+                <button id="expandUniqueBtn" class="expand-btn">Expand</button>
+                <button id="contractUniqueBtn" class="contract-btn" style="display: none;">Contract</button>
+              </div>
+            </div>
+            <div class="graph-container">
+              <canvas id="chartUnique" width="400" height="300"></canvas>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Dot Preview Section -->
+        <div id="dotPreview" class="dot-preview" style="display: none;">
+          <div class="preview-header">
+            <h4>Selected Point Details</h4>
+            <button id="closePreviewBtn" class="close-btn">×</button>
+          </div>
+          <div class="preview-content">
+            <div class="preview-info">
+              <div class="info-item">
+                <strong>Book:</strong> <span id="previewBook"></span>
+              </div>
+              <div class="info-item">
+                <strong>Page:</strong> <span id="previewPage"></span>
+              </div>
+              <div class="info-item">
+                <strong>Type:</strong> <span id="previewType"></span>
+              </div>
+            </div>
+            <div class="preview-text">
+              <strong>Text Preview:</strong>
+              <div id="previewText" class="text-preview"></div>
+            </div>
+            <div class="preview-actions">
+              <button id="viewInBookBtn" class="action-btn">View in Book</button>
+            </div>
+          </div>
+        </div>
+        
+        <div id="analysisLegend" class="muted"></div>
+      </div>
+    </section>
+
+    <section id="tab-bookmarks" class="tab-pane">
+      <h2>📚 My Bookmarks</h2>
+      <div class="row muted" style="margin-bottom: 15px;">
+        Save important sections from PM standards for quick access later.
+        <button id="clearAllBookmarksBtn" class="secondary-btn" style="margin-left: 10px;">Clear All</button>
+      </div>
+      
+      <div id="bookmarksStats" class="card" style="margin-bottom: 15px; display: none;">
+        <div class="row" style="align-items: center;">
+          <div style="flex: 1;">
+            <strong>Total Bookmarks:</strong> <span id="totalBookmarks">0</span>
+          </div>
+          <div style="flex: 1;">
+            <strong>Standards:</strong> <span id="bookmarkStandards">-</span>
+          </div>
+        </div>
+      </div>
+      
+      <div id="bookmarkFilters" class="row" style="margin-bottom: 15px; display: none;">
+        <select id="bookmarkFilterStandard">
+          <option value="">All Standards</option>
+          <option value="PMBOK">PMBOK</option>
+          <option value="PRINCE2">PRINCE2</option>
+          <option value="ISO21500">ISO 21500</option>
+          <option value="ISO21502">ISO 21502</option>
+        </select>
+        <button id="exportBookmarksBtn" class="secondary-btn">Export Bookmarks</button>
+      </div>
+      
+      <div id="bookmarksList"></div>
+      
+      <div id="noBookmarks" class="card" style="text-align: center; padding: 40px;">
+        <div style="font-size: 48px; margin-bottom: 15px;">📑</div>
+        <h3>No Bookmarks Yet</h3>
+        <p class="muted">Start searching and click the bookmark icon (⭐) on any result to save it here.</p>
+      </div>
+    </section>
+  </main>
+
+  <!-- Process Diagram Modal -->
+  <div id="diagramModal" class="modal" style="display: none;">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2>Process Flow Diagram</h2>
+        <span class="close" id="closeDiagram">&times;</span>
+      </div>
+      <div class="modal-body">
+        <div id="diagramContainer">
+          <div class="muted">Generating diagram...</div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button id="downloadDiagram" class="btn-secondary">📥 Download Diagram (SVG/PNG)</button>
+        <button id="closeDiagramBtn" class="btn-primary">Close</button>
+      </div>
+    </div>
+  </div>
+
+  <style>
+    .modal {
+      position: fixed;
+      z-index: 1000;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0,0,0,0.5);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    
+    .modal-content {
+      background: #1a1a2e;
+      border-radius: 8px;
+      width: 90%;
+      max-width: 1000px;
+      max-height: 90vh;
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+    }
+    
+    .modal-header {
+      padding: 20px;
+      border-bottom: 1px solid #32406f;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    
+    .modal-header h2 {
+      margin: 0;
+      color: #e94560;
+    }
+    
+    .close {
+      color: #aaa;
+      font-size: 28px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+    
+    .close:hover {
+      color: #e94560;
+    }
+    
+    .modal-body {
+      padding: 20px;
+      flex: 1;
+      overflow: auto;
+    }
+    
+    .modal-footer {
+      padding: 20px;
+      border-top: 1px solid #32406f;
+      display: flex;
+      gap: 10px;
+      justify-content: flex-end;
+    }
+    
+    /* Enhanced Mermaid diagram styles */
+    .phaseNode {
+      fill: #e94560;
+      stroke: #c73650;
+      stroke-width: 2px;
+    }
+    .activityNode {
+      fill: #32406f;
+      stroke: #1a1a2e;
+      stroke-width: 1px;
+    }
+    .decisionNode {
+      fill: #f8f9fa;
+      stroke: #32406f;
+      stroke-width: 2px;
+    }
+    .deliverableNode {
+      fill: #28a745;
+      stroke: #1e7e34;
+      stroke-width: 1px;
+    }
+    
+    .btn-primary, .btn-secondary {
+      padding: 10px 20px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 14px;
+    }
+    
+    .btn-primary {
+      background: #e94560;
+      color: white;
+    }
+    
+    .btn-secondary {
+      background: #32406f;
+      color: white;
+    }
+    
+    .btn-primary:hover {
+      background: #d63447;
+    }
+    
+    .btn-secondary:hover {
+      background: #4a5a7a;
+    }
+
+    /* Red styling for Fetch by Code button */
+    #fetchProcessByCodeBtn {
+      background: #e63946; /* red */
+      color: #ffffff;
+    }
+    #fetchProcessByCodeBtn:hover {
+      background: #d62839; /* darker on hover */
+    }
+    #fetchProcessByCodeBtn:active {
+      background: #b5172a; /* darkest on press */
+      transform: translateY(1px);
+    }
+    
+    #diagramContainer {
+      text-align: center;
+      min-height: 400px;
+    }
+    
+    #diagramContainer .mermaid {
+      background: white;
+      border-radius: 4px;
+      padding: 20px;
+    }
+  </style>
+</body>
+</html>
+
+

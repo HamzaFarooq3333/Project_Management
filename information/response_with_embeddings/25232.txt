@@ -1,0 +1,140 @@
+Scenario: [25232] Custom Software Development | Infrastructure | Medium (6-18 months) | Healthcare | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21500, ISO21502
+
+================================================================================
+
+### Process Recommendation for Healthcare Infrastructure Project
+
+#### Process Summary
+
+This process recommendation outlines a PRINCE2-aligned approach for a medium-scale healthcare infrastructure project, designed to be completed within 6-18 months. The project will prioritize stakeholder engagement, value delivery, and risk management within a controlled environment [Ref 4, Ref 12]. The methodology emphasizes clearly defined roles, responsibilities, and decision-making processes.  Key elements include detailed planning, controlled execution, and rigorous monitoring and control to ensure project objectives are met while adhering to healthcare industry standards and regulations [Ref 15]. The approach will be tailored to the specific context of the project, including its complexity, size, and stakeholder needs, to ensure the method is "fit for the project context" [Ref 7].
+
+-----
+
+#### Phases and Activities
+
+The project will follow a phased approach aligned with PRINCE2 principles.
+
+I.  **Starting Up a Project:** This phase focuses on the initial assessment and setup.
+
+    i.  **Project Mandate Review:** Review the project mandate or terms of reference to confirm the project’s justification and objectives [Ref 6, Ref 8].
+    ii. **Project Manager Appointment:** Appoint the project manager and project team members.
+    iii. **Project Brief Development:** Develop a comprehensive project brief that outlines the project’s scope, objectives, and high-level requirements.
+    iv.  **Project Approach Definition:** Define the overall approach, including the chosen delivery approach (e.g., predictive) [Ref 3, Ref 15].
+    v.  **Initiation Stage Planning:** Plan the first stage of the project in detail, which includes the creation of a Project Initiation Documentation (PID).
+
+II. **Project Initiation:**  Develop the Project Initiation Documentation (PID).
+
+    i.   **Stakeholder Analysis:** Identify and analyze all project stakeholders to understand their interests, expectations, and influence [Ref 2, Ref 12].
+    ii.  **Project Scope Definition:**  Define the detailed project scope, breaking it down into manageable work packages [Ref 5].
+    iii. **Risk Assessment:**  Identify potential risks, assess their impact and probability, and develop risk responses [Ref 10].
+    iv.  **Quality Management Strategy:**  Define the quality management approach and procedures [Ref 4, Ref 8].
+    v.  **Change Control Approach:** Establish change control procedures [Ref 1].
+    vi.  **Communication Plan:** Develop a comprehensive communication plan to ensure timely and effective information flow [Ref 1].
+    vii. **Create Project Plan:** Create a detailed project plan containing the project's schedule, budget, and resource plan [Ref 1].
+    viii. **PID Compilation:** Compile the Project Initiation Document (PID) and obtain approval from the Project Board.
+
+III. **Project Execution (Stage 1 – X):** Executing the project in managed stages.
+
+    i.  **Stage Planning:** Plan each stage in detail, including the work packages and activities to be undertaken.
+    ii. **Project Work:** Conduct project work according to the defined scope and work packages [Ref 2].
+    iii.  **Team Management:** Manage the project team, ensuring effective communication, collaboration, and performance.
+    iv.  **Issue and Risk Management:** Monitor and manage issues and risks, implementing the agreed-upon responses.
+    v.  **Change Management:** Control changes to the project scope, schedule, and budget using the established change control procedures [Ref 1].
+    vi.  **Progress Monitoring:** Regularly monitor project progress against the plan, using established performance measurement tools [Ref 1].
+    vii.  **Reporting:** Produce regular progress reports and exception reports as required.
+    viii. **Quality Assurance:** Ensure quality assurance is built into processes [Ref 4].
+
+IV. **Stage Boundaries:** At the end of each stage.
+
+    i. **Stage Assessment:** Assess stage performance against the plan, including the review of the stage deliverables.
+    ii.  **Exception Planning:** Prepare an exception plan (if required).
+    iii. **Project Board Update:** Update the Project Board on stage progress, upcoming plans, and any issues or risks.
+
+V. **Project Closure:** Finalizing the project.
+
+    i.  **Project Deliverables Acceptance:**  Formally obtain acceptance of the project deliverables from the stakeholders.
+    ii.  **Post-Project Review:** Conduct a post-project review to capture lessons learned and identify areas for improvement.
+    iii.  **Project Documentation Completion:**  Finalize all project documentation.
+    iv.  **Project Closure Notification:** Formally close the project and notify stakeholders.
+
+-----
+
+#### Roles
+
+Key project roles and their responsibilities include:
+
+*   **Project Board:** Provides overall direction and control, approves the PID, authorizes stages, and makes key decisions [Ref 6, Ref 12].
+*   **Project Manager:**  Responsible for the day-to-day management of the project, including planning, execution, and control [Ref 6, Ref 12].
+*   **Senior User:** Represents the users of the project's products or services and ensures that the project delivers the expected benefits [Ref 12].
+*   **Senior Supplier:** Represents the suppliers of goods or services to the project, ensuring the project receives the necessary resources [Ref 12].
+*   **Project Assurance:** Provides independent assurance that the project is being managed correctly [Ref 6].
+*   **Team Manager:** Manages the work of team members and delivers the project's products.
+
+-----
+
+#### RACI Matrix
+
+| Phase                         | Project Board | Project Manager | Senior User | Senior Supplier | Project Assurance | Team Manager |
+| ----------------------------- | ------------- | --------------- | ----------- | --------------- | ----------------- | ------------ |
+| **I. Starting Up a Project**   | A             | R               | C           | C               | I                 | -          |
+| **II. Project Initiation**     | A             | R               | C           | C               | I                 | -          |
+| **III. Project Execution**   | A             | R               | C           | C               | I                 | R           |
+| **IV. Stage Boundaries**        | A             | R               | C           | C               | I                 | -          |
+| **V. Project Closure**         | A             | R               | C           | C               | I                 | -          |
+
+*   **R** = Responsible; **A** = Accountable; **C** = Consulted; **I** = Informed
+
+-----
+
+#### Decision Gates
+
+Key decision gates are critical junctures where the Project Board reviews progress and makes informed decisions [Ref 6].
+
+*   **PID Approval:**  Project Board approval of the Project Initiation Document (PID) at the end of the Project Initiation phase. [Ref 6]
+*   **Stage Authorisation:** Project Board authorization to proceed with each stage, based on the stage plan and exception reporting (if needed). [Ref 6]
+*   **Exception Authorization:** Project Board approval of exception plans, if a stage deviates significantly from the planned approach. [Ref 6]
+*   **Project Closure Approval:** Project Board approval of project closure, based on the delivery of the expected outputs and post-project review. [Ref 6]
+
+-----
+
+### Note: Embeddings & Citations
+
+*   Ref 1: PMBOK, Page 30 (Similarity: 0.577)
+*   Ref 2: PMBOK, Page 24 (Similarity: 0.569)
+*   Ref 3: ISO21502, Page 9 (Similarity: 0.552)
+*   Ref 4: PMBOK, Page 10 (Similarity: 0.524)
+*   Ref 5: ISO21502, Page 12 (Similarity: 0.523)
+*   Ref 6: PRINCE2, Page 4 (Similarity: 0.521)
+*   Ref 7: PRINCE2, Page 6 (Similarity: 0.488)
+*   Ref 8: ISO21502, Page 11 (Similarity: 0.482)
+*   Ref 9: ISO21502, Page 10 (Similarity: 0.481)
+*   Ref 10: PMBOK, Page 20 (Similarity: 0.467)
+*   Ref 11: PMBOK, Page 9 (Similarity: 0.467)
+*   Ref 12: ISO21500, Page 9 (Similarity: 0.457)
+*   Ref 13: ISO21500, Page 9 (Similarity: 0.455)
+*   Ref 14: ISO21502, Page 7 (Similarity: 0.439)
+*   Ref 15: PMBOK, Page 27 (Similarity: 0.434)
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 25232_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 30 (Similarity: 0.577) → /pdf/PMBOK#page=30
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.569) → /pdf/PMBOK#page=24
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.552) → /pdf/ISO21502#page=9
+• [Ref 4] PMBOK - Page 10 (Similarity: 0.524) → /pdf/PMBOK#page=10
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.523) → /pdf/ISO21502#page=12
+• [Ref 6] PRINCE2 - Page 4 (Similarity: 0.521) → /pdf/PRINCE2#page=4
+• [Ref 7] PRINCE2 - Page 6 (Similarity: 0.488) → /pdf/PRINCE2#page=6
+• [Ref 8] ISO21502 - Page 11 (Similarity: 0.482) → /pdf/ISO21502#page=11
+• [Ref 9] ISO21502 - Page 10 (Similarity: 0.481) → /pdf/ISO21502#page=10
+• [Ref 10] PMBOK - Page 20 (Similarity: 0.467) → /pdf/PMBOK#page=20
+• [Ref 11] PMBOK - Page 9 (Similarity: 0.467) → /pdf/PMBOK#page=9
+• [Ref 12] ISO21500 - Page 9 (Similarity: 0.457) → /pdf/ISO21500#page=9
+• [Ref 13] ISO21500 - Page 9 (Similarity: 0.455) → /pdf/ISO21500#page=9
+• [Ref 14] ISO21502 - Page 7 (Similarity: 0.439) → /pdf/ISO21502#page=7
+• [Ref 15] PMBOK - Page 27 (Similarity: 0.434) → /pdf/PMBOK#page=27

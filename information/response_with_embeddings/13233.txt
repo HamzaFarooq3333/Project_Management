@@ -1,0 +1,140 @@
+Scenario: [13233] Custom Project (Manual Configuration) | Research | Medium (6-18 months) | Healthcare | ISO Standards
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Healthcare Research Project
+
+#### Process Summary
+
+This process recommendation outlines a structured approach for managing a medium-scale healthcare research project requiring manual configuration, aligned with ISO standards and expected to complete in 6-18 months. The project will leverage principles from ISO 21502, PMBOK, and PRINCE2 to ensure successful delivery. Project management involves applying methods, tools, techniques, and competencies to enable the project to meet its objectives [Ref 4]. This project will focus on the key project performance domains highlighted in the PMBOK Guide [Ref 3]. This recommendation emphasizes a structured approach, focusing on stakeholder engagement, planning, execution, and control, adhering to project governance principles [Ref 7].
+
+-----
+
+#### Phases and Activities
+
+I. **Initiation**
+
+   i.  **Project Charter Development:** Define the project objectives, scope, stakeholders, and high-level requirements.  This aligns with the need to meet objectives [Ref 4]. Identify the project sponsor, who is responsible for securing resources and executive decisions [Ref 9].
+   ii.  **Stakeholder Identification and Analysis:** Identify and analyze all stakeholders and their expectations [Ref 3]. Effectively engaging with stakeholders is a key project principle [Ref 6].
+   iii. **Risk Assessment (Preliminary):** Conduct a preliminary risk assessment to identify potential threats and opportunities [Ref 5, Ref 14].
+   iv. **Project Governance Setup:** Establish the project governance framework, including decision-making processes and reporting structures [Ref 7].
+
+II. **Planning**
+
+   i.  **Scope Definition and Work Breakdown Structure (WBS):** Define the detailed project scope and create a WBS to decompose the project scope into manageable work packages [Ref 5, Ref 2].
+   ii.  **Schedule Development:** Create a realistic project schedule, including task dependencies, durations, and resource allocation. Planning is a core PMBOK element [Ref 2].
+   iii. **Budget Planning:** Develop a detailed project budget, considering all costs associated with the project. Planning includes creating the budget [Ref 2].
+   iv. **Resource Planning:** Identify and secure the necessary resources (personnel, equipment, facilities) for the project.
+   v.  **Communication Plan:** Develop a communication plan to manage stakeholder communication effectively [Ref 2].
+   vi. **Risk Management Plan:** Develop a comprehensive risk management plan, including risk identification, analysis, response planning, and monitoring.  Optimize risk responses [Ref 6].
+   vii. **Procurement Plan:** If applicable, develop a procurement plan outlining the processes for acquiring necessary goods or services [Ref 2].
+   viii. **Quality Management Plan:** Define quality standards and processes to ensure deliverables meet requirements.  Build quality into processes and deliverables [Ref 6].
+
+III. **Execution**
+
+   i.  **Task Execution:** Execute the tasks defined in the project plan, following the schedule, budget, and quality standards. Project work is a key performance domain [Ref 3].
+   ii.  **Configuration and Setup:** Perform manual configurations according to project requirements.
+   iii. **Team Management:** Manage and motivate the project team, ensuring effective communication and collaboration. Create a collaborative project team environment [Ref 6].
+   iv. **Stakeholder Management:** Manage stakeholder expectations and address any issues or concerns.
+   v.  **Change Management:** Implement the change management plan to handle any requested changes to the project scope, schedule, or budget [Ref 2].
+   vi. **Issue Management:** Address and resolve any issues that arise during project execution [Ref 10].
+
+IV. **Monitoring and Controlling**
+
+   i.  **Performance Monitoring:** Track project progress against the plan, using key performance indicators (KPIs) to monitor schedule, budget, and quality.  Measurement is a project performance domain [Ref 3].
+   ii.  **Variance Analysis:** Analyze any variances from the plan and take corrective actions as needed.
+   iii. **Risk Monitoring and Control:** Monitor identified risks, implement risk response plans, and identify new risks.
+   iv. **Quality Control:** Conduct quality checks to ensure deliverables meet the defined quality standards.
+   v.  **Change Control:** Manage and control changes to the project scope, schedule, and budget.
+   vi. **Communication Management:** Regularly communicate project status and updates to stakeholders.
+
+V. **Closure**
+
+   i.  **Deliverable Acceptance:** Obtain formal acceptance of all project deliverables from stakeholders.
+   ii.  **Project Documentation:** Finalize all project documentation, including lessons learned and project reports.
+   iii. **Financial Closure:** Complete all financial transactions and close out the project budget.
+   iv. **Contract Closure:** Close out any contracts related to the project.
+   v.  **Team Release:** Release the project team members and acknowledge their contributions.
+   vi. **Final Report and Review:** Prepare a final project report summarizing the project's performance, successes, and challenges.
+
+-----
+
+#### Roles
+
+*   **Project Sponsor:** Provides resources and executive decisions [Ref 9].
+*   **Project Manager:** Responsible for overall project planning, execution, monitoring, and closure.
+*   **Project Team:** Performs the project tasks.
+*   **Stakeholders:** Individuals or groups with an interest in the project's outcome [Ref 9].
+*   **Quality Assurance Manager:** Ensures that quality standards are met.
+*   **Configuration Manager:** Responsible for managing the manual configurations.
+
+-----
+
+#### RACI Matrix
+
+| Phase              | Project Sponsor | Project Manager | Project Team | Stakeholders | Configuration Manager | Quality Assurance Manager |
+|--------------------|-----------------|-----------------|--------------|--------------|-----------------------|---------------------------|
+| **I. Initiation**   | A               | R               | I            | C            | I                     | I                         |
+| **II. Planning**    | C               | R               | I            | C            | I                     | A                         |
+| **III. Execution**  | C               | A               | R            | C            | R                     | I                         |
+| **IV. Monitoring & Controlling** | C                | R               | I            | C            | I                     | A                         |
+| **V. Closure**      | A               | R               | I            | C            | I                     | C                         |
+
+*   **R** = Responsible
+*   **A** = Accountable
+*   **C** = Consulted
+*   **I** = Informed
+
+-----
+
+#### Decision Gates
+
+*   **Project Charter Approval:** Approved by the Project Sponsor (Initiation).  This is an initial critical decision point.
+*   **Project Plan Approval:** Approved by the Project Sponsor and relevant stakeholders (Planning).
+*   **Deliverable Acceptance:** Formal acceptance of deliverables by the stakeholders (Closure).  This aligns with ensuring the project met its objectives [Ref 4].
+*   **Change Requests Approval:** Approved by the Change Control Board or designated authority (Execution/Monitoring & Controlling).
+*   **Project Closure Approval:** Final approval from the Project Sponsor signifying project completion (Closure).
+
+-----
+
+#### Note: Embeddings & Citations Section
+
+*   Ref 1: ISO21502, Page 9
+*   Ref 2: PMBOK, Page 30
+*   Ref 3: PMBOK, Page 24
+*   Ref 4: PRINCE2, Page 4
+*   Ref 5: ISO21502, Page 12
+*   Ref 6: PMBOK, Page 10
+*   Ref 7: ISO21502, Page 11
+*   Ref 8: PRINCE2, Page 6
+*   Ref 9: ISO21500, Page 9
+*   Ref 10: ISO21502, Page 10
+*   Ref 11: ISO21502, Page 1
+*   Ref 12: PMBOK, Page 9
+*   Ref 13: ISO21502, Page 7
+*   Ref 14: ISO21500, Page 9
+*   Ref 15: ISO21502, Page 7
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 13233_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.586) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.585) → /pdf/PMBOK#page=30
+• [Ref 3] PMBOK - Page 24 (Similarity: 0.577) → /pdf/PMBOK#page=24
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.555) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.540) → /pdf/ISO21502#page=12
+• [Ref 6] PMBOK - Page 10 (Similarity: 0.524) → /pdf/PMBOK#page=10
+• [Ref 7] ISO21502 - Page 11 (Similarity: 0.498) → /pdf/ISO21502#page=11
+• [Ref 8] PRINCE2 - Page 6 (Similarity: 0.495) → /pdf/PRINCE2#page=6
+• [Ref 9] ISO21500 - Page 9 (Similarity: 0.488) → /pdf/ISO21500#page=9
+• [Ref 10] ISO21502 - Page 10 (Similarity: 0.487) → /pdf/ISO21502#page=10
+• [Ref 11] ISO21502 - Page 1 (Similarity: 0.478) → /pdf/ISO21502#page=1
+• [Ref 12] PMBOK - Page 9 (Similarity: 0.471) → /pdf/PMBOK#page=9
+• [Ref 13] ISO21502 - Page 7 (Similarity: 0.467) → /pdf/ISO21502#page=7
+• [Ref 14] ISO21500 - Page 9 (Similarity: 0.463) → /pdf/ISO21500#page=9
+• [Ref 15] ISO21502 - Page 7 (Similarity: 0.456) → /pdf/ISO21502#page=7

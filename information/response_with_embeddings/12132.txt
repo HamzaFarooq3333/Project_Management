@@ -1,0 +1,184 @@
+Scenario: [12132] Custom Project (Manual Configuration) | Construction | Small (< 6 months) | Healthcare | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Small-Scale Healthcare Construction Project
+
+This recommendation outlines a comprehensive project management process for a small-scale healthcare construction project, utilizing PRINCE2 principles while also referencing relevant guidance from PMBOK and ISO standards. The project’s size (< 6 months) and industry (Healthcare) necessitate a focused, adaptable, and controlled approach. The process emphasizes stakeholder engagement, risk management, and the delivery of value.
+
+-----
+
+#### I. Process Summary
+
+This project will follow a phased approach, aligned with PRINCE2, focusing on delivering a defined scope within a limited timeframe.  The manual configuration aspect means close attention to detail and change management. The emphasis will be on control and monitoring throughout the project lifecycle.  This aligns with the general guidance for project management [Ref 3]. The project must adhere to a defined scope [Ref 2] and manage project scope, schedule and budget [Ref 2]. Key principles such as stakeholder engagement, risk management, and continuous improvement will be central to all phases.  The approach recognizes that projects are temporary endeavors aimed to achieve defined objectives [Ref 11].
+
+-----
+
+#### II. Phases and Activities
+
+The following phases and activities should be implemented:
+
+**I. Project Initiation**
+
+i.  **Project Mandate Review & Approval:** The project manager, in collaboration with the project sponsor, will review the initial project mandate and ensure alignment with organizational strategy. [Ref 13]
+ii.  **Project Definition:** Clearly define the project objectives, scope, deliverables, and success criteria. [Ref 8] This includes establishing the project's purpose and the desired outcomes.
+iii.  **Stakeholder Analysis:** Identify and analyze key stakeholders [Ref 1, Ref 11, Ref 18], their interests, and their influence on the project. Develop a communication plan to manage stakeholder expectations and facilitate effective communication. [Ref 2]
+iv.  **Risk Identification & Assessment:** Conduct an initial risk assessment to identify potential threats and opportunities [Ref 10, Ref 14]. Develop a preliminary risk register.
+v.  **Project Team Establishment:** Define roles and responsibilities and assemble the core project team. [Ref 2]
+vi.  **Project Plan Development:** Create a high-level project plan, including the project schedule, budget, resource allocation, and quality standards. [Ref 2]
+vii. **Initiation of change management:** Establishing a baseline for change requests.
+
+**II. Project Planning**
+
+i.  **Detailed Scope Definition:** Refine the project scope through a Work Breakdown Structure (WBS) [Ref 4].
+ii.  **Schedule Development:** Create a detailed project schedule with realistic task durations, dependencies, and critical path analysis. [Ref 2]
+iii.  **Budgeting and Resource Allocation:** Finalize the project budget and allocate resources (personnel, equipment, materials). [Ref 2]
+iv.  **Communication Plan:** Develop a communication plan that outlines the frequency, channels, and methods of communication with stakeholders. [Ref 2]
+v.  **Procurement Planning:** Develop a procurement plan for any necessary materials or services, considering vendor selection and contract management. [Ref 2]
+vi.  **Risk Management Plan:** Develop a detailed risk management plan, including risk responses and contingency plans [Ref 10].
+vii. **Quality Management Plan**: Establish process for ensuring quality to meet Healthcare standards.
+
+**III. Project Execution**
+
+i.  **Work Package Execution:** Execute project tasks according to the project plan and approved work packages. [Ref 4]
+ii.  **Monitoring & Controlling:** Regularly monitor project progress against the plan, tracking schedule, budget, quality, and risks. [Ref 2]
+iii.  **Change Management:** Implement the change management process to manage any approved changes to the project scope, schedule, or budget. [Ref 2]
+iv.  **Issue Management:** Identify, document, and resolve project issues promptly [Ref 8].
+v.  **Stakeholder Communication:** Maintain regular communication with stakeholders, providing status updates and addressing concerns. [Ref 6]
+vi.  **Quality Assurance**: Perform quality control and assurance activities as planned.
+
+**IV. Project Monitoring and Controlling**
+
+i.  **Progress Monitoring:** Regularly track project progress against the baseline plan, including schedule, budget, and scope.
+ii.  **Performance Reporting:** Generate performance reports to communicate project status to stakeholders.
+iii.  **Issue and Risk Management:** Address any issues and risks that arise promptly using pre-defined strategies.
+iv.  **Change Control:** Manage change requests, assess the impact, and seek approvals to keep scope under control.
+v.  **Quality Assurance:** Conduct regular quality checks to ensure compliance with project requirements.
+
+**V. Project Closure**
+
+i.  **Project Deliverables Acceptance:** Obtain formal acceptance of all project deliverables from the stakeholders.
+ii.  **Project Evaluation:** Conduct a post-project review to identify lessons learned and best practices for future projects.
+iii.  **Contract Closure:** Close any vendor contracts according to contract terms.
+iv.  **Final Project Documentation:** Archive all project documents and records.
+v.  **Team Dissolution:** Release the project team members.
+vi. **Obtain final signatures:** Sign off on all the required project closure documentation
+
+-----
+
+#### III. Roles
+
+i.  **Project Sponsor:** Accountable for the project's success, provides resources and direction, and approves major decisions [Ref 11].
+ii.  **Project Manager:** Responsible for the day-to-day management of the project, including planning, execution, monitoring, and controlling [Ref 15].
+iii.  **Project Team:** Executes project tasks and provides subject matter expertise.
+iv.  **Stakeholders:** Individuals or groups with an interest in the project. [Ref 1, Ref 18] May include the client, end-users, regulatory bodies, and other relevant parties.
+v.  **Quality Assurance Manager:** Oversees project quality and ensures adherence to the healthcare standards
+
+-----
+
+#### IV. RACI Matrix
+
+| Phase                    | Project Sponsor | Project Manager | Project Team | Stakeholders | Quality Manager |
+| :----------------------- | :-------------: | :-------------: | :----------: | :-----------: | :---------------: |
+| **Project Initiation**   |        A        |        R        |       I      |       C      |        I         |
+| **Project Planning**     |        C        |        R        |       A      |       I      |        I         |
+| **Project Execution**    |        I        |        R        |       A      |       C      |        C         |
+| **Monitoring & Controlling** |        C        |        R        |       I      |       C      |        A         |
+| **Project Closure**      |        A        |        R        |       I      |       C      |        C         |
+
+**Legend:**
+*   **R** = Responsible (The person who does the work)
+*   **A** = Accountable (The person ultimately answerable for the correct and thorough completion of the deliverable)
+*   **C** = Consulted (Those whose opinions are sought, and with whom there is two-way communication)
+*   **I** = Informed (Those who are kept informed of progress and decisions)
+
+-----
+
+#### V. Decision Gates
+
+Decision gates are critical points where project decisions are made.
+
+i.  **Project Initiation Phase Gate:** Approval of the project initiation documentation by the Project Sponsor.
+ii.  **Planning Phase Gate:** Approval of the detailed project plan, budget, and schedule.
+iii.  **Execution Phase Gate:** Approval of changes to the project if required through the change control process.
+iv.  **Monitoring & Controlling Phase Gate:** Reviewing performance reports and, if necessary, implementing corrective actions.
+v.  **Closure Phase Gate:** Formal acceptance of project deliverables by the client and approval of project closure documentation.
+
+-----
+
+#### VI. Embeddings & Citations Section
+
+Note:
+*   Ref 1: PMBOK, Page 24 (Similarity: 0.583)
+*   Ref 2: PMBOK, Page 30 (Similarity: 0.578)
+*   Ref 3: ISO21502, Page 9 (Similarity: 0.551)
+*   Ref 4: ISO21502, Page 12 (Similarity: 0.530)
+*   Ref 5: PRINCE2, Page 4 (Similarity: 0.521)
+*   Ref 6: PMBOK, Page 10 (Similarity: 0.508)
+*   Ref 7: PRINCE2, Page 6 (Similarity: 0.481)
+*   Ref 8: ISO21502, Page 10 (Similarity: 0.476)
+*   Ref 9: PMBOK, Page 9 (Similarity: 0.464)
+*   Ref 10: PMBOK, Page 20 (Similarity: 0.462)
+*   Ref 11: ISO21500, Page 9 (Similarity: 0.456)
+*   Ref 12: ISO21502, Page 11 (Similarity: 0.447)
+*   Ref 13: ISO21502, Page 14 (Similarity: 0.447)
+*   Ref 14: ISO21500, Page 9 (Similarity: 0.443)
+*   Ref 15: ISO21502, Page 7 (Similarity: 0.439)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 11: Page 9, Similarity: 0.456 (/pdf/ISO21500#page=9)
+- Ref 14: Page 9, Similarity: 0.443 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 15: Page 7, Similarity: 0.439 (/pdf/ISO21502#page=7)
+- Ref 3: Page 9, Similarity: 0.551 (/pdf/ISO21502#page=9)
+- Ref 8: Page 10, Similarity: 0.476 (/pdf/ISO21502#page=10)
+- Ref 12: Page 11, Similarity: 0.447 (/pdf/ISO21502#page=11)
+- Ref 4: Page 12, Similarity: 0.530 (/pdf/ISO21502#page=12)
+- Ref 13: Page 14, Similarity: 0.447 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 9: Page 9, Similarity: 0.464 (/pdf/PMBOK#page=9)
+- Ref 6: Page 10, Similarity: 0.508 (/pdf/PMBOK#page=10)
+- Ref 10: Page 20, Similarity: 0.462 (/pdf/PMBOK#page=20)
+- Ref 1: Page 24, Similarity: 0.583 (/pdf/PMBOK#page=24)
+- Ref 2: Page 30, Similarity: 0.578 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 5: Page 4, Similarity: 0.521 (/pdf/PRINCE2#page=4)
+- Ref 7: Page 6, Similarity: 0.481 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 12132_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 24 (Similarity: 0.583) → /pdf/PMBOK#page=24
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.578) → /pdf/PMBOK#page=30
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.551) → /pdf/ISO21502#page=9
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.530) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.521) → /pdf/PRINCE2#page=4
+• [Ref 6] PMBOK - Page 10 (Similarity: 0.508) → /pdf/PMBOK#page=10
+• [Ref 7] PRINCE2 - Page 6 (Similarity: 0.481) → /pdf/PRINCE2#page=6
+• [Ref 8] ISO21502 - Page 10 (Similarity: 0.476) → /pdf/ISO21502#page=10
+• [Ref 9] PMBOK - Page 9 (Similarity: 0.464) → /pdf/PMBOK#page=9
+• [Ref 10] PMBOK - Page 20 (Similarity: 0.462) → /pdf/PMBOK#page=20
+• [Ref 11] ISO21500 - Page 9 (Similarity: 0.456) → /pdf/ISO21500#page=9
+• [Ref 12] ISO21502 - Page 11 (Similarity: 0.447) → /pdf/ISO21502#page=11
+• [Ref 13] ISO21502 - Page 14 (Similarity: 0.447) → /pdf/ISO21502#page=14
+• [Ref 14] ISO21500 - Page 9 (Similarity: 0.443) → /pdf/ISO21500#page=9
+• [Ref 15] ISO21502 - Page 7 (Similarity: 0.439) → /pdf/ISO21502#page=7

@@ -1,0 +1,160 @@
+Scenario: [14143] Custom Project (Manual Configuration) | Marketing | Small (< 6 months) | Finance | ISO Standards
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Small-Scale Finance Marketing Project
+
+#### Process Summary
+
+This recommendation outlines a project management process tailored for a small-scale finance marketing project, adhering to ISO standards and leveraging project management best practices. The project will be completed in under six months and will involve manual configuration. The project's structure will follow a structured approach focusing on the guidance provided by ISO 21502 [Ref 1, Ref 8, Ref 14]. This includes an emphasis on clear objectives, stakeholder management [Ref 6, Ref 9], and rigorous planning. The overall project management approach emphasizes adaptability and tailoring based on the context of the project [Ref 9, Ref 10]. This includes, but is not limited to, factors such as strategy, technology, and resource availability [Ref 12]. The project should be managed with considerations to risks and external factors [Ref 15].
+
+-----
+
+#### Phases and Activities
+
+I. **Initiation Phase**
+
+   i. **Project Charter Development:** Define the project's objectives, scope, and key deliverables. This should include a clear statement of work and project justification.
+   ii. **Stakeholder Identification and Analysis:** Identify all stakeholders [Ref 2, Ref 6], their interests, and their influence on the project.
+   iii. **Risk Assessment and Initial Planning:** Identify initial risks and constraints associated with the project [Ref 6, Ref 15]. Prepare a high-level project plan, including estimated timelines and budget.  [Ref 3]
+   iv. **Team Formation:** Define team roles and responsibilities. [Ref 2, Ref 3]
+
+II. **Planning Phase**
+
+   i. **Scope Definition:** Develop a detailed scope statement, including product and project scope, work breakdown structure (WBS) [Ref 4], and deliverables.
+   ii. **Schedule Development:** Create a detailed project schedule with task dependencies, durations, and resource allocation. [Ref 3]
+   iii. **Budgeting and Cost Estimation:** Develop a comprehensive project budget. [Ref 3]
+   iv. **Communication Planning:** Develop a communication plan outlining how information will be shared with stakeholders. [Ref 3]
+   v. **Procurement Planning:** If applicable, identify any procurement needs. [Ref 3]
+   vi. **Risk Management Plan:** Conduct a detailed risk assessment. Develop risk response plans for identified threats and opportunities [Ref 6, Ref 7].
+   vii. **Change Management Planning:** Define the change management process. [Ref 3]
+   viii. **Quality Planning:** Define quality standards.
+
+III. **Execution Phase**
+
+   i. **Project Team Activities:** Execute the project plan and manage the team. [Ref 2]
+   ii. **Stakeholder Management:** Manage stakeholder expectations and address any concerns. [Ref 9]
+   iii. **Communication:** Regularly share project updates and communicate important information.
+   iv. **Issue Tracking and Resolution:** Track and manage any project issues.
+   v. **Risk Response Implementation:** Implement risk response plans to mitigate threats and exploit opportunities.
+   vi. **Quality Assurance:** Ensure all project work meets predefined quality standards.
+
+IV. **Monitoring & Controlling Phase**
+
+   i. **Performance Measurement:** Track project progress against the plan (schedule, budget, scope). [Ref 2]
+   ii. **Variance Analysis:** Identify and analyze any deviations from the plan.
+   iii. **Change Control:** Manage and control changes to the project scope, schedule, or budget. [Ref 3]
+   iv. **Risk Monitoring:** Monitor identified risks and implement mitigation plans as needed. [Ref 6, Ref 7]
+   v. **Quality Control:** Conduct quality audits and ensure project deliverables meet quality standards.
+
+V. **Closure Phase**
+
+   i. **Project Deliverable Acceptance:** Obtain formal acceptance of all project deliverables from the stakeholders.
+   ii. **Project Documentation:** Complete and archive all project documentation.
+   iii. **Lessons Learned:** Conduct a lessons-learned session to capture insights and best practices for future projects.
+   iv. **Final Reporting:** Prepare and distribute a final project report.
+   v. **Project Closeout:** Formally close the project and release project resources.
+
+-----
+
+#### Roles
+
+*   **Project Sponsor:** Responsible for securing resources and providing executive decisions [Ref 6].
+*   **Project Manager:** Responsible for managing the project, planning, execution, and closing the project.
+*   **Marketing Team:** Responsible for executing marketing activities.
+*   **Finance Team (If Applicable):** Responsible for financial considerations and alignment.
+*   **Stakeholders:** Individuals and organizations impacted by the project. [Ref 2, Ref 6]
+
+-----
+
+#### RACI Matrix
+
+| Phase          | Activities                                  | Project Sponsor | Project Manager | Marketing Team | Finance Team |
+|----------------|---------------------------------------------|-----------------|-----------------|----------------|--------------|
+| **Initiation**   | Project Charter Development                 | A               | R               | C              | I            |
+|                | Stakeholder Identification and Analysis     | C               | R               | A              | I            |
+|                | Risk Assessment and Initial Planning        | C               | R               | C              | I            |
+|                | Team Formation                              | A               | R               | C              | I            |
+| **Planning**     | Scope Definition                            | C               | R               | A              | I            |
+|                | Schedule Development                        | C               | R               | A              | I            |
+|                | Budgeting and Cost Estimation               | A               | R               | A              | C            |
+|                | Communication Planning                      | C               | R               | A              | C            |
+|                | Procurement Planning (If Applicable)          | A               | R               | C              | I            |
+|                | Risk Management Plan                         | C               | R               | A              | I            |
+|                | Change Management Planning                   | C               | R               | A              | I            |
+|                | Quality Planning                            | C               | R               | A              | I            |
+| **Execution**    | Project Team Activities                     | I               | R               | A              | C            |
+|                | Stakeholder Management                      | C               | R               | A              | I            |
+|                | Communication                               | I               | R               | A              | C            |
+|                | Issue Tracking and Resolution               | I               | R               | A              | C            |
+|                | Risk Response Implementation                | C               | R               | A              | I            |
+|                | Quality Assurance                           | C               | R               | A              | I            |
+| **Monitoring & Controlling** | Performance Measurement                 | C               | R               | A              | I            |
+|                | Variance Analysis                           | C               | R               | A              | I            |
+|                | Change Control                              | A               | R               | C              | I            |
+|                | Risk Monitoring                             | C               | R               | A              | I            |
+|                | Quality Control                             | C               | R               | A              | I            |
+| **Closure**      | Project Deliverable Acceptance            | A               | R               | C              | I            |
+|                | Project Documentation                       | C               | R               | A              | I            |
+|                | Lessons Learned                             | C               | R               | A              | I            |
+|                | Final Reporting                             | C               | R               | A              | I            |
+|                | Project Closeout                            | A               | R               | C              | I            |
+
+*   R = Responsible
+*   A = Accountable
+*   C = Consulted
+*   I = Informed
+
+-----
+
+#### Decision Gates
+
+*   **Project Charter Approval:** At the end of the Initiation Phase, the Project Sponsor should approve the Project Charter, signifying the official authorization of the project [Ref 6].
+*   **Plan Approval:** The Project Plan (scope, schedule, budget, etc.) must be approved by the Project Sponsor and relevant stakeholders before the Execution Phase begins [Ref 3].
+*   **Deliverable Acceptance:** Formal acceptance of project deliverables is a key decision point at the end of the Execution and Closure phases [Ref 5].
+*   **Change Request Approval:** Changes to scope, schedule, or budget must be formally approved through a change control process.
+*   **Project Closure Approval:** The Project Sponsor approves the closure of the project [Ref 10].
+
+-----
+
+#### Note
+
+*   Ref 1: ISO21502, Page 9 (Similarity: 0.610)
+*   Ref 2: PMBOK, Page 24 (Similarity: 0.602)
+*   Ref 3: PMBOK, Page 30 (Similarity: 0.602)
+*   Ref 4: ISO21502, Page 12 (Similarity: 0.565)
+*   Ref 5: PRINCE2, Page 4 (Similarity: 0.553)
+*   Ref 6: ISO21500, Page 9 (Similarity: 0.536)
+*   Ref 7: ISO21500, Page 9 (Similarity: 0.530)
+*   Ref 8: ISO21502, Page 1 (Similarity: 0.528)
+*   Ref 9: PMBOK, Page 10 (Similarity: 0.514)
+*   Ref 10: PRINCE2, Page 6 (Similarity: 0.514)
+*   Ref 11: ISO21500, Page 7 (Similarity: 0.504)
+*   Ref 12: ISO21502, Page 14 (Similarity: 0.491)
+*   Ref 13: ISO21500, Page 1 (Similarity: 0.487)
+*   Ref 14: ISO21502, Page 7 (Similarity: 0.481)
+*   Ref 15: ISO21502, Page 14 (Similarity: 0.479)
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 14143_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.610) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.602) → /pdf/PMBOK#page=24
+• [Ref 3] PMBOK - Page 30 (Similarity: 0.602) → /pdf/PMBOK#page=30
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.565) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.553) → /pdf/PRINCE2#page=4
+• [Ref 6] ISO21500 - Page 9 (Similarity: 0.536) → /pdf/ISO21500#page=9
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.530) → /pdf/ISO21500#page=9
+• [Ref 8] ISO21502 - Page 1 (Similarity: 0.528) → /pdf/ISO21502#page=1
+• [Ref 9] PMBOK - Page 10 (Similarity: 0.514) → /pdf/PMBOK#page=10
+• [Ref 10] PRINCE2 - Page 6 (Similarity: 0.514) → /pdf/PRINCE2#page=6
+• [Ref 11] ISO21500 - Page 7 (Similarity: 0.504) → /pdf/ISO21500#page=7
+• [Ref 12] ISO21502 - Page 14 (Similarity: 0.491) → /pdf/ISO21502#page=14
+• [Ref 13] ISO21500 - Page 1 (Similarity: 0.487) → /pdf/ISO21500#page=1
+• [Ref 14] ISO21502 - Page 7 (Similarity: 0.481) → /pdf/ISO21502#page=7
+• [Ref 15] ISO21502 - Page 14 (Similarity: 0.479) → /pdf/ISO21502#page=14

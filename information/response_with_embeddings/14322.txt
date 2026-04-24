@@ -1,0 +1,188 @@
+Scenario: [14322] Custom Project (Manual Configuration) | Marketing | Large (> 18 months) | Construction | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Large-Scale Construction Marketing Project (PRINCE2)
+
+#### 1. Process Summary
+
+This process recommendation outlines the management of a large-scale construction marketing project, adhering to the PRINCE2 methodology for projects exceeding 18 months. Given the manual configuration aspect, a structured and controlled approach is crucial. The project's success hinges on clear objectives, effective stakeholder engagement, and proactive risk management, aligning with key project management principles [Ref 8, Ref 14]. This framework prioritizes deliverable-focused planning, execution, and control, as well as emphasis on stakeholder management and iterative refinement of deliverables throughout the project lifecycle [Ref 7, Ref 1]. The following phases and activities will ensure the project meets its objectives within the defined scope, budget, and schedule [Ref 4]. This process will emphasize clear responsibilities and accountability [Ref 4] at all stages of the project.
+
+-----
+
+#### 2. Phases and Activities
+
+The project will follow a phased approach aligned with PRINCE2, encompassing initiation, planning, execution, monitoring and controlling, and closure. Each phase will have defined activities and decision gates.
+
+I. **Project Initiation & Definition**
+   *   **Objective:** Define the project scope, objectives, and initial approach. Establish project governance.
+   *   Activities:
+       i.  Develop the Project Initiation Document (PID). [Ref 4]
+       ii. Define Stakeholders and their requirements. [Ref 2, Ref 7]
+       iii. Define the Project Scope, Deliverables, and Work Breakdown Structure (WBS) [Ref 5].
+       iv. Conduct a risk assessment and identify initial risks and opportunities [Ref 10, Ref 13].
+       v.  Establish the project team and roles.
+   *   Decision Gate: Project Board approval of the PID.
+
+II. **Planning**
+   *   **Objective:** Develop detailed plans for all aspects of the project.
+   *   Activities:
+       i.  Create a detailed Project Plan [Ref 1].
+       ii. Develop the Communication Plan [Ref 1].
+       iii. Define the Quality Management Approach.
+       iv. Develop the Change Control Approach [Ref 1].
+       v. Create a Risk Management Plan [Ref 13].
+       vi. Create and manage the Budget and resource plan [Ref 1].
+       vii. Identify and secure all needed resources.
+   *   Decision Gate: Project Board approval of the Project Plan.
+
+III. **Execution**
+   *   **Objective:** Execute the project plan and produce the project deliverables.
+   *   Activities:
+       i.  Manage the day-to-day activities to produce the marketing materials and campaigns [Ref 6].
+       ii.  Coordinate with all project stakeholders [Ref 2].
+       iii. Execute the Change Control process.
+       iv. Manage the project issues.
+       v.  Monitor the project’s progress against the plan.
+
+IV. **Monitoring and Controlling**
+   *   **Objective:** Track project performance, manage risks, and ensure the project remains on track.
+   *   Activities:
+       i.  Regularly monitor project progress against the plan [Ref 1].
+       ii.  Manage the project risks and issues [Ref 13].
+       iii.  Report project progress to the Project Board and stakeholders [Ref 1].
+       iv.  Implement the Change Control process as required.
+       v.  Quality assurance review of the deliverables.
+   *   Decision Gate: Project Board review of project performance reports and decisions on corrective actions, if any.
+
+V. **Project Closure**
+   *   **Objective:** Formally close the project and archive all project documentation.
+   *   Activities:
+       i.  Confirm delivery of all project deliverables.
+       ii.  Obtain formal project acceptance from stakeholders.
+       iii.  Conduct a Post-Project Review to document lessons learned.
+       iv.  Archive all project documentation.
+       v.  Communicate project closure to stakeholders.
+
+-----
+
+#### 3. Roles
+
+Key roles within the project will follow PRINCE2 principles for accountability and responsibility [Ref 4]:
+
+*   **Project Board:** Responsible for overall project direction, providing executive-level oversight, and making key decisions. The sponsor is usually a member of the Project Board [Ref 7].
+*   **Senior User:** Represents the end-users and ensures their requirements are met.
+*   **Senior Supplier:** Represents the suppliers and provides expertise and resources.
+*   **Project Manager:** Responsible for day-to-day management of the project, including planning, execution, and control.
+*   **Project Assurance:** Provides independent oversight to ensure project deliverables meet requirements.
+*   **Team Managers:** Responsible for managing the teams producing the project's products/deliverables.
+
+-----
+
+#### 4. RACI Matrix
+
+This RACI matrix outlines the responsibilities for each phase.
+
+| Phase                       | Project Board | Project Manager | Senior User | Senior Supplier | Project Assurance | Team Managers |
+|-----------------------------|---------------|-----------------|-------------|-----------------|-------------------|---------------|
+| **I. Project Initiation**     | A             | R               | C           | C               | I                 | I             |
+| **II. Planning**             | A             | R               | C           | C               | I                 | R             |
+| **III. Execution**           | C             | R               | C           | R               | I                 | A/R           |
+| **IV. Monitoring & Controlling** | A/C           | R               | C           | I               | A                 | I             |
+| **V. Project Closure**        | A             | R               | C           | I               | I                 | C             |
+
+**Key:**
+*   R = Responsible (performs the work)
+*   A = Accountable (owns the work, ultimate responsibility)
+*   C = Consulted (provides input)
+*   I = Informed (kept up-to-date)
+
+-----
+
+#### 5. Decision Gates
+
+Decision gates are critical points where the project board reviews progress and makes decisions to authorize the project to move forward [Ref 4]. These gates are aligned with the PRINCE2 methodology, providing control and allowing for course correction if necessary.
+
+*   **Project Initiation Document (PID) Approval:** The Project Board approves the PID to formally initiate the project (End of Phase 1).
+*   **Project Plan Approval:** The Project Board approves the Project Plan, confirming commitment to proceeding (End of Phase 2).
+*   **Phase End Reviews:** Regular reviews (e.g., quarterly or bi-annually) where the Project Board assesses progress, risks, and issues, and decides on the continuation or adjustment of the project.
+*   **Project Closure Approval:** The Project Board formally approves the project closure.
+
+-----
+
+#### 6. Embeddings & Citations Section
+
+Note:
+*   Ref 1: PMBOK, Page 30 (Similarity: 0.620)
+*   Ref 2: PMBOK, Page 24 (Similarity: 0.620)
+*   Ref 3: ISO21502, Page 9 (Similarity: 0.585)
+*   Ref 4: PRINCE2, Page 4 (Similarity: 0.570)
+*   Ref 5: ISO21502, Page 12 (Similarity: 0.569)
+*   Ref 6: PRINCE2, Page 6 (Similarity: 0.541)
+*   Ref 7: ISO21500, Page 9 (Similarity: 0.531)
+*   Ref 8: PMBOK, Page 10 (Similarity: 0.517)
+*   Ref 9: ISO21502, Page 7 (Similarity: 0.506)
+*   Ref 10: ISO21500, Page 9 (Similarity: 0.504)
+*   Ref 11: ISO21502, Page 10 (Similarity: 0.503)
+*   Ref 12: ISO21502, Page 1 (Similarity: 0.502)
+*   Ref 13: PMBOK, Page 20 (Similarity: 0.492)
+*   Ref 14: PMBOK, Page 9 (Similarity: 0.483)
+*   Ref 15: ISO21502, Page 14 (Similarity: 0.481)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 7: Page 9, Similarity: 0.531 (/pdf/ISO21500#page=9)
+- Ref 10: Page 9, Similarity: 0.504 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 12: Page 1, Similarity: 0.502 (/pdf/ISO21502#page=1)
+- Ref 9: Page 7, Similarity: 0.506 (/pdf/ISO21502#page=7)
+- Ref 3: Page 9, Similarity: 0.585 (/pdf/ISO21502#page=9)
+- Ref 11: Page 10, Similarity: 0.503 (/pdf/ISO21502#page=10)
+- Ref 5: Page 12, Similarity: 0.569 (/pdf/ISO21502#page=12)
+- Ref 15: Page 14, Similarity: 0.481 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 14: Page 9, Similarity: 0.483 (/pdf/PMBOK#page=9)
+- Ref 8: Page 10, Similarity: 0.517 (/pdf/PMBOK#page=10)
+- Ref 13: Page 20, Similarity: 0.492 (/pdf/PMBOK#page=20)
+- Ref 2: Page 24, Similarity: 0.620 (/pdf/PMBOK#page=24)
+- Ref 1: Page 30, Similarity: 0.620 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 4: Page 4, Similarity: 0.570 (/pdf/PRINCE2#page=4)
+- Ref 6: Page 6, Similarity: 0.541 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 14322_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 30 (Similarity: 0.620) → /pdf/PMBOK#page=30
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.620) → /pdf/PMBOK#page=24
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.585) → /pdf/ISO21502#page=9
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.570) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.569) → /pdf/ISO21502#page=12
+• [Ref 6] PRINCE2 - Page 6 (Similarity: 0.541) → /pdf/PRINCE2#page=6
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.531) → /pdf/ISO21500#page=9
+• [Ref 8] PMBOK - Page 10 (Similarity: 0.517) → /pdf/PMBOK#page=10
+• [Ref 9] ISO21502 - Page 7 (Similarity: 0.506) → /pdf/ISO21502#page=7
+• [Ref 10] ISO21500 - Page 9 (Similarity: 0.504) → /pdf/ISO21500#page=9
+• [Ref 11] ISO21502 - Page 10 (Similarity: 0.503) → /pdf/ISO21502#page=10
+• [Ref 12] ISO21502 - Page 1 (Similarity: 0.502) → /pdf/ISO21502#page=1
+• [Ref 13] PMBOK - Page 20 (Similarity: 0.492) → /pdf/PMBOK#page=20
+• [Ref 14] PMBOK - Page 9 (Similarity: 0.483) → /pdf/PMBOK#page=9
+• [Ref 15] ISO21502 - Page 14 (Similarity: 0.481) → /pdf/ISO21502#page=14

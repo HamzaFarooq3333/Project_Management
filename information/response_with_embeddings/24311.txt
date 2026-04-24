@@ -1,0 +1,180 @@
+Scenario: [24311] Custom Software Development | Marketing | Large (> 18 months) | Information Technology | PMBOK
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21500, ISO21502
+
+================================================================================
+
+### Process Recommendation: Large-Scale IT Marketing Project (PMBOK)
+
+#### 1. Process Summary
+
+This recommendation outlines a comprehensive project management process for a large-scale information technology (IT) marketing project, guided by the PMBOK framework.  Given the project's scale (over 18 months), this process prioritizes robust planning, communication, and risk management.  This recommendation takes into account the importance of a well-defined scope, scheduling, and budget [Ref 1]. The process emphasizes stakeholder engagement and collaboration, recognizing the iterative nature of marketing initiatives and the need for adaptability.  It is applicable to any organization [Ref 2]. Project success requires focus on value, recognizing system interactions, and embracing adaptability [Ref 12]. The project should be performed through a set of practices [Ref 13].
+
+-----
+
+#### 2. Phases and Activities
+
+This project will be executed in the following phases:
+
+I.  **Initiation:**
+
+    i.  Define project objectives, scope, and deliverables. Establish a clear project scope [Ref 2].
+    ii. Identify key stakeholders and their expectations [Ref 3].
+    iii. Develop a Project Charter outlining project goals, high-level requirements, and the Project Manager's authority.
+    iv. Identify high-level risks and constraints.
+    v. Determine the project's development approach and life cycle [Ref 3].
+    vi. Define the project's context, including factors within and outside the organization [Ref 10].
+
+II. **Planning:**
+
+    i.  Develop a detailed Project Management Plan, encompassing scope, schedule, budget, quality, resources, communications, risk, procurement, and change management plans [Ref 1].
+    ii.  Create a Work Breakdown Structure (WBS) to decompose project scope [Ref 5].
+    iii. Define project activities, dependencies, and estimate durations. Create a schedule [Ref 1].
+    iv. Develop a detailed budget [Ref 1].
+    v. Identify and plan for resource allocation, including team composition [Ref 1].
+    vi. Develop a communication plan to ensure effective information flow among stakeholders [Ref 1].
+    vii. Conduct risk assessment, including identifying, analyzing, and planning risk responses [Ref 14].
+    viii. Develop a procurement plan if external vendors are required [Ref 1].
+    ix. Establish a change management process [Ref 1].
+
+III. **Execution:**
+
+    i.  Execute the project plan, managing the work according to the defined scope and schedule [Ref 3].
+    ii.  Manage project resources effectively.
+    iii.  Conduct team meetings and track progress regularly.
+    iv.  Implement the communication plan.
+    v.  Manage risks and implement risk response plans.
+    vi.  Procure goods or services from vendors as needed.
+    vii.  Manage changes through the change management process.
+    viii. Demonstrate leadership behaviors [Ref 12].
+
+IV. **Monitoring and Controlling:**
+
+    i.  Monitor project performance against the plan, tracking progress, and costs. Measurement is key [Ref 1].
+    ii.  Control changes by reviewing and approving change requests.
+    iii.  Manage risks, tracking and mitigating potential issues.
+    iv.  Report progress to stakeholders, highlighting key achievements and deviations from the plan.
+    v.  Manage the project’s performance domains [Ref 3].
+    vi. Build quality into processes and deliverables [Ref 12].
+
+V. **Closure:**
+
+    i.  Obtain formal acceptance of deliverables from stakeholders.
+    ii.  Conduct a project review to assess project performance, lessons learned, and identify areas for improvement.
+    iii.  Archive project documents and records.
+    iv.  Close out contracts and procurements.
+    v.  Release project resources.
+    vi. Close the project.
+
+-----
+
+#### 3. Roles
+
+*   **Project Sponsor:** Responsible for providing resources and executive decisions [Ref 7].
+*   **Project Manager:** Responsible for leading and managing the project, ensuring its successful completion.
+*   **Marketing Team:** Executes marketing activities and deliverables.
+*   **IT Team:** Provides technical support and integration.
+*   **Stakeholders:** Individuals or groups with interests in the project [Ref 7].
+*   **Project Team:** Collaborate in a collaborative project team environment [Ref 12].
+
+-----
+
+#### 4. RACI Matrix
+
+| Phase              | Project Sponsor | Project Manager | Marketing Team | IT Team | Stakeholders |
+|--------------------|-----------------|-----------------|----------------|---------|---------------|
+| **I. Initiation**   | A               | R               | C              | I       | C             |
+| **II. Planning**    | C               | R               | A              | I       | C             |
+| **III. Execution**  | I               | A               | R              | R       | C             |
+| **IV. Monitoring & Controlling** | I              | R               | C              | C       | C             |
+| **V. Closure**      | A               | R               | C              | I       | C             |
+
+*   **R** = Responsible:  The person or group who does the work.
+*   **A** = Accountable: The person who is ultimately answerable for the correct and thorough completion of the deliverable or task.
+*   **C** = Consulted:  The person or group whose opinions are sought; two-way communication.
+*   **I** = Informed: The person or group who is kept informed on progress; one-way communication.
+
+-----
+
+#### 5. Decision Gates
+
+*   **Project Charter Approval:**  Formal approval of the Project Charter by the Project Sponsor, authorizing the project [Ref 1]. (End of Phase I)
+*   **Project Plan Approval:** Formal approval of the comprehensive Project Management Plan [Ref 1]. (End of Phase II)
+*   **Deliverable Acceptance:** Formal acceptance of deliverables by stakeholders during the execution phase and project closure.
+*   **Change Request Approval/Rejection:** Approved or rejected by the Project Manager, with stakeholder consultation [Ref 1].
+
+-----
+
+#### 6. Embeddings & Citations Section
+
+*   Ref 1: PMBOK, Page 30 (Similarity: 0.620)
+*   Ref 2: ISO21502, Page 9 (Similarity: 0.591)
+*   Ref 3: PMBOK, Page 24 (Similarity: 0.585)
+*   Ref 4: PRINCE2, Page 4 (Similarity: 0.585)
+*   Ref 5: ISO21502, Page 12 (Similarity: 0.577)
+*   Ref 6: ISO21500, Page 9 (Similarity: 0.534)
+*   Ref 7: ISO21500, Page 9 (Similarity: 0.533)
+*   Ref 8: PRINCE2, Page 6 (Similarity: 0.528)
+*   Ref 9: ISO21502, Page 1 (Similarity: 0.515)
+*   Ref 10: ISO21502, Page 14 (Similarity: 0.507)
+*   Ref 11: ISO21502, Page 7 (Similarity: 0.505)
+*   Ref 12: PMBOK, Page 10 (Similarity: 0.502)
+*   Ref 13: ISO21502, Page 14 (Similarity: 0.498)
+*   Ref 14: PMBOK, Page 20 (Similarity: 0.495)
+*   Ref 15: ISO21502, Page 9 (Similarity: 0.487)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 6: Page 9, Similarity: 0.534 (/pdf/ISO21500#page=9)
+- Ref 7: Page 9, Similarity: 0.533 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 9: Page 1, Similarity: 0.515 (/pdf/ISO21502#page=1)
+- Ref 11: Page 7, Similarity: 0.505 (/pdf/ISO21502#page=7)
+- Ref 2: Page 9, Similarity: 0.591 (/pdf/ISO21502#page=9)
+- Ref 15: Page 9, Similarity: 0.487 (/pdf/ISO21502#page=9)
+- Ref 5: Page 12, Similarity: 0.577 (/pdf/ISO21502#page=12)
+- Ref 10: Page 14, Similarity: 0.507 (/pdf/ISO21502#page=14)
+- Ref 13: Page 14, Similarity: 0.498 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 12: Page 10, Similarity: 0.502 (/pdf/PMBOK#page=10)
+- Ref 14: Page 20, Similarity: 0.495 (/pdf/PMBOK#page=20)
+- Ref 3: Page 24, Similarity: 0.585 (/pdf/PMBOK#page=24)
+- Ref 1: Page 30, Similarity: 0.620 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 4: Page 4, Similarity: 0.585 (/pdf/PRINCE2#page=4)
+- Ref 8: Page 6, Similarity: 0.528 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 24311_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 30 (Similarity: 0.620) → /pdf/PMBOK#page=30
+• [Ref 2] ISO21502 - Page 9 (Similarity: 0.591) → /pdf/ISO21502#page=9
+• [Ref 3] PMBOK - Page 24 (Similarity: 0.585) → /pdf/PMBOK#page=24
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.585) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.577) → /pdf/ISO21502#page=12
+• [Ref 6] ISO21500 - Page 9 (Similarity: 0.534) → /pdf/ISO21500#page=9
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.533) → /pdf/ISO21500#page=9
+• [Ref 8] PRINCE2 - Page 6 (Similarity: 0.528) → /pdf/PRINCE2#page=6
+• [Ref 9] ISO21502 - Page 1 (Similarity: 0.515) → /pdf/ISO21502#page=1
+• [Ref 10] ISO21502 - Page 14 (Similarity: 0.507) → /pdf/ISO21502#page=14
+• [Ref 11] ISO21502 - Page 7 (Similarity: 0.505) → /pdf/ISO21502#page=7
+• [Ref 12] PMBOK - Page 10 (Similarity: 0.502) → /pdf/PMBOK#page=10
+• [Ref 13] ISO21502 - Page 14 (Similarity: 0.498) → /pdf/ISO21502#page=14
+• [Ref 14] PMBOK - Page 20 (Similarity: 0.495) → /pdf/PMBOK#page=20
+• [Ref 15] ISO21502 - Page 9 (Similarity: 0.487) → /pdf/ISO21502#page=9

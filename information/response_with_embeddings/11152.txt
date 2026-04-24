@@ -1,0 +1,185 @@
+Scenario: [11152] Custom Project (Manual Configuration) | Software Development | Small (< 6 months) | Education | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation for Education Software Development Project
+
+This recommendation outlines a project management process for a small-scale, manual-configuration software development project in the education sector, adhering to PRINCE2 principles [Ref 5, Ref 9]. It acknowledges the project's size (under six months) and the need for a streamlined approach. The process prioritizes stakeholder engagement, iterative planning, risk management, and quality assurance to ensure successful project delivery. This document guides project managers and team members, establishing a foundation for execution and understanding practices used on projects [Ref 15]. Project management is the application of methods, tools, techniques, and competencies to enable the project to meet its objectives [Ref 5].
+
+-----
+
+#### I. Process Summary
+
+This project management approach, built upon PRINCE2, will be adapted to the specific context of the education software development project. It emphasizes the temporary nature of the project [Ref 14] with defined objectives and a focus on delivering value [Ref 7, Ref 10]. The process incorporates clear roles and responsibilities, iterative planning, proactive risk management, and continuous monitoring to ensure the project stays on track and delivers the expected results. The project lifecycle will encompass activities from the initial setup to closure [Ref 9]. It is important to create a collaborative team environment and effectively engage with stakeholders [Ref 7].
+
+-----
+
+#### II. Phases and Activities
+
+The project will be managed through the following phases, ensuring flexibility and adaptability throughout the project [Ref 7]:
+
+I.  **Project Initiation:**
+    i.  **Define Project Objectives and Scope:** Establish clear and measurable project objectives aligned with stakeholder needs [Ref 6].  Define project scope, including product and project scope aspects [Ref 4].
+    ii.  **Identify Stakeholders:** Identify and analyze all project stakeholders, understanding their interests and influence [Ref 3].
+    iii. **Create Project Brief:** Develop a project brief outlining the project's purpose, objectives, scope, and key deliverables. This includes a preliminary risk assessment [Ref 6, Ref 10].
+    iv.  **Set up Project Team:** Assign roles and responsibilities, and define the project organization structure.
+    v.  **Establish Project Controls:** Define communication channels, reporting requirements, and change management processes.
+
+II.  **Planning:**
+    i.  **Define Deliverables:** Breakdown the project scope into manageable work packages, defining activities, dependencies, and effort estimates [Ref 3].
+    ii.  **Develop Project Schedule:** Create a realistic project schedule, considering dependencies, resource availability, and critical path analysis.
+    iii. **Develop Project Budget:** Establish a detailed budget, including all estimated costs and contingency funds.
+    iv.  **Develop Communication Plan:** Create a communication plan that outlines how and when information will be shared with stakeholders [Ref 4].
+    v.  **Identify and Manage Risks:** Conduct a risk assessment, identifying potential threats and opportunities [Ref 10], and develop mitigation strategies.
+    vi.  **Develop Quality Plan:** Define quality standards, inspection criteria, and quality assurance procedures.
+    vii. **Create a Procurement Plan:** Define procurement requirements, if any, and select vendors. [Ref 4]
+
+III. **Execution/Development:**
+    i.  **Configure Software:** Perform the manual configuration based on the defined requirements and design specifications.
+    ii.  **Track Progress:** Monitor progress against the project plan, tracking work performance and deliverables.
+    iii. **Manage Risks and Issues:** Implement risk mitigation strategies and address any issues that arise.
+    iv.  **Manage Changes:** Implement change management processes to control scope changes, following a defined change control procedure [Ref 4].
+    v.  **Conduct Testing and Quality Assurance:** Implement quality assurance procedures, performing testing at various stages, including unit, integration, and user acceptance testing (UAT).
+    vi.  **Stakeholder Communication:** Keep stakeholders informed of project progress and any issues or changes.
+
+IV. **Project Closure:**
+    i.  **Handover Deliverables:** Deliver all project deliverables to the stakeholders, including documentation.
+    ii.  **Obtain Acceptance:** Obtain formal acceptance of the project deliverables from the stakeholders.
+    iii. **Review Project Performance:** Conduct a post-project review to identify lessons learned and areas for improvement.
+    iv.  **Close Project:** Formally close the project, archiving all project documentation.
+
+-----
+
+#### III. Roles
+
+The following roles are crucial for the project's success:
+
+*   **Project Sponsor:** Responsible for obtaining resources and executive decisions [Ref 6].
+*   **Project Manager:** Responsible for planning, directing, and controlling the project to achieve its objectives.
+*   **Team Lead/Configuration Specialist:** Responsible for the technical configuration and the work packages related to development.
+*   **Stakeholders:** Individuals or organizations who are affected by the project [Ref 3, Ref 6].
+*   **Quality Assurance (QA) Specialist (Optional):** Responsible for the quality of the software.
+
+-----
+
+#### IV. RACI Matrix
+
+The following RACI (Responsible, Accountable, Consulted, Informed) matrix outlines the responsibilities for each phase and activity:
+
+| Phase/Activity            | Project Sponsor | Project Manager | Team Lead/Config. Specialist | Stakeholders | QA Specialist |
+| ------------------------- | --------------- | --------------- | ----------------------------- | ------------ | ------------- |
+| **I. Project Initiation**   |                 |                 |                               |              |               |
+| i. Define Objectives & Scope | C               | R               | I                             | C            | I             |
+| ii. Identify Stakeholders   | C               | R               | I                             | A            | I             |
+| iii. Create Project Brief   | A               | R               | C                             | I            | I             |
+| iv. Set up Project Team    | A               | R               | C                             | I            | I             |
+| v. Establish Controls       | A               | R               | I                             | C            | I             |
+| **II. Planning**          |                 |                 |                               |              |               |
+| i. Define Deliverables     | C               | R               | A                             | C            | I             |
+| ii. Develop Schedule       | C               | R               | A                             | C            | I             |
+| iii. Develop Budget        | C               | R               | A                             | C            | I             |
+| iv. Develop Comm. Plan     | C               | R               | C                             | A            | I             |
+| v. Identify and Manage Risks| C               | R               | A                             | C            | I             |
+| vi. Develop Quality Plan    | C               | R               | A                             | C            | C            |
+| vii. Create Procurement Plan| C               | R               | I                             | C            | I             |
+| **III. Execution/Dev.**       |                 |                 |                               |              |               |
+| i. Configure Software      | I               | C               | R/A                           | I            | I             |
+| ii. Track Progress         | I               | R               | A                             | C            | I             |
+| iii. Manage Risks & Issues | C               | R               | A                             | C            | I             |
+| iv. Manage Changes         | C               | R               | A                             | C            | I             |
+| v. Conduct QA              | I               | C               | A                             | C            | R             |
+| vi. Stakeholder Comm.      | A               | R               | I                             | C            | I             |
+| **IV. Project Closure**     |                 |                 |                               |              |               |
+| i. Handover Deliverables   | A               | R               | C                             | I            | I             |
+| ii. Obtain Acceptance       | A               | R               | I                             | C            | I             |
+| iii. Review Performance    | C               | R               | A                             | C            | I             |
+| iv. Close Project          | A               | R               | I                             | I            | I             |
+
+-----
+
+#### V. Decision Gates
+
+Decision gates are crucial checkpoints in the project, allowing stakeholders to assess progress and make informed decisions. These gates are important to the project's lifecycle [Ref 9].
+
+*   **Project Initiation Approval:** Before proceeding to the planning phase, the project brief needs to be reviewed and approved by the Project Sponsor. This confirms the project's viability and aligns stakeholders on objectives.
+*   **Planning Phase Approval:** Following the completion of the project plan, including the budget and schedule, the plan should be approved by the Project Sponsor and relevant stakeholders.
+*   **Execution Phase Review:** Regular reviews during the execution phase assess progress against the plan, identify issues, and decide on necessary corrective actions.
+*   **Acceptance and Closure:** Formal acceptance of the deliverables by the stakeholders signifies the successful completion of the project and marks the closure of the project [Ref 6].
+
+-----
+
+#### VI. Embeddings & Citations Section
+
+*   Ref 1: ISO21502, Page 9
+*   Ref 2: PMBOK, Page 24
+*   Ref 3: ISO21502, Page 12
+*   Ref 4: PMBOK, Page 30
+*   Ref 5: PRINCE2, Page 4
+*   Ref 6: ISO21500, Page 9
+*   Ref 7: PMBOK, Page 10
+*   Ref 8: ISO21502, Page 1
+*   Ref 9: PRINCE2, Page 6
+*   Ref 10: ISO21500, Page 9
+*   Ref 11: ISO21502, Page 7
+*   Ref 12: ISO21500, Page 7
+*   Ref 13: ISO21502, Page 14
+*   Ref 14: ISO21502, Page 11
+*   Ref 15: ISO21502, Page 7
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 12: Page 7, Similarity: 0.512 (/pdf/ISO21500#page=7)
+- Ref 6: Page 9, Similarity: 0.541 (/pdf/ISO21500#page=9)
+- Ref 10: Page 9, Similarity: 0.526 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 8: Page 1, Similarity: 0.538 (/pdf/ISO21502#page=1)
+- Ref 11: Page 7, Similarity: 0.520 (/pdf/ISO21502#page=7)
+- Ref 15: Page 7, Similarity: 0.501 (/pdf/ISO21502#page=7)
+- Ref 1: Page 9, Similarity: 0.640 (/pdf/ISO21502#page=9)
+- Ref 14: Page 11, Similarity: 0.503 (/pdf/ISO21502#page=11)
+- Ref 3: Page 12, Similarity: 0.584 (/pdf/ISO21502#page=12)
+- Ref 13: Page 14, Similarity: 0.507 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 7: Page 10, Similarity: 0.541 (/pdf/PMBOK#page=10)
+- Ref 2: Page 24, Similarity: 0.595 (/pdf/PMBOK#page=24)
+- Ref 4: Page 30, Similarity: 0.583 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 5: Page 4, Similarity: 0.565 (/pdf/PRINCE2#page=4)
+- Ref 9: Page 6, Similarity: 0.534 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 11152_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.640) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.595) → /pdf/PMBOK#page=24
+• [Ref 3] ISO21502 - Page 12 (Similarity: 0.584) → /pdf/ISO21502#page=12
+• [Ref 4] PMBOK - Page 30 (Similarity: 0.583) → /pdf/PMBOK#page=30
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.565) → /pdf/PRINCE2#page=4
+• [Ref 6] ISO21500 - Page 9 (Similarity: 0.541) → /pdf/ISO21500#page=9
+• [Ref 7] PMBOK - Page 10 (Similarity: 0.541) → /pdf/PMBOK#page=10
+• [Ref 8] ISO21502 - Page 1 (Similarity: 0.538) → /pdf/ISO21502#page=1
+• [Ref 9] PRINCE2 - Page 6 (Similarity: 0.534) → /pdf/PRINCE2#page=6
+• [Ref 10] ISO21500 - Page 9 (Similarity: 0.526) → /pdf/ISO21500#page=9
+• [Ref 11] ISO21502 - Page 7 (Similarity: 0.520) → /pdf/ISO21502#page=7
+• [Ref 12] ISO21500 - Page 7 (Similarity: 0.512) → /pdf/ISO21500#page=7
+• [Ref 13] ISO21502 - Page 14 (Similarity: 0.507) → /pdf/ISO21502#page=14
+• [Ref 14] ISO21502 - Page 11 (Similarity: 0.503) → /pdf/ISO21502#page=11
+• [Ref 15] ISO21502 - Page 7 (Similarity: 0.501) → /pdf/ISO21502#page=7

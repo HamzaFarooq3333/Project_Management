@@ -1,0 +1,170 @@
+Scenario: [14131] Custom Project (Manual Configuration) | Marketing | Small (< 6 months) | Healthcare | PMBOK
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Healthcare Marketing Project (Small Scale)
+
+This recommendation outlines a PMBOK-aligned process for a small-scale healthcare marketing project, considering its manual configuration focus and short timeframe (under 6 months). The project will adhere to standard project management principles and incorporate risk management strategies. This is applicable to any project type regardless of purpose, size, cost or duration [Ref 2].
+
+-----
+
+#### I. Process Summary
+
+This project will follow a phased approach, aligning with the principles of project management as outlined in the PMBOK Guide [Ref 11]. The project will encompass key areas such as scope management, schedule management, cost management, risk management, stakeholder management, and communications management. The focus is on value delivery, stakeholder engagement, and adaptability [Ref 6]. Key project management considerations will include, but not be limited to, the scope, stakeholders, development approach and life cycle, planning, work execution, deliverables, measurement, and uncertainty [Ref 3]. This framework is designed to deliver a specific marketing output, such as a campaign or promotional materials.
+
+-----
+
+#### II. Phases and Activities
+
+The project lifecycle is comprised of the following phases, each with key activities.
+
+**I. Initiation**
+
+i.  **Define Project Goals and Objectives:** Clearly articulate the marketing objectives (e.g., increase patient appointments, improve brand awareness) and define success metrics.
+ii.  **Identify Stakeholders:** Identify all key stakeholders, including internal team members, marketing agencies (if any), and relevant healthcare professionals [Ref 3].
+iii.  **Develop Project Charter:** Document project goals, objectives, scope, stakeholders, and high-level risks [Ref 1].
+iv.  **Conduct Preliminary Risk Assessment:** Identify potential project risks and develop initial mitigation strategies [Ref 7].
+
+**II. Planning**
+
+i.  **Define Project Scope:** Detail the specific deliverables of the marketing project. This includes deliverables such as marketing plans, advertisement content, and marketing channels, and work packages [Ref 4]. Create a work breakdown structure (WBS) to decompose the scope into manageable work packages [Ref 4].
+ii.  **Develop Schedule:** Create a project schedule with task durations, dependencies, and resource allocation. Use a project management tool.
+iii.  **Develop Budget:** Estimate project costs, including labor, materials, marketing spend, and any external vendor costs [Ref 1].
+iv.  **Create Communication Plan:** Define communication frequency, methods, and stakeholders to be updated on project progress.
+v.  **Develop Risk Management Plan:** Detail processes for identifying, assessing, and responding to project risks [Ref 7].
+vi.  **Stakeholder Management Plan:** Document how stakeholders will be engaged and managed.
+
+**III. Execution**
+
+i.  **Execute Marketing Activities:** Implement the marketing plan, including content creation, campaign launch, and channel deployment.
+ii.  **Manage Project Resources:** Coordinate resources (e.g., personnel, budget, materials) to ensure efficient execution [Ref 5].
+iii.  **Monitor Project Progress:** Track project progress against the schedule and budget. Use appropriate metrics.
+iv.  **Manage Issues and Risks:** Address any project issues and risks that arise. Implement mitigation plans [Ref 7].
+v.  **Change Management:** Implement a formal change management process to control scope changes, budget changes, and schedule changes [Ref 1].
+
+**IV. Monitoring and Controlling**
+
+i.  **Track Performance:** Regularly monitor the project's progress against the planned baseline [Ref 1]. Track key performance indicators (KPIs) relevant to the marketing goals.
+ii.  **Control Changes:** Review and approve or reject any change requests. Ensure all changes are properly documented and communicated.
+iii.  **Manage Risks:** Monitor the project's risk register. Re-evaluate risks and update mitigation plans as needed [Ref 7].
+iv.  **Performance Reporting:** Generate performance reports that show the project's progress.
+
+**V. Closing**
+
+i.  **Finalize Deliverables:** Ensure all project deliverables are completed and approved by the stakeholders.
+ii.  **Conduct Project Review:** Review the project's performance, document lessons learned, and identify best practices for future projects.
+iii.  **Close Out Contracts:** Complete all contract closure activities, if applicable.
+iv.  **Archive Project Documentation:** Store all project documentation for future reference.
+
+-----
+
+#### III. Roles
+
+*   **Project Manager:** Responsible for overall project planning, execution, monitoring, controlling, and closing.
+*   **Marketing Team:** Responsible for executing marketing activities, creating content, and managing marketing channels.
+*   **Stakeholders:** Provide input and approve deliverables (e.g., healthcare professionals, department heads).
+*   **Sponsor:** The person responsible for obtaining the resources and making executive decisions for project success [Ref 10].
+
+-----
+
+#### IV. RACI Matrix
+
+| Phase              | Project Manager | Marketing Team | Stakeholders  | Sponsor   |
+| ------------------ | --------------- | -------------- | ------------- | --------- |
+| **Initiation**     | R               | C              | A             | A         |
+| **Planning**       | R               | C              | C             | A         |
+| **Execution**      | A               | R              | C             | I         |
+| **Monitoring & Controlling** | R               | I              | C             | I         |
+| **Closing**        | R               | C              | A             | A         |
+
+*   **R** - Responsible (performs the work)
+*   **A** - Accountable (ultimate ownership)
+*   **C** - Consulted (provides input)
+*   **I** - Informed (kept up-to-date)
+
+-----
+
+#### V. Decision Gates
+
+*   **Project Charter Approval:** At the end of the Initiation phase, the Project Charter must be approved by the sponsor [Ref 1].
+*   **Project Plan Approval:** At the end of the Planning phase, the project plan, including the budget, schedule, and communication plan, must be approved by the Project Manager and stakeholders [Ref 1].
+*   **Deliverable Approvals:** Throughout the project, all deliverables (e.g., marketing content, campaign launch) will require approval from the stakeholders.
+*   **Change Request Approval:** Change requests will be reviewed and either approved or rejected [Ref 1].
+
+-----
+
+#### VI. Embeddings & Citations Section
+
+*   Ref 1: PMBOK, Page 30 (Similarity: 0.586)
+*   Ref 2: ISO21502, Page 9 (Similarity: 0.571)
+*   Ref 3: PMBOK, Page 24 (Similarity: 0.564)
+*   Ref 4: ISO21502, Page 12 (Similarity: 0.530)
+*   Ref 5: PRINCE2, Page 4 (Similarity: 0.520)
+*   Ref 6: PMBOK, Page 10 (Similarity: 0.520)
+*   Ref 7: PMBOK, Page 20 (Similarity: 0.475)
+*   Ref 8: ISO21500, Page 9 (Similarity: 0.472)
+*   Ref 9: PRINCE2, Page 6 (Similarity: 0.469)
+*   Ref 10: ISO21500, Page 9 (Similarity: 0.467)
+*   Ref 11: PMBOK, Page 9 (Similarity: 0.450)
+*   Ref 12: ISO21502, Page 1 (Similarity: 0.441)
+*   Ref 13: ISO21502, Page 10 (Similarity: 0.439)
+*   Ref 14: ISO21502, Page 14 (Similarity: 0.437)
+*   Ref 15: ISO21502, Page 12 (Similarity: 0.436)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 8: Page 9, Similarity: 0.472 (/pdf/ISO21500#page=9)
+- Ref 10: Page 9, Similarity: 0.467 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 12: Page 1, Similarity: 0.441 (/pdf/ISO21502#page=1)
+- Ref 2: Page 9, Similarity: 0.571 (/pdf/ISO21502#page=9)
+- Ref 13: Page 10, Similarity: 0.439 (/pdf/ISO21502#page=10)
+- Ref 4: Page 12, Similarity: 0.530 (/pdf/ISO21502#page=12)
+- Ref 15: Page 12, Similarity: 0.436 (/pdf/ISO21502#page=12)
+- Ref 14: Page 14, Similarity: 0.437 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 11: Page 9, Similarity: 0.450 (/pdf/PMBOK#page=9)
+- Ref 6: Page 10, Similarity: 0.520 (/pdf/PMBOK#page=10)
+- Ref 7: Page 20, Similarity: 0.475 (/pdf/PMBOK#page=20)
+- Ref 3: Page 24, Similarity: 0.564 (/pdf/PMBOK#page=24)
+- Ref 1: Page 30, Similarity: 0.586 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 5: Page 4, Similarity: 0.520 (/pdf/PRINCE2#page=4)
+- Ref 9: Page 6, Similarity: 0.469 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 14131_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 30 (Similarity: 0.586) → /pdf/PMBOK#page=30
+• [Ref 2] ISO21502 - Page 9 (Similarity: 0.571) → /pdf/ISO21502#page=9
+• [Ref 3] PMBOK - Page 24 (Similarity: 0.564) → /pdf/PMBOK#page=24
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.530) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.520) → /pdf/PRINCE2#page=4
+• [Ref 6] PMBOK - Page 10 (Similarity: 0.520) → /pdf/PMBOK#page=10
+• [Ref 7] PMBOK - Page 20 (Similarity: 0.475) → /pdf/PMBOK#page=20
+• [Ref 8] ISO21500 - Page 9 (Similarity: 0.472) → /pdf/ISO21500#page=9
+• [Ref 9] PRINCE2 - Page 6 (Similarity: 0.469) → /pdf/PRINCE2#page=6
+• [Ref 10] ISO21500 - Page 9 (Similarity: 0.467) → /pdf/ISO21500#page=9
+• [Ref 11] PMBOK - Page 9 (Similarity: 0.450) → /pdf/PMBOK#page=9
+• [Ref 12] ISO21502 - Page 1 (Similarity: 0.441) → /pdf/ISO21502#page=1
+• [Ref 13] ISO21502 - Page 10 (Similarity: 0.439) → /pdf/ISO21502#page=10
+• [Ref 14] ISO21502 - Page 14 (Similarity: 0.437) → /pdf/ISO21502#page=14
+• [Ref 15] ISO21502 - Page 12 (Similarity: 0.436) → /pdf/ISO21502#page=12

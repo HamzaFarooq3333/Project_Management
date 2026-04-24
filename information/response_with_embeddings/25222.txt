@@ -1,0 +1,168 @@
+Scenario: [25222] Custom Software Development | Infrastructure | Medium (6-18 months) | Construction | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21500, ISO21502
+
+================================================================================
+
+### Process Recommendation: Medium-Scale Construction Infrastructure Project (PRINCE2)
+
+#### 1. Process Summary
+
+This process recommendation outlines the project management approach for a medium-scale construction infrastructure project, adhering to PRINCE2 principles and informed by relevant project management standards, including the PMBOK [Ref 1, Ref 2, Ref 8, Ref 12, Ref 13], and ISO21502 [Ref 3, Ref 5, Ref 7, Ref 9, Ref 10, Ref 11, Ref 15]. The project is expected to be completed within 6-18 months. The core principles of PRINCE2 are integrated throughout the project lifecycle [Ref 4, Ref 6]. This includes a focus on business justification, defined roles and responsibilities, stage management, product focus, tailoring, and learning from experience. This approach provides a structured framework for managing the project, ensuring that objectives are met and that the project remains within budget and schedule.
+
+-----
+
+#### 2. Phases and Activities
+
+This project will be managed using a phased approach, reflecting the PRINCE2 methodology, and incorporating elements of iterative and adaptive delivery where appropriate [Ref 3]. The project will follow a typical lifecycle, from initiation to closure [Ref 6].
+
+I. **Project Initiation:**
+    i.  Develop the Project Initiation Document (PID). This document serves as the project's blueprint, outlining the scope, objectives, approach, and key deliverables [Ref 2]. This will involve:
+        a. Defining project objectives and scope.
+        b. Identifying stakeholders [Ref 1, Ref 9, Ref 18] and their requirements.
+        c. Establishing a project governance structure [Ref 7, Ref 10, Ref 22].
+        d. Identifying key risks and initial risk mitigation strategies [Ref 13, Ref 14].
+        e. Determining project budget and schedule.
+        f. Defining the communication plan [Ref 2].
+    ii.  Obtain Project Board approval of the PID. This is a critical decision gate to formally authorize the project.
+
+II. **Project Planning:**
+    i.  Create a detailed Work Breakdown Structure (WBS) to decompose the project scope [Ref 5].
+    ii.  Develop detailed schedules and resource plans, including procurement planning [Ref 2].
+    iii. Create the risk register and define responses to identified risks [Ref 13].
+    iv.  Finalize the quality management strategy.
+    v.  Refine the communication plan [Ref 2].
+    vi.  Develop Stage Plans for each stage of the project.
+
+III. **Project Execution (Stage 1 onwards):**
+    i.  Manage each stage, based on the Stage Plan.
+    ii.  Execute activities outlined in the WBS.
+    iii. Monitor progress against the project plan and stage plans.
+    iv.  Manage issues and changes, according to the change control procedure outlined in the PID [Ref 2].
+    v.  Regularly report on project progress to the Project Board and other stakeholders [Ref 1].
+    vi.  Update risk register and implement risk mitigation strategies [Ref 13].
+    vii. Hold regular project team meetings.
+
+IV. **Stage Boundaries:**
+    i.  At the end of each stage, assess performance against stage objectives.
+    ii.  Prepare End Stage Reports.
+    iii.  Present the End Stage Report to the Project Board.
+    iv.  Obtain Project Board approval to proceed to the next stage, based on the assessment of the End Stage Report. This is a crucial decision gate.
+
+V. **Project Closure:**
+    i.  Verify that all project deliverables are complete and accepted.
+    ii.  Prepare the Project Closure Report.
+    iii.  Conduct a post-project review to identify lessons learned.
+    iv.  Obtain formal Project Board approval for project closure.
+
+-----
+
+#### 3. Roles
+
+*   **Project Board:** Responsible for overall project direction, providing executive-level decision-making and ensuring the project remains aligned with the organization's strategic goals [Ref 9, Ref 17]. This includes the Senior Responsible Owner (SRO), Project Manager and a representative of the users and suppliers.
+*   **Project Manager:** Responsible for day-to-day management of the project, including planning, execution, and control.
+*   **Project Assurance:** Provides independent oversight and advice to the Project Board on the project's progress and performance.
+*   **Team Manager:** Manages the work of a team of specialists to deliver the project's products.
+*   **Project Support:** Provides administrative and support services to the project team.
+*   **Stakeholders:** Individuals or groups with an interest in the project. Their engagement is critical for the project's success [Ref 1, Ref 9, Ref 12].
+
+-----
+
+#### 4. RACI Matrix
+
+| Phase                    | Project Board | Project Manager | Project Assurance | Team Manager | Project Support |
+| :----------------------- | :------------ | :-------------- | :---------------- | :----------- | :-------------- |
+| **I. Project Initiation** | R             | A               | C                 | I            | I               |
+| **II. Project Planning** | A             | R               | C                 | R            | C               |
+| **III. Project Execution** | A             | R               | C                 | R            | I               |
+| **IV. Stage Boundaries**   | A             | R               | C                 | C            | I               |
+| **V. Project Closure**   | A             | R               | C                 | I            | I               |
+
+*   **R** = Responsible
+*   **A** = Accountable
+*   **C** = Consulted
+*   **I** = Informed
+
+-----
+
+#### 5. Decision Gates
+
+*   **Project Initiation Document (PID) Approval:** The Project Board approves the PID, authorizing the project to proceed [Ref 4].
+*   **Stage-End Approvals:** The Project Board approves each stage's deliverables and authorizes progression to the next stage based on End Stage Reports. This is crucial for controlling the project [Ref 6].
+*   **Project Closure Approval:** The Project Board formally approves project closure after verifying all deliverables are accepted, and post-project review is completed [Ref 6].
+
+-----
+
+#### 6. Embeddings & Citations Section
+
+*   Ref 1: PMBOK, Page 24
+*   Ref 2: PMBOK, Page 30
+*   Ref 3: ISO21502, Page 9
+*   Ref 4: PRINCE2, Page 4
+*   Ref 5: ISO21502, Page 12
+*   Ref 6: PRINCE2, Page 6
+*   Ref 7: ISO21502, Page 10
+*   Ref 8: PMBOK, Page 10
+*   Ref 9: ISO21500, Page 9
+*   Ref 10: ISO21502, Page 11
+*   Ref 11: ISO21502, Page 7
+*   Ref 12: PMBOK, Page 9
+*   Ref 13: PMBOK, Page 20
+*   Ref 14: ISO21500, Page 9
+*   Ref 15: ISO21502, Page 1
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 9: Page 9, Similarity: 0.511 (/pdf/ISO21500#page=9)
+- Ref 14: Page 9, Similarity: 0.480 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 15: Page 1, Similarity: 0.478 (/pdf/ISO21502#page=1)
+- Ref 11: Page 7, Similarity: 0.495 (/pdf/ISO21502#page=7)
+- Ref 3: Page 9, Similarity: 0.558 (/pdf/ISO21502#page=9)
+- Ref 7: Page 10, Similarity: 0.530 (/pdf/ISO21502#page=10)
+- Ref 10: Page 11, Similarity: 0.508 (/pdf/ISO21502#page=11)
+- Ref 5: Page 12, Similarity: 0.555 (/pdf/ISO21502#page=12)
+
+**PMBOK:**
+- Ref 12: Page 9, Similarity: 0.493 (/pdf/PMBOK#page=9)
+- Ref 8: Page 10, Similarity: 0.514 (/pdf/PMBOK#page=10)
+- Ref 13: Page 20, Similarity: 0.484 (/pdf/PMBOK#page=20)
+- Ref 1: Page 24, Similarity: 0.614 (/pdf/PMBOK#page=24)
+- Ref 2: Page 30, Similarity: 0.593 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 4: Page 4, Similarity: 0.557 (/pdf/PRINCE2#page=4)
+- Ref 6: Page 6, Similarity: 0.532 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 25222_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 24 (Similarity: 0.614) → /pdf/PMBOK#page=24
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.593) → /pdf/PMBOK#page=30
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.558) → /pdf/ISO21502#page=9
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.557) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.555) → /pdf/ISO21502#page=12
+• [Ref 6] PRINCE2 - Page 6 (Similarity: 0.532) → /pdf/PRINCE2#page=6
+• [Ref 7] ISO21502 - Page 10 (Similarity: 0.530) → /pdf/ISO21502#page=10
+• [Ref 8] PMBOK - Page 10 (Similarity: 0.514) → /pdf/PMBOK#page=10
+• [Ref 9] ISO21500 - Page 9 (Similarity: 0.511) → /pdf/ISO21500#page=9
+• [Ref 10] ISO21502 - Page 11 (Similarity: 0.508) → /pdf/ISO21502#page=11
+• [Ref 11] ISO21502 - Page 7 (Similarity: 0.495) → /pdf/ISO21502#page=7
+• [Ref 12] PMBOK - Page 9 (Similarity: 0.493) → /pdf/PMBOK#page=9
+• [Ref 13] PMBOK - Page 20 (Similarity: 0.484) → /pdf/PMBOK#page=20
+• [Ref 14] ISO21500 - Page 9 (Similarity: 0.480) → /pdf/ISO21500#page=9
+• [Ref 15] ISO21502 - Page 1 (Similarity: 0.478) → /pdf/ISO21502#page=1

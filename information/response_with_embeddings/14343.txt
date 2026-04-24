@@ -1,0 +1,186 @@
+Scenario: [14343] Custom Project (Manual Configuration) | Marketing | Large (> 18 months) | Finance | ISO Standards
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Large-Scale Finance Marketing Project
+
+#### 1. Process Summary
+
+This recommendation outlines a comprehensive project management process for a large-scale finance marketing project, adhering to ISO standards and incorporating best practices from PMBOK and PRINCE2. The project's manual configuration, long duration (> 18 months), and industry context (finance) necessitate a structured, phased approach with rigorous control and stakeholder engagement [Ref 1]. The process emphasizes the application of methods, tools, techniques, and competencies to meet project objectives within the project's context [Ref 5, Ref 9]. It will be iterative and adaptable to address the complexities inherent in a large marketing initiative [Ref 11]. The project will be broken down into phases for better control and monitoring, following the principles of planning, project work, delivery, and measurement [Ref 3].
+
+-----
+
+#### 2. Phases and Activities
+
+The project will proceed through the following phases, each with specific activities:
+
+**I. Initiation & Planning**
+
+i.  **Define Project Scope and Objectives:** Clearly define the marketing project's objectives, target audience, and desired outcomes. [Ref 2]
+ii.  **Stakeholder Identification and Management:** Identify all stakeholders and document their needs and expectations [Ref 3, Ref 6]. Develop a communication plan [Ref 2].
+iii.  **Develop Project Management Plan:** Create a comprehensive project management plan including scope, schedule, budget, risk management, and change management processes [Ref 2]. This will involve developing a Work Breakdown Structure (WBS) [Ref 4].
+iv.  **Resource Planning:** Identify and secure necessary resources, including personnel, budget, and tools.
+v.  **Risk Management:** Identify potential risks and develop mitigation strategies [Ref 4, Ref 8].
+vi.  **Procurement Planning:** If applicable, plan for procurement of any required services or goods [Ref 2].
+
+**II. Execution**
+
+i.  **Team Formation and Management:** Assemble the project team and define roles and responsibilities. Ensure a collaborative project environment [Ref 2, Ref 11].
+ii.  **Marketing Campaign Implementation:** Execute marketing activities as per the approved project plan, including content creation, distribution, and platform management.
+iii.  **Configuration and Development:** Manage the manual configuration aspects of the project.
+iv.  **Progress Monitoring and Reporting:** Track progress against the plan, monitor performance, and provide regular reports to stakeholders.
+v.  **Issue and Risk Management:** Actively address any issues or risks as they arise, implementing mitigation strategies.
+
+**III. Monitoring and Controlling**
+
+i.  **Performance Measurement:** Regularly measure key performance indicators (KPIs) to track campaign effectiveness.
+ii.  **Change Management:** Implement a formal change management process to control scope changes, budget adjustments, and schedule revisions [Ref 2].
+iii.  **Quality Assurance:** Ensure that all deliverables meet the required quality standards.
+iv.  **Communication Management:** Maintain consistent and effective communication with all stakeholders.
+v.  **Schedule and Budget Control:** Monitor and control project schedule and budget.
+
+**IV. Closure**
+
+i.  **Deliverable Acceptance:** Obtain formal acceptance of all project deliverables from stakeholders.
+ii.  **Final Reporting:** Prepare a final project report summarizing project outcomes, lessons learned, and recommendations.
+iii.  **Project Documentation:** Archive all project documentation.
+iv.  **Team Dissolution:** Release team members and reassign resources.
+v.  **Post-Implementation Review:** Conduct a post-implementation review to evaluate project success and identify areas for improvement in future projects.
+
+-----
+
+#### 3. Roles
+
+*   **Project Sponsor:** Responsible for providing resources and executive decisions to enable success [Ref 6].
+*   **Project Manager:** Responsible for directing and controlling the project to accomplish the agreed objectives [Ref 6].
+*   **Marketing Lead:** Oversees the marketing campaign execution.
+*   **Team Members:** Carry out project activities as assigned.
+*   **Stakeholders:** Individuals or groups affected by the project [Ref 6].
+*   **Quality Assurance Lead:** Ensures adherence to quality standards.
+*   **Change Control Board (CCB):** Evaluates and approves or rejects change requests.
+
+-----
+
+#### 4. RACI Matrix
+
+| Phase                         | Project Sponsor | Project Manager | Marketing Lead | Team Members | Stakeholders | QA Lead | CCB |
+| :---------------------------- | :-------------: | :-------------: | :------------: | :----------: | :----------: | :-----: | :--: |
+| **I. Initiation & Planning**  |       A         |        R        |       C        |       I      |      C       |    I    |  -   |
+|     Define Project Scope      |       A         |        R        |       C        |       I      |      C       |    I    |  -   |
+|     Stakeholder Management    |       A         |        R        |       C        |       I      |      C       |    I    |  -   |
+|     Develop Plan               |       A         |        R        |       C        |       I      |      C       |    I    |  -   |
+|     Resource Planning         |       A         |        R        |       C        |       I      |      C       |    I    |  -   |
+|     Risk Management           |       A         |        R        |       C        |       I      |      C       |    I    |  -   |
+|     Procurement Planning      |       A         |        R        |       C        |       I      |      C       |    I    |  -   |
+| **II. Execution**           |       I         |        R        |       A        |       R      |      C       |    I    |  -   |
+|     Team Formation & Mgmt     |       I         |        R        |       A        |       I      |      C       |    I    |  -   |
+|     Campaign Implementation    |       I         |        C        |       A        |       R      |      C       |    I    |  -   |
+|     Configuration             |       I         |        C        |       A        |       R      |      C       |    I    |  -   |
+|     Progress Monitoring        |       C         |        R        |       A        |       I      |      C       |    I    |  -   |
+|     Issue/Risk Management     |       C         |        R        |       A        |       I      |      C       |    I    |  -   |
+| **III. Monitoring & Control** |       C         |        R        |       A        |       I      |      C       |    I    |  A   |
+|     Performance Measurement    |       C         |        R        |       A        |       I      |      C       |    I    |  A   |
+|     Change Management         |       C         |        R        |       I        |       I      |      I       |    I    |  A   |
+|     Quality Assurance         |       C         |        R        |       A        |       I      |      C       |    R    |  -   |
+|     Communication Mgmt         |       C         |        R        |       A        |       I      |      C       |    I    |  -   |
+|     Schedule/Budget Control   |       C         |        R        |       A        |       I      |      C       |    I    |  -   |
+| **IV. Closure**              |       A         |        R        |       C        |       I      |      C       |    I    |  -   |
+|     Deliverable Acceptance     |       A         |        R        |       C        |       I      |      C       |    I    |  -   |
+|     Final Reporting           |       A         |        R        |       C        |       I      |      C       |    I    |  -   |
+|     Project Documentation      |       I         |        R        |       C        |       I      |      C       |    I    |  -   |
+|     Team Dissolution          |       I         |        R        |       C        |       I      |      C       |    I    |  -   |
+|     Post-Implementation Review |       A         |        R        |       C        |       I      |      C       |    I    |  -   |
+
+*   **R** = Responsible
+*   **A** = Accountable
+*   **C** = Consulted
+*   **I** = Informed
+
+-----
+
+#### 5. Decision Gates
+
+*   **Project Charter Approval:** Formal approval of the project charter, defining the project's purpose and objectives.
+*   **Project Plan Approval:** Approval of the comprehensive project management plan, including scope, schedule, budget, and risk management plans [Ref 2].
+*   **Phase Gate Reviews:** Decision points at the end of each phase to assess progress, quality, and alignment with project goals.
+*   **Change Request Approvals:** Formal approval of all change requests through the Change Control Board (CCB).
+*   **Deliverable Acceptance:** Formal acceptance of deliverables by the stakeholders [Ref 2].
+*   **Project Closure Approval:** Formal approval to close the project after all deliverables are accepted and all post-implementation reviews are completed.
+
+-----
+
+#### 6. Embeddings & Citations Section
+
+*   Ref 1: ISO21502, Page 9
+*   Ref 2: PMBOK, Page 30
+*   Ref 3: PMBOK, Page 24
+*   Ref 4: ISO21502, Page 12
+*   Ref 5: PRINCE2, Page 4
+*   Ref 6: ISO21500, Page 9
+*   Ref 7: ISO21502, Page 1
+*   Ref 8: ISO21500, Page 9
+*   Ref 9: PRINCE2, Page 6
+*   Ref 10: ISO21500, Page 7
+*   Ref 11: PMBOK, Page 10
+*   Ref 12: ISO21502, Page 7
+*   Ref 13: ISO21500, Page 1
+*   Ref 14: ISO21502, Page 14
+*   Ref 15: ISO21502, Page 9
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 13: Page 1, Similarity: 0.485 (/pdf/ISO21500#page=1)
+- Ref 10: Page 7, Similarity: 0.508 (/pdf/ISO21500#page=7)
+- Ref 6: Page 9, Similarity: 0.548 (/pdf/ISO21500#page=9)
+- Ref 8: Page 9, Similarity: 0.538 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 7: Page 1, Similarity: 0.540 (/pdf/ISO21502#page=1)
+- Ref 12: Page 7, Similarity: 0.493 (/pdf/ISO21502#page=7)
+- Ref 1: Page 9, Similarity: 0.617 (/pdf/ISO21502#page=9)
+- Ref 15: Page 9, Similarity: 0.480 (/pdf/ISO21502#page=9)
+- Ref 4: Page 12, Similarity: 0.568 (/pdf/ISO21502#page=12)
+- Ref 14: Page 14, Similarity: 0.482 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 11: Page 10, Similarity: 0.506 (/pdf/PMBOK#page=10)
+- Ref 3: Page 24, Similarity: 0.593 (/pdf/PMBOK#page=24)
+- Ref 2: Page 30, Similarity: 0.603 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 5: Page 4, Similarity: 0.555 (/pdf/PRINCE2#page=4)
+- Ref 9: Page 6, Similarity: 0.519 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 14343_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.617) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.603) → /pdf/PMBOK#page=30
+• [Ref 3] PMBOK - Page 24 (Similarity: 0.593) → /pdf/PMBOK#page=24
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.568) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.555) → /pdf/PRINCE2#page=4
+• [Ref 6] ISO21500 - Page 9 (Similarity: 0.548) → /pdf/ISO21500#page=9
+• [Ref 7] ISO21502 - Page 1 (Similarity: 0.540) → /pdf/ISO21502#page=1
+• [Ref 8] ISO21500 - Page 9 (Similarity: 0.538) → /pdf/ISO21500#page=9
+• [Ref 9] PRINCE2 - Page 6 (Similarity: 0.519) → /pdf/PRINCE2#page=6
+• [Ref 10] ISO21500 - Page 7 (Similarity: 0.508) → /pdf/ISO21500#page=7
+• [Ref 11] PMBOK - Page 10 (Similarity: 0.506) → /pdf/PMBOK#page=10
+• [Ref 12] ISO21502 - Page 7 (Similarity: 0.493) → /pdf/ISO21502#page=7
+• [Ref 13] ISO21500 - Page 1 (Similarity: 0.485) → /pdf/ISO21500#page=1
+• [Ref 14] ISO21502 - Page 14 (Similarity: 0.482) → /pdf/ISO21502#page=14
+• [Ref 15] ISO21502 - Page 9 (Similarity: 0.480) → /pdf/ISO21502#page=9

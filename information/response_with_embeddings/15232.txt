@@ -1,0 +1,173 @@
+Scenario: [15232] Custom Project (Manual Configuration) | Infrastructure | Medium (6-18 months) | Healthcare | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Healthcare Infrastructure Project (PRINCE2)
+
+#### 1. Process Summary
+
+This recommendation outlines a PRINCE2-aligned process for a medium-scale (6-18 months) healthcare infrastructure project involving manual configuration. The project leverages PRINCE2's structured approach to manage risk, ensure stakeholder engagement, and achieve project objectives. This process emphasizes the importance of planning, control, and adapting to the project's specific context [Ref 7]. The project will follow a phased approach with clear decision gates to ensure effective management and value delivery [Ref 4, Ref 11]. The manual configuration aspect introduces the need for detailed planning and change management to account for potential issues. The focus is on a structured, adaptable, and value-driven approach ensuring that the project meets its objectives and delivers the desired outcome.
+
+-----
+
+#### 2. Phases and Activities
+
+The project will be managed in distinct phases. Each phase will have specific activities, deliverables, and decision points.
+
+I. **Project Initiation & Planning Phase:**
+
+   i. **Project Mandate Review & Project Definition:** Review the project mandate and define the project scope, objectives, and success criteria. Establish project tolerances, including time, cost, scope, and quality. This phase is critical to ensure a common understanding among all stakeholders [Ref 2, Ref 5].
+   ii. **Project Team Assembly:** Identify and assign roles and responsibilities within the project team. Assemble the project team, including internal and external resources as needed.
+   iii. **Project Initiation Document (PID) Creation:** Develop a detailed PID, outlining the project's approach, management controls, and communication plan. This includes a clear work breakdown structure (WBS) [Ref 5], risk register, and change control procedures [Ref 1].
+   iv. **Stakeholder Management Plan:** Identify and analyze stakeholders, and develop a stakeholder management plan to effectively engage with all relevant parties [Ref 4].
+   v. **Configuration Management Strategy:** Outline the process for controlling and managing project documentation and configuration items. This is particularly important for the manual configuration aspect.
+   vi. **Communication Plan:** Define the frequency and format of communication, including reporting and meetings, to keep all stakeholders informed.
+
+II. **Project Execution Phase (Stage 1-n):**
+
+   i. **Stage Planning:** Each stage begins with a detailed plan outlining the activities, resources, and deliverables for that stage.
+   ii. **Configuration Activities:** Perform the manual configuration activities as defined in the project plan.
+   iii. **Progress Monitoring:** Track progress against the plan, monitoring time, cost, quality, and scope. Use earned value management techniques.
+   iv. **Risk and Issue Management:** Identify, assess, and manage risks and issues throughout the stage. Implement agreed-upon risk responses [Ref 10].
+   v. **Change Control:** Manage any change requests through the established change control process [Ref 1]. Evaluate the impact of changes.
+   vi. **Quality Assurance:** Ensure deliverables meet the defined quality standards. Conduct regular reviews and inspections.
+
+III. **Project Delivery & Acceptance Phase:**
+
+   i. **Project Deliverables:** Produce a list of deliverables and provide them to the acceptance process.
+   ii. **User Acceptance Testing (UAT):** Conduct UAT to ensure the deliverables meet the end-user requirements.
+   iii. **Project Closure:** Prepare the end project report and conduct a project post-implementation review.
+   iv. **Handover and Training:** Handover the completed infrastructure, including documentation and training for end-users.
+   v. **Benefits Realization Review:** Define and measure benefits after handover.
+
+-----
+
+#### 3. Roles
+
+*   **Project Sponsor:** Responsible for the overall project success and for securing resources [Ref 12].
+*   **Project Manager:** Responsible for day-to-day management of the project, including planning, execution, and control.
+*   **Senior User:** Represents the users and ensures the project delivers the required benefits.
+*   **Senior Supplier:** Represents the suppliers and provides expertise and resources.
+*   **Project Assurance:** Provides independent assurance on the project's progress and compliance with standards.
+*   **Team Managers:** Manage the teams responsible for delivering project products (e.g., configuration specialists).
+*   **Change Authority:** Responsible for approving changes.
+
+-----
+
+#### 4. RACI Matrix
+
+| Phase                             | Project Sponsor | Project Manager | Senior User | Senior Supplier | Project Assurance | Change Authority | Team Managers    |
+| :-------------------------------- | :-------------- | :-------------- | :---------- | :---------------- | :---------------- | :---------------- | :--------------- |
+| **I. Project Initiation & Planning** | A               | R               | C           | I                 | C                | A                 | I                |
+| Project Mandate Review            | A               | R               | C           | I                 | C                | I                 | I                |
+| Project Definition                  | A               | R               | C           | I                 | C                | I                 | I                |
+| Project Team Assembly               | A               | R               | I           | I                 | I                | I                 | C                |
+| Project Initiation Document         | A               | R               | C           | I                 | C                | I                 | I                |
+| Stakeholder Management Plan         | A               | R               | C           | I                 | C                | I                 | I                |
+| Configuration Management Strategy   | A               | R               | I           | R                 | I                | I                 | C                |
+| Communication Plan                  | A               | R               | C           | I                 | C                | I                 | I                |
+| **II. Project Execution (Stage 1-n)** | C               | R               | C           | I                 | A                | A                 | R/A              |
+| Stage Planning                      | A               | R               | C           | I                 | C                | I                 | R                |
+| Configuration Activities          | C               | R               | I           | R                 | I                | I                 | A                |
+| Progress Monitoring                  | C               | R               | C           | I                 | A                | I                 | C                |
+| Risk and Issue Management           | A               | R               | C           | I                 | C                | A                 | I                |
+| Change Control                     | A               | R               | C           | I                 | C                | A                 | I                |
+| Quality Assurance                  | C               | R               | C           | I                 | A                | I                 | I                |
+| **III. Project Delivery & Acceptance** | A               | R               | A           | I                 | C                | I                 | I                |
+| Project Deliverables                 | C               | R               | A           | I                 | I                | I                 | I                |
+| User Acceptance Testing            | C               | R               | R           | I                 | I                | I                 | I                |
+| Project Closure                      | A               | R               | C           | I                 | C                | I                 | I                |
+| Handover and Training              | A               | R               | C           | I                 | I                | I                 | A                |
+| Benefits Realization Review          | A               | R               | R           | I                 | C                | I                 | I                |
+
+*   **R** = Responsible
+*   **A** = Accountable
+*   **C** = Consulted
+*   **I** = Informed
+
+-----
+
+#### 5. Decision Gates
+
+*   **Project Initiation:** Approval of the PID and commitment to proceed [Ref 7].
+*   **Stage Boundaries:** Review of stage performance and approval to continue to the next stage. Decision on whether to proceed, stop or change project.
+*   **Project Delivery & Acceptance:** Approval of project deliverables, and acceptance of the final product.
+*   **Project Closure:** Approval of project closure report and confirmation of benefits realization.
+
+-----
+
+#### 6. Embeddings & Citations Section
+
+*   Ref 1: PMBOK, Page 30 (Similarity: 0.577)
+*   Ref 2: PMBOK, Page 24 (Similarity: 0.569)
+*   Ref 3: ISO21502, Page 9 (Similarity: 0.552)
+*   Ref 4: PMBOK, Page 10 (Similarity: 0.524)
+*   Ref 5: ISO21502, Page 12 (Similarity: 0.523)
+*   Ref 6: PRINCE2, Page 4 (Similarity: 0.521)
+*   Ref 7: PRINCE2, Page 6 (Similarity: 0.488)
+*   Ref 8: ISO21502, Page 11 (Similarity: 0.482)
+*   Ref 9: ISO21502, Page 10 (Similarity: 0.481)
+*   Ref 10: PMBOK, Page 20 (Similarity: 0.467)
+*   Ref 11: PMBOK, Page 9 (Similarity: 0.467)
+*   Ref 12: ISO21500, Page 9 (Similarity: 0.457)
+*   Ref 13: ISO21500, Page 9 (Similarity: 0.455)
+*   Ref 14: ISO21502, Page 7 (Similarity: 0.439)
+*   Ref 15: PMBOK, Page 27 (Similarity: 0.434)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 12: Page 9, Similarity: 0.457 (/pdf/ISO21500#page=9)
+- Ref 13: Page 9, Similarity: 0.455 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 14: Page 7, Similarity: 0.439 (/pdf/ISO21502#page=7)
+- Ref 3: Page 9, Similarity: 0.552 (/pdf/ISO21502#page=9)
+- Ref 9: Page 10, Similarity: 0.481 (/pdf/ISO21502#page=10)
+- Ref 8: Page 11, Similarity: 0.482 (/pdf/ISO21502#page=11)
+- Ref 5: Page 12, Similarity: 0.523 (/pdf/ISO21502#page=12)
+
+**PMBOK:**
+- Ref 11: Page 9, Similarity: 0.467 (/pdf/PMBOK#page=9)
+- Ref 4: Page 10, Similarity: 0.524 (/pdf/PMBOK#page=10)
+- Ref 10: Page 20, Similarity: 0.467 (/pdf/PMBOK#page=20)
+- Ref 2: Page 24, Similarity: 0.569 (/pdf/PMBOK#page=24)
+- Ref 15: Page 27, Similarity: 0.434 (/pdf/PMBOK#page=27)
+- Ref 1: Page 30, Similarity: 0.577 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 6: Page 4, Similarity: 0.521 (/pdf/PRINCE2#page=4)
+- Ref 7: Page 6, Similarity: 0.488 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 15232_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 30 (Similarity: 0.577) → /pdf/PMBOK#page=30
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.569) → /pdf/PMBOK#page=24
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.552) → /pdf/ISO21502#page=9
+• [Ref 4] PMBOK - Page 10 (Similarity: 0.524) → /pdf/PMBOK#page=10
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.523) → /pdf/ISO21502#page=12
+• [Ref 6] PRINCE2 - Page 4 (Similarity: 0.521) → /pdf/PRINCE2#page=4
+• [Ref 7] PRINCE2 - Page 6 (Similarity: 0.488) → /pdf/PRINCE2#page=6
+• [Ref 8] ISO21502 - Page 11 (Similarity: 0.482) → /pdf/ISO21502#page=11
+• [Ref 9] ISO21502 - Page 10 (Similarity: 0.481) → /pdf/ISO21502#page=10
+• [Ref 10] PMBOK - Page 20 (Similarity: 0.467) → /pdf/PMBOK#page=20
+• [Ref 11] PMBOK - Page 9 (Similarity: 0.467) → /pdf/PMBOK#page=9
+• [Ref 12] ISO21500 - Page 9 (Similarity: 0.457) → /pdf/ISO21500#page=9
+• [Ref 13] ISO21500 - Page 9 (Similarity: 0.455) → /pdf/ISO21500#page=9
+• [Ref 14] ISO21502 - Page 7 (Similarity: 0.439) → /pdf/ISO21502#page=7
+• [Ref 15] PMBOK - Page 27 (Similarity: 0.434) → /pdf/PMBOK#page=27

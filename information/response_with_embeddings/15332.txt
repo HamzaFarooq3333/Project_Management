@@ -1,0 +1,149 @@
+Scenario: [15332] Custom Project (Manual Configuration) | Infrastructure | Large (> 18 months) | Healthcare | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Large Healthcare Infrastructure Project using PRINCE2
+
+This process recommendation outlines a structured approach to managing a large-scale healthcare infrastructure project exceeding 18 months in duration, utilizing the PRINCE2 methodology. The project involves manual configuration, emphasizing the need for careful planning, control, and communication. This recommendation is grounded in established project management standards, including PMBOK and ISO21502, as well as PRINCE2 principles.
+
+#### Process Summary
+
+This project will follow the PRINCE2 methodology, incorporating elements from the PMBOK and ISO 21502 to ensure comprehensive project management [Ref 3]. Given the large size and healthcare context, stakeholder management and rigorous risk management will be emphasized [Ref 5, Ref 10]. The project lifecycle will be broken down into manageable stages with clear decision gates to maintain control and adaptability [Ref 9]. Manual configuration requires detailed planning and execution to avoid errors and delays [Ref 1]. Change management will be critical due to the complexities and duration of the project [Ref 1].
+
+-----
+
+#### Phases and Activities
+
+I. **Starting Up a Project (SU)**
+    i. Define the project mandate and scope [Ref 1, Ref 4, Ref 6]
+    ii. Appoint the Project Management Team, including roles and responsibilities [Ref 2, Ref 6]
+    iii. Develop the Project Brief, outlining objectives, benefits, and constraints [Ref 6, Ref 9]
+    iv. Define Project Approach: including methodology (PRINCE2), governance and communication plan.
+    v. Prepare the Initiation Stage Plan.
+
+II. **Initiating a Project (IP)**
+    i. Refine the Business Case with detailed cost-benefit analysis [Ref 1]
+    ii. Develop the Project Management Plan, encompassing all aspects of the project [Ref 1, Ref 2, Ref 5]
+        a. Scope Management Plan: Define and control the project scope [Ref 1]
+        b. Schedule Management Plan: Create a realistic project schedule with milestones [Ref 1]
+        c. Cost Management Plan: Develop a detailed budget and cost control measures [Ref 1]
+        d. Risk Management Plan: Identify, assess, and plan responses to project risks [Ref 10]
+        e. Quality Management Plan: Define quality standards and assurance processes [Ref 5, Ref 8]
+        f. Communication Management Plan: Define stakeholder communication needs and methods [Ref 1, Ref 5]
+        g. Change Management Plan: Establish a process for managing changes to the project [Ref 1]
+    iii. Define project controls and reporting mechanisms.
+    iv. Assemble the Project Initiation Documentation (PID).
+
+III. **Controlling a Stage (CS)**
+    i. Authorize Work Packages: Assign tasks to team members with clear instructions [Ref 4]
+    ii. Monitor progress against the plan, tracking milestones and deliverables [Ref 2]
+    iii. Manage issues and risks, implementing mitigation plans [Ref 7, Ref 10]
+    iv. Report progress to the Project Board regularly [Ref 6]
+    v. Escalate issues and risks as needed.
+    vi. Implement Change Control process when needed [Ref 1].
+
+IV. **Managing Product Delivery (MP)**
+    i. Execute Work Packages: Team members perform assigned tasks [Ref 4]
+    ii. Implement Quality Assurance Processes: ensure deliverable meets defined quality standards [Ref 8]
+    iii. Submit completed deliverables for approval.
+
+V. **Managing Stage Boundaries (SB)**
+    i. Review Stage Performance: assess the stage's progress against the plan [Ref 2]
+    ii. Update the Project Plan: reflect actual progress and adjust forecasts [Ref 1]
+    iii. Prepare the End Stage Report: summarize the stage's performance [Ref 2, Ref 6]
+    iv. Plan the next stage.
+    v. Request authorization to proceed to the next stage from the Project Board.
+
+VI. **Directing a Project (DP)**
+    i. Provide overall direction and guidance to the Project Manager [Ref 6]
+    ii. Authorize initiation, stage plans, and deviations [Ref 6]
+    iii. Monitor project progress and provide support as needed [Ref 6]
+    iv. Approve key deliverables and milestones.
+    v. Make strategic decisions to ensure project success [Ref 6].
+
+VII. **Closing a Project (CP)**
+    i. Verify that all deliverables have been completed and approved [Ref 7]
+    ii. Obtain formal acceptance from the stakeholders [Ref 5]
+    iii. Conduct a post-project review to identify lessons learned [Ref 11]
+    iv. Update project documentation and archives.
+    v. Disband the project team.
+
+-----
+
+#### Roles
+
+i. **Executive:** Responsible for overall project success and providing strategic direction.
+ii. **Senior User:** Represents the interests of the users of the project's deliverables.
+iii. **Senior Supplier:** Represents the interests of the suppliers of the project's resources.
+iv. **Project Manager:** Responsible for day-to-day management of the project.
+v. **Project Assurance:** Provides independent oversight to ensure the project is on track.
+vi. **Team Manager:** Manages and coordinates the work of the project team.
+vii. **Team Member:** Responsible for completing assigned tasks.
+
+-----
+
+#### RACI Matrix
+
+| Phase                      | Executive | Senior User | Senior Supplier | Project Manager | Project Assurance | Team Manager | Team Member |
+|----------------------------|-----------|-------------|-----------------|-----------------|-------------------|--------------|-------------|
+| Starting Up a Project (SU) | A         | C           | C              | R             | I                | I            | I           |
+| Initiating a Project (IP)  | A         | C           | C              | R             | I                | C            | I           |
+| Controlling a Stage (CS)   | A         | I           | I              | R             | C                | C            | I           |
+| Managing Product Delivery (MP)   | I        | I           | I              | C             | I                | R            | A        |
+| Managing Stage Boundaries (SB) | A         | C           | C              | R             | I                | I            | I           |
+| Directing a Project (DP)   | R         | C           | C              | I             | I                | I            | I           |
+| Closing a Project (CP)     | A         | R           | R              | C             | I                | I            | I           |
+
+*   **R:** Responsible - The person who does the work.
+*   **A:** Accountable - The person who is ultimately accountable for the correct and thorough completion of the deliverable or task.
+*   **C:** Consulted - The person or group whose opinions are sought.
+*   **I:** Informed - The person or group who is kept up-to-date on progress.
+
+-----
+
+#### Decision Gates
+
+i. **End of Starting Up a Project (SU):** Decision to proceed with the Initiation stage. Based on the Project Brief and assessment of project viability.
+ii. **End of Initiating a Project (IP):** Decision to authorize the project. Based on the Project Initiation Documentation (PID), including the detailed Project Management Plan and refined Business Case. [Ref 6]
+iii. **End of Each Stage (SB):** Decision to proceed to the next stage. Based on the End Stage Report and the updated Project Plan, assessing stage performance and future viability. [Ref 2]
+iv. **Project Closure (CP):** Decision to formally close the project. Based on the verification of all deliverables and formal acceptance from stakeholders.
+
+-----
+
+#### Note
+
+Ref 1: PMBOK, Page 30 (Similarity: 0.569)
+Ref 2: PMBOK, Page 24 (Similarity: 0.551)
+Ref 3: ISO21502, Page 9 (Similarity: 0.546)
+Ref 4: ISO21502, Page 12 (Similarity: 0.516)
+Ref 5: PMBOK, Page 10 (Similarity: 0.512)
+Ref 6: PRINCE2, Page 4 (Similarity: 0.510)
+Ref 7: ISO21502, Page 10 (Similarity: 0.476)
+Ref 8: ISO21502, Page 11 (Similarity: 0.474)
+Ref 9: PRINCE2, Page 6 (Similarity: 0.473)
+Ref 10: PMBOK, Page 20 (Similarity: 0.467)
+Ref 11: PMBOK, Page 9 (Similarity: 0.463)
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 15332_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 30 (Similarity: 0.569) → /pdf/PMBOK#page=30
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.551) → /pdf/PMBOK#page=24
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.546) → /pdf/ISO21502#page=9
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.516) → /pdf/ISO21502#page=12
+• [Ref 5] PMBOK - Page 10 (Similarity: 0.512) → /pdf/PMBOK#page=10
+• [Ref 6] PRINCE2 - Page 4 (Similarity: 0.510) → /pdf/PRINCE2#page=4
+• [Ref 7] ISO21502 - Page 10 (Similarity: 0.476) → /pdf/ISO21502#page=10
+• [Ref 8] ISO21502 - Page 11 (Similarity: 0.474) → /pdf/ISO21502#page=11
+• [Ref 9] PRINCE2 - Page 6 (Similarity: 0.473) → /pdf/PRINCE2#page=6
+• [Ref 10] PMBOK - Page 20 (Similarity: 0.467) → /pdf/PMBOK#page=20
+• [Ref 11] PMBOK - Page 9 (Similarity: 0.463) → /pdf/PMBOK#page=9
+• [Ref 12] ISO21500 - Page 9 (Similarity: 0.452) → /pdf/ISO21500#page=9
+• [Ref 13] ISO21500 - Page 9 (Similarity: 0.450) → /pdf/ISO21500#page=9
+• [Ref 14] ISO21502 - Page 7 (Similarity: 0.429) → /pdf/ISO21502#page=7
+• [Ref 15] ISO21502 - Page 11 (Similarity: 0.427) → /pdf/ISO21502#page=11

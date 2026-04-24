@@ -1,0 +1,167 @@
+Scenario: [11133] Custom Project (Manual Configuration) | Software Development | Small (< 6 months) | Healthcare | ISO Standards
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Healthcare Software Development Project
+
+#### 1. Process Summary
+
+This process recommendation outlines a project management framework for a small-scale, healthcare software development project, adhering to ISO standards within a time frame of under six months. The project, as defined in [Ref 1], can be of any type, complexity, or duration, and this guide provides the necessary structure, while recognizing the project context is crucial [Ref 7]. The approach emphasizes the importance of stakeholder engagement, as they can be affected by the project [Ref 4]. It incorporates key elements from the PMBOK Guide and PRINCE2, emphasizing planning [Ref 2], risk management [Ref 8, Ref 15], and progress monitoring [Ref 15]. The focus is on a structured, adaptable methodology, critical in the healthcare industry, with an eye on achieving the project's objectives effectively, particularly given the manual configuration aspect. The recommendation is tailored, as emphasized in [Ref 6], based on the specific project needs. The guidance should provide an integrated framework to deliver value [Ref 9].
+
+-----
+#### 2. Phases and Activities
+
+This project will follow a phased approach aligned with the project's lifecycle, as noted in [Ref 3].
+
+**I. Initiation Phase**
+
+i.  **Project Definition & Scope:** Define the project scope, objectives, and deliverables. This includes identifying key stakeholders [Ref 3] and their expectations. Use a Work Breakdown Structure (WBS) to decompose the scope [Ref 4].
+ii.  **Stakeholder Analysis:** Identify and analyze stakeholders, documenting their interests and influence.
+iii. **Project Charter Development:** Create a project charter, outlining the project's purpose, objectives, and high-level requirements. [Ref 11].
+iv.  **Risk Identification:** Begin initial risk identification, focusing on potential threats and opportunities [Ref 8].
+v.  **Team Formation:** Identify and assign roles to the project team.
+
+**II. Planning Phase**
+
+i.  **Detailed Requirements Gathering:** Gather and document detailed requirements, ensuring alignment with healthcare regulations.
+ii.  **Scope Management:** Develop a detailed scope statement, including acceptance criteria and a change management process [Ref 2].
+iii. **Schedule Development:** Create a project schedule, including tasks, dependencies, and timelines, keeping in mind the small-scale nature of the project. This would include time for manual configuration.
+iv.  **Budgeting:** Develop a detailed project budget, allocating resources and estimating costs.
+v.  **Risk Management Planning:** Develop a detailed risk management plan, including risk identification, assessment, response planning, and monitoring [Ref 15].
+vi.  **Communication Planning:** Develop a communication plan, defining communication frequency, methods, and stakeholders [Ref 2].
+vii. **Procurement Planning:** If applicable, plan for any necessary procurement activities.
+
+**III. Execution Phase**
+
+i.  **Software Development and Configuration:** Implement the software according to the requirements, which includes manual configuration as specified.
+ii.  **Testing:** Conduct thorough testing, including unit, integration, and user acceptance testing (UAT).
+iii.  **Issue Management:** Manage and resolve any issues that arise during development and testing [Ref 15].
+iv.  **Risk Management:** Monitor risks and implement mitigation strategies. [Ref 8].
+v.  **Progress Monitoring:** Track progress against the schedule and budget. Use appropriate mechanisms to monitor and compare actual achievements against planned ones [Ref 15].
+vi.  **Change Management:** Implement the change management process to control changes to the baseline [Ref 2, Ref 15].
+
+**IV. Monitoring and Controlling Phase**
+
+i.  **Performance Monitoring:** Continuously monitor project performance against the baseline.
+ii.  **Variance Analysis:** Analyze variances in schedule, budget, and scope.
+iii. **Change Control:** Implement the change management process.
+iv.  **Risk Monitoring and Control:** Actively monitor identified risks and implement mitigation plans as needed. [Ref 8, Ref 15].
+v.  **Issue Management:** Track and resolve all open issues.
+
+**V. Closure Phase**
+
+i.  **Project Deliverables:** Ensure all deliverables are complete and approved.
+ii.  **User Acceptance:** Gain formal user acceptance of the software.
+iii. **Final Documentation:** Complete all project documentation.
+iv.  **Project Closure:** Obtain formal project closure approval from the sponsor.
+v.  **Post-Implementation Review:** Conduct a post-implementation review to capture lessons learned.
+
+-----
+#### 3. Roles
+
+*   **Project Manager:** Responsible for overall project management, planning, execution, monitoring, and closing.
+*   **Sponsor:** Provides resources and executive decision-making capabilities to enable success [Ref 11].
+*   **Development Team:** Responsible for software development and configuration.
+*   **Quality Assurance (QA) Team:** Responsible for software testing and quality control.
+*   **Stakeholders:** (e.g., end-users, representatives from the healthcare organization) Provide input and feedback. [Ref 3, Ref 11]
+
+-----
+#### 4. RACI Matrix
+
+| Phase                    | Project Manager | Sponsor   | Development Team | QA Team    | Stakeholders |
+| ------------------------ | --------------- | --------- | ---------------- | ---------- | ------------- |
+| I. Initiation            | R               | A         | C                | I          | C             |
+| II. Planning             | R               | A         | C                | C          | C             |
+| III. Execution           | R               | I         | R                | R          | C             |
+| IV. Monitoring & Control | R               | I         | C                | C          | C             |
+| V. Closure               | R               | A         | C                | I          | C             |
+
+*   **R** = Responsible, **A** = Accountable, **C** = Consulted, **I** = Informed
+
+-----
+#### 5. Decision Gates
+
+i.  **Project Charter Approval:** (Initiation Phase) Formal approval of the project charter by the sponsor [Ref 11].
+ii.  **Requirements Sign-off:** (Planning Phase) Formal approval of the requirements documentation by the stakeholders.
+iii. **Scope Baseline Approval:** (Planning Phase) Formal approval of the scope statement and WBS.
+iv.  **Schedule and Budget Approval:** (Planning Phase) Formal approval of the schedule and budget.
+v.  **UAT Approval:** (Execution/Closure Phase) Formal user acceptance of the software. [Ref 13].
+vi.  **Project Closure Approval:** (Closure Phase) Formal project closure approval from the sponsor.
+
+-----
+
+#### 6. Note
+
+*   Ref 1: ISO21502, Page 9 (Similarity: 0.582)
+*   Ref 2: PMBOK, Page 30 (Similarity: 0.575)
+*   Ref 3: PMBOK, Page 24 (Similarity: 0.547)
+*   Ref 4: ISO21502, Page 12 (Similarity: 0.540)
+*   Ref 5: PRINCE2, Page 4 (Similarity: 0.521)
+*   Ref 6: PMBOK, Page 10 (Similarity: 0.512)
+*   Ref 7: PRINCE2, Page 6 (Similarity: 0.477)
+*   Ref 8: PMBOK, Page 20 (Similarity: 0.463)
+*   Ref 9: ISO21500, Page 9 (Similarity: 0.458)
+*   Ref 10: PMBOK, Page 9 (Similarity: 0.451)
+*   Ref 11: ISO21500, Page 9 (Similarity: 0.450)
+*   Ref 12: ISO21502, Page 11 (Similarity: 0.448)
+*   Ref 13: ISO21502, Page 10 (Similarity: 0.446)
+*   Ref 14: ISO21502, Page 1 (Similarity: 0.444)
+*   Ref 15: PRINCE2, Page 14 (Similarity: 0.443)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 9: Page 9, Similarity: 0.458 (/pdf/ISO21500#page=9)
+- Ref 11: Page 9, Similarity: 0.450 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 14: Page 1, Similarity: 0.444 (/pdf/ISO21502#page=1)
+- Ref 1: Page 9, Similarity: 0.582 (/pdf/ISO21502#page=9)
+- Ref 13: Page 10, Similarity: 0.446 (/pdf/ISO21502#page=10)
+- Ref 12: Page 11, Similarity: 0.448 (/pdf/ISO21502#page=11)
+- Ref 4: Page 12, Similarity: 0.540 (/pdf/ISO21502#page=12)
+
+**PMBOK:**
+- Ref 10: Page 9, Similarity: 0.451 (/pdf/PMBOK#page=9)
+- Ref 6: Page 10, Similarity: 0.512 (/pdf/PMBOK#page=10)
+- Ref 8: Page 20, Similarity: 0.463 (/pdf/PMBOK#page=20)
+- Ref 3: Page 24, Similarity: 0.547 (/pdf/PMBOK#page=24)
+- Ref 2: Page 30, Similarity: 0.575 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 5: Page 4, Similarity: 0.521 (/pdf/PRINCE2#page=4)
+- Ref 7: Page 6, Similarity: 0.477 (/pdf/PRINCE2#page=6)
+- Ref 15: Page 14, Similarity: 0.443 (/pdf/PRINCE2#page=14)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 11133_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.582) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.575) → /pdf/PMBOK#page=30
+• [Ref 3] PMBOK - Page 24 (Similarity: 0.547) → /pdf/PMBOK#page=24
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.540) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.521) → /pdf/PRINCE2#page=4
+• [Ref 6] PMBOK - Page 10 (Similarity: 0.512) → /pdf/PMBOK#page=10
+• [Ref 7] PRINCE2 - Page 6 (Similarity: 0.477) → /pdf/PRINCE2#page=6
+• [Ref 8] PMBOK - Page 20 (Similarity: 0.463) → /pdf/PMBOK#page=20
+• [Ref 9] ISO21500 - Page 9 (Similarity: 0.458) → /pdf/ISO21500#page=9
+• [Ref 10] PMBOK - Page 9 (Similarity: 0.451) → /pdf/PMBOK#page=9
+• [Ref 11] ISO21500 - Page 9 (Similarity: 0.450) → /pdf/ISO21500#page=9
+• [Ref 12] ISO21502 - Page 11 (Similarity: 0.448) → /pdf/ISO21502#page=11
+• [Ref 13] ISO21502 - Page 10 (Similarity: 0.446) → /pdf/ISO21502#page=10
+• [Ref 14] ISO21502 - Page 1 (Similarity: 0.444) → /pdf/ISO21502#page=1
+• [Ref 15] PRINCE2 - Page 14 (Similarity: 0.443) → /pdf/PRINCE2#page=14

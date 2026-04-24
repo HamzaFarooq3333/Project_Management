@@ -1,0 +1,163 @@
+Scenario: [23343] Custom Software Development | Research | Large (> 18 months) | Finance | ISO Standards
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: ISO21500, ISO21502, PRINCE2, PMBOK
+
+================================================================================
+
+### Project Management Process Recommendation: Finance Research Project (ISO Standards)
+
+**Process Summary:**
+
+This document outlines a recommended project management process for a large-scale ( > 18 months) finance research project, conducted in accordance with ISO standards. This project will utilize a phased approach, encompassing initiation, planning, execution, monitoring & controlling, and closure. The process will adhere to the guidelines within ISO 21502 [Ref 1, Ref 6], which provides general guidance on project management applicable to any organization. Furthermore, the process will incorporate elements from PMBOK for specific areas like planning [Ref 3] and stakeholder management [Ref 2]. Emphasis will be placed on diligent planning [Ref 3], clear roles and responsibilities, and continuous monitoring to ensure the project remains aligned with its objectives [Ref 7, Ref 15]. Adaptability [Ref 11] and robust change management processes are included, as the project's long duration may necessitate adjustments.
+
+-----
+
+### Phases and Activities
+
+The project will be managed through the following phases, with activities grounded in ISO and PMBOK principles:
+
+**I. Initiation:**
+
+i.  **Project Charter Development:** Define the project's objectives, scope, and high-level requirements. Identify key stakeholders [Ref 4, Ref 7] and the project sponsor [Ref 7].
+ii.  **Feasibility Study:** Assess the viability of the research project, considering potential risks and benefits.
+iii. **Stakeholder Identification and Analysis:** Identifying people, groups or organizations that could impact the project [Ref 4].
+
+**II. Planning:**
+
+i.  **Project Management Plan Development:** Create a comprehensive plan outlining how the project will be executed, monitored, and controlled.
+ii.  **Scope Definition:** Develop a detailed work breakdown structure (WBS) [Ref 4] to define the project scope.
+iii. **Resource Planning:** Determine the required resources (personnel, budget, equipment) and create a resource allocation plan.
+iv.  **Schedule Development:** Create a realistic project schedule, estimating activity durations and dependencies [Ref 3].
+v.  **Budget Development:** Develop a detailed budget based on resource requirements and schedule [Ref 3].
+vi.  **Risk Management Planning:** Identify potential risks [Ref 4, Ref 10], assess their likelihood and impact, and develop mitigation strategies [Ref 11].
+vii. **Communication Plan:** Establish how to engage stakeholders effectively [Ref 11]
+
+**III. Execution:**
+
+i.  **Research Activities:** Conduct the planned research activities, adhering to the project scope and schedule.
+ii.  **Data Collection and Analysis:** Collect and analyze relevant data, ensuring data quality and integrity.
+iii. **Deliverable Creation:** Produce the defined project deliverables, such as research reports and presentations [Ref 9].
+
+**IV. Monitoring & Controlling:**
+
+i.  **Performance Monitoring:** Track project progress against the schedule and budget [Ref 3].
+ii.  **Risk Monitoring:** Monitor identified risks and implement mitigation plans as needed [Ref 11].
+iii. **Change Management:** Manage any changes to the project scope, schedule, or budget through a formal change control process [Ref 3, Ref 11].
+iv.  **Issue Management:** Identify and resolve any issues that arise during the project [Ref 12].
+v.  **Stakeholder Communication:** Communicate regularly with stakeholders to provide project updates and address any concerns [Ref 2, Ref 11].
+
+**V. Closure:**
+
+i.  **Deliverable Acceptance:** Obtain formal acceptance of all project deliverables.
+ii.  **Project Documentation Archival:** Archive all project documentation for future reference.
+iii. **Lessons Learned Documentation:** Document lessons learned throughout the project to improve future projects [Ref 9].
+iv.  **Project Closure Report:** Prepare a final project closure report summarizing project performance and outcomes.
+
+-----
+
+### Roles
+
+i.  **Project Sponsor:** Provides overall direction and support for the project [Ref 7].
+ii.  **Project Manager:** Responsible for planning, executing, monitoring, and closing the project [Ref 1, Ref 15].
+iii. **Research Team:** Responsible for carrying out the research activities.
+iv.  **Stakeholders:** Individuals or groups who have an interest in or are affected by the project [Ref 4, Ref 7].
+
+-----
+
+### RACI Matrix
+
+| Phase                      | Project Sponsor | Project Manager | Research Team | Stakeholders |
+| -------------------------- | ------------- | ------------- | ------------- | ------------- |
+| **I. Initiation**          | A             | R             | C             | I [Ref 4, Ref 7]           |
+| **II. Planning**           | I             | R             | C [Ref 3]            | C             |
+| **III. Execution**         | I             | R             | R             | I             |
+| **IV. Monitoring & Controlling** | I             | R [Ref 3]            | C             | C             |
+| **V. Closure**             | A             | R             | C             | I             |
+
+**R:** Responsible - The person who does the work.
+**A:** Accountable - The person who owns the work and is ultimately answerable for its correct and thorough completion.
+**C:** Consulted - The person(s) to be consulted before a decision or action is taken.
+**I:** Informed - The person(s) to be kept up-to-date on decisions and actions during the project.
+
+-----
+
+### Decision Gates
+
+i.  **End of Initiation Phase:** Gate review to determine whether to proceed with the project based on the feasibility study and project charter. Approval from the Project Sponsor is required.
+ii.  **End of Planning Phase:** Gate review to ensure the Project Management Plan is comprehensive and realistic. Approval from the Project Sponsor and key stakeholders is required [Ref 4, Ref 7].
+iii. **Mid-Project Review:** Ensure that the research deliverables continue to align with the stakeholder expections.
+iv.  **End of Execution Phase:** Gate review to confirm all project deliverables have been completed and accepted. Approval from the Project Sponsor is required.
+
+-----
+
+### Embeddings & Citations Section
+
+**Note:**
+
+Ref 1: ISO21502, Page 9 (Similarity: 0.631)
+Ref 2: PMBOK, Page 24 (Similarity: 0.591)
+Ref 3: PMBOK, Page 30 (Similarity: 0.580)
+Ref 4: ISO21502, Page 12 (Similarity: 0.564)
+Ref 6: ISO21502, Page 1 (Similarity: 0.560)
+Ref 7: ISO21500, Page 9 (Similarity: 0.559)
+Ref 9: PRINCE2, Page 6 (Similarity: 0.523)
+Ref 10: ISO21500, Page 9 (Similarity: 0.520)
+Ref 11: PMBOK, Page 10 (Similarity: 0.513)
+Ref 12: ISO21502, Page 10 (Similarity: 0.511)
+Ref 15: ISO21502, Page 7 (Similarity: 0.495)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 13: Page 7, Similarity: 0.502 (/pdf/ISO21500#page=7)
+- Ref 7: Page 9, Similarity: 0.559 (/pdf/ISO21500#page=9)
+- Ref 10: Page 9, Similarity: 0.520 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 6: Page 1, Similarity: 0.560 (/pdf/ISO21502#page=1)
+- Ref 14: Page 7, Similarity: 0.501 (/pdf/ISO21502#page=7)
+- Ref 15: Page 7, Similarity: 0.495 (/pdf/ISO21502#page=7)
+- Ref 1: Page 9, Similarity: 0.631 (/pdf/ISO21502#page=9)
+- Ref 12: Page 10, Similarity: 0.511 (/pdf/ISO21502#page=10)
+- Ref 8: Page 11, Similarity: 0.527 (/pdf/ISO21502#page=11)
+- Ref 4: Page 12, Similarity: 0.564 (/pdf/ISO21502#page=12)
+
+**PMBOK:**
+- Ref 11: Page 10, Similarity: 0.513 (/pdf/PMBOK#page=10)
+- Ref 2: Page 24, Similarity: 0.591 (/pdf/PMBOK#page=24)
+- Ref 3: Page 30, Similarity: 0.580 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 5: Page 4, Similarity: 0.564 (/pdf/PRINCE2#page=4)
+- Ref 9: Page 6, Similarity: 0.523 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 23343_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.631) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.591) → /pdf/PMBOK#page=24
+• [Ref 3] PMBOK - Page 30 (Similarity: 0.580) → /pdf/PMBOK#page=30
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.564) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.564) → /pdf/PRINCE2#page=4
+• [Ref 6] ISO21502 - Page 1 (Similarity: 0.560) → /pdf/ISO21502#page=1
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.559) → /pdf/ISO21500#page=9
+• [Ref 8] ISO21502 - Page 11 (Similarity: 0.527) → /pdf/ISO21502#page=11
+• [Ref 9] PRINCE2 - Page 6 (Similarity: 0.523) → /pdf/PRINCE2#page=6
+• [Ref 10] ISO21500 - Page 9 (Similarity: 0.520) → /pdf/ISO21500#page=9
+• [Ref 11] PMBOK - Page 10 (Similarity: 0.513) → /pdf/PMBOK#page=10
+• [Ref 12] ISO21502 - Page 10 (Similarity: 0.511) → /pdf/ISO21502#page=10
+• [Ref 13] ISO21500 - Page 7 (Similarity: 0.502) → /pdf/ISO21500#page=7
+• [Ref 14] ISO21502 - Page 7 (Similarity: 0.501) → /pdf/ISO21502#page=7
+• [Ref 15] ISO21502 - Page 7 (Similarity: 0.495) → /pdf/ISO21502#page=7

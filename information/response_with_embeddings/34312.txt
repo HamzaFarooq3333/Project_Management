@@ -1,0 +1,185 @@
+Scenario: [34312] Innovative Product Development | Marketing | Large (> 18 months) | Information Technology | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21500, ISO21502
+
+================================================================================
+
+### Process Recommendation for a Large IT Marketing Project using PRINCE2
+
+**Process Summary:**
+
+This process recommendation outlines a PRINCE2-aligned approach for managing a large-scale (>18 months) marketing project within the information technology (IT) industry. It considers the complexities and challenges associated with large projects, emphasizing structured planning, control, and stakeholder engagement. The recommendation incorporates guidance from PMBOK [Ref 1, Ref 3], ISO21502 [Ref 2, Ref 5, Ref 9, Ref 10, Ref 11, Ref 13], ISO21500 [Ref 6, Ref 7], and PRINCE2 [Ref 4, Ref 8]. The focus is on adapting PRINCE2 principles and processes to the specific context of a large IT marketing initiative. The core of this process is to enable effective communication, resource allocation, and risk management to achieve project objectives within defined constraints of scope, schedule, and budget. The process also emphasizes continuous measurement and adaptability [Ref 12, Ref 14].
+
+-----
+
+### Phases and Activities
+
+I. **Starting Up a Project (SU)**
+
+i. Appoint the Project Management Team. Ensure roles and responsibilities are clearly defined [Ref 4].
+ii. Prepare the Project Brief, including defining the project scope and objectives. [Ref 1]
+iii. Define the Project Approach, considering the iterative nature of marketing.
+iv. Assemble the Project Initiation Documentation (PID) outline.
+v. Review and approve the PID outline to proceed to the initiation stage.
+
+II. **Initiating a Project (IP)**
+
+i. Refine the Business Case with detailed costs, benefits, and risks [Ref 14].
+ii. Develop the Project Management Plan (PMP), encompassing scope, schedule, budget, quality, communication, and risk management [Ref 1].
+iii. Create detailed plans for each stage, aligning with the overall project timeline.
+iv. Define project controls and reporting mechanisms.
+v. Establish change management processes [Ref 1].
+vi. Assemble and baselining of the PID.
+
+III. **Controlling a Stage (CS)**
+
+i. Authorize Work Packages to the Team Manager.
+ii. Review Work Package status and progress.
+iii. Monitor risks and issues, implementing mitigation strategies as needed [Ref 5, Ref 6].
+iv. Report stage progress to the Project Board [Ref 3].
+v. Take corrective actions to keep the stage on track.
+
+IV. **Managing Product Delivery (MP)**
+
+i. Accept authorized Work Packages from the Team Manager.
+ii. Execute the activities defined in the Work Packages.
+iii. Monitor progress and report to the Team Manager.
+iv. Identify and escalate any issues or risks.
+v. Obtain approval for completed deliverables.
+
+V. **Managing Stage Boundaries (SB)**
+
+i. Plan the next stage, updating the PMP and detailed plans.
+ii. Update the Business Case based on stage performance.
+iii. Produce an End Stage Report, summarizing performance and lessons learned.
+iv. Obtain approval from the Project Board to proceed to the next stage.
+
+VI. **Directing a Project (DP)**
+
+i. Authorize initiation, stage plans, and project closure.
+ii. Provide overall direction and guidance to the Project Manager.
+iii. Monitor project performance against the Business Case.
+iv. Manage risks and issues at a strategic level.
+v. Approve or reject change requests.
+vi. Ensure alignment with organizational strategy [Ref 10].
+
+VII. **Closing a Project (CP)**
+
+i. Prepare the End Project Report, summarizing overall project performance.
+ii. Obtain formal acceptance of the project deliverables.
+iii. Conduct a post-project review to identify lessons learned [Ref 8].
+iv. Disseminate project documentation and knowledge.
+v. Archive project files.
+
+-----
+
+### Roles
+
+*   **Project Board:** Provides overall direction and authorization.
+*   **Senior User:** Represents the interests of those who will use the project's output.
+*   **Senior Supplier:** Represents the interests of those providing resources and expertise.
+*   **Executive:** Owns the business case and is ultimately accountable for the project.
+*   **Project Manager:** Responsible for day-to-day management of the project.
+*   **Team Manager:** Manages a team of specialists responsible for delivering specific Work Packages.
+*   **Project Assurance:** Provides independent oversight and guidance.
+
+-----
+
+### RACI Matrix
+
+| Phase                      | Project Board | Senior User | Senior Supplier | Executive | Project Manager | Team Manager | Project Assurance |
+| :------------------------- | :-----------: | :---------: | :-------------: | :-------: | :-------------: | :-----------: | :---------------: |
+| Starting Up a Project (SU) [Ref 4]      |      A      |       C       |        C       |     R     |        R/I       |        I       |         I        |
+| Initiating a Project (IP)   |      A      |       C       |        C       |     R     |        R/I       |        I       |         I        |
+| Controlling a Stage (CS)   |      I      |       I       |        I       |     I     |        R       |        R       |        C        |
+| Managing Product Delivery (MP)   |      I      |       I       |        I       |     I     |        C       |        R       |         I        |
+| Managing Stage Boundaries (SB) [Ref 3] |      A      |       C       |        C       |     R     |        R/I       |        I       |         I        |
+| Directing a Project (DP)  |      R      |       C       |        C       |     A     |        I       |        I       |        C        |
+| Closing a Project (CP) [Ref 8]     |      A      |       C       |        C       |     R     |        R/I       |        I       |        I        |
+
+**R:** Responsible, **A:** Accountable, **C:** Consulted, **I:** Informed
+
+-----
+
+### Decision Gates
+
+I. **End of Starting Up a Project (SU):** Approval to proceed to Initiation, based on the viability of the project. [Ref 4]
+II. **End of Initiating a Project (IP):** Approval of the Project Initiation Documentation (PID), indicating the project is well-defined and ready to proceed.
+III. **End of each stage (SB):** Approval to proceed to the next stage, based on stage performance and updated plans.
+IV. **Project Closure (CP):** Formal acceptance of the project deliverables and sign-off.
+
+-----
+
+### Embeddings & Citations Section
+
+Note:
+Ref 1: PMBOK, Page 30 (Similarity: 0.620)
+Ref 2: ISO21502, Page 9 (Similarity: 0.591)
+Ref 3: PMBOK, Page 24 (Similarity: 0.585)
+Ref 4: PRINCE2, Page 4 (Similarity: 0.585)
+Ref 5: ISO21502, Page 12 (Similarity: 0.577)
+Ref 6: ISO21500, Page 9 (Similarity: 0.534)
+Ref 7: ISO21500, Page 9 (Similarity: 0.533)
+Ref 8: PRINCE2, Page 6 (Similarity: 0.528)
+Ref 9: ISO21502, Page 1 (Similarity: 0.515)
+Ref 10: ISO21502, Page 14 (Similarity: 0.507)
+Ref 11: ISO21502, Page 7 (Similarity: 0.505)
+Ref 12: PMBOK, Page 10 (Similarity: 0.502)
+Ref 13: ISO21502, Page 14 (Similarity: 0.498)
+Ref 14: PMBOK, Page 20 (Similarity: 0.495)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 6: Page 9, Similarity: 0.534 (/pdf/ISO21500#page=9)
+- Ref 7: Page 9, Similarity: 0.533 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 9: Page 1, Similarity: 0.515 (/pdf/ISO21502#page=1)
+- Ref 11: Page 7, Similarity: 0.505 (/pdf/ISO21502#page=7)
+- Ref 2: Page 9, Similarity: 0.591 (/pdf/ISO21502#page=9)
+- Ref 15: Page 9, Similarity: 0.487 (/pdf/ISO21502#page=9)
+- Ref 5: Page 12, Similarity: 0.577 (/pdf/ISO21502#page=12)
+- Ref 10: Page 14, Similarity: 0.507 (/pdf/ISO21502#page=14)
+- Ref 13: Page 14, Similarity: 0.498 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 12: Page 10, Similarity: 0.502 (/pdf/PMBOK#page=10)
+- Ref 14: Page 20, Similarity: 0.495 (/pdf/PMBOK#page=20)
+- Ref 3: Page 24, Similarity: 0.585 (/pdf/PMBOK#page=24)
+- Ref 1: Page 30, Similarity: 0.620 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 4: Page 4, Similarity: 0.585 (/pdf/PRINCE2#page=4)
+- Ref 8: Page 6, Similarity: 0.528 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 34312_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 30 (Similarity: 0.620) → /pdf/PMBOK#page=30
+• [Ref 2] ISO21502 - Page 9 (Similarity: 0.591) → /pdf/ISO21502#page=9
+• [Ref 3] PMBOK - Page 24 (Similarity: 0.585) → /pdf/PMBOK#page=24
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.585) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.577) → /pdf/ISO21502#page=12
+• [Ref 6] ISO21500 - Page 9 (Similarity: 0.534) → /pdf/ISO21500#page=9
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.533) → /pdf/ISO21500#page=9
+• [Ref 8] PRINCE2 - Page 6 (Similarity: 0.528) → /pdf/PRINCE2#page=6
+• [Ref 9] ISO21502 - Page 1 (Similarity: 0.515) → /pdf/ISO21502#page=1
+• [Ref 10] ISO21502 - Page 14 (Similarity: 0.507) → /pdf/ISO21502#page=14
+• [Ref 11] ISO21502 - Page 7 (Similarity: 0.505) → /pdf/ISO21502#page=7
+• [Ref 12] PMBOK - Page 10 (Similarity: 0.502) → /pdf/PMBOK#page=10
+• [Ref 13] ISO21502 - Page 14 (Similarity: 0.498) → /pdf/ISO21502#page=14
+• [Ref 14] PMBOK - Page 20 (Similarity: 0.495) → /pdf/PMBOK#page=20
+• [Ref 15] ISO21502 - Page 9 (Similarity: 0.487) → /pdf/ISO21502#page=9

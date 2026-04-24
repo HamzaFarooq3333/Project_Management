@@ -1,0 +1,176 @@
+Scenario: [25112] Custom Software Development | Infrastructure | Small (< 6 months) | Information Technology | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21500, ISO21502
+
+================================================================================
+
+### Project Management Process Recommendation: IT Infrastructure Project (Small, <6 months, PRINCE2)
+
+#### Process Summary
+
+This recommendation outlines a project management process for a small-scale (< 6 months) information technology infrastructure project, grounded in the PRINCE2 methodology. The process will incorporate best practices from PMBOK and ISO standards [Ref 1, 2, 3, 5, 9, 13, 14, 15] tailored for the project's size and industry. PRINCE2's focus on structured management, clear roles, and defined decision gates will be leveraged to ensure project success. The process emphasizes iterative planning, proactive risk management, and stakeholder engagement. This approach acknowledges the need to apply methods, tools, techniques, and competencies to meet project objectives [Ref 4]. Furthermore, it underlines the importance of tailoring the approach based on the project context [Ref 10].
+
+-----
+
+#### Phases and Activities
+
+This project will follow a phased approach aligned with PRINCE2, encompassing the project lifecycle, and incorporating best practices for small projects.
+
+I.  **Starting Up a Project:** This phase establishes the foundation of the project.
+    i.  **Appoint Project Manager:** The Project Manager is appointed, responsible for the day-to-day management.
+    ii. **Design and Appoint Project Management Team**: Define the roles within the project management structure, ensuring responsibilities are clear, considering team composition [Ref 1].
+    iii. **Create a Project Brief**: Outline the project's purpose, objectives, scope, and initial constraints. Consider potential challenges such as ambiguity regarding responsibilities [Ref 4].
+    iv.  **Plan the Initiation Stage:** Define how to conduct the initiation stage [Ref 1].
+
+II. **Initiating a Project:** This phase formally authorizes the project.
+    i.  **Prepare the Project Initiation Documentation (PID):** This key document encompasses the project's scope, objectives, approach, budget, schedule, risk management plan, communication plan, change management plan, and quality plan. The PID acts as the project's "bible." Consider the need for appropriate risk responses [Ref 12]. The PID should clearly define stakeholder roles and responsibilities. [Ref 9]
+    ii.  **Plan Quality Management**: Define how the deliverables will meet the quality standards.
+    iii.  **Refine Project Approach**: Refine the project approach for the current work and the next stage.
+    iv.  **Assemble the project team:** The team will be composed considering the resources and skills required to deliver the project [Ref 1].
+    v.  **Obtain Project Board Approval:** This involves presenting the PID to the Project Board for approval, formally authorizing the project to proceed. This is a critical decision gate [Ref 7].
+
+III. **Directing a Project:** This is an ongoing phase providing the Project Board's oversight, and executive decisions.
+    i.  **Authorize the project**: Project Board authorises the commencement of the project.
+    ii.  **Provide direction**: The Project Board offers direction as needed to ensure the project meets its objectives [Ref 4].
+    iii. **Manage stage boundaries**: The Project Board oversees the completion of each stage and ensures the next stage is approved.
+    iv.  **Project Closure**: The Project Board gives the final authorisation for project closure.
+
+IV. **Controlling a Stage:** The project team focuses on execution.
+    i.  **Authorize a work package**: Work packages are prepared and work is authorised.
+    ii.  **Review the status of the project:** Track the progress against plans using metrics such as earned value, and perform periodic reviews [Ref 1].
+    iii.  **Report Progress**: Regular project status reports are prepared and sent to the Project Board and stakeholders [Ref 2].
+    iv.  **Manage Issues and Risks:** Implement risk response plans and address any project issues that arise [Ref 12].
+    v.  **Take Corrective Action**: Implement corrective actions as needed based on the reviews and reporting.
+
+V. **Managing Product Delivery:** This phase focuses on the execution of work packages.
+    i.  **Accept Work Packages:** Project Manager receives and accepts work packages from the team.
+    ii.  **Execute Work Packages:** Team members complete the defined tasks within the work packages.
+    iii.  **Deliver Work Packages:** Team members delivers work packages to the Project Manager.
+    iv.  **Report Progress**: Team members report on the progress made in the work packages.
+
+VI. **Managing a Stage Boundary:** A phase for reviewing previous stage performance, and planning for the next.
+    i.  **Review Stage Status**: Review completed activities, deliverables, and any open issues.
+    ii.  **Create an end-stage report**: A report on the completed stage including lessons learned.
+    iii.  **Prepare the next stage plan**: Plan the scope, activities, and budget for the next stage.
+    iv.  **Present the next stage plan**: The Project Manager presents the plan to the Project Board for approval, before commencing the next stage.
+
+VII. **Closing a Project:**
+    i.  **Prepare for Project Closure**: Ensure all deliverables are complete and accepted.
+    ii.  **Hand Over Products**: Formally transfer the completed deliverables to the user/client.
+    iii.  **Evaluate the Project**: Conduct a project review to document lessons learned for future projects.
+    iv.  **Recommend Project Closure**: The Project Manager submits the final project report to the Project Board.
+    v.  **Project Closure Approval**: Formal Project Board approval of the project closure and associated documentation.
+
+-----
+
+#### Roles
+
+*   **Project Board:** Responsible for overall project governance, provides direction, approves plans, and authorizes the project. The sponsor is responsible for obtaining the resources [Ref 9].
+*   **Project Manager:** Responsible for day-to-day management of the project, including planning, execution, monitoring, controlling, and closing the project.
+*   **Senior User:** Represents the interests of the users of the project's deliverables.
+*   **Senior Supplier:** Represents the interests of those supplying the necessary resources.
+*   **Team Members:** Carry out the project tasks and deliver the project's outputs.
+*   **Project Support:** Provides administrative and support services to the project manager.
+*   **Stakeholders:** Individuals or organizations with interests in or impacted by the project [Ref 9].
+
+-----
+
+#### RACI Matrix
+
+| Phase                     | Project Board | Project Manager | Senior User | Senior Supplier | Team Members | Project Support |
+| ------------------------- | :-----------: | :-------------: | :---------: | :-------------: | :----------: | :-------------: |
+| I. Starting Up a Project |      I       |        R        |      C      |       C         |      I       |        A        |
+| II. Initiating a Project |      A       |        R        |      C      |       C         |      I       |        I        |
+| III. Directing a Project |      A       |        C        |      C      |       C         |      I       |        I        |
+| IV. Controlling a Stage   |      C       |        R        |      I      |       I         |      A       |        C        |
+| V. Managing Product Delivery |      C       |        A        |      I      |       I         |      R       |        I        |
+| VI. Managing a Stage Boundary |      A       |        R        |      C      |       C         |      I       |        I        |
+| VII. Closing a Project    |      A       |        R        |      C      |       C         |      I       |        I        |
+
+*   **R** = Responsible (The person who does the work)
+*   **A** = Accountable (The person ultimately answerable for the correct and thorough completion of the deliverable or task.)
+*   **C** = Consulted (Those whose opinions are sought)
+*   **I** = Informed (Those who are kept up-to-date on progress)
+
+-----
+
+#### Decision Gates
+
+Decision gates are key points for reviewing progress and making decisions.
+
+*   **Project Initiation Approval:** The Project Board approves the Project Initiation Documentation, authorizing the project to proceed [Ref 7].
+*   **Stage-End Approvals:** The Project Board approves completion of a stage and authorization to begin the next.
+*   **Project Closure Approval:** The Project Board formally approves the project closure and related documentation, signifying successful project completion.
+
+-----
+
+#### Embeddings & Citations Section
+
+*   Ref 1: PMBOK, Page 30 (Similarity: 0.598)
+*   Ref 2: PMBOK, Page 24 (Similarity: 0.585)
+*   Ref 3: ISO21502, Page 9 (Similarity: 0.567)
+*   Ref 4: PRINCE2, Page 4 (Similarity: 0.564)
+*   Ref 5: ISO21502, Page 12 (Similarity: 0.562)
+*   Ref 7: ISO21502, Page 10 (Similarity: 0.515)
+*   Ref 9: ISO21500, Page 9 (Similarity: 0.512)
+*   Ref 10: PMBOK, Page 10 (Similarity: 0.503)
+*   Ref 12: PMBOK, Page 20 (Similarity: 0.497)
+*   Ref 13: ISO21502, Page 14 (Similarity: 0.495)
+*   Ref 14: ISO21502, Page 7 (Similarity: 0.495)
+*   Ref 15: ISO21502, Page 11 (Similarity: 0.494)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 6: Page 9, Similarity: 0.516 (/pdf/ISO21500#page=9)
+- Ref 9: Page 9, Similarity: 0.512 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 14: Page 7, Similarity: 0.495 (/pdf/ISO21502#page=7)
+- Ref 3: Page 9, Similarity: 0.567 (/pdf/ISO21502#page=9)
+- Ref 7: Page 10, Similarity: 0.515 (/pdf/ISO21502#page=10)
+- Ref 15: Page 11, Similarity: 0.494 (/pdf/ISO21502#page=11)
+- Ref 5: Page 12, Similarity: 0.562 (/pdf/ISO21502#page=12)
+- Ref 13: Page 14, Similarity: 0.495 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 11: Page 9, Similarity: 0.500 (/pdf/PMBOK#page=9)
+- Ref 10: Page 10, Similarity: 0.503 (/pdf/PMBOK#page=10)
+- Ref 12: Page 20, Similarity: 0.497 (/pdf/PMBOK#page=20)
+- Ref 2: Page 24, Similarity: 0.585 (/pdf/PMBOK#page=24)
+- Ref 1: Page 30, Similarity: 0.598 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 4: Page 4, Similarity: 0.564 (/pdf/PRINCE2#page=4)
+- Ref 8: Page 6, Similarity: 0.514 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 25112_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 30 (Similarity: 0.598) → /pdf/PMBOK#page=30
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.585) → /pdf/PMBOK#page=24
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.567) → /pdf/ISO21502#page=9
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.564) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.562) → /pdf/ISO21502#page=12
+• [Ref 6] ISO21500 - Page 9 (Similarity: 0.516) → /pdf/ISO21500#page=9
+• [Ref 7] ISO21502 - Page 10 (Similarity: 0.515) → /pdf/ISO21502#page=10
+• [Ref 8] PRINCE2 - Page 6 (Similarity: 0.514) → /pdf/PRINCE2#page=6
+• [Ref 9] ISO21500 - Page 9 (Similarity: 0.512) → /pdf/ISO21500#page=9
+• [Ref 10] PMBOK - Page 10 (Similarity: 0.503) → /pdf/PMBOK#page=10
+• [Ref 11] PMBOK - Page 9 (Similarity: 0.500) → /pdf/PMBOK#page=9
+• [Ref 12] PMBOK - Page 20 (Similarity: 0.497) → /pdf/PMBOK#page=20
+• [Ref 13] ISO21502 - Page 14 (Similarity: 0.495) → /pdf/ISO21502#page=14
+• [Ref 14] ISO21502 - Page 7 (Similarity: 0.495) → /pdf/ISO21502#page=7
+• [Ref 15] ISO21502 - Page 11 (Similarity: 0.494) → /pdf/ISO21502#page=11

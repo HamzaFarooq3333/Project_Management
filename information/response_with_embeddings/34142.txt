@@ -1,0 +1,172 @@
+Scenario: [34142] Innovative Product Development | Marketing | Small (< 6 months) | Finance | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21500, ISO21502
+
+================================================================================
+
+### Process Recommendation for Small Finance Marketing Project (PRINCE2)
+
+**1. Process Summary**
+
+This process recommendation outlines a PRINCE2-based project management approach for a small-scale marketing project within the finance industry, expected to be completed within six months. PRINCE2 provides a structured framework for project management, emphasizing business justification, defined roles and responsibilities, a product-based planning approach, management by stages, management by exception, and a focus on learning from experience [Ref 5, Ref 10]. While tailored to the specific needs of the project, this approach aligns with the broader principles of project management outlined in ISO 21502 and PMBOK [Ref 1, Ref 2]. This framework considers the importance of stakeholder engagement, development approach and life cycle and project performance domains[Ref 2]. The process will focus on clear planning, communication, and control to deliver the marketing project successfully, adapting the methodology to the small project scale. This recommendation addresses aspects outlined in PRINCE2 such as the project context [Ref 10], and addresses ambiguity around roles and unrealistic expectations [Ref 5]. It also addresses the wider context including factors within and outside of the project [Ref 12, Ref 15].
+
+-----
+
+**2. Phases and Activities**
+
+The project will be structured into the following phases, reflecting the PRINCE2 lifecycle and incorporating elements of the planning process as suggested by PMBOK [Ref 3]:
+
+#### Pre-Project (Starting Up a Project)
+
+i.  **Project Mandate:** Define the high-level project objectives and scope.
+ii.  **Appoint Project Management Team:** Assign key roles, including the Project Manager, Senior User, Senior Supplier, and Project Assurance roles.
+iii.  **Outline Business Case:** Develop a preliminary business case justifying the project's investment.
+iv.  **Project Brief Creation:** Create a high-level project brief outlining the project's objectives, scope, and approach.
+
+#### Initiation Stage
+
+i.  **Detailed Business Case:** Develop a fully detailed and justified business case.
+ii.  **Project Initiation Document (PID) Creation:** Develop a comprehensive PID outlining all aspects of the project, including scope, objectives, benefits, risks, schedule, and budget.
+iii.  **Project Plan Development:** Create a detailed project plan, including work breakdown structure (WBS) [Ref 4], resource allocation, and schedule.
+iv.  **Risk Assessment:** Identify, assess, and plan responses to project risks.
+
+#### Delivery Stages (Managing a Stage Boundary & Controlling a Stage)
+
+This project will have one or two delivery stages, depending on the complexity.
+
+i.  **Work Package Assignment:** Assign work packages to team members based on the WBS [Ref 4].
+ii.  **Progress Monitoring:** Regularly monitor progress against the project plan, track issues, and manage risks.
+iii.  **Quality Control:** Implement quality control procedures to ensure deliverables meet defined standards.
+iv.  **Issue Management:** Identify, escalate, and resolve project issues.
+v.  **Change Management:** Manage changes to the project scope, schedule, or budget [Ref 3].
+
+#### Final Stage (Closing a Project)
+
+i.  **Project Deliverable Handover:** Hand over completed deliverables to the client or operational team.
+ii.  **Project Closure Report:** Prepare a project closure report documenting the project's outcomes, lessons learned, and recommendations.
+iii.  **Benefits Review Plan:** Create a plan for reviewing the project's benefits realization after project closure.
+iv.  **Formal Project Closure:** Obtain formal sign-off from the project board to close the project.
+
+-----
+
+**3. Roles**
+
+Key project roles include:
+
+*   **Project Board (Executive, Senior User, Senior Supplier):** Provides overall direction and governance.
+*   **Project Manager:** Responsible for planning, executing, and controlling the project.
+*   **Senior User:** Represents the interests of the project's users and ensures the deliverables meet their needs.
+*   **Senior Supplier:** Represents the interests of the suppliers and ensures resources are available to deliver the project.
+*   **Project Assurance:** Provides independent oversight to ensure the project is being managed correctly.
+
+-----
+
+**4. RACI Matrix**
+
+The following RACI matrix outlines the responsibilities for each phase and activity:
+
+| Phase/Activity                  | Project Board | Project Manager | Senior User | Senior Supplier | Project Assurance |
+| :------------------------------- | :-----------: | :-------------: | :----------: | :-------------: | :----------------: |
+| **Pre-Project**                  |               |                 |             |                 |                    |
+| Project Mandate                |      R/A      |        I        |      C      |        C        |         I          |
+| Appoint Project Team            |      A/R      |        R        |      I      |        I        |         I          |
+| Outline Business Case         |       C       |        R        |      A/R    |        C        |         I          |
+| Project Brief Creation          |       C       |        R        |      A      |        C        |         I          |
+| **Initiation Stage**               |               |                 |             |                 |                    |
+| Detailed Business Case          |       C       |        R        |     A/R     |        C        |         I          |
+| PID Creation                     |       C       |       A/R       |      C      |        C        |         I          |
+| Project Plan Development [Ref 3]|       C       |       A/R       |      C      |        C        |         I          |
+| Risk Assessment                   |       C       |       A/R       |      C      |        C        |         I          |
+| **Delivery Stage(s)**             |               |                 |             |                 |                    |
+| Work Package Assignment [Ref 4]    |       I       |       A/R       |      C      |        R        |         I          |
+| Progress Monitoring             |       C       |        R        |      C      |        C        |        A/I        |
+| Quality Control                  |       C       |       A/R       |      R      |        C        |        C/I        |
+| Issue Management               |       C       |       A/R       |      C      |        C        |         I          |
+| Change Management [Ref 3]            |      A/R      |        R        |      C      |        C        |         I          |
+| **Final Stage**                  |               |                 |             |                 |                    |
+| Deliverable Handover            |       C       |        R        |     A/R     |        C        |         I          |
+| Project Closure Report            |       C       |       A/R       |      C      |        C        |         I          |
+| Benefits Review Plan           |       C       |        R        |     A/R     |        C        |         I          |
+| Formal Project Closure          |      A/R      |        C        |      C      |        C        |         I          |
+
+*R = Responsible, A = Accountable, C = Consulted, I = Informed*
+
+-----
+
+**5. Decision Gates**
+
+Key decision gates in this process include:
+
+i.  **End of Pre-Project:** Decision on whether to proceed to the initiation stage, based on the preliminary business case.
+ii.  **End of Initiation Stage:** Decision on whether to proceed to the delivery stage(s), based on the detailed business case and PID.
+iii.  **End of Each Delivery Stage:** Decision on whether to proceed to the next stage or close the project, based on stage performance and updated business case.
+iv.  **Project Closure:** Final decision to formally close the project.
+
+-----
+
+**Note**
+
+Ref 1: ISO21502, Page 9 (Similarity: 0.610)
+Ref 2: PMBOK, Page 24 (Similarity: 0.602)
+Ref 3: PMBOK, Page 30 (Similarity: 0.602)
+Ref 4: ISO21502, Page 12 (Similarity: 0.565)
+Ref 5: PRINCE2, Page 4 (Similarity: 0.553)
+Ref 10: PRINCE2, Page 6 (Similarity: 0.514)
+Ref 12: ISO21502, Page 14 (Similarity: 0.491)
+Ref 15: ISO21502, Page 14 (Similarity: 0.479)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 13: Page 1, Similarity: 0.487 (/pdf/ISO21500#page=1)
+- Ref 11: Page 7, Similarity: 0.504 (/pdf/ISO21500#page=7)
+- Ref 6: Page 9, Similarity: 0.536 (/pdf/ISO21500#page=9)
+- Ref 7: Page 9, Similarity: 0.530 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 8: Page 1, Similarity: 0.528 (/pdf/ISO21502#page=1)
+- Ref 14: Page 7, Similarity: 0.481 (/pdf/ISO21502#page=7)
+- Ref 1: Page 9, Similarity: 0.610 (/pdf/ISO21502#page=9)
+- Ref 4: Page 12, Similarity: 0.565 (/pdf/ISO21502#page=12)
+- Ref 12: Page 14, Similarity: 0.491 (/pdf/ISO21502#page=14)
+- Ref 15: Page 14, Similarity: 0.479 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 9: Page 10, Similarity: 0.514 (/pdf/PMBOK#page=10)
+- Ref 2: Page 24, Similarity: 0.602 (/pdf/PMBOK#page=24)
+- Ref 3: Page 30, Similarity: 0.602 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 5: Page 4, Similarity: 0.553 (/pdf/PRINCE2#page=4)
+- Ref 10: Page 6, Similarity: 0.514 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 34142_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.610) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.602) → /pdf/PMBOK#page=24
+• [Ref 3] PMBOK - Page 30 (Similarity: 0.602) → /pdf/PMBOK#page=30
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.565) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.553) → /pdf/PRINCE2#page=4
+• [Ref 6] ISO21500 - Page 9 (Similarity: 0.536) → /pdf/ISO21500#page=9
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.530) → /pdf/ISO21500#page=9
+• [Ref 8] ISO21502 - Page 1 (Similarity: 0.528) → /pdf/ISO21502#page=1
+• [Ref 9] PMBOK - Page 10 (Similarity: 0.514) → /pdf/PMBOK#page=10
+• [Ref 10] PRINCE2 - Page 6 (Similarity: 0.514) → /pdf/PRINCE2#page=6
+• [Ref 11] ISO21500 - Page 7 (Similarity: 0.504) → /pdf/ISO21500#page=7
+• [Ref 12] ISO21502 - Page 14 (Similarity: 0.491) → /pdf/ISO21502#page=14
+• [Ref 13] ISO21500 - Page 1 (Similarity: 0.487) → /pdf/ISO21500#page=1
+• [Ref 14] ISO21502 - Page 7 (Similarity: 0.481) → /pdf/ISO21502#page=7
+• [Ref 15] ISO21502 - Page 14 (Similarity: 0.479) → /pdf/ISO21502#page=14

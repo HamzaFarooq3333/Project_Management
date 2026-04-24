@@ -1,0 +1,178 @@
+Scenario: [34341] Innovative Product Development | Marketing | Large (> 18 months) | Finance | PMBOK
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21500, ISO21502
+
+================================================================================
+
+### Marketing Project Process Recommendation (PMBOK Aligned)
+
+**Process Summary:**
+
+This process recommendation outlines a structured approach to managing a large-scale (> 18 months) marketing project in the finance industry, aligned with the PMBOK Guide and relevant ISO standards [Ref 1]. The process encompasses initiation, planning, execution, monitoring and controlling, and closure. Given the project's size and industry, a strong emphasis is placed on stakeholder engagement [Ref 3, Ref 6, Ref 11], risk management, and change control [Ref 2]. The process also highlights the importance of tailoring the PMBOK guide to the specific context of the project [Ref 11]. This includes factors such as organisational maturity, technology and culture [Ref 14].
+
+-----
+
+**Phases and Activities:**
+
+I. **Initiation:**
+ i. Define project objectives and scope, aligning with business strategy.
+ ii. Identify key stakeholders [Ref 3, Ref 6, Ref 11].
+ iii. Develop a project charter and secure approval from the project sponsor.
+ iv. Conduct a preliminary risk assessment.
+
+II. **Planning:**
+ i. Develop a detailed project management plan, encompassing scope, schedule, budget, resources, communication, risk, and quality [Ref 2].
+ ii. Create a Work Breakdown Structure (WBS) to decompose the project scope into manageable tasks [Ref 4].
+ iii. Define project performance baselines for scope, schedule, and cost.
+ iv. Develop a stakeholder engagement plan.
+ v. Develop a comprehensive risk management plan including identification, analysis and response planning [Ref 11].
+ vi. Create a procurement plan.
+
+III. **Execution:**
+ i. Execute the project plan, managing tasks and resources.
+ ii. Manage stakeholder engagement.
+ iii. Implement the communication plan.
+ iv. Manage project risks and issues.
+ v. Perform quality assurance activities.
+ vi. Track and report project progress.
+ vii. Ensure team collaboration and knowledge sharing [Ref 11].
+
+IV. **Monitoring and Controlling:**
+ i. Monitor project performance against baselines.
+ ii. Manage changes to the project scope, schedule, and cost.
+ iii. Control risks and issues.
+ iv. Track and manage project deliverables.
+ v. Report project status to stakeholders.
+ vi. Conduct regular project reviews and audits.
+ vii. Ensure compliance with organizational policies and procedures.
+
+V. **Closure:**
+ i. Obtain formal acceptance of project deliverables from stakeholders.
+ ii. Conduct a project closeout meeting.
+ iii. Document lessons learned.
+ iv. Archive project documentation.
+ v. Release project resources.
+ vi. Celebrate project success.
+
+-----
+
+**Roles:**
+
+*   **Project Sponsor:** Provides overall direction and support, secures resources [Ref 6].
+*   **Project Manager:** Responsible for planning, executing, monitoring, and closing the project.
+*   **Marketing Team Lead:** Leads the marketing team and ensures deliverables meet quality standards.
+*   **Finance Representative:** Provides financial guidance and ensures budget adherence.
+*   **Stakeholder Representative:** Represents the interests of key stakeholders and provides feedback.
+
+-----
+
+**RACI Matrix:**
+
+| Phase/Activity                 | Project Sponsor | Project Manager | Marketing Team Lead | Finance Representative | Stakeholder Representative | Citation |
+| :----------------------------- | :-------------: | :-------------: | :-----------------: | :---------------------: | :--------------------------: | :------: |
+| **Initiation**                |        A        |        R        |          C          |           I           |              I             | [Ref 6]  |
+| Define Project Objectives      |        A        |        R        |          C          |           I           |              I             |          |
+| Identify Key Stakeholders      |        I        |        R        |          C          |           I           |              A             | [Ref 3]  |
+| Secure Project Charter         |        A        |        R        |          I          |           C           |              I             |          |
+| Preliminary Risk Assessment    |        I        |        R        |          C          |           I           |              I             |          |
+| **Planning**                  |        I        |        R        |          C          |           C           |              I             | [Ref 2]  |
+| Develop Project Management Plan|        I        |        R        |          C          |           C           |              I             |          |
+| Create Work Breakdown Structure|        I        |        R        |          C          |           I           |              I             | [Ref 4]  |
+| Define Performance Baselines  |        I        |        R        |          C          |           C           |              I             |          |
+| Develop Stakeholder Plan      |        I        |        R        |          C          |           I           |              A             |          |
+| Develop Risk Management Plan |        I        |        R        |          C          |           C           |              I             | [Ref 11] |
+| **Execution**                 |        I        |        R        |          A          |           C           |              I             |          |
+| Execute Project Plan           |        I        |        R        |          A          |           C           |              I             |          |
+| Manage Stakeholder Engagement|        I        |        R        |          C          |           I           |              A             |          |
+| Manage Project Risks           |        I        |        R        |          C          |           C           |              I             |          |
+| Track & Report Progress        |        I        |        R        |          C          |           C           |              I             |          |
+| **Monitoring & Controlling**  |        I        |        R        |          C          |           C           |              I             |          |
+| Monitor Project Performance    |        I        |        R        |          C          |           C           |              I             |          |
+| Manage Scope Changes           |        I        |        R        |          C          |           C           |              A             |          |
+| Control Risks & Issues       |        I        |        R        |          C          |           C           |              I             |          |
+| Report Project Status          |        I        |        R        |          C          |           C           |              A             |          |
+| **Closure**                   |        A        |        R        |          C          |           C           |              I             |          |
+| Obtain Formal Acceptance      |        A        |        R        |          C          |           C           |              I             |          |
+| Conduct Closeout Meeting       |        A        |        R        |          C          |           C           |              I             |          |
+| Document Lessons Learned       |        I        |        R        |          C          |           C           |              I             |          |
+
+*   **R** = Responsible
+*   **A** = Accountable
+*   **C** = Consulted
+*   **I** = Informed
+
+-----
+
+**Decision Gates:**
+
+i. **Project Initiation Approval:** Following the creation of the project charter, a formal approval is required from the project sponsor to proceed to the planning phase.
+ii. **Project Management Plan Approval:** The completed project management plan requires formal approval from all key stakeholders before execution begins.
+iii. **Phase-End Review:** At the end of the execution phase, a review is conducted to assess progress against the project plan and determine whether to proceed to project closure.
+
+-----
+
+**Note:**
+
+Ref 1: ISO21502, Page 9 (Similarity: 0.617)
+Ref 2: PMBOK, Page 30 (Similarity: 0.603)
+Ref 3: PMBOK, Page 24 (Similarity: 0.593)
+Ref 4: ISO21502, Page 12 (Similarity: 0.568)
+Ref 6: ISO21500, Page 9 (Similarity: 0.548)
+Ref 11: PMBOK, Page 10 (Similarity: 0.506)
+Ref 14: ISO21502, Page 14 (Similarity: 0.482)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 13: Page 1, Similarity: 0.485 (/pdf/ISO21500#page=1)
+- Ref 10: Page 7, Similarity: 0.508 (/pdf/ISO21500#page=7)
+- Ref 6: Page 9, Similarity: 0.548 (/pdf/ISO21500#page=9)
+- Ref 8: Page 9, Similarity: 0.538 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 7: Page 1, Similarity: 0.540 (/pdf/ISO21502#page=1)
+- Ref 12: Page 7, Similarity: 0.493 (/pdf/ISO21502#page=7)
+- Ref 1: Page 9, Similarity: 0.617 (/pdf/ISO21502#page=9)
+- Ref 15: Page 9, Similarity: 0.480 (/pdf/ISO21502#page=9)
+- Ref 4: Page 12, Similarity: 0.568 (/pdf/ISO21502#page=12)
+- Ref 14: Page 14, Similarity: 0.482 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 11: Page 10, Similarity: 0.506 (/pdf/PMBOK#page=10)
+- Ref 3: Page 24, Similarity: 0.593 (/pdf/PMBOK#page=24)
+- Ref 2: Page 30, Similarity: 0.603 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 5: Page 4, Similarity: 0.555 (/pdf/PRINCE2#page=4)
+- Ref 9: Page 6, Similarity: 0.519 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 34341_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.617) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.603) → /pdf/PMBOK#page=30
+• [Ref 3] PMBOK - Page 24 (Similarity: 0.593) → /pdf/PMBOK#page=24
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.568) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.555) → /pdf/PRINCE2#page=4
+• [Ref 6] ISO21500 - Page 9 (Similarity: 0.548) → /pdf/ISO21500#page=9
+• [Ref 7] ISO21502 - Page 1 (Similarity: 0.540) → /pdf/ISO21502#page=1
+• [Ref 8] ISO21500 - Page 9 (Similarity: 0.538) → /pdf/ISO21500#page=9
+• [Ref 9] PRINCE2 - Page 6 (Similarity: 0.519) → /pdf/PRINCE2#page=6
+• [Ref 10] ISO21500 - Page 7 (Similarity: 0.508) → /pdf/ISO21500#page=7
+• [Ref 11] PMBOK - Page 10 (Similarity: 0.506) → /pdf/PMBOK#page=10
+• [Ref 12] ISO21502 - Page 7 (Similarity: 0.493) → /pdf/ISO21502#page=7
+• [Ref 13] ISO21500 - Page 1 (Similarity: 0.485) → /pdf/ISO21500#page=1
+• [Ref 14] ISO21502 - Page 14 (Similarity: 0.482) → /pdf/ISO21502#page=14
+• [Ref 15] ISO21502 - Page 9 (Similarity: 0.480) → /pdf/ISO21502#page=9

@@ -1,0 +1,178 @@
+Scenario: [24133] Custom Software Development | Marketing | Small (< 6 months) | Healthcare | ISO Standards
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21500, ISO21502
+
+================================================================================
+
+### Process Recommendation: Healthcare Marketing Project (Small Scale)
+
+This recommendation outlines a project management process tailored for a small-scale healthcare marketing project, adhering to ISO standards and drawing upon relevant project management best practices as evidenced in the provided documentation. The process emphasizes iterative planning, stakeholder engagement, risk management, and quality control, key aspects of successful project delivery [Ref 6, Ref 11].
+
+-----
+
+#### I. Process Summary
+
+This project will follow a phased approach, balancing structured planning with adaptability for a small project (under six months). The methodology will be informed by ISO standards, specifically ISO 21502, which provides guidance on project management [Ref 2, Ref 12]. The project will encompass: Defining project scope, developing a schedule, managing budgets, composing the team, creating a communication plan, handling procurement, and change management and also implementing measurements [Ref 1]. The project environment will also consider the factors and contexts of the project, including organizational maturity, strategy and culture [Ref 14]. The project will strive to provide value to stakeholders [Ref 6]. This approach is applicable to any type of project [Ref 2]. This approach will also keep in mind the potential for opportunities and threats [Ref 7].
+
+-----
+
+#### II. Phases and Activities
+
+The project will proceed through the following phases:
+
+I.  **Initiation and Planning:**
+    i.  Define Project Scope: Clearly articulate the marketing objectives, deliverables, and success criteria. The scope should be decomposed into a Work Breakdown Structure (WBS) [Ref 4].
+    ii.  Identify Stakeholders: Identify and document all project stakeholders and their interests, along with requirements [Ref 3].
+    iii. Develop Project Plan: Create a comprehensive project plan including a schedule (using a Gantt chart or similar), budget, resource allocation, communication plan, and risk management plan. [Ref 1].
+    iv.  Establish Communication Plan: Determine how project information will be shared with stakeholders, including frequency, methods, and responsibilities. [Ref 1].
+    v. Identify Risks: Identify potential project risks (threats and opportunities) and develop mitigation and response plans [Ref 7].
+
+II. **Execution:**
+    i.  Execute Marketing Activities: Implement the activities outlined in the project plan, such as content creation, social media campaigns, advertising campaigns, and website updates.
+    ii.  Manage Resources: Efficiently allocate and manage project resources, including personnel, budget, and materials.
+    iii.  Monitor and Control: Track project progress, compare actual performance against the plan, and implement corrective actions as needed.
+    iv.  Manage Changes: Establish a change management process to handle scope changes, ensuring proper approvals and impact assessments. [Ref 1].
+    v. Implement the Communication Plan to keep stakeholders informed of progress and issues [Ref 1].
+
+III. **Monitoring and Controlling:**
+    i.  Regularly track the progress of the project, using Key Performance Indicators (KPIs) to monitor performance against the project plan. [Ref 1].
+    ii.  Compare actual performance to the planned schedule, budget, and scope. Implement corrective actions as needed.
+    iii.  Manage risks by monitoring for triggers, implementing risk responses, and updating the risk register.
+    iv.  Regularly communicate project status to stakeholders [Ref 1].
+
+IV.  **Closure:**
+    i.  Verify Deliverables: Ensure that all project deliverables meet the defined acceptance criteria.
+    ii.  Obtain Stakeholder Acceptance: Secure formal sign-off from stakeholders for all deliverables.
+    iii.  Conduct Post-Project Review: Evaluate project performance, document lessons learned, and identify areas for improvement.
+    iv.  Close out Contracts: Finalize all procurement activities and close out contracts. [Ref 1].
+    v.  Archive Project Documentation: Ensure all project documentation is properly archived for future reference.
+
+-----
+
+#### III. Roles
+
+The following roles are crucial for project success:
+
+*   **Project Manager:** Responsible for overall project planning, execution, monitoring, and closing, including the communication plan, and risk management plan [Ref 1].
+*   **Marketing Lead:** Responsible for the execution of all marketing activities.
+*   **Stakeholders:** Key individuals and groups affected by the project. Sponsor provides resource and executive decisions to ensure success [Ref 10].
+*   **Team Members:** Individuals responsible for completing project tasks.
+*   **Sponsor:** The individual or group responsible for providing resources and executive decisions [Ref 10].
+
+-----
+
+#### IV. RACI Matrix
+
+| Phase                    | Project Manager | Marketing Lead | Team Members | Stakeholders | Sponsor |
+| ------------------------ | --------------- | -------------- | ------------ | ------------ | ------- |
+| **I. Initiation & Planning** | R               | A              | C            | C            | A       |
+| Define Project Scope     | R               | A              | C            | C            | I       |
+| Identify Stakeholders    | R               | A              | I            | C            | I       |
+| Develop Project Plan     | R               | A              | C            | C            | I       |
+| Establish Comm Plan      | R               | A              | C            | C            | I       |
+| Identify Risks           | R               | A              | C            | C            | I       |
+| **II. Execution**        | R               | A              | R            | C            | I       |
+| Execute Marketing Act.   | C               | A              | R            | C            | I       |
+| Manage Resources        | R               | A              | R            | I            | I       |
+| Monitor and Control      | R               | C              | I            | C            | I       |
+| Manage Changes         | R               | A              | C            | C            | I       |
+| Implement Communication      | R               | A              | C            | C            | I       |
+| **III. Monitoring & Controlling** | R               | C             | I             | C            | I       |
+| Track Progress           | R               | C              | I            | C            | I       |
+| Compare Performance      | R               | C              | I            | C            | I       |
+| Manage Risks             | R               | A              | C            | C            | I       |
+| Communicate Status       | R               | A              | C            | C            | I       |
+| **IV. Closure**          | R               | A              | I            | C            | A       |
+| Verify Deliverables      | R               | A              | I            | C            | A       |
+| Obtain Acceptance        | R               | A              | I            | C            | A       |
+| Conduct Review           | R               | A              | C            | C            | I       |
+| Close Contracts          | R               | A              | C            | I            | I       |
+| Archive Documentation    | R               | A              | C            | I            | I       |
+
+*   **R** = Responsible, **A** = Accountable, **C** = Consulted, **I** = Informed
+
+-----
+
+#### V. Decision Gates
+
+Decision gates are critical points in the project lifecycle where key decisions are made [Ref 9]. They are used to approve or reject deliverables and to ensure that the project is on track.
+
+*   **Project Initiation Approval:** Before project execution, senior management approval to proceed is required, based on the approved project scope and plan.
+*   **Deliverable Acceptance:** Formal acceptance of deliverables is required at the end of each phase.
+*   **Change Requests Approval:** All change requests must be formally approved by the Project Manager (and potentially the Sponsor) before implementation.
+*   **Project Closure Approval:** Final approval of project deliverables, post-project review findings, and contract close-out.
+
+-----
+
+#### VI. Embeddings & Citations Section
+
+*   Ref 1: PMBOK, Page 30 (Similarity: 0.586)
+*   Ref 2: ISO21502, Page 9 (Similarity: 0.571)
+*   Ref 3: PMBOK, Page 24 (Similarity: 0.564)
+*   Ref 4: ISO21502, Page 12 (Similarity: 0.530)
+*   Ref 5: PRINCE2, Page 4 (Similarity: 0.520)
+*   Ref 6: PMBOK, Page 10 (Similarity: 0.520)
+*   Ref 7: PMBOK, Page 20 (Similarity: 0.475)
+*   Ref 8: ISO21500, Page 9 (Similarity: 0.472)
+*   Ref 9: PRINCE2, Page 6 (Similarity: 0.469)
+*   Ref 10: ISO21500, Page 9 (Similarity: 0.467)
+*   Ref 11: PMBOK, Page 9 (Similarity: 0.450)
+*   Ref 12: ISO21502, Page 1 (Similarity: 0.441)
+*   Ref 13: ISO21502, Page 10 (Similarity: 0.439)
+*   Ref 14: ISO21502, Page 14 (Similarity: 0.437)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 8: Page 9, Similarity: 0.472 (/pdf/ISO21500#page=9)
+- Ref 10: Page 9, Similarity: 0.467 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 12: Page 1, Similarity: 0.441 (/pdf/ISO21502#page=1)
+- Ref 2: Page 9, Similarity: 0.571 (/pdf/ISO21502#page=9)
+- Ref 13: Page 10, Similarity: 0.439 (/pdf/ISO21502#page=10)
+- Ref 4: Page 12, Similarity: 0.530 (/pdf/ISO21502#page=12)
+- Ref 15: Page 12, Similarity: 0.436 (/pdf/ISO21502#page=12)
+- Ref 14: Page 14, Similarity: 0.437 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 11: Page 9, Similarity: 0.450 (/pdf/PMBOK#page=9)
+- Ref 6: Page 10, Similarity: 0.520 (/pdf/PMBOK#page=10)
+- Ref 7: Page 20, Similarity: 0.475 (/pdf/PMBOK#page=20)
+- Ref 3: Page 24, Similarity: 0.564 (/pdf/PMBOK#page=24)
+- Ref 1: Page 30, Similarity: 0.586 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 5: Page 4, Similarity: 0.520 (/pdf/PRINCE2#page=4)
+- Ref 9: Page 6, Similarity: 0.469 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 24133_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 30 (Similarity: 0.586) → /pdf/PMBOK#page=30
+• [Ref 2] ISO21502 - Page 9 (Similarity: 0.571) → /pdf/ISO21502#page=9
+• [Ref 3] PMBOK - Page 24 (Similarity: 0.564) → /pdf/PMBOK#page=24
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.530) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.520) → /pdf/PRINCE2#page=4
+• [Ref 6] PMBOK - Page 10 (Similarity: 0.520) → /pdf/PMBOK#page=10
+• [Ref 7] PMBOK - Page 20 (Similarity: 0.475) → /pdf/PMBOK#page=20
+• [Ref 8] ISO21500 - Page 9 (Similarity: 0.472) → /pdf/ISO21500#page=9
+• [Ref 9] PRINCE2 - Page 6 (Similarity: 0.469) → /pdf/PRINCE2#page=6
+• [Ref 10] ISO21500 - Page 9 (Similarity: 0.467) → /pdf/ISO21500#page=9
+• [Ref 11] PMBOK - Page 9 (Similarity: 0.450) → /pdf/PMBOK#page=9
+• [Ref 12] ISO21502 - Page 1 (Similarity: 0.441) → /pdf/ISO21502#page=1
+• [Ref 13] ISO21502 - Page 10 (Similarity: 0.439) → /pdf/ISO21502#page=10
+• [Ref 14] ISO21502 - Page 14 (Similarity: 0.437) → /pdf/ISO21502#page=14
+• [Ref 15] ISO21502 - Page 12 (Similarity: 0.436) → /pdf/ISO21502#page=12

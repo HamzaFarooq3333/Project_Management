@@ -1,0 +1,145 @@
+Scenario: [15151] Custom Project (Manual Configuration) | Infrastructure | Small (< 6 months) | Education | PMBOK
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Small-Scale Education Infrastructure Project
+
+#### Process Summary
+
+This recommendation outlines a PMBOK-aligned process for managing a small-scale (< 6 months) infrastructure project within the education sector. The project will involve manual configuration, requiring a structured approach while remaining adaptable to the project's size and complexity. This process emphasizes core project management principles, stakeholder engagement, and a focus on delivering value [Ref 1, Ref 6, Ref 15]. The foundation of this project is to be a temporary endeavor designed to meet specific objectives [Ref 7, Ref 12]. The project's success hinges on clear communication, proactive risk management, and effective change control, all supported by a tailored approach fit for the project context [Ref 5, Ref 8].
+
+-----
+
+#### Phases and Activities
+
+This project will follow a phased approach, mirroring the project life cycle, from initiation to closure [Ref 13].
+
+**I. Initiation**
+
+i.  **Define Project Scope:** Clearly define the project objectives, deliverables, and boundaries. This involves understanding the required infrastructure, its intended use, and any constraints such as budget, timeline, and available resources. Reference PMBOK to help create the project scope [Ref 3].
+ii.  **Identify Stakeholders:** Identify all stakeholders who have an interest in or can impact the project [Ref 4, Ref 7, Ref 18].
+iii.  **Develop Project Charter:** Create a project charter, formally authorizing the project and defining the project manager's authority.
+iv.  **High-Level Risk Assessment:** Conduct an initial assessment of potential risks and their potential impact on the project.
+v.  **Obtain Sponsor Approval:** Secure approval from the project sponsor to proceed with the project.
+
+**II. Planning**
+
+i.  **Develop a Detailed Work Breakdown Structure (WBS):** Break down the project scope into manageable work packages, creating a hierarchical decomposition of the project deliverables [Ref 4].
+ii.  **Define Activities and Sequencing:** Identify specific tasks needed to complete each work package and determine the dependencies between them.
+iii.  **Estimate Resources:** Determine the resources (personnel, materials, equipment) required for each activity.
+iv.  **Develop the Schedule:** Create a realistic project schedule, including task durations, dependencies, and critical path analysis.
+v.  **Develop a Budget:** Estimate project costs and create a budget, considering all resources, labor, and other expenses [Ref 3].
+vi.  **Develop a Communication Plan:** Define how project information will be communicated to stakeholders, including the frequency, method, and responsible parties [Ref 3].
+vii. **Develop a Risk Management Plan:** Detail procedures for identifying, analyzing, and responding to project risks [Ref 6, Ref 9].
+viii. **Develop a Procurement Plan:** Outline the process for acquiring necessary goods or services from external vendors (if applicable).
+ix. **Develop Change Management Plan:** Define procedures for managing change requests and approvals [Ref 3].
+
+**III. Execution**
+
+i.  **Execute Project Plan:** Carry out the activities outlined in the project plan, following the schedule and budget.
+ii.  **Manage Resources:** Efficiently allocate and utilize resources.
+iii.  **Manage Stakeholder Expectations:** Keep stakeholders informed and engaged, addressing their concerns proactively [Ref 6].
+iv.  **Implement the Communication Plan:** Distribute project information according to the communication plan.
+v.  **Manage Risks:** Monitor risks, implement risk response plans, and escalate issues as needed.
+vi.  **Manage Changes:** Evaluate change requests, obtain approvals, and update the project plan accordingly [Ref 3].
+vii. **Conduct Manual Configuration:** Perform the necessary infrastructure configuration tasks.
+viii. **Quality Assurance:** ensure quality is built into processes and deliverables [Ref 6].
+
+**IV. Monitoring and Controlling**
+
+i.  **Track Progress:** Monitor project performance against the baseline schedule and budget.
+ii.  **Control Changes:** Review and manage change requests, ensuring appropriate approvals are obtained.
+iii.  **Performance Reporting:** Generate performance reports, highlighting progress, issues, and risks.
+iv.  **Issue Management:** Identify, document, and resolve project issues promptly.
+v.  **Risk Monitoring:** Track the effectiveness of risk response plans.
+vi.  **Quality Control:** Perform inspections and reviews to verify the quality of deliverables.
+vii.  **Tailor Based on Context:** Evaluate and make necessary adjustments to processes and plans based on ongoing progress [Ref 6].
+
+**V. Closing**
+
+i.  **Project Deliverable Acceptance:** Obtain formal acceptance of the project deliverables from the stakeholders.
+ii.  **Conduct Lessons Learned:** Document lessons learned throughout the project for future use.
+iii.  **Project Documentation:** Finalize and archive all project documentation.
+iv.  **Project Closure:** Formally close out the project, obtaining sign-off from the sponsor.
+
+-----
+
+#### Roles
+
+*   **Project Sponsor:** Provides overall project direction, secures resources, and makes key decisions [Ref 7].
+*   **Project Manager:** Responsible for managing the project, planning, executing, and closing it successfully.
+*   **Team Members:** Carry out the technical tasks associated with the project.
+*   **Stakeholders:** Individuals or groups with an interest in the project's outcome [Ref 1, Ref 4, Ref 7].
+*   **Configuration Specialist:** The individual(s) responsible for the actual infrastructure configuration tasks, or manual configurations.
+
+-----
+
+#### RACI Matrix
+
+| Phase               | Project Sponsor | Project Manager | Team Members | Configuration Specialist | Stakeholders |
+| ------------------- | --------------- | --------------- | ------------ | ------------------------ | ------------ |
+| **I. Initiation**   | A               | R               | I           | I                       | C           |
+| **II. Planning**    | A               | R               | C           | C                       | I            |
+| **III. Execution**  | C               | A               | R           | R                       | C            |
+| **IV. Monitoring & Controlling** | C               | R               | I           | I                       | C           |
+| **V. Closing**      | A               | R               | I           | C                       | C            |
+
+**Key:**
+
+*   **R** = Responsible: The person or role that does the work.
+*   **A** = Accountable: The person or role ultimately accountable for the correct completion of the deliverable.
+*   **C** = Consulted: The person or role consulted prior to a decision or action.
+*   **I** = Informed: The person or role kept informed of progress and results.
+
+-----
+
+#### Decision Gates
+
+*   **Project Charter Approval:** (Initiation Phase) Formal authorization to proceed with the project.
+*   **Project Plan Approval:** (Planning Phase) Approval of the complete project plan, including scope, schedule, budget, and risk management plans.
+*   **Change Request Approval:** (Execution, Monitoring & Controlling Phases) Approvals related to change requests [Ref 3].
+*   **Deliverable Acceptance:** (Closing Phase) Formal acceptance of the completed project deliverables from the stakeholders.
+
+-----
+
+#### Note: Embeddings & Citations Section
+
+*   Ref 1: PMBOK, Page 24 (Similarity: 0.594)
+*   Ref 2: ISO21502, Page 9 (Similarity: 0.582)
+*   Ref 3: PMBOK, Page 30 (Similarity: 0.551)
+*   Ref 4: ISO21502, Page 12 (Similarity: 0.541)
+*   Ref 5: PRINCE2, Page 4 (Similarity: 0.527)
+*   Ref 6: PMBOK, Page 10 (Similarity: 0.524)
+*   Ref 7: ISO21500, Page 9 (Similarity: 0.521)
+*   Ref 8: PRINCE2, Page 6 (Similarity: 0.508)
+*   Ref 9: ISO21500, Page 9 (Similarity: 0.508)
+*   Ref 10: ISO21502, Page 10 (Similarity: 0.495)
+*   Ref 11: ISO21502, Page 1 (Similarity: 0.492)
+*   Ref 12: ISO21502, Page 11 (Similarity: 0.491)
+*   Ref 13: ISO21502, Page 11 (Similarity: 0.488)
+*   Ref 14: ISO21502, Page 7 (Similarity: 0.482)
+*   Ref 15: PMBOK, Page 9 (Similarity: 0.481)
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 15151_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 24 (Similarity: 0.594) → /pdf/PMBOK#page=24
+• [Ref 2] ISO21502 - Page 9 (Similarity: 0.582) → /pdf/ISO21502#page=9
+• [Ref 3] PMBOK - Page 30 (Similarity: 0.551) → /pdf/PMBOK#page=30
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.541) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.527) → /pdf/PRINCE2#page=4
+• [Ref 6] PMBOK - Page 10 (Similarity: 0.524) → /pdf/PMBOK#page=10
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.521) → /pdf/ISO21500#page=9
+• [Ref 8] PRINCE2 - Page 6 (Similarity: 0.508) → /pdf/PRINCE2#page=6
+• [Ref 9] ISO21500 - Page 9 (Similarity: 0.508) → /pdf/ISO21500#page=9
+• [Ref 10] ISO21502 - Page 10 (Similarity: 0.495) → /pdf/ISO21502#page=10
+• [Ref 11] ISO21502 - Page 1 (Similarity: 0.492) → /pdf/ISO21502#page=1
+• [Ref 12] ISO21502 - Page 11 (Similarity: 0.491) → /pdf/ISO21502#page=11
+• [Ref 13] ISO21502 - Page 11 (Similarity: 0.488) → /pdf/ISO21502#page=11
+• [Ref 14] ISO21502 - Page 7 (Similarity: 0.482) → /pdf/ISO21502#page=7
+• [Ref 15] PMBOK - Page 9 (Similarity: 0.481) → /pdf/PMBOK#page=9

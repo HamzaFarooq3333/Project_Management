@@ -1,0 +1,168 @@
+Scenario: [14153] Custom Project (Manual Configuration) | Marketing | Small (< 6 months) | Education | ISO Standards
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Education Marketing Project
+
+#### 1. Process Summary
+
+This recommendation outlines a project management process tailored for a small-scale (under 6 months) marketing project within the education sector, adhering to ISO standards. The project's manual configuration nature implies a focus on straightforward execution with potentially iterative adjustments based on feedback [Ref 2]. This process prioritizes stakeholder engagement [Ref 7], clear planning [Ref 3], and effective risk management [Ref 15], crucial for ensuring successful delivery within the specified constraints. The project lifecycle will follow a structured approach to ensure the achievement of the defined objectives [Ref 6, Ref 14].
+
+-----
+
+#### 2. Phases and Activities
+
+This project will be organized into the following phases:
+
+I. **Initiation:** Define the project and get it authorized.
+
+   i.  **Project Charter Development:** Define the project's purpose, objectives, scope, and high-level requirements.  This aligns with the need for defining project objectives [Ref 6].
+   ii. **Stakeholder Identification and Analysis:** Identify all stakeholders [Ref 1], their interests, and their influence on the project.
+   iii. **Risk Assessment (High-Level):**  Identify potential risks [Ref 8, Ref 15] and opportunities early on.
+   iv. **Budget and Schedule Establishment (High-Level):** Create a preliminary budget and schedule to estimate project feasibility.  This includes estimating and scheduling activities [Ref 3].
+
+II. **Planning:** Elaborate on the project scope and develop detailed plans.
+
+   i.  **Scope Definition:** Define the detailed scope of the marketing campaign, deliverables, and any work breakdown structure required [Ref 4].
+   ii. **Detailed Requirements Gathering:** Define detailed requirements for all marketing activities, messaging, and target audience.
+   iii. **Detailed Budgeting and Scheduling:** Refine the budget and schedule with specific activities, resources, and dependencies [Ref 3].
+   iv. **Communication Plan Development:** Create a communication plan to manage stakeholder expectations and information flow [Ref 3].
+   v. **Risk Management Plan:** Develop a detailed risk management plan to identify, analyze, and mitigate project risks [Ref 15].
+   vi. **Procurement Plan (If Applicable):** If external vendors are required, define the procurement process [Ref 3].
+   vii. **Change Management Plan:** Establish a process for managing changes to the project scope, schedule, or budget [Ref 3].
+
+III. **Execution:** Carry out the planned marketing activities.
+
+   i.  **Marketing Campaign Implementation:** Execute the marketing activities as defined in the plan.
+   ii. **Resource Management:** Manage and allocate resources effectively.
+   iii. **Issue and Risk Management:**  Address any issues and mitigate risks as they arise.
+   iv. **Change Request Management:**  Manage change requests according to the change management plan.
+   v. **Performance Monitoring:** Monitor project performance against the plan, schedule, and budget [Ref 3].
+
+IV. **Monitoring and Controlling:** Track project performance, manage changes, and ensure the project stays on track.
+
+   i.  **Progress Tracking:**  Track project progress regularly against the schedule and budget.
+   ii. **Performance Reporting:**  Generate performance reports for stakeholders based on measurement [Ref 1].
+   iii. **Change Control:** Implement the change control process to manage approved changes.
+   iv. **Risk Monitoring and Control:** Monitor and manage identified risks and their impacts.
+
+V. **Closure:** Formally close the project and document lessons learned.
+
+   i.  **Final Deliverable Acceptance:** Obtain formal acceptance of all project deliverables.
+   ii. **Project Documentation:** Archive all project documentation.
+   iii. **Lessons Learned:** Conduct a lessons-learned session to identify areas for improvement in future projects.
+   iv. **Final Report:** Prepare a final project report summarizing the project's performance.
+
+-----
+
+#### 3. Roles
+
+*   **Project Sponsor:** Person responsible for obtaining the resources and executive decisions to enable success [Ref 6].
+*   **Project Manager:** Responsible for planning, executing, and closing the project.
+*   **Marketing Team:** Individuals responsible for executing the marketing activities.
+*   **Stakeholders:** Any individuals or organizations that are impacted by or can impact the project [Ref 6].
+
+-----
+
+#### 4. RACI Matrix
+
+| Phase              | Project Sponsor | Project Manager | Marketing Team | Stakeholders  |
+| ------------------ | --------------- | --------------- | --------------- | ------------- |
+| I. Initiation        | A               | R               | I               | C             |
+| II. Planning       | C               | R               | R               | C, I          |
+| III. Execution     | I               | A               | R               | C             |
+| IV. Monitoring & Controlling | C               | A               | C               | I             |
+| V. Closure          | A               | R               | C               | C, I          |
+
+*   **R** = Responsible
+*   **A** = Accountable
+*   **C** = Consulted
+*   **I** = Informed
+
+-----
+
+#### 5. Decision Gates
+
+*   **Project Charter Approval:**  Signifies the project's official start.
+*   **Project Plan Approval:** Authorizes the execution phase based on the defined scope, budget, and schedule [Ref 3].
+*   **Phase/Deliverable Acceptance:** Marks the successful completion of a phase or deliverable.
+*   **Change Request Approval:** The formal approval of a change that requires a change to scope, budget, or schedule.
+*   **Project Closure Approval:** Confirms all deliverables have been accepted and the project can be formally closed.
+
+-----
+
+#### 6. Embeddings & Citations Section
+
+*   Ref 1: PMBOK, Page 24
+*   Ref 2: ISO21502, Page 9
+*   Ref 3: PMBOK, Page 30
+*   Ref 4: ISO21502, Page 12
+*   Ref 5: PRINCE2, Page 4
+*   Ref 6: ISO21500, Page 9
+*   Ref 7: PMBOK, Page 10
+*   Ref 8: ISO21500, Page 9
+*   Ref 9: PRINCE2, Page 6
+*   Ref 10: ISO21502, Page 1
+*   Ref 11: ISO21500, Page 7
+*   Ref 12: ISO21502, Page 7
+*   Ref 13: ISO21502, Page 14
+*   Ref 14: ISO21502, Page 11
+*   Ref 15: PMBOK, Page 20
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 11: Page 7, Similarity: 0.506 (/pdf/ISO21500#page=7)
+- Ref 6: Page 9, Similarity: 0.545 (/pdf/ISO21500#page=9)
+- Ref 8: Page 9, Similarity: 0.537 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 10: Page 1, Similarity: 0.527 (/pdf/ISO21502#page=1)
+- Ref 12: Page 7, Similarity: 0.503 (/pdf/ISO21502#page=7)
+- Ref 2: Page 9, Similarity: 0.611 (/pdf/ISO21502#page=9)
+- Ref 14: Page 11, Similarity: 0.485 (/pdf/ISO21502#page=11)
+- Ref 4: Page 12, Similarity: 0.569 (/pdf/ISO21502#page=12)
+- Ref 13: Page 14, Similarity: 0.487 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 7: Page 10, Similarity: 0.539 (/pdf/PMBOK#page=10)
+- Ref 15: Page 20, Similarity: 0.484 (/pdf/PMBOK#page=20)
+- Ref 1: Page 24, Similarity: 0.612 (/pdf/PMBOK#page=24)
+- Ref 3: Page 30, Similarity: 0.599 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 5: Page 4, Similarity: 0.562 (/pdf/PRINCE2#page=4)
+- Ref 9: Page 6, Similarity: 0.527 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 14153_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 24 (Similarity: 0.612) → /pdf/PMBOK#page=24
+• [Ref 2] ISO21502 - Page 9 (Similarity: 0.611) → /pdf/ISO21502#page=9
+• [Ref 3] PMBOK - Page 30 (Similarity: 0.599) → /pdf/PMBOK#page=30
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.569) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.562) → /pdf/PRINCE2#page=4
+• [Ref 6] ISO21500 - Page 9 (Similarity: 0.545) → /pdf/ISO21500#page=9
+• [Ref 7] PMBOK - Page 10 (Similarity: 0.539) → /pdf/PMBOK#page=10
+• [Ref 8] ISO21500 - Page 9 (Similarity: 0.537) → /pdf/ISO21500#page=9
+• [Ref 9] PRINCE2 - Page 6 (Similarity: 0.527) → /pdf/PRINCE2#page=6
+• [Ref 10] ISO21502 - Page 1 (Similarity: 0.527) → /pdf/ISO21502#page=1
+• [Ref 11] ISO21500 - Page 7 (Similarity: 0.506) → /pdf/ISO21500#page=7
+• [Ref 12] ISO21502 - Page 7 (Similarity: 0.503) → /pdf/ISO21502#page=7
+• [Ref 13] ISO21502 - Page 14 (Similarity: 0.487) → /pdf/ISO21502#page=14
+• [Ref 14] ISO21502 - Page 11 (Similarity: 0.485) → /pdf/ISO21502#page=11
+• [Ref 15] PMBOK - Page 20 (Similarity: 0.484) → /pdf/PMBOK#page=20

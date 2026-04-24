@@ -1,0 +1,135 @@
+Scenario: [34332] Innovative Product Development | Marketing | Large (> 18 months) | Healthcare | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21500, ISO21502
+
+================================================================================
+
+### Process Recommendation: Large Healthcare Marketing Project (PRINCE2)
+
+This process recommendation outlines the suggested approach for managing a large-scale marketing project within the healthcare industry, using the PRINCE2 methodology. Considering the project's duration (>18 months), a robust and well-defined process is crucial for success. This plan incorporates best practices from PMBOK, ISO21502, and PRINCE2, ensuring a structured yet flexible approach [Ref 12].
+
+#### Process Summary
+
+This project will follow the PRINCE2 methodology, focusing on business justification, learning from experience, defined roles and responsibilities, manage by stages, manage by exception, focus on products, and tailoring to suit the project environment [Ref 5, Ref 10]. The project lifecycle will be divided into stages, each with clear objectives and deliverables [Ref 13]. Risk management will be a continuous process [Ref 8]. This project will deliver value to the customer as the organization who owns the requirements and can either undertake the work or contract some or all of the work to a supplier organization. [Ref 15]
+
+-----
+
+#### Phases and Activities
+
+The project will be structured into the following phases:
+
+I. **Initiation:**
+ i.  **Project Brief Creation:** Define the project's purpose, objectives, scope, and stakeholders [Ref 3].
+ ii. **Business Case Development:** Detail the justification for the project, including benefits, costs, risks, and potential return on investment.
+iii. **Project Management Team Assembly:** Identify and assign roles to key team members.
+ iv. **Project Initiation Document (PID) Creation:** Comprehensive document consolidating all initiation phase information. This aligns with defining the project's objectives [Ref 9].
+
+II. **Planning:**
+ i. **Detailed Scope Definition:** Break down the project scope into manageable work packages using a Work Breakdown Structure (WBS) [Ref 4].
+ ii. **Schedule Development:** Create a realistic project schedule, including tasks, dependencies, and milestones.
+iii. **Budget Development:** Define the project budget, considering all resources and costs.
+ iv. **Risk Assessment and Mitigation:** Identify potential risks and develop mitigation strategies [Ref 8].
+  v. **Communication Plan Development:** Establish how information will be disseminated to stakeholders [Ref 1].
+ vi. **Resource allocation and team composition.** [Ref 1]
+
+III. **Execution (Multiple Stages):**
+ i. **Work Package Execution:** Carry out the tasks defined in the project plan.
+ ii. **Progress Monitoring and Control:** Track project progress, identify deviations from the plan, and take corrective actions [Ref 3].
+iii. **Issue Management:** Address any problems or issues that arise during execution [Ref 13].
+ iv. **Quality Assurance:** Ensure that deliverables meet the required quality standards [Ref 6].
+  v. **Regular reporting and communication with stakeholders.**
+
+IV. **Closure:**
+ i. **Deliverable Acceptance:** Obtain formal acceptance of all project deliverables.
+ ii. **Project Documentation Archiving:** Store all project documentation in a secure location.
+iii. **Lessons Learned Review:** Conduct a review of the project to identify lessons learned for future projects.
+ iv. **Project Closure Report:** Formal document summarizing the project's outcome, performance, and lessons learned.
+
+-----
+
+#### Roles
+
+*   **Executive (Project Sponsor):** Responsible for overall project success and providing resources.
+*   **Senior User:** Represents the interests of the stakeholders.
+*   **Senior Supplier:** Represents the interests of the organization providing resources.
+*   **Project Manager:** Responsible for the day-to-day management of the project.
+*   **Team Manager:** Responsible for managing a team of specialists executing specific work packages.
+*   **Project Assurance:** Monitors the project's performance and provides independent assurance to the Project Board.
+
+-----
+
+#### RACI Matrix
+
+| Phase/Activity | Executive (Sponsor) | Senior User | Senior Supplier | Project Manager | Team Manager | Project Assurance |
+|---|---|---|---|---|---|---|
+| Initiation | A | C | C | R | I | I |
+| Project Brief Creation [Ref 1] | A | C | C | R | I | I |
+| Business Case Development | A | R | C | C | I | I |
+| Planning | A | C | C | R | I | I |
+| Scope Definition [Ref 4] | A | R | C | C | I | I |
+| Schedule Development | A | C | C | R | I | I |
+| Budget Development [Ref 1] | A | C | C | R | I | I |
+| Risk Assessment [Ref 8] | A | C | C | R | I | C |
+| Execution Stage 1 | A | C | C | R | R | I |
+| Execution Stage 2 | A | C | C | R | R | I |
+| Execution Stage 3 | A | C | C | R | R | I |
+| Progress Monitoring  [Ref 3] | I | C | C | R | I | C |
+| Issue Management  [Ref 13] | A | C | C | R | C | I |
+| Quality Assurance [Ref 6] | I | C | C | R | R | I |
+| Closure | A | R | C | R | I | C |
+| Deliverable Acceptance | A | R | C | C | I | I |
+| Lessons Learned | A | C | C | R | I | C |
+| Project Closure Report | A | R | C | R | I | C |
+
+*   **R** = Responsible, **A** = Accountable, **C** = Consulted, **I** = Informed
+
+-----
+
+#### Decision Gates
+
+I. **End of Initiation Phase:** Go/No-Go decision based on the approved PID and Business Case. This decides whether the project is justified and ready to proceed to the Planning phase.
+II. **End of Planning Phase:** Approval of the Project Plan. This assesses if the plan is realistic, achievable, and aligned with the project objectives.
+III. **End of Each Execution Stage:** Review of stage performance against plan, assessment of ongoing business justification, and decision to proceed to the next stage. Any significant deviations from the plan should trigger a review [Ref 5].
+IV. **Project Closure:** Formal sign-off of the project, confirming that all deliverables have been accepted and that the project has met its objectives.
+
+-----
+
+#### Note:
+
+Ref 1: PMBOK, Page 30 (Similarity: 0.587)
+Ref 2: ISO21502, Page 9 (Similarity: 0.576)
+Ref 3: PMBOK, Page 24 (Similarity: 0.559)
+Ref 4: ISO21502, Page 12 (Similarity: 0.533)
+Ref 5: PRINCE2, Page 4 (Similarity: 0.522)
+Ref 6: PMBOK, Page 10 (Similarity: 0.513)
+Ref 7: ISO21500, Page 9 (Similarity: 0.480)
+Ref 8: PMBOK, Page 20 (Similarity: 0.478)
+Ref 9: ISO21500, Page 9 (Similarity: 0.477)
+Ref 10: PRINCE2, Page 6 (Similarity: 0.475)
+Ref 11: ISO21502, Page 1 (Similarity: 0.451)
+Ref 12: PMBOK, Page 9 (Similarity: 0.447)
+Ref 13: ISO21502, Page 10 (Similarity: 0.447)
+Ref 14: ISO21502, Page 11 (Similarity: 0.446)
+Ref 15: ISO21502, Page 15 (Similarity: 0.440)
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 34332_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 30 (Similarity: 0.587) → /pdf/PMBOK#page=30
+• [Ref 2] ISO21502 - Page 9 (Similarity: 0.576) → /pdf/ISO21502#page=9
+• [Ref 3] PMBOK - Page 24 (Similarity: 0.559) → /pdf/PMBOK#page=24
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.533) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.522) → /pdf/PRINCE2#page=4
+• [Ref 6] PMBOK - Page 10 (Similarity: 0.513) → /pdf/PMBOK#page=10
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.480) → /pdf/ISO21500#page=9
+• [Ref 8] PMBOK - Page 20 (Similarity: 0.478) → /pdf/PMBOK#page=20
+• [Ref 9] ISO21500 - Page 9 (Similarity: 0.477) → /pdf/ISO21500#page=9
+• [Ref 10] PRINCE2 - Page 6 (Similarity: 0.475) → /pdf/PRINCE2#page=6
+• [Ref 11] ISO21502 - Page 1 (Similarity: 0.451) → /pdf/ISO21502#page=1
+• [Ref 12] PMBOK - Page 9 (Similarity: 0.447) → /pdf/PMBOK#page=9
+• [Ref 13] ISO21502 - Page 10 (Similarity: 0.447) → /pdf/ISO21502#page=10
+• [Ref 14] ISO21502 - Page 11 (Similarity: 0.446) → /pdf/ISO21502#page=11
+• [Ref 15] ISO21502 - Page 15 (Similarity: 0.440) → /pdf/ISO21502#page=15

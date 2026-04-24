@@ -1,0 +1,165 @@
+Scenario: [34143] Innovative Product Development | Marketing | Small (< 6 months) | Finance | ISO Standards
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21500, ISO21502
+
+================================================================================
+
+### Process Summary
+
+This process recommendation outlines a framework for managing a small-scale marketing project in the finance industry, adhering to ISO standards [Ref 1]. Given the project's short duration (less than 6 months), a streamlined approach emphasizing efficiency and clear communication is critical. The process incorporates elements from ISO 21500, ISO 21502, PMBOK, and PRINCE2, tailored to the specific needs of the scenario. The project will prioritize stakeholder engagement, planning, delivery, and measurement [Ref 2, Ref 9]. The aim is to deliver value while navigating the complexities inherent in the financial sector [Ref 9].
+
+-----
+
+### Phases and Activities
+
+This project will be structured around the following phases:
+
+I. **Initiation:**
+    i. Define project objectives and scope [Ref 3].
+    ii. Identify key stakeholders [Ref 6].
+    iii. Develop a high-level project plan.
+    iv. Secure project sponsorship and resources [Ref 6].
+    v. Establish project governance and communication protocols.
+
+II. **Planning:**
+    i. Define project scope in detail [Ref 3, Ref 4].
+    ii. Create a Work Breakdown Structure (WBS) [Ref 4].
+    iii. Develop a project schedule and budget [Ref 3].
+    iv. Establish a communication plan [Ref 3].
+    v. Develop a risk management plan, including identification of threats [Ref 4, Ref 7].
+    vi. Define key performance indicators (KPIs).
+
+III. **Execution:**
+    i. Implement the marketing plan.
+    ii. Manage project tasks and resources.
+    iii. Monitor progress against the project schedule and budget.
+    iv. Communicate project status to stakeholders.
+    v. Manage risks and issues as they arise.
+    vi. Build quality into processes and deliverables [Ref 9].
+
+IV. **Monitoring and Controlling:**
+    i. Track project performance against KPIs.
+    ii. Monitor risks and issues.
+    iii. Manage changes to the project scope, schedule, and budget [Ref 3].
+    iv. Report on project progress to stakeholders.
+    v. Ensure alignment with project objectives [Ref 5].
+
+V. **Closure:**
+    i. Obtain formal acceptance of project deliverables.
+    ii. Document lessons learned.
+    iii. Close out project contracts and finances.
+    iv. Archive project documentation.
+    v. Celebrate project success.
+
+-----
+
+### Roles
+
+Key project roles include:
+
+*   **Project Sponsor:** Provides overall direction and resources [Ref 6].
+*   **Project Manager:** Responsible for planning, executing, and controlling the project.
+*   **Marketing Team:** Executes the marketing plan.
+*   **Stakeholders:** Individuals or groups affected by the project [Ref 6].
+
+-----
+
+### RACI Matrix
+
+| Phase                     | Project Sponsor | Project Manager | Marketing Team | Stakeholders | Relevant Standards  |
+| :------------------------ | :-------------- | :-------------- | :------------- | :----------- | :------------------ |
+| **Initiation**            | A               | R               | C              | I            | [Ref 6]             |
+| **Planning**              | I               | R               | C              | C            | [Ref 3, Ref 4]      |
+| **Execution**             | I               | R               | R              | C            |                     |
+| **Monitoring & Controlling** | I               | R               | C              | C            |                     |
+| **Closure**               | A               | R               | C              | I            |                     |
+
+**Key:**
+
+*   **R:** Responsible - The person who does the work.
+*   **A:** Accountable - The person who is ultimately answerable for the correct and thorough completion of the deliverable or task.
+*   **C:** Consulted - Individuals or groups who provide input or expertise.
+*   **I:** Informed - Individuals or groups who are kept updated on progress.
+
+-----
+
+### Decision Gates
+
+Key decision points include:
+
+*   **Project Initiation Approval:** Formal approval to proceed with the project.
+*   **Project Plan Approval:** Agreement on the project scope, schedule, and budget [Ref 3].
+*   **Milestone Reviews:** Assessment of project progress at key milestones.
+*   **Go/No-Go Decisions:** Decisions to proceed with specific marketing activities.
+*   **Project Closure Approval:** Formal acceptance of project deliverables.
+
+-----
+
+### Embeddings & Citations Section
+
+**Note:**
+
+Ref 1: ISO21502, Page 9 (Similarity: 0.610)
+Ref 2: PMBOK, Page 24 (Similarity: 0.602)
+Ref 3: PMBOK, Page 30 (Similarity: 0.602)
+Ref 4: ISO21502, Page 12 (Similarity: 0.565)
+Ref 5: PRINCE2, Page 4 (Similarity: 0.553)
+Ref 6: ISO21500, Page 9 (Similarity: 0.536)
+Ref 7: ISO21500, Page 9 (Similarity: 0.530)
+Ref 9: PMBOK, Page 10 (Similarity: 0.514)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 13: Page 1, Similarity: 0.487 (/pdf/ISO21500#page=1)
+- Ref 11: Page 7, Similarity: 0.504 (/pdf/ISO21500#page=7)
+- Ref 6: Page 9, Similarity: 0.536 (/pdf/ISO21500#page=9)
+- Ref 7: Page 9, Similarity: 0.530 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 8: Page 1, Similarity: 0.528 (/pdf/ISO21502#page=1)
+- Ref 14: Page 7, Similarity: 0.481 (/pdf/ISO21502#page=7)
+- Ref 1: Page 9, Similarity: 0.610 (/pdf/ISO21502#page=9)
+- Ref 4: Page 12, Similarity: 0.565 (/pdf/ISO21502#page=12)
+- Ref 12: Page 14, Similarity: 0.491 (/pdf/ISO21502#page=14)
+- Ref 15: Page 14, Similarity: 0.479 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 9: Page 10, Similarity: 0.514 (/pdf/PMBOK#page=10)
+- Ref 2: Page 24, Similarity: 0.602 (/pdf/PMBOK#page=24)
+- Ref 3: Page 30, Similarity: 0.602 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 5: Page 4, Similarity: 0.553 (/pdf/PRINCE2#page=4)
+- Ref 10: Page 6, Similarity: 0.514 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 34143_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.610) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.602) → /pdf/PMBOK#page=24
+• [Ref 3] PMBOK - Page 30 (Similarity: 0.602) → /pdf/PMBOK#page=30
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.565) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.553) → /pdf/PRINCE2#page=4
+• [Ref 6] ISO21500 - Page 9 (Similarity: 0.536) → /pdf/ISO21500#page=9
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.530) → /pdf/ISO21500#page=9
+• [Ref 8] ISO21502 - Page 1 (Similarity: 0.528) → /pdf/ISO21502#page=1
+• [Ref 9] PMBOK - Page 10 (Similarity: 0.514) → /pdf/PMBOK#page=10
+• [Ref 10] PRINCE2 - Page 6 (Similarity: 0.514) → /pdf/PRINCE2#page=6
+• [Ref 11] ISO21500 - Page 7 (Similarity: 0.504) → /pdf/ISO21500#page=7
+• [Ref 12] ISO21502 - Page 14 (Similarity: 0.491) → /pdf/ISO21502#page=14
+• [Ref 13] ISO21500 - Page 1 (Similarity: 0.487) → /pdf/ISO21500#page=1
+• [Ref 14] ISO21502 - Page 7 (Similarity: 0.481) → /pdf/ISO21502#page=7
+• [Ref 15] ISO21502 - Page 14 (Similarity: 0.479) → /pdf/ISO21502#page=14

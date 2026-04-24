@@ -1,0 +1,135 @@
+Scenario: [25152] Custom Software Development | Infrastructure | Small (< 6 months) | Education | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21500, ISO21502
+
+================================================================================
+
+### Process Recommendation: Small-Scale Education Infrastructure Project (PRINCE2)
+
+#### Process Summary
+
+This process recommendation outlines a streamlined approach for managing a small-scale education infrastructure project within a PRINCE2 framework. It emphasizes a structured yet adaptable approach, considering the project's size (< 6 months) and industry (Education). The process aligns with key project management principles, drawing upon the Project Management Body of Knowledge (PMBOK), ISO 21502, and PRINCE2 methodologies. The core focus is to achieve the project objectives efficiently, manage stakeholders effectively, and ensure the delivery of value [Ref 6, Ref 7]. The project will follow a defined lifecycle with clear phases and decision gates to ensure control and governance [Ref 8, Ref 13].  This project aims to deliver agreed objectives within the constraints of time, cost, and quality [Ref 5, Ref 12].
+
+-----
+
+#### Phases and Activities
+
+The project lifecycle will consist of the following phases and activities, aligned with PRINCE2 principles:
+
+I. **Project Initiation:**
+   i. Define the project's scope, objectives, and deliverables [Ref 3, Ref 12].
+   ii. Identify and analyze stakeholders, considering their interests and potential influence [Ref 1, Ref 7].
+   iii. Establish project governance and communication channels.
+   iv. Develop a project initiation document (PID), summarizing the project's purpose, scope, risks, and approach, including the defined life cycle [Ref 8, Ref 13].
+   v. Conduct a feasibility study and obtain project authorization.
+
+II. **Project Planning:**
+   i. Create a Work Breakdown Structure (WBS) to decompose the project scope into manageable work packages [Ref 4].
+   ii. Define activities, dependencies, and estimate durations to create a project schedule.
+   iii. Develop a budget and resource allocation plan.
+   iv. Identify and assess project risks, developing mitigation strategies [Ref 9, Ref 10].
+   v. Establish quality standards and control measures.
+   vi. Develop a communication plan to manage stakeholder expectations [Ref 3].
+   vii. Refine the PID based on the planning stage outcome.
+
+III. **Project Execution:**
+   i. Manage and coordinate project activities according to the project plan.
+   ii. Monitor progress against the schedule, budget, and quality standards.
+   iii. Manage project risks and issues, implementing mitigation plans.
+   iv. Procure necessary resources and manage contracts (if applicable) [Ref 3].
+   v. Manage changes through a formal change control process.
+   vi. Keep the stakeholders informed about the project progress.
+
+IV. **Project Monitoring and Controlling:**
+   i. Regularly track and report on project performance, including progress, costs, and risks [Ref 1, Ref 3].
+   ii. Analyze variances from the plan and take corrective actions.
+   iii. Manage project issues and escalate as necessary.
+   iv. Ensure the project adheres to quality standards and delivers its planned deliverables [Ref 8].
+   v. Control all phases of the project [Ref 7].
+
+V. **Project Closure:**
+   i. Formally close out the project, ensuring all deliverables are accepted.
+   ii. Obtain final stakeholder sign-off.
+   iii. Document lessons learned for future projects.
+   iv. Archive project documentation.
+   v. Handover the project's deliverables.
+
+-----
+
+#### Roles
+
+Key project roles for this small-scale project:
+
+*   **Project Sponsor:** Responsible for securing resources and providing strategic direction [Ref 7].
+*   **Project Manager:** Responsible for day-to-day management of the project, including planning, execution, and control [Ref 16].
+*   **Project Team:** Individuals contributing to the project tasks.
+*   **Stakeholders:** Individuals or groups with an interest in the project [Ref 1, Ref 7].
+*   **Change Authority:** Responsible for approving change requests.
+
+-----
+
+#### RACI Matrix
+
+| Phase                    | Project Sponsor | Project Manager | Project Team | Change Authority | Stakeholders |
+| ------------------------ | --------------- | --------------- | ------------ | ---------------- | ------------- |
+| I. Project Initiation     | A               | R               | I            | C                | C             |
+| II. Project Planning      | A               | R               | R            | C                | I             |
+| III. Project Execution    | I               | R               | R            | A                | C             |
+| IV. Monitoring & Controlling | I               | R               | C            | I                | C             |
+| V. Project Closure        | A               | R               | I            | I                | C             |
+
+**Key:** R = Responsible, A = Accountable, C = Consulted, I = Informed
+
+-----
+
+#### Decision Gates
+
+Important decision points during the project:
+
+i.  **Project Initiation Approval:** Before proceeding to planning, the project sponsor must approve the Project Initiation Document (PID) and authorize the project.
+ii. **Plan Approval:** The Project Manager presents the project plan to the Sponsor, Project Board, and Key Stakeholders for approval.
+iii.  **Change Requests Approval:** Any changes to scope, schedule, or budget must be submitted as change requests and approved by the Change Authority [Ref 3].
+iv.  **Stage Gate Reviews:** Periodic reviews to ensure project is on track in terms of deliverables and goals.
+v.  **Project Closure Approval:** The Project Sponsor and key stakeholders must approve the project's completion, deliverables, and final report.
+
+-----
+
+#### Note
+
+Ref 1: PMBOK, Page 24 (Similarity: 0.594)
+Ref 2: ISO21502, Page 9 (Similarity: 0.582)
+Ref 3: PMBOK, Page 30 (Similarity: 0.551)
+Ref 4: ISO21502, Page 12 (Similarity: 0.541)
+Ref 5: PRINCE2, Page 4 (Similarity: 0.527)
+Ref 6: PMBOK, Page 10 (Similarity: 0.524)
+Ref 7: ISO21500, Page 9 (Similarity: 0.521)
+Ref 8: PRINCE2, Page 6 (Similarity: 0.508)
+Ref 9: ISO21500, Page 9 (Similarity: 0.508)
+Ref 10: ISO21502, Page 10 (Similarity: 0.495)
+Ref 11: ISO21502, Page 1 (Similarity: 0.492)
+Ref 12: ISO21502, Page 11 (Similarity: 0.491)
+Ref 13: ISO21502, Page 11 (Similarity: 0.488)
+Ref 14: ISO21502, Page 7 (Similarity: 0.482)
+Ref 15: PMBOK, Page 9 (Similarity: 0.481)
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 25152_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 24 (Similarity: 0.594) → /pdf/PMBOK#page=24
+• [Ref 2] ISO21502 - Page 9 (Similarity: 0.582) → /pdf/ISO21502#page=9
+• [Ref 3] PMBOK - Page 30 (Similarity: 0.551) → /pdf/PMBOK#page=30
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.541) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.527) → /pdf/PRINCE2#page=4
+• [Ref 6] PMBOK - Page 10 (Similarity: 0.524) → /pdf/PMBOK#page=10
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.521) → /pdf/ISO21500#page=9
+• [Ref 8] PRINCE2 - Page 6 (Similarity: 0.508) → /pdf/PRINCE2#page=6
+• [Ref 9] ISO21500 - Page 9 (Similarity: 0.508) → /pdf/ISO21500#page=9
+• [Ref 10] ISO21502 - Page 10 (Similarity: 0.495) → /pdf/ISO21502#page=10
+• [Ref 11] ISO21502 - Page 1 (Similarity: 0.492) → /pdf/ISO21502#page=1
+• [Ref 12] ISO21502 - Page 11 (Similarity: 0.491) → /pdf/ISO21502#page=11
+• [Ref 13] ISO21502 - Page 11 (Similarity: 0.488) → /pdf/ISO21502#page=11
+• [Ref 14] ISO21502 - Page 7 (Similarity: 0.482) → /pdf/ISO21502#page=7
+• [Ref 15] PMBOK - Page 9 (Similarity: 0.481) → /pdf/PMBOK#page=9

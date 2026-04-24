@@ -1,0 +1,137 @@
+Scenario: [33252] Innovative Product Development | Research | Medium (6-18 months) | Education | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21500, ISO21502
+
+================================================================================
+
+### Process Recommendation: Education Research Project (PRINCE2)
+
+This process recommendation outlines the project management approach for a medium-sized education research project, adhering to the PRINCE2 methodology and aligning with relevant project management standards like ISO21500 and ISO21502 [Ref 1, Ref 7]. The project is expected to run for 6-18 months. The process focuses on clear governance, defined roles and responsibilities, and a stage-gated approach to ensure project success. The PRINCE2 framework emphasizes business justification, learning from experience, defined roles and responsibilities, managing by stages, managing by exception, focusing on products, and tailoring to the project environment. [Ref 10].
+
+-----
+
+### Phases and Activities
+
+This research project will be structured around the PRINCE2 processes, tailored for the educational context.
+
+I. **Starting Up a Project (SU)**
+   i.  Appoint the Project Management Team (Executive, Senior User, Senior Supplier, Project Manager) [Ref 3, Ref 10].
+   ii. Capture previous lessons and organisational guidance [Ref 10].
+   iii. Create the Project Brief, outlining the project objectives, scope, and benefits.
+   iv. Define project approach, considering predictive and iterative methods.
+   v. Create the Project Initiation Documentation(PID) [Ref 6].
+
+II. **Initiating a Project (IP)**
+   i.  Refine the Business Case with detailed cost-benefit analysis [Ref 3].
+   ii. Develop the Project Management Plan (PMP), including detailed plans for scope, schedule, budget, communication, risk, and quality. [Ref 6]
+   iii. Establish project controls, including change management [Ref 6].
+   iv. Assemble the project team.
+   v.  Secure commitment from stakeholders [Ref 4].
+
+III. **Controlling a Stage (CS)**
+   i.  Authorize Work Packages to team members.
+   ii. Review work package status regularly.
+   iii. Report progress to the Project Board [Ref 3].
+   iv. Capture new or revised lessons.
+   v.  Monitor risks and issues [Ref 5, Ref 14].
+   vi. Take corrective actions and escalate any exceptions.
+   vii. Measure performance [Ref 2].
+
+IV. **Managing Product Delivery (MP)**
+   i.  Execute work packages.
+   ii. Create products according to defined quality criteria.
+   iii. Obtain quality approvals for deliverables [Ref 12].
+   iv. Report progress and any issues.
+
+V. **Managing Stage Boundary (SB)**
+   i.  Review Stage performance.
+   ii. Update the Project Plan, including cost, schedule, risks and benefits.
+   iii. Produce an End Stage Report.
+   iv. Plan the next Stage.
+   v. Seek approval from Project Board to proceed to next Stage.
+
+VI. **Directing a Project (DP)**
+   i.  Authorize initiation.
+   ii. Give ad-hoc direction.
+   iii. Authorize stage plans.
+   iv. Authorize project closure.
+
+VII. **Closing a Project (CP)**
+   i.  Verify that all objectives have been achieved.
+   ii. Disseminate outputs, including the final research report.
+   iii. Conduct a post-project review.
+   iv. Identify any follow-on actions.
+   v. Archive project documentation [Ref 7].
+
+-----
+
+### Roles
+
+*   **Executive:** Ultimate responsibility for the project, ensuring business justification.
+*   **Senior User:** Represents the interests of those who will use the research outputs.
+*   **Senior Supplier:** Represents those providing the resources to the project.
+*   **Project Manager:** Responsible for day-to-day management of the project, including planning, execution, and monitoring.
+*   **Project Assurance:** Provides independent oversight to ensure the project is on track.
+*   **Team Members:** Responsible for executing work packages.
+*   **Project Board:** Provides strategic direction and decision making.
+
+-----
+
+### RACI Matrix
+
+| Phase                       | Executive (Ex) | Senior User (SU) | Senior Supplier (SS) | Project Manager (PM) | Project Assurance (PA) | Team Member (TM) | [Ref] |
+| --------------------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ----- |
+| Starting Up a Project (SU)  | A             | C             | C             | R             | I             | I             | [Ref 3, 10] |
+| Initiating a Project (IP)   | A             | C             | C             | R             | I             | I             | [Ref 6] |
+| Controlling a Stage (CS)    | A             | C             | C             | R             | I             | I             | [Ref 3] |
+| Managing Product Delivery (MP) | I             | I             | I             | R             | C             | A             | [Ref 12] |
+| Managing Stage Boundary (SB) | A             | C             | C             | R             | I             | I             |  |
+| Directing a Project (DP)    | R             | C             | C             | I             | I             | I             |  |
+| Closing a Project (CP)      | A             | C             | C             | R             | I             | I             | [Ref 7] |
+
+-----
+
+### Decision Gates
+
+Key decision gates are at the end of the "Starting Up a Project" phase, each "Managing Stage Boundary" phase, and at Project Closure.
+
+*   **End of Starting Up a Project:** Approval to proceed to the Initiation Phase [Ref 10]. Justification must be confirmed.
+*   **End of Each Stage:** Approval to proceed to the next stage, based on stage performance and updated plans [Ref 3]. Business case viability must be reconfirmed.
+*   **Project Closure:** Approval to formally close the project, confirming all objectives have been met and deliverables have been accepted [Ref 7]. Lessons learned are captured.
+
+-----
+
+### Note
+
+Ref 1: ISO21502, Page 9 (Similarity: 0.619)
+Ref 2: PMBOK, Page 24 (Similarity: 0.599)
+Ref 3: PRINCE2, Page 4 (Similarity: 0.571)
+Ref 4: ISO21500, Page 9 (Similarity: 0.564)
+Ref 5: ISO21502, Page 12 (Similarity: 0.563)
+Ref 6: PMBOK, Page 30 (Similarity: 0.562)
+Ref 7: ISO21502, Page 1 (Similarity: 0.550)
+Ref 10: PRINCE2, Page 6 (Similarity: 0.530)
+Ref 12: ISO21502, Page 10 (Similarity: 0.514)
+Ref 14: ISO21500, Page 9 (Similarity: 0.511)
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 33252_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.619) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.599) → /pdf/PMBOK#page=24
+• [Ref 3] PRINCE2 - Page 4 (Similarity: 0.571) → /pdf/PRINCE2#page=4
+• [Ref 4] ISO21500 - Page 9 (Similarity: 0.564) → /pdf/ISO21500#page=9
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.563) → /pdf/ISO21502#page=12
+• [Ref 6] PMBOK - Page 30 (Similarity: 0.562) → /pdf/PMBOK#page=30
+• [Ref 7] ISO21502 - Page 1 (Similarity: 0.550) → /pdf/ISO21502#page=1
+• [Ref 8] PMBOK - Page 10 (Similarity: 0.538) → /pdf/PMBOK#page=10
+• [Ref 9] ISO21502 - Page 11 (Similarity: 0.536) → /pdf/ISO21502#page=11
+• [Ref 10] PRINCE2 - Page 6 (Similarity: 0.530) → /pdf/PRINCE2#page=6
+• [Ref 11] ISO21502 - Page 7 (Similarity: 0.518) → /pdf/ISO21502#page=7
+• [Ref 12] ISO21502 - Page 10 (Similarity: 0.514) → /pdf/ISO21502#page=10
+• [Ref 13] ISO21502 - Page 7 (Similarity: 0.511) → /pdf/ISO21502#page=7
+• [Ref 14] ISO21500 - Page 9 (Similarity: 0.511) → /pdf/ISO21500#page=9
+• [Ref 15] ISO21500 - Page 7 (Similarity: 0.490) → /pdf/ISO21500#page=7

@@ -1,0 +1,164 @@
+Scenario: [31142] Innovative Product Development | Software Development | Small (< 6 months) | Finance | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21500, ISO21502
+
+================================================================================
+
+### Project Process Recommendation: Finance Software Development (PRINCE2)
+
+#### Process Summary
+
+This process recommendation outlines a streamlined PRINCE2-aligned approach for a small-scale (< 6 months) software development project within the finance industry. It focuses on delivering value, managing risks, and ensuring stakeholder engagement [Ref 10]. The approach incorporates key PRINCE2 principles while adapting to the project's size and complexity.  This recommendation is based on project management principles applicable to any type of project [Ref 1]. It includes a clear understanding of stakeholder needs, a detailed project plan, proactive risk management, and structured decision-making, while addressing the potential for ambiguity [Ref 5].
+
+-----
+
+#### Phases and Activities
+
+The project will follow a phased approach, reflecting the PRINCE2 method, with each phase having defined activities and deliverables.
+
+I.  **Starting Up a Project:** This phase establishes the foundation for the project [Ref 8].
+    i.  **Appoint the Project Manager:**  Identify and formally appoint the project manager, defining their responsibilities and authority.
+    ii. **Capture Project Approach and Tolerances:** Create a business justification for the project and establish the scope [Ref 2], objectives, and high-level project tolerances (time, cost, scope, quality, risk, benefits). This includes identifying the project's context [Ref 8].
+    iii. **Define Roles & Responsibilities:** Define roles and responsibilities and create a communication plan [Ref 2].
+    iv.  **Select the Project Team:** Determine and secure necessary resources [Ref 5], including development team members, business analysts, and relevant stakeholders.
+
+II. **Initiating a Project:** This phase involves creating a detailed project plan.
+    i.  **Define Project Scope:** Define the scope of the project, creating a Work Breakdown Structure (WBS) [Ref 4], and a detailed product breakdown.
+    ii.  **Develop Project Plan:** Create a detailed project plan, including the project schedule, budget, resource allocation, quality management approach, communication plan, and risk management plan [Ref 2].
+    iii. **Develop a Configuration Management Strategy:** Establish a system for controlling and managing project documentation, code, and deliverables.
+    iv.  **Refine Risk Management:** Identify, assess, and plan responses to project risks [Ref 9].
+    v.   **Prepare the Project Initiation Documentation (PID):** Compile the project plan, risk log, quality register, communication plan, and other relevant documents into a comprehensive PID.
+
+III. **Managing Stage by Stage:** (This phase repeats for each development stage). This phase includes monitoring and controlling the project within agreed-upon tolerances.
+    i.  **Authorize a Work Package:** The project manager authorizes work packages to be delivered by the development team.
+    ii.  **Execute the Work Package:** The development team completes the tasks assigned in the work package.
+    iii.  **Review Progress:** Regularly monitor progress against the project plan, including schedule, budget, and quality metrics [Ref 3].
+    iv.  **Escalate Issues:** Any issues and/or risks outside of agreed tolerance are escalated.
+    v.   **Capture Lessons Learned:** Document any insights gained throughout the stage.
+
+IV. **Managing Product Delivery:** This phase focuses on delivering the software.
+    i.  **Execute Stage:** The development team completes all tasks assigned.
+    ii.  **Review Progress:** This phase allows for continuous monitoring of progress and identification of potential issues [Ref 3].
+    iii.  **Capture Lessons Learned:** Any insights, lessons learned from all phases must be documented.
+    iv.  **Obtain Project Board Approval:** This involves seeking approval from the project board.
+    v.   **Project Closure:** The phase involves project documentation update, communication plan updates and capturing overall lessons learned to be added to project repository.
+
+V.  **Closing a Project:** Formal closure of the project [Ref 12].
+    i.  **Prepare Project Closure Documentation:** Compile all relevant project documents, including final reports, acceptance documentation, and lessons learned.
+    ii.  **Hand Over Products:** Formally hand over the completed software to the client.
+    iii.  **Assess Project Performance:** Conduct a post-project review to evaluate project performance against objectives and identify areas for improvement.
+    iv.  **Update Stakeholder Management:** Complete project closure communications to inform stakeholders of project success and outcomes.
+    v.  **Update Project Repository:** Archive project documentation in a central repository for future reference.
+
+-----
+
+#### Roles
+
+*   **Project Sponsor:** Responsible for securing resources and making executive decisions [Ref 7].
+*   **Project Manager:** Responsible for the day-to-day management of the project, including planning, executing, and controlling [Ref 13].
+*   **Project Team:**  The development team, responsible for delivering the software.
+*   **Business Analyst:** Elicits, analyzes, and documents requirements.
+*   **Stakeholders:**  Individuals or groups affected by the project [Ref 4], including end-users, business representatives, and the project sponsor.
+*   **Project Board:** Provides direction and support to the project manager.
+
+-----
+
+#### RACI Matrix
+
+| Phase                             | Project Sponsor | Project Manager | Project Team | Business Analyst | Project Board |
+| :-------------------------------- | :-------------- | :-------------- | :----------- | :--------------- | :------------ |
+| I. Starting Up a Project         | A               | R               | I            | C                | C             |
+| II. Initiating a Project          | A               | R               | I            | C                | C             |
+| III. Managing Stage by Stage      | C               | R               | A            | I                | C             |
+| IV. Managing Product Delivery      | C               | R               | A            | I                | C             |
+| V. Closing a Project              | A               | R               | I            | C                | C             |
+
+*   **R** = Responsible
+*   **A** = Accountable
+*   **C** = Consulted
+*   **I** = Informed
+
+-----
+
+#### Decision Gates
+
+*   **Project Initiation:** Formal approval of the Project Initiation Documentation (PID) by the Project Board [Ref 8].
+*   **Stage-End Assessments:** Regular review and approval of completed work packages and project progress by the Project Board during stage end assessments.
+*   **Project Closure:** Final approval of the project closure documentation and project deliverables by the Project Board [Ref 12].
+*   **Change Control:**  Formal review and approval of change requests by the Project Board, according to the Change Management Plan [Ref 2].
+
+-----
+
+#### Embeddings & Citations Section
+
+*   Ref 1: ISO21502, Page 9
+*   Ref 2: PMBOK, Page 30
+*   Ref 3: PMBOK, Page 24
+*   Ref 4: ISO21502, Page 12
+*   Ref 5: PRINCE2, Page 4
+*   Ref 6: ISO21502, Page 1
+*   Ref 7: ISO21500, Page 9
+*   Ref 8: PRINCE2, Page 6
+*   Ref 9: ISO21500, Page 9
+*   Ref 10: PMBOK, Page 10
+*   Ref 11: ISO21500, Page 7
+*   Ref 12: ISO21502, Page 14
+*   Ref 13: ISO21502, Page 7
+*   Ref 14: PMBOK, Page 9
+*   Ref 15: ISO21502, Page 7
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 11: Page 7, Similarity: 0.512 (/pdf/ISO21500#page=7)
+- Ref 7: Page 9, Similarity: 0.531 (/pdf/ISO21500#page=9)
+- Ref 9: Page 9, Similarity: 0.525 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 6: Page 1, Similarity: 0.542 (/pdf/ISO21502#page=1)
+- Ref 13: Page 7, Similarity: 0.501 (/pdf/ISO21502#page=7)
+- Ref 15: Page 7, Similarity: 0.492 (/pdf/ISO21502#page=7)
+- Ref 1: Page 9, Similarity: 0.643 (/pdf/ISO21502#page=9)
+- Ref 4: Page 12, Similarity: 0.582 (/pdf/ISO21502#page=12)
+- Ref 12: Page 14, Similarity: 0.501 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 14: Page 9, Similarity: 0.493 (/pdf/PMBOK#page=9)
+- Ref 10: Page 10, Similarity: 0.525 (/pdf/PMBOK#page=10)
+- Ref 3: Page 24, Similarity: 0.596 (/pdf/PMBOK#page=24)
+- Ref 2: Page 30, Similarity: 0.601 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 5: Page 4, Similarity: 0.562 (/pdf/PRINCE2#page=4)
+- Ref 8: Page 6, Similarity: 0.531 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 31142_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.643) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.601) → /pdf/PMBOK#page=30
+• [Ref 3] PMBOK - Page 24 (Similarity: 0.596) → /pdf/PMBOK#page=24
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.582) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.562) → /pdf/PRINCE2#page=4
+• [Ref 6] ISO21502 - Page 1 (Similarity: 0.542) → /pdf/ISO21502#page=1
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.531) → /pdf/ISO21500#page=9
+• [Ref 8] PRINCE2 - Page 6 (Similarity: 0.531) → /pdf/PRINCE2#page=6
+• [Ref 9] ISO21500 - Page 9 (Similarity: 0.525) → /pdf/ISO21500#page=9
+• [Ref 10] PMBOK - Page 10 (Similarity: 0.525) → /pdf/PMBOK#page=10
+• [Ref 11] ISO21500 - Page 7 (Similarity: 0.512) → /pdf/ISO21500#page=7
+• [Ref 12] ISO21502 - Page 14 (Similarity: 0.501) → /pdf/ISO21502#page=14
+• [Ref 13] ISO21502 - Page 7 (Similarity: 0.501) → /pdf/ISO21502#page=7
+• [Ref 14] PMBOK - Page 9 (Similarity: 0.493) → /pdf/PMBOK#page=9
+• [Ref 15] ISO21502 - Page 7 (Similarity: 0.492) → /pdf/ISO21502#page=7

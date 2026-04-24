@@ -1,0 +1,159 @@
+Scenario: [31111] Innovative Product Development | Software Development | Small (< 6 months) | Information Technology | PMBOK
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21500, ISO21502
+
+================================================================================
+
+### Process Recommendation: Small-Scale Software Development Project
+
+#### Process Summary
+This process recommendation outlines a structured approach for managing a small-scale (< 6 months) software development project within an IT environment, adhering to the principles of the PMBOK Guide [Ref 5, Ref 13]. This plan emphasizes a phased approach to manage scope, schedule, budget, and resources effectively. The small size dictates agility and efficient communication. It's crucial to tailor the approach based on the project's specific context [Ref 13]. This methodology aims to ensure successful project delivery within time and budget constraints, focusing on meeting project objectives while managing project uncertainties [Ref 7, Ref 8]. The project will involve activities before, during, and after project delivery [Ref 6].
+
+-----
+
+#### Phases and Activities
+
+I. **Initiation**
+    i.  Define project scope, objectives, and success criteria, based on stakeholder requirements [Ref 2, Ref 7].
+    ii.  Identify stakeholders and their interests [Ref 7].
+    iii. Develop the project charter, defining the project's purpose and authority [Ref 7].
+    iv.  Identify the development approach (e.g., Agile, Waterfall - assuming an iterative, perhaps agile-leaning, approach due to the size) [Ref 1].
+    v.  Establish high-level project budget and schedule.
+
+II. **Planning**
+    i.  Detailed Scope Definition: Create a Work Breakdown Structure (WBS) to decompose the project scope into manageable work packages [Ref 3].
+    ii.  Schedule Development: Create the project schedule, estimating task durations and dependencies.
+    iii. Budget Planning: Develop a detailed budget, accounting for all costs.
+    iv. Risk Management: Identify potential risks and develop mitigation plans [Ref 8, Ref 13].
+    v.  Communication Planning: Develop a communication plan outlining how information will be shared among stakeholders [Ref 2].
+    vi.  Procurement Planning (if applicable): Plan for any necessary procurement activities.
+
+III. **Execution**
+    i.  Software Development: Execute the planned tasks according to the project schedule.
+    ii.  Team Management: Manage the project team, ensuring effective communication and collaboration [Ref 13].
+    iii.  Issue Management: Address and resolve issues as they arise.
+    iv.  Risk Management: Monitor and manage identified risks.
+    v.  Change Management: Implement the change management plan to control changes [Ref 2].
+
+IV. **Monitoring and Controlling**
+    i.  Progress Monitoring: Track project progress against the plan [Ref 9].
+    ii.  Performance Reporting: Report on project performance, including schedule, budget, and scope [Ref 9].
+    iii.  Change Control: Manage changes to scope, schedule, and budget [Ref 2].
+    iv.  Quality Control: Ensure that deliverables meet quality standards.
+
+V. **Closure**
+    i.  Project Closure: Formally close the project.
+    ii.  Deliverables Acceptance: Obtain formal acceptance of all deliverables.
+    iii.  Lessons Learned: Document lessons learned for future projects.
+    iv.  Final Reporting: Prepare and distribute final project reports.
+
+-----
+
+#### Roles
+*   **Project Manager:** Responsible for overall project planning, execution, monitoring, controlling, and closure.
+*   **Project Sponsor:** Provides support and makes executive decisions, securing necessary resources [Ref 7].
+*   **Development Team:** Responsible for developing the software.
+*   **Stakeholders:** Individuals or groups affected by the project, including end-users and business representatives [Ref 7].
+
+-----
+
+#### RACI Matrix
+
+| Phase              | Project Manager | Project Sponsor | Development Team | Stakeholders  |
+|--------------------|-----------------|-----------------|--------------------|----------------|
+| **I. Initiation**  | R               | A               | C                  | I              |
+| **II. Planning**   | R               | C               | A                  | C              |
+| **III. Execution** | A               | C               | R                  | C              |
+| **IV. Monitoring & Controlling** | R               | C               | I                  | C              |
+| **V. Closure**     | R               | A               | C                  | I              |
+
+*   **R** = Responsible
+*   **A** = Accountable
+*   **C** = Consulted
+*   **I** = Informed
+
+-----
+
+#### Decision Gates
+
+*   **Project Charter Approval:** Approved by the Project Sponsor (Initiation).
+*   **Project Plan Approval:** Approved by the Project Sponsor (Planning).
+*   **Change Requests Approval:** Managed and approved as per the Change Management Plan (Execution & Monitoring and Controlling) [Ref 2].
+*   **Deliverable Acceptance:** Formal acceptance by stakeholders (Closure).
+
+-----
+
+#### Embeddings & Citations Section:
+
+Note:
+*   Ref 1: ISO21502, Page 9 (Similarity: 0.609)
+*   Ref 2: PMBOK, Page 30 (Similarity: 0.599)
+*   Ref 3: ISO21502, Page 12 (Similarity: 0.589)
+*   Ref 4: PRINCE2, Page 4 (Similarity: 0.575)
+*   Ref 5: PMBOK, Page 24 (Similarity: 0.569)
+*   Ref 6: PRINCE2, Page 6 (Similarity: 0.528)
+*   Ref 7: ISO21500, Page 9 (Similarity: 0.519)
+*   Ref 8: ISO21500, Page 9 (Similarity: 0.515)
+*   Ref 9: ISO21502, Page 14 (Similarity: 0.514)
+*   Ref 10: ISO21502, Page 1 (Similarity: 0.513)
+*   Ref 11: ISO21502, Page 7 (Similarity: 0.507)
+*   Ref 12: ISO21502, Page 7 (Similarity: 0.506)
+*   Ref 13: PMBOK, Page 10 (Similarity: 0.501)
+*   Ref 14: ISO21502, Page 12 (Similarity: 0.496)
+*   Ref 15: ISO21502, Page 9 (Similarity: 0.494)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 7: Page 9, Similarity: 0.519 (/pdf/ISO21500#page=9)
+- Ref 8: Page 9, Similarity: 0.515 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 10: Page 1, Similarity: 0.513 (/pdf/ISO21502#page=1)
+- Ref 11: Page 7, Similarity: 0.507 (/pdf/ISO21502#page=7)
+- Ref 12: Page 7, Similarity: 0.506 (/pdf/ISO21502#page=7)
+- Ref 1: Page 9, Similarity: 0.609 (/pdf/ISO21502#page=9)
+- Ref 15: Page 9, Similarity: 0.494 (/pdf/ISO21502#page=9)
+- Ref 3: Page 12, Similarity: 0.589 (/pdf/ISO21502#page=12)
+- Ref 14: Page 12, Similarity: 0.496 (/pdf/ISO21502#page=12)
+- Ref 9: Page 14, Similarity: 0.514 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 13: Page 10, Similarity: 0.501 (/pdf/PMBOK#page=10)
+- Ref 5: Page 24, Similarity: 0.569 (/pdf/PMBOK#page=24)
+- Ref 2: Page 30, Similarity: 0.599 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 4: Page 4, Similarity: 0.575 (/pdf/PRINCE2#page=4)
+- Ref 6: Page 6, Similarity: 0.528 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 31111_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.609) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.599) → /pdf/PMBOK#page=30
+• [Ref 3] ISO21502 - Page 12 (Similarity: 0.589) → /pdf/ISO21502#page=12
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.575) → /pdf/PRINCE2#page=4
+• [Ref 5] PMBOK - Page 24 (Similarity: 0.569) → /pdf/PMBOK#page=24
+• [Ref 6] PRINCE2 - Page 6 (Similarity: 0.528) → /pdf/PRINCE2#page=6
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.519) → /pdf/ISO21500#page=9
+• [Ref 8] ISO21500 - Page 9 (Similarity: 0.515) → /pdf/ISO21500#page=9
+• [Ref 9] ISO21502 - Page 14 (Similarity: 0.514) → /pdf/ISO21502#page=14
+• [Ref 10] ISO21502 - Page 1 (Similarity: 0.513) → /pdf/ISO21502#page=1
+• [Ref 11] ISO21502 - Page 7 (Similarity: 0.507) → /pdf/ISO21502#page=7
+• [Ref 12] ISO21502 - Page 7 (Similarity: 0.506) → /pdf/ISO21502#page=7
+• [Ref 13] PMBOK - Page 10 (Similarity: 0.501) → /pdf/PMBOK#page=10
+• [Ref 14] ISO21502 - Page 12 (Similarity: 0.496) → /pdf/ISO21502#page=12
+• [Ref 15] ISO21502 - Page 9 (Similarity: 0.494) → /pdf/ISO21502#page=9

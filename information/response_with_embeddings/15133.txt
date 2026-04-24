@@ -1,0 +1,176 @@
+Scenario: [15133] Custom Project (Manual Configuration) | Infrastructure | Small (< 6 months) | Healthcare | ISO Standards
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Project Process Recommendation: Healthcare Infrastructure (Small Scale)
+
+#### 1. Process Summary
+
+This project plan outlines a structured approach to managing a small-scale healthcare infrastructure project involving manual configuration, adhering to ISO standards. Given the project's size (under 6 months) and industry (healthcare), the process emphasizes efficient execution, clear communication, and risk mitigation. The plan is based on the guidance found in both the *PMBOK Guide* and ISO standards, such as ISO 21502. The framework acknowledges the importance of project governance [Ref 8, Ref 11, Ref 13], stakeholder engagement [Ref 4], and tailoring the approach to the specific project context [Ref 4, Ref 7]. The project will leverage a defined lifecycle, from initiation to closure, with a focus on delivering value and adapting to change [Ref 4, Ref 7]. The project approach can be considered as "predictive", with the possibility of using an incremental approach if the project lends itself to it [Ref 3].
+
+-----
+
+#### 2. Phases and Activities
+
+I.  **Initiation:**
+
+    *   **Activity:** Project Charter Development and Approval: Define project objectives, scope, stakeholders, and high-level requirements.  This aligns with defining a 'project' as a "temporary endeavour to achieve one or more defined objectives" [Ref 13].
+    *   **Activity:** Stakeholder Identification and Analysis: Identify key stakeholders and their interests, needs, and expectations. This relates to "effectively engaging with stakeholders" [Ref 4].
+    *   **Activity:** Initial Risk Assessment: Identify potential risks and opportunities related to the manual configuration process and healthcare environment. Risk management is a critical aspect, especially in a healthcare setting [Ref 10].
+    *   **Standard Reference:** [Ref 3, Ref 13]
+
+II. **Planning:**
+
+    *   **Activity:** Scope Definition: Create a detailed scope statement, defining project deliverables, acceptance criteria, and constraints. This is a crucial element of planning [Ref 1].
+    *   **Activity:** Work Breakdown Structure (WBS) Development: Decompose the project scope into manageable work packages [Ref 5].
+    *   **Activity:** Schedule Development: Create a project schedule with task durations, dependencies, and critical path analysis, considering the project duration constraint (< 6 months).  This is core to the planning phase [Ref 1].
+    *   **Activity:** Budget Development: Estimate project costs and establish a budget baseline [Ref 1].
+    *   **Activity:** Resource Planning: Identify and allocate the necessary resources (personnel, equipment, and materials). This encompasses team composition [Ref 1].
+    *   **Activity:** Communication Plan Development: Define communication channels, frequency, and stakeholders [Ref 1].
+    *   **Activity:** Procurement Planning (if applicable): Identify any necessary procurements and develop a procurement plan [Ref 1].
+    *   **Activity:** Risk Management Planning: Develop a detailed risk management plan, including risk identification, assessment, response planning, and monitoring [Ref 10].
+    *   **Activity:** Quality Management Planning: Plan for quality assurance and control processes. Build quality into processes and deliverables [Ref 4].
+    *   **Standard Reference:** [Ref 1, Ref 2, Ref 3]
+
+III. **Execution:**
+
+    *   **Activity:** Manual Configuration: Perform the required infrastructure configuration tasks according to the documented procedures and standards.
+    *   **Activity:** Resource Management: Manage resources to ensure efficient allocation and utilization.
+    *   **Activity:** Team Management: Motivate and manage the project team, fostering a collaborative environment.  This supports "Create a collaborative project team environment" [Ref 4].
+    *   **Activity:** Communication Management: Execute the communication plan, providing regular updates to stakeholders.
+    *   **Activity:** Procurement Management (if applicable): Manage procurement activities.
+    *   **Activity:** Risk Response Implementation: Implement the planned risk responses and monitor the effectiveness of these responses [Ref 10].
+    *   **Activity:** Change Management: Manage change requests and ensure changes are approved and implemented according to the change management plan [Ref 1].
+
+IV. **Monitoring and Controlling:**
+
+    *   **Activity:** Performance Monitoring: Track project progress against the baseline schedule, budget, and scope.
+    *   **Activity:** Variance Analysis: Analyze variances and identify the root causes of any deviations.
+    *   **Activity:** Earned Value Management (EVM) (if appropriate for the project size):  Use EVM techniques to assess project performance [Ref 1].
+    *   **Activity:** Risk Monitoring and Control: Monitor identified risks, trigger responses, and identify new risks. [Ref 10]
+    *   **Activity:** Quality Control: Perform quality checks and inspections.
+    *   **Activity:** Issue Management: Manage project issues, track their resolution, and escalate if necessary [Ref 8].
+    *   **Activity:** Change Control: Control changes to the project scope, schedule, and budget [Ref 1].
+    *   **Standard Reference:** [Ref 2]
+
+V.  **Closure:**
+
+    *   **Activity:** Project Closure: Formally close the project.  The project lifecycle progresses to closure [Ref 7].
+    *   **Activity:** Final Configuration Verification: Verify the final configuration and ensure it meets all requirements.
+    *   **Activity:** Final Acceptance and Sign-Off: Obtain formal acceptance of the deliverables from the client.
+    *   **Activity:** Lessons Learned: Document lessons learned for future projects.
+    *   **Activity:** Final Project Report: Prepare a final project report summarizing project performance, successes, and challenges.
+
+-----
+
+#### 3. Roles
+
+*   **Project Sponsor:** Responsible for obtaining resources and making executive decisions [Ref 13].
+*   **Project Manager:** Leads and manages the project team, responsible for overall project success.
+*   **Configuration Specialist(s):** Responsible for executing the manual configuration tasks.
+*   **Stakeholders:** Individuals or groups with interests in the project, including the client, end-users, and regulatory bodies [Ref 5].
+*   **Team Members:** Responsible for performing the tasks within the work packages.
+
+-----
+
+#### 4. RACI Matrix
+
+| Phase                    | Project Sponsor | Project Manager | Configuration Specialist(s) | Stakeholders | Team Members |
+| :----------------------- | :-------------- | :-------------- | :--------------------------- | :----------- | :----------- |
+| I. Initiation            | A               | R               | C                            | C            | I            |
+| II. Planning             | C               | R               | I                            | C            | A            |
+| III. Execution           | I               | A               | R                            | C            | R            |
+| IV. Monitoring & Controlling | C               | A               | I                            | C            | I            |
+| V. Closure               | A               | R               | C                            | C            | I            |
+
+*   **R** = Responsible; **A** = Accountable; **C** = Consulted; **I** = Informed
+
+-----
+
+#### 5. Decision Gates
+
+*   **Project Charter Approval:**  Signifies the formal initiation of the project [Ref 13].
+*   **Scope Baseline Approval:** Confirms the approved project scope.
+*   **Schedule Baseline Approval:** Formal approval of the project schedule.
+*   **Budget Baseline Approval:** Formal approval of the project budget.
+*   **Change Request Approval:**  Decision point for approving changes.
+*   **Deliverable Acceptance:**  Acceptance of each deliverable.
+*   **Project Closure Approval:** Formal acceptance of the project closure report.
+
+-----
+
+#### 6. Embeddings & Citations Section
+
+*   Ref 1: PMBOK, Page 30 (Similarity: 0.573)
+*   Ref 2: PMBOK, Page 24 (Similarity: 0.560)
+*   Ref 3: ISO21502, Page 9 (Similarity: 0.545)
+*   Ref 4: PMBOK, Page 10 (Similarity: 0.520)
+*   Ref 5: ISO21502, Page 12 (Similarity: 0.516)
+*   Ref 6: PRINCE2, Page 4 (Similarity: 0.512)
+*   Ref 7: PRINCE2, Page 6 (Similarity: 0.472)
+*   Ref 8: ISO21502, Page 10 (Similarity: 0.471)
+*   Ref 9: PMBOK, Page 9 (Similarity: 0.468)
+*   Ref 10: PMBOK, Page 20 (Similarity: 0.467)
+*   Ref 11: ISO21502, Page 11 (Similarity: 0.455)
+*   Ref 12: ISO21500, Page 9 (Similarity: 0.449)
+*   Ref 13: ISO21500, Page 9 (Similarity: 0.445)
+*   Ref 14: ISO21502, Page 14 (Similarity: 0.429)
+*   Ref 15: ISO21502, Page 7 (Similarity: 0.423)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 12: Page 9, Similarity: 0.449 (/pdf/ISO21500#page=9)
+- Ref 13: Page 9, Similarity: 0.445 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 15: Page 7, Similarity: 0.423 (/pdf/ISO21502#page=7)
+- Ref 3: Page 9, Similarity: 0.545 (/pdf/ISO21502#page=9)
+- Ref 8: Page 10, Similarity: 0.471 (/pdf/ISO21502#page=10)
+- Ref 11: Page 11, Similarity: 0.455 (/pdf/ISO21502#page=11)
+- Ref 5: Page 12, Similarity: 0.516 (/pdf/ISO21502#page=12)
+- Ref 14: Page 14, Similarity: 0.429 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 9: Page 9, Similarity: 0.468 (/pdf/PMBOK#page=9)
+- Ref 4: Page 10, Similarity: 0.520 (/pdf/PMBOK#page=10)
+- Ref 10: Page 20, Similarity: 0.467 (/pdf/PMBOK#page=20)
+- Ref 2: Page 24, Similarity: 0.560 (/pdf/PMBOK#page=24)
+- Ref 1: Page 30, Similarity: 0.573 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 6: Page 4, Similarity: 0.512 (/pdf/PRINCE2#page=4)
+- Ref 7: Page 6, Similarity: 0.472 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 15133_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 30 (Similarity: 0.573) → /pdf/PMBOK#page=30
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.560) → /pdf/PMBOK#page=24
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.545) → /pdf/ISO21502#page=9
+• [Ref 4] PMBOK - Page 10 (Similarity: 0.520) → /pdf/PMBOK#page=10
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.516) → /pdf/ISO21502#page=12
+• [Ref 6] PRINCE2 - Page 4 (Similarity: 0.512) → /pdf/PRINCE2#page=4
+• [Ref 7] PRINCE2 - Page 6 (Similarity: 0.472) → /pdf/PRINCE2#page=6
+• [Ref 8] ISO21502 - Page 10 (Similarity: 0.471) → /pdf/ISO21502#page=10
+• [Ref 9] PMBOK - Page 9 (Similarity: 0.468) → /pdf/PMBOK#page=9
+• [Ref 10] PMBOK - Page 20 (Similarity: 0.467) → /pdf/PMBOK#page=20
+• [Ref 11] ISO21502 - Page 11 (Similarity: 0.455) → /pdf/ISO21502#page=11
+• [Ref 12] ISO21500 - Page 9 (Similarity: 0.449) → /pdf/ISO21500#page=9
+• [Ref 13] ISO21500 - Page 9 (Similarity: 0.445) → /pdf/ISO21500#page=9
+• [Ref 14] ISO21502 - Page 14 (Similarity: 0.429) → /pdf/ISO21502#page=14
+• [Ref 15] ISO21502 - Page 7 (Similarity: 0.423) → /pdf/ISO21502#page=7

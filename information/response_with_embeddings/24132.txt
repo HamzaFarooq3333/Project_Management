@@ -1,0 +1,150 @@
+Scenario: [24132] Custom Software Development | Marketing | Small (< 6 months) | Healthcare | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: ISO21500, ISO21502, PRINCE2, PMBOK
+
+================================================================================
+
+### Process Recommendation: Small-Scale Healthcare Marketing Project (PRINCE2)
+
+**Process Summary:**
+
+This process recommendation outlines a PRINCE2-based approach tailored for a small-scale healthcare marketing project with a duration of less than 6 months. It incorporates elements of planning, execution, control, and closure, while adhering to the project management principles described in PMBOK [Ref 6, Ref 11] and ISO standards [Ref 2, Ref 12]. The process focuses on delivering value through effective stakeholder engagement [Ref 6], risk management [Ref 7], and adaptability [Ref 6]. Given the healthcare industry context, special attention will be paid to compliance, ethical considerations, and data privacy. The iterative and adaptable nature of PRINCE2 will be used to deal with project complexities [Ref 6]. This process is applicable to any project regardless of purpose, delivery approaches, life cycle model used, complexity, size, cost or duration [Ref 2].
+
+-----
+
+### Phases and Activities
+
+I. **Starting Up a Project (SU):**
+
+  i. **Appoint the Project Management Team:** Define roles and responsibilities [Ref 5].
+  ii. **Capture Previous Lessons:** Review past projects to identify areas for improvement.
+  iii. **Design and Appoint the Project Management Team:** Clarify roles and responsibilities in the Project Management Team Structure
+  iv. **Prepare the Project Brief:** Define the project's objectives, scope, and key stakeholders [Ref 3].
+  v. **Define the Project Approach:** Select the appropriate methodology for the project.
+
+II. **Initiating a Project (IP):**
+
+  i. **Plan Quality:** Define quality criteria and assurance processes.
+  ii. **Plan Risks:** Identify and assess potential risks and develop mitigation strategies [Ref 7].
+  iii. **Plan Communication:** Create a communication plan to ensure effective stakeholder engagement [Ref 1, Ref 6].
+  iv. **Establish Project Controls:** Define change management and issue resolution processes [Ref 1].
+  v. **Create Project Initiation Documentation (PID):** This document outlines the project’s scope, objectives, and overall approach.
+
+III. **Controlling a Stage (CS):**
+
+  i. **Authorize Work Packages:** Assign tasks to team members and provide necessary resources.
+  ii. **Review Work Package Status:** Monitor progress and track key performance indicators (KPIs).
+  iii. **Report Highlights:** Communicate project status to stakeholders [Ref 6].
+  iv. **Capture and Examine Issues and Risks:** Identify and manage any issues or risks that arise [Ref 7].
+  v. **Escalate Issues and Risks:** Escalate issues that cannot be resolved at the stage level.
+  vi. **Take Corrective Actions:** Implement actions to address deviations from the plan.
+
+IV. **Managing Product Delivery (MP):**
+
+  i. **Accept a Work Package:** Team members receive and understand assigned tasks.
+  ii. **Execute Work Package:** Team members perform tasks according to the plan.
+  iii. **Deliver Completed Products:** Team members submit deliverables for review.
+
+V. **Managing Stage Boundary (SB):**
+
+  i. **Plan the Next Stage:** Develop a detailed plan for the upcoming stage.
+  ii. **Update the Project Plan:** Incorporate any changes or lessons learned.
+  iii. **Update the Business Case:** Re-evaluate the project’s justification based on current circumstances.
+  iv. **Report Stage End:** Communicate stage completion to stakeholders.
+
+VI. **Closing a Project (CP):**
+
+  i. **Prepare Planned Closure:** Ensure all deliverables are completed and approved.
+  ii. **Evaluate the Project:** Conduct a post-project review to identify lessons learned.
+  iii. **Recommend Project Closure:** Obtain formal approval to close the project.
+  iv. **Archive Project Documentation:** Store all project-related documents for future reference.
+
+-----
+
+### Roles
+
+*   **Executive (Project Sponsor):** Provides overall direction and resources.
+*   **Senior User:** Represents the interests of the project beneficiaries.
+*   **Senior Supplier:** Represents the interests of those providing the project's specialist expertise.
+*   **Project Manager:** Responsible for the day-to-day management of the project.
+*   **Project Team:** Responsible for executing work packages.
+
+-----
+
+### RACI Matrix
+
+| Phase/Activity                  | Executive (Project Sponsor) | Senior User | Senior Supplier | Project Manager | Project Team | Standard Reference |
+| --------------------------------- | -------------------------- | ----------- | --------------- | --------------- | ------------ | ------------------ |
+| **Starting Up a Project (SU)**      |                           |             |                 |                 |              |                    |
+| Appoint PM Team                | A                        | I           | I               | R               | C            | [Ref 5]            |
+| Prepare Project Brief             | A                        | R           | C               | C               | I            | [Ref 3]            |
+| Define Project Approach           | R                        | I           | C               | A               | I            |                    |
+| **Initiating a Project (IP)**      |                           |             |                 |                 |              |                    |
+| Plan Quality                    | I                        | C           | C               | R               | A            | [Ref 1]            |
+| Plan Risks                       | I                        | C           | C               | R               | A            | [Ref 7]            |
+| Plan Communication              | I                        | R           | I               | A               | C            | [Ref 1]            |
+| Create Project Initiation Documentation (PID) | A        | C           | C               | R               | I            | [Ref 3]            |
+| **Controlling a Stage (CS)**      |                           |             |                 |                 |              |                    |
+| Authorize Work Packages            | I                        | I           | I               | R               | A            |                    |
+| Review Work Package Status        | I                        | I           | I               | R               | C            |                    |
+| Report Highlights                 | I                        | R           | I               | A               | C            | [Ref 6]            |
+| Capture and Examine Issues & Risks  | I                        | C           | C               | R               | A            | [Ref 7]            |
+| Take Corrective Actions          | I                        | C           | I               | R               | A            | [Ref 1]            |
+| **Managing Product Delivery (MP)**|                           |             |                 |                 |              |                    |
+| Accept a Work Package            | I                        | I           | I               | C               | R            |                    |
+| Execute Work Package              | I                        | I           | I               | C               | R            |                    |
+| Deliver Completed Products        | I                        | I           | I               | C               | R            | [Ref 13]           |
+| **Managing Stage Boundary (SB)**   |                           |             |                 |                 |              |                    |
+| Plan the Next Stage              | I                        | C           | C               | R               | A            |                    |
+| Update the Project Plan            | I                        | I           | I               | R               | C            |                    |
+| Update the Business Case          | A                        | R           | I               | C               | I            |                    |
+| Report Stage End                  | R                        | I           | I               | A               | C            | [Ref 6]            |
+| **Closing a Project (CP)**        |                           |             |                 |                 |              |                    |
+| Prepare Planned Closure           | C                        | C           | C               | R               | A            |                    |
+| Evaluate the Project              | R                        | A           | A               | C               | C            |                    |
+| Recommend Project Closure         | A                        | R           | R               | C               | I            |                    |
+| Archive Project Documentation     | I                        | I           | I               | R               | A            |                    |
+
+-----
+
+### Decision Gates
+
+*   **End of Starting Up a Project (SU):** Decision to proceed to the Initiation Stage. Based on the Project Brief's alignment with strategic objectives.
+*   **End of Initiating a Project (IP):** Approval of the PID. This gate ensures the project is well-defined and justified before significant resources are committed.
+*   **End of Each Stage (Managing a Stage Boundary):** Decision to proceed to the next stage or terminate the project. This is based on stage performance, updated business case, and risk assessment.
+
+-----
+
+### Note
+
+Ref 1: PMBOK, Page 30 (Similarity: 0.586)
+Ref 2: ISO21502, Page 9 (Similarity: 0.571)
+Ref 3: PMBOK, Page 24 (Similarity: 0.564)
+Ref 5: PRINCE2, Page 4 (Similarity: 0.520)
+Ref 6: PMBOK, Page 10 (Similarity: 0.520)
+Ref 7: PMBOK, Page 20 (Similarity: 0.475)
+Ref 11: PMBOK, Page 9 (Similarity: 0.450)
+Ref 12: ISO21502, Page 1 (Similarity: 0.441)
+Ref 13: ISO21502, Page 10 (Similarity: 0.439)
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 24132_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 30 (Similarity: 0.586) → /pdf/PMBOK#page=30
+• [Ref 2] ISO21502 - Page 9 (Similarity: 0.571) → /pdf/ISO21502#page=9
+• [Ref 3] PMBOK - Page 24 (Similarity: 0.564) → /pdf/PMBOK#page=24
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.530) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.520) → /pdf/PRINCE2#page=4
+• [Ref 6] PMBOK - Page 10 (Similarity: 0.520) → /pdf/PMBOK#page=10
+• [Ref 7] PMBOK - Page 20 (Similarity: 0.475) → /pdf/PMBOK#page=20
+• [Ref 8] ISO21500 - Page 9 (Similarity: 0.472) → /pdf/ISO21500#page=9
+• [Ref 9] PRINCE2 - Page 6 (Similarity: 0.469) → /pdf/PRINCE2#page=6
+• [Ref 10] ISO21500 - Page 9 (Similarity: 0.467) → /pdf/ISO21500#page=9
+• [Ref 11] PMBOK - Page 9 (Similarity: 0.450) → /pdf/PMBOK#page=9
+• [Ref 12] ISO21502 - Page 1 (Similarity: 0.441) → /pdf/ISO21502#page=1
+• [Ref 13] ISO21502 - Page 10 (Similarity: 0.439) → /pdf/ISO21502#page=10
+• [Ref 14] ISO21502 - Page 14 (Similarity: 0.437) → /pdf/ISO21502#page=14
+• [Ref 15] ISO21502 - Page 12 (Similarity: 0.436) → /pdf/ISO21502#page=12

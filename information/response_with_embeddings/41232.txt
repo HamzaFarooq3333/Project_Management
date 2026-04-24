@@ -1,0 +1,174 @@
+Scenario: [41232] Large Government Project | Software Development | Medium (6-18 months) | Healthcare | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21500, ISO21502
+
+================================================================================
+
+### Process Recommendation: Healthcare Software Development Project (PRINCE2)
+
+This process recommendation outlines a project management approach for a medium-scale healthcare software development project, adhering to the PRINCE2 methodology. This recommendation leverages guidance from PMBOK, and ISO standards to ensure robust project delivery. The project is expected to complete within 6-18 months. The process aims to ensure the project meets its objectives within the defined constraints of time, cost, and quality. [Ref 1, Ref 5]
+
+-----
+
+### Phases and Activities
+
+The project lifecycle, adapted from PRINCE2 and informed by ISO21502, will consist of the following phases:
+
+I. **Starting Up a Project (SU)**:
+    i.  Appoint the project management team [Ref 5, Ref 7].
+    ii. Develop the project brief, outlining project objectives and scope.
+    iii. Define the project approach, including the software development methodology (e.g., Agile within PRINCE2).
+    iv. Plan the Initiation Stage, including resource allocation and timelines.
+    v.  Define project governance principles [Ref 8, Ref 13].
+
+II. **Initiating a Project (IP)**:
+    i.  Refine the business case, elaborating on the project's benefits and justification.
+    ii. Develop the Project Initiation Documentation (PID), including detailed plans for scope, schedule, budget, risk, and quality. [Ref 2, Ref 3].
+    iii. Establish project controls, including change management processes. [Ref 2].
+    iv. Define stakeholder engagement strategies. [Ref 6].
+    v. Secure project funding and approvals.
+
+III. **Managing Stage Boundaries (SB)**:
+    i. At the end of each stage, the project board will review project performance, update plans, and make key decisions.
+    ii. Document lessons learned, including challenges encountered and best practices identified [Ref 7].
+    iii. Prepare for the next stage, including resource allocation and risk assessment.
+    iv.  Update the business case based on stage performance.
+
+IV. **Controlling a Stage (CS)**:
+    i.  Authorize work packages to be delivered during the stage.
+    ii. Monitor progress against plans, track risks and issues, and take corrective action as needed. [Ref 9].
+    iii. Conduct regular progress reviews with the project team.
+    iv. Escalate issues and risks to the project board as necessary.
+
+V. **Managing Product Delivery (MP)**:
+    i.  Manage the development and testing of software deliverables.
+    ii. Ensure quality assurance through code reviews, testing, and user acceptance testing (UAT).
+    iii. Manage changes to product scope and requirements. [Ref 2].
+    iv. Track and report on product delivery progress.
+
+VI. **Directing a Project (DP)**: This runs in parallel to the other phases and is the Project Board's overseeing activity.
+    i. Provide overall direction and guidance to the project manager.
+    ii. Make strategic decisions about project scope, schedule, and budget.
+    iii. Review and approve stage plans and exception plans.
+    iv. Monitor project performance against the business case.
+    v. Authorize project closure.
+
+VII. **Closing a Project (CP)**:
+    i.  Formally close the project, obtaining sign-off from stakeholders.
+    ii. Conduct a post-project review to assess project success and identify lessons learned.
+    iii. Archive project documentation.
+    iv.  Release project resources.
+
+-----
+
+### Roles
+
+The key project roles, defined by PRINCE2, are:
+
+*   **Executive:** Responsible for the overall success of the project, represents the business interests.
+*   **Senior User:** Represents the users of the software and ensures that the software meets their needs.
+*   **Senior Supplier:** Represents the suppliers of resources to the project, ensuring the software can be developed within budget and time contraints.
+*   **Project Manager:** Responsible for the day-to-day management of the project. [Ref 5, Ref 7].
+*   **Project Assurance:** Independent oversight function providing objective assessment of the project's progress and adherence to PRINCE2 principles. (Can be divided into Business Assurance, User Assurance, Technical Assurance).
+*   **Team Manager:** Manages a team or group of specialists that works to deliver a product.
+
+-----
+
+### RACI Matrix
+
+| Phase/Activity             | Executive | Senior User | Senior Supplier | Project Manager | Project Assurance | Team Manager |
+| :------------------------- | :-------- | :---------- | :-------------- | :-------------- | :--------------- | :----------- |
+| Starting Up a Project (SU) | A        | C           | C              | R              | I               | I            |
+| Initiating a Project (IP)  | A        | C           | C              | R              | I               | I            |
+| Managing Stage Boundaries (SB) | A        | C           | C              | R              | I               | I            |
+| Controlling a Stage (CS)  | I        | I           | I              | R              | C               | A            |
+| Managing Product Delivery (MP) | I        | C           | C              | I              | I               | R,A          |
+| Directing a Project (DP)  | R,A      | C           | C              | I              | I               | I            |
+| Closing a Project (CP)     | A        | C           | C              | R              | I               | I            |
+
+*   **R** = Responsible: Person who does the work.
+*   **A** = Accountable: Person who owns the work and is accountable for it.
+*   **C** = Consulted: Person who needs to be consulted before a decision is made.
+*   **I** = Informed: Person who needs to be kept informed.
+
+-----
+
+### Decision Gates
+
+The key decision gates are:
+
+i. **End of Starting Up a Project (SU)**:  Approval to proceed to the Initiation Stage.  Decision is based on the project brief and initial assessment of feasibility. [Ref 5].
+ii. **End of Initiating a Project (IP)**: Approval to proceed with the main project execution. Decision based on the fully developed PID, including detailed plans and business case.  If PID fails to demonstrate viability, the project is terminated. [Ref 2].
+iii. **End of Each Stage (SB)**: Approval to proceed to the next stage. Decision based on review of stage performance, updated plans, and updated business case. [Ref 7].
+iv. **Project Closure (CP)**: Approval to formally close the project. Decision based on confirmation that all deliverables have been met, all documentation has been archived, and all stakeholders have signed off.
+
+-----
+
+### Embeddings & Citations
+
+**Note:**
+Ref 1: ISO21502, Page 9 (Similarity: 0.589)
+Ref 2: PMBOK, Page 30 (Similarity: 0.579)
+Ref 3: PMBOK, Page 24 (Similarity: 0.552)
+Ref 5: PRINCE2, Page 4 (Similarity: 0.533)
+Ref 6: PMBOK, Page 10 (Similarity: 0.515)
+Ref 7: PRINCE2, Page 6 (Similarity: 0.493)
+Ref 8: ISO21502, Page 11 (Similarity: 0.472)
+Ref 9: PMBOK, Page 20 (Similarity: 0.462)
+Ref 13: ISO21502, Page 10 (Similarity: 0.453)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 10: Page 9, Similarity: 0.462 (/pdf/ISO21500#page=9)
+- Ref 11: Page 9, Similarity: 0.462 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 12: Page 1, Similarity: 0.460 (/pdf/ISO21502#page=1)
+- Ref 1: Page 9, Similarity: 0.589 (/pdf/ISO21502#page=9)
+- Ref 13: Page 10, Similarity: 0.453 (/pdf/ISO21502#page=10)
+- Ref 8: Page 11, Similarity: 0.472 (/pdf/ISO21502#page=11)
+- Ref 4: Page 12, Similarity: 0.546 (/pdf/ISO21502#page=12)
+- Ref 15: Page 14, Similarity: 0.449 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 14: Page 9, Similarity: 0.451 (/pdf/PMBOK#page=9)
+- Ref 6: Page 10, Similarity: 0.515 (/pdf/PMBOK#page=10)
+- Ref 9: Page 20, Similarity: 0.462 (/pdf/PMBOK#page=20)
+- Ref 3: Page 24, Similarity: 0.552 (/pdf/PMBOK#page=24)
+- Ref 2: Page 30, Similarity: 0.579 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 5: Page 4, Similarity: 0.533 (/pdf/PRINCE2#page=4)
+- Ref 7: Page 6, Similarity: 0.493 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 41232_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.589) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.579) → /pdf/PMBOK#page=30
+• [Ref 3] PMBOK - Page 24 (Similarity: 0.552) → /pdf/PMBOK#page=24
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.546) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.533) → /pdf/PRINCE2#page=4
+• [Ref 6] PMBOK - Page 10 (Similarity: 0.515) → /pdf/PMBOK#page=10
+• [Ref 7] PRINCE2 - Page 6 (Similarity: 0.493) → /pdf/PRINCE2#page=6
+• [Ref 8] ISO21502 - Page 11 (Similarity: 0.472) → /pdf/ISO21502#page=11
+• [Ref 9] PMBOK - Page 20 (Similarity: 0.462) → /pdf/PMBOK#page=20
+• [Ref 10] ISO21500 - Page 9 (Similarity: 0.462) → /pdf/ISO21500#page=9
+• [Ref 11] ISO21500 - Page 9 (Similarity: 0.462) → /pdf/ISO21500#page=9
+• [Ref 12] ISO21502 - Page 1 (Similarity: 0.460) → /pdf/ISO21502#page=1
+• [Ref 13] ISO21502 - Page 10 (Similarity: 0.453) → /pdf/ISO21502#page=10
+• [Ref 14] PMBOK - Page 9 (Similarity: 0.451) → /pdf/PMBOK#page=9
+• [Ref 15] ISO21502 - Page 14 (Similarity: 0.449) → /pdf/ISO21502#page=14

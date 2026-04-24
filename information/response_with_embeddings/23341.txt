@@ -1,0 +1,169 @@
+Scenario: [23341] Custom Software Development | Research | Large (> 18 months) | Finance | PMBOK
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: ISO21500, ISO21502, PRINCE2, PMBOK
+
+================================================================================
+
+### Process Recommendation: Large-Scale Finance Research Project (PMBOK)
+
+**Process Summary:**
+
+This document outlines a project management process tailored for a large-scale (> 18 months) finance research project, adhering to the PMBOK Guide. The process incorporates principles of project governance [Ref 8] and stakeholder engagement [Ref 2], recognizing the critical need for a well-defined project scope, schedule, budget, and communication plan [Ref 3]. Given the project's duration, emphasis is placed on adaptability, risk management, and continuous monitoring and control [Ref 11]. This process emphasizes the importance of tailored context [Ref 11].
+
+-----
+
+### Phases and Activities
+
+This project will follow a PMBOK-aligned project lifecycle, encompassing the following phases:
+
+I. **Initiation:**
+    i. **Define Project Scope:** Clearly define the project objectives, deliverables, and boundaries. This includes identifying the research questions, data sources, and analytical methods [Ref 3].
+    ii. **Identify Stakeholders:** Determine all individuals, groups, or organizations that may affect, be affected by, or perceive themselves to be affected by the project [Ref 7].
+    iii. **Develop Project Charter:** Create a document that formally authorizes the project and provides the project manager with the authority to allocate organizational resources [Ref 8].
+
+II. **Planning:**
+    i. **Develop Project Management Plan:** Create a comprehensive plan outlining how the project will be executed, monitored, and controlled.  This includes defining the schedule, budget, resource allocation, communication strategy, risk management approach, and quality management plan [Ref 3].
+    ii. **Create Work Breakdown Structure (WBS):** Decompose the project scope into manageable work packages to facilitate planning, execution, and control [Ref 4].
+    iii. **Define Activities:**  Break down work packages into specific activities and estimate the resources and time required for each.
+    iv. **Develop Schedule:** Create a project schedule based on the defined activities, dependencies, and resource availability [Ref 3].
+    v. **Develop Budget:** Allocate costs to each activity and develop a project budget [Ref 3].
+    vi. **Risk Assessment:** Identify potential risks, assess their probability and impact, and develop mitigation strategies [Ref 10].
+    vii. **Communication Plan:** Plan the method and timing for communications. [Ref 3]
+
+III. **Execution:**
+    i. **Manage Project Team:** Lead and motivate the project team to achieve project objectives [Ref 2].
+    ii. **Execute Tasks:** Carry out the activities defined in the project schedule and WBS.
+    iii. **Manage Communications:** Implement the communication plan to ensure stakeholders are informed of project progress, risks, and issues [Ref 3].
+    iv. **Manage Issues:** Identify, analyze, and resolve issues that arise during project execution [Ref 12].
+    v. **Manage Scope Changes:** Implement the change management process to manage any changes to the project scope [Ref 3].
+    vi. **Implement Risk Responses:** Carry out the planned risk mitigation strategies [Ref 11].
+
+IV. **Monitoring and Controlling:**
+    i. **Monitor Project Progress:** Track project performance against the project management plan [Ref 2].
+    ii. **Control Scope:** Ensure that all scope changes are properly managed and approved [Ref 3].
+    iii. **Control Schedule:** Monitor the project schedule and take corrective actions to address any delays [Ref 3].
+    iv. **Control Costs:** Monitor project costs and take corrective actions to address any budget overruns [Ref 3].
+    v. **Manage Quality:** Ensure that project deliverables meet the defined quality standards [Ref 11].
+    vi. **Report Performance:** Communicate project performance to stakeholders on a regular basis.
+
+V. **Closing:**
+    i. **Finalize Deliverables:** Ensure that all project deliverables are completed and accepted by the stakeholders [Ref 12].
+    ii. **Obtain Formal Acceptance:** Obtain formal acceptance of the project deliverables from the stakeholders.
+    iii. **Archive Project Documentation:** Document what works and what does not for other projects.
+    iv. **Release Project Resources:** Release project team members and other resources.
+    v. **Conduct Post-Project Review:** Conduct a lessons learned session to identify areas for improvement in future projects.
+
+-----
+
+### Roles
+
+*   **Project Sponsor:** Provides overall direction and support for the project [Ref 7].
+*   **Project Manager:** Responsible for planning, executing, monitoring, and controlling the project [Ref 15].
+*   **Research Team:** Conducts the research activities and develops the project deliverables [Ref 2].
+*   **Stakeholders:** Individuals or groups who have an interest in the project [Ref 7].
+
+-----
+
+### RACI Matrix
+
+| Phase                    | Project Sponsor | Project Manager | Research Team | Stakeholders     |
+| :----------------------- | :-------------: | :-------------: | :-----------: | :---------------: |
+| Initiation               |       A         |        R        |       C       |         I         |
+| Planning                 |        I        |        R        |       C       |         C         | [Ref 3]
+| Execution                |        I        |        R        |       R       |         C         |
+| Monitoring and Controlling |        I        |        R        |       C       |         C         |
+| Closing                  |        A        |        R        |       C       |         I         |
+
+*   **R:** Responsible - The person who does the work.
+*   **A:** Accountable - The person who is ultimately accountable for the correct and thorough completion of the deliverable or task.
+*   **C:** Consulted - The person or group to be consulted before a decision or action is taken.
+*   **I:** Informed - The person or group to be kept informed once a decision or action has been taken.
+
+-----
+
+### Decision Gates
+
+These are key decision points where progress is reviewed, and decisions are made to continue, modify, or terminate the project:
+
+I. **Project Charter Approval:** Go/No-Go decision based on the approved project charter. Ensure alignment with strategic objectives [Ref 8].
+II. **Project Management Plan Approval:** Review of the complete Project Management Plan.
+III. **Mid-Project Review:** Assessment of progress against the plan, risk evaluation, and adjustments as necessary [Ref 2].
+IV. **Deliverable Acceptance:** Formal acceptance of key deliverables, ensuring they meet quality standards [Ref 12].
+V. **Project Closure:** Final approval and sign-off upon completion of all deliverables and project closure activities [Ref 9].
+
+-----
+
+### Embeddings & Citations
+
+**Note:**
+Ref 1: ISO21502, Page 9 (Similarity: 0.631)
+Ref 2: PMBOK, Page 24 (Similarity: 0.591)
+Ref 3: PMBOK, Page 30 (Similarity: 0.580)
+Ref 4: ISO21502, Page 12 (Similarity: 0.564)
+Ref 5: PRINCE2, Page 4 (Similarity: 0.564)
+Ref 6: ISO21502, Page 1 (Similarity: 0.560)
+Ref 7: ISO21500, Page 9 (Similarity: 0.559)
+Ref 8: ISO21502, Page 11 (Similarity: 0.527)
+Ref 9: PRINCE2, Page 6 (Similarity: 0.523)
+Ref 10: ISO21500, Page 9 (Similarity: 0.520)
+Ref 11: PMBOK, Page 10 (Similarity: 0.513)
+Ref 12: ISO21502, Page 10 (Similarity: 0.511)
+Ref 13: ISO21500, Page 7 (Similarity: 0.502)
+Ref 14: ISO21502, Page 7 (Similarity: 0.501)
+Ref 15: ISO21502, Page 7 (Similarity: 0.495)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 13: Page 7, Similarity: 0.502 (/pdf/ISO21500#page=7)
+- Ref 7: Page 9, Similarity: 0.559 (/pdf/ISO21500#page=9)
+- Ref 10: Page 9, Similarity: 0.520 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 6: Page 1, Similarity: 0.560 (/pdf/ISO21502#page=1)
+- Ref 14: Page 7, Similarity: 0.501 (/pdf/ISO21502#page=7)
+- Ref 15: Page 7, Similarity: 0.495 (/pdf/ISO21502#page=7)
+- Ref 1: Page 9, Similarity: 0.631 (/pdf/ISO21502#page=9)
+- Ref 12: Page 10, Similarity: 0.511 (/pdf/ISO21502#page=10)
+- Ref 8: Page 11, Similarity: 0.527 (/pdf/ISO21502#page=11)
+- Ref 4: Page 12, Similarity: 0.564 (/pdf/ISO21502#page=12)
+
+**PMBOK:**
+- Ref 11: Page 10, Similarity: 0.513 (/pdf/PMBOK#page=10)
+- Ref 2: Page 24, Similarity: 0.591 (/pdf/PMBOK#page=24)
+- Ref 3: Page 30, Similarity: 0.580 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 5: Page 4, Similarity: 0.564 (/pdf/PRINCE2#page=4)
+- Ref 9: Page 6, Similarity: 0.523 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 23341_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.631) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.591) → /pdf/PMBOK#page=24
+• [Ref 3] PMBOK - Page 30 (Similarity: 0.580) → /pdf/PMBOK#page=30
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.564) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.564) → /pdf/PRINCE2#page=4
+• [Ref 6] ISO21502 - Page 1 (Similarity: 0.560) → /pdf/ISO21502#page=1
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.559) → /pdf/ISO21500#page=9
+• [Ref 8] ISO21502 - Page 11 (Similarity: 0.527) → /pdf/ISO21502#page=11
+• [Ref 9] PRINCE2 - Page 6 (Similarity: 0.523) → /pdf/PRINCE2#page=6
+• [Ref 10] ISO21500 - Page 9 (Similarity: 0.520) → /pdf/ISO21500#page=9
+• [Ref 11] PMBOK - Page 10 (Similarity: 0.513) → /pdf/PMBOK#page=10
+• [Ref 12] ISO21502 - Page 10 (Similarity: 0.511) → /pdf/ISO21502#page=10
+• [Ref 13] ISO21500 - Page 7 (Similarity: 0.502) → /pdf/ISO21500#page=7
+• [Ref 14] ISO21502 - Page 7 (Similarity: 0.501) → /pdf/ISO21502#page=7
+• [Ref 15] ISO21502 - Page 7 (Similarity: 0.495) → /pdf/ISO21502#page=7

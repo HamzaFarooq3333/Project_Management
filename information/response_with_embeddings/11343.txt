@@ -1,0 +1,187 @@
+Scenario: [11343] Custom Project (Manual Configuration) | Software Development | Large (> 18 months) | Finance | ISO Standards
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Finance Software Development Project (ISO Standards)
+
+#### 1. Process Summary
+
+This recommendation outlines a robust project management process for a large-scale (over 18 months) software development project within the finance industry. This process leverages ISO standards for guidance, incorporating best practices from ISO 21502, ISO 21500, PMBOK, and PRINCE2 to ensure successful delivery. The project necessitates manual configuration, implying a need for careful planning, rigorous control, and proactive risk management. The project will leverage different delivery approaches ([Ref 1]), which would include predictive, incremental and iterative, and also potentially hybrid models to effectively manage scope, budget, and schedule, with an emphasis on stakeholder engagement, quality, and adaptability.
+
+-----
+
+#### 2. Phases and Activities
+
+I. **Project Initiation & Planning**
+
+*   **Activities:**
+    *   Define project scope, objectives, and deliverables. This includes identifying specific software functionalities and configuration requirements aligned with financial industry standards. (Reference: [Ref 2, 4])
+    *   Identify and engage stakeholders. Define their roles, responsibilities, and communication needs. (Reference: [Ref 3, 7, 10])
+    *   Develop a detailed Work Breakdown Structure (WBS) to decompose the project scope into manageable work packages ([Ref 4]).
+    *   Estimate costs, create a budget, and secure funding. (Reference: [Ref 2])
+    *   Develop a project schedule with realistic timelines and resource allocation. (Reference: [Ref 2])
+    *   Establish a communication plan to manage stakeholder expectations and facilitate information flow. (Reference: [Ref 2])
+    *   Conduct a risk assessment and develop a risk management plan to identify, analyze, and mitigate potential risks ([Ref 9]).
+    *   Define quality standards and establish quality control processes.
+    *   Develop a Change Management Plan. (Reference: [Ref 2])
+    *   Choose Project Management Approach based on ISO Standards.
+    *   Define project governance principles, policies and procedures (Project Governance) [Ref 13].
+
+II. **Development & Configuration**
+
+*   **Activities:**
+    *   Develop the software according to the defined requirements and specifications.
+    *   Conduct iterative development cycles to incorporate feedback and ensure alignment with the scope.
+    *   Perform rigorous testing at various stages of development.
+    *   Implement the manual configuration based on the design and financial requirements.
+    *   Ensure configuration documentation is generated and maintained.
+    *   Ensure quality is built into the processes and deliverables [Ref 10]
+    *   Manage and track configuration changes.
+    *   Adhere to quality control practices and document any discrepancies.
+    *   Manage resources assigned to the project [Ref 14]
+
+III. **Testing & Integration**
+
+*   **Activities:**
+    *   Conduct comprehensive testing (unit, integration, system, user acceptance).
+    *   Identify and resolve defects.
+    *   Integrate the software components and configured elements.
+    *   Ensure interoperability with existing systems.
+    *   Conduct performance testing to ensure the software meets defined requirements.
+
+IV. **Deployment & Training**
+
+*   **Activities:**
+    *   Prepare for deployment.
+    *   Plan and execute the deployment strategy.
+    *   Provide training to the end-users.
+    *   Establish a support system.
+    *   Enable change to achieve the envisioned future state [Ref 10]
+
+V. **Project Closure**
+
+*   **Activities:**
+    *   Obtain formal acceptance of the deliverables.
+    *   Conduct a project review to assess project performance.
+    *   Document lessons learned for future projects.
+    *   Close out contracts and procurements.
+    *   Archive project documentation.
+
+-----
+
+#### 3. Roles
+
+*   **Project Manager:** Overall responsibility for project success, including planning, execution, monitoring, and control.
+*   **Sponsor:** Provides resources and executive decisions to enable success [Ref 7].
+*   **Business Analyst:** Defines requirements and supports the scope management process.
+*   **Software Developers:** Responsible for software development and configuration.
+*   **Configuration Manager:** Oversees the configuration process.
+*   **Testers:** Responsible for testing and quality assurance.
+*   **Stakeholders:** Individuals or groups affected by the project [Ref 4, 7, 18].
+*   **Project Team:** All involved in achieving project objectives [Ref 10].
+*   **Project Governance Board/Steering Committee:** Provides project oversight and decision-making authority [Ref 13].
+
+-----
+
+#### 4. RACI Matrix
+
+| Phase                     | Project Manager | Sponsor | Business Analyst | Software Developers | Configuration Manager | Testers | Stakeholders |
+| ------------------------- | --------------- | ------- | ---------------- | ------------------- | --------------------- | ------- | ------------ |
+| **I. Initiation & Planning** | R               | A       | C                | I                   | I                     | I       | C            |
+| **II. Development & Configuration** | A               | I       | C                | R                   | R                     | I       | C            |
+| **III. Testing & Integration** | A               | I       | C                | R                   | I                     | R       | C            |
+| **IV. Deployment & Training** | A               | I       | C                | I                   | R                     | I       | C            |
+| **V. Project Closure**       | A               | A       | C                | I                   | I                     | I       | C            |
+
+*   **R** = Responsible, **A** = Accountable, **C** = Consulted, **I** = Informed
+
+-----
+
+#### 5. Decision Gates
+
+*   **Project Initiation Approval:** Before officially starting the project, the Sponsor must approve the project charter and key parameters (Scope, Budget, Schedule) [Ref 13].
+*   **Requirements Sign-off:** Before development, stakeholder sign-off is needed for the finalized requirements document.
+*   **Design Review Approval:** Formal review and approval of the software design by relevant stakeholders.
+*   **Testing Phase Gate:** Formal sign-off on the testing results and the quality of the software.
+*   **Deployment Approval:** Approval to deploy the software from the Sponsor and key stakeholders.
+*   **Project Closure Approval:** Formal approval to close out the project after the final review and documentation.
+
+-----
+
+#### 6. Embeddings & Citations Section
+
+Note:
+
+*   Ref 1: ISO21502, Page 9
+*   Ref 2: PMBOK, Page 30
+*   Ref 3: PMBOK, Page 24
+*   Ref 4: ISO21502, Page 12
+*   Ref 5: PRINCE2, Page 4
+*   Ref 6: ISO21502, Page 1
+*   Ref 7: ISO21500, Page 9
+*   Ref 8: PRINCE2, Page 6
+*   Ref 9: ISO21500, Page 9
+*   Ref 10: PMBOK, Page 10
+*   Ref 11: ISO21500, Page 7
+*   Ref 12: ISO21502, Page 7
+*   Ref 13: ISO21502, Page 11
+*   Ref 14: ISO21502, Page 14
+*   Ref 15: ISO21500, Page 4
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 15: Page 4, Similarity: 0.495 (/pdf/ISO21500#page=4)
+- Ref 11: Page 7, Similarity: 0.510 (/pdf/ISO21500#page=7)
+- Ref 7: Page 9, Similarity: 0.538 (/pdf/ISO21500#page=9)
+- Ref 9: Page 9, Similarity: 0.530 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 6: Page 1, Similarity: 0.549 (/pdf/ISO21502#page=1)
+- Ref 12: Page 7, Similarity: 0.508 (/pdf/ISO21502#page=7)
+- Ref 1: Page 9, Similarity: 0.646 (/pdf/ISO21502#page=9)
+- Ref 13: Page 11, Similarity: 0.505 (/pdf/ISO21502#page=11)
+- Ref 4: Page 12, Similarity: 0.582 (/pdf/ISO21502#page=12)
+- Ref 14: Page 14, Similarity: 0.498 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 10: Page 10, Similarity: 0.516 (/pdf/PMBOK#page=10)
+- Ref 3: Page 24, Similarity: 0.585 (/pdf/PMBOK#page=24)
+- Ref 2: Page 30, Similarity: 0.599 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 5: Page 4, Similarity: 0.560 (/pdf/PRINCE2#page=4)
+- Ref 8: Page 6, Similarity: 0.534 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 11343_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.646) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.599) → /pdf/PMBOK#page=30
+• [Ref 3] PMBOK - Page 24 (Similarity: 0.585) → /pdf/PMBOK#page=24
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.582) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.560) → /pdf/PRINCE2#page=4
+• [Ref 6] ISO21502 - Page 1 (Similarity: 0.549) → /pdf/ISO21502#page=1
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.538) → /pdf/ISO21500#page=9
+• [Ref 8] PRINCE2 - Page 6 (Similarity: 0.534) → /pdf/PRINCE2#page=6
+• [Ref 9] ISO21500 - Page 9 (Similarity: 0.530) → /pdf/ISO21500#page=9
+• [Ref 10] PMBOK - Page 10 (Similarity: 0.516) → /pdf/PMBOK#page=10
+• [Ref 11] ISO21500 - Page 7 (Similarity: 0.510) → /pdf/ISO21500#page=7
+• [Ref 12] ISO21502 - Page 7 (Similarity: 0.508) → /pdf/ISO21502#page=7
+• [Ref 13] ISO21502 - Page 11 (Similarity: 0.505) → /pdf/ISO21502#page=11
+• [Ref 14] ISO21502 - Page 14 (Similarity: 0.498) → /pdf/ISO21502#page=14
+• [Ref 15] ISO21500 - Page 4 (Similarity: 0.495) → /pdf/ISO21500#page=4

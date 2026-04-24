@@ -1,0 +1,174 @@
+Scenario: [15342] Custom Project (Manual Configuration) | Infrastructure | Large (> 18 months) | Finance | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation for a Large-Scale Finance Infrastructure Project Using PRINCE2
+
+**1. Process Summary**
+
+This process recommendation outlines a project management framework for a large-scale ( > 18 months), finance infrastructure project that involves manual configuration and utilizes the PRINCE2 methodology [Ref 5]. It emphasizes a structured approach to project management, incorporating key elements from ISO 21502 [Ref 1] and PMBOK [Ref 2], including stakeholder engagement [Ref 6], risk management [Ref 15], planning [Ref 3], and continuous monitoring and control. The project will be divided into sequential phases, each with clearly defined deliverables and decision gates, to ensure alignment with project objectives and value delivery [Ref 12].
+
+-----
+
+**2. Phases and Activities**
+
+I. **Initiation Phase:**
+   i. Define the Project Mandate and Business Case. This involves identifying the project's purpose, objectives, and expected benefits.
+   ii. Appoint the Project Management Team. Assign roles and responsibilities, including the Project Board, Project Manager, and Project Assurance team.
+   iii. Develop the Project Initiation Documentation (PID), which includes the project plan, risk management strategy, communication plan, and quality management strategy.
+   iv. Secure project funding and resources.
+
+II. **Planning Phase:**
+   i. Define the Project Scope and Objectives. This includes creating a detailed work breakdown structure (WBS) [Ref 4] to decompose the project into manageable tasks.
+   ii. Develop the Project Schedule. Create a realistic timeline with milestones and dependencies.
+   iii. Define the Project Budget. Estimate the costs associated with each task and resource.
+   iv. Develop Risk Management Plan. Identify, assess, and plan responses to potential risks [Ref 15].
+   v. Develop Communication Plan. Establish a communication strategy to ensure stakeholders are informed [Ref 3].
+
+III. **Execution Phase:**
+   i. Manage Work Packages. Assign tasks to team members and monitor progress.
+   ii. Implement Configuration Management. Manage changes to the infrastructure components in a controlled manner. Since this involves manual configuration, ensure proper documentation and version control.
+   iii. Manage Issues and Risks. Identify and resolve issues as they arise, and implement risk mitigation plans.
+   iv. Monitor and Control Project Performance. Track progress against the project plan, budget, and schedule [Ref 2].
+
+IV. **Controlling a Stage Phase (Within Execution):**
+   i. The Project Manager uses Work Packages to track project progress.
+   ii. The Project Board is updated with Highlight Reports [Ref 9].
+   iii. Regular Checkpoint Meetings.
+
+V. **Closing Phase:**
+   i. Deliver the Project Outputs. Ensure that all deliverables meet the agreed-upon quality standards.
+   ii. Conduct a Project Closure Review. Assess the project's performance against its objectives and identify lessons learned.
+   iii. Obtain Formal Acceptance. Secure sign-off from the project stakeholders.
+   iv. Archive Project Documentation. Store all project-related documents for future reference.
+
+-----
+
+**3. Roles**
+
+*   **Project Board:** Responsible for overall project direction and approval.
+*   **Senior User:** Represents the interests of the end-users of the infrastructure.
+*   **Senior Supplier:** Represents the interests of the providers of the infrastructure components and services.
+*   **Project Manager:** Responsible for day-to-day management of the project.
+*   **Project Assurance:** Provides independent oversight and guidance.
+*   **Team Members:** Responsible for completing assigned tasks.
+*   **Stakeholders:** Individuals or groups that have an interest in or can affect the project [Ref 6].
+
+-----
+
+**4. RACI Matrix**
+
+| Phase/Activity             | Project Board (PB) | Senior User (SU) | Senior Supplier (SS) | Project Manager (PM) | Project Assurance (PA) | Team Members (TM) |
+| -------------------------- | ------------------ | ---------------- | -------------------- | -------------------- | ---------------------- | ----------------- |
+| **Initiation Phase**       |                    |                  |                      |                      |                        |                   |
+| Define Project Mandate     | A                  | C                | C                    | R                    | I                      | I                 |
+| Appoint Project Team       | A                  | I                | I                    | R                    | C                      | I                 |
+| Develop PID                | C                  | I                | C                    | R                    | A                      | I                 |
+| Secure Funding             | A                  | I                | I                    | R                    | I                      | I                 |
+| **Planning Phase**         |                    |                  |                      |                      |                        |                   |
+| Define Scope/Objectives    | A                  | R                | C                    | R                    | I                      | I                 |
+| Develop Schedule           | C                  | I                | C                    | R                    | I                      | I                 |
+| Define Budget              | A                  | I                | C                    | R                    | I                      | I                 |
+| Risk Management Plan [Ref 15] | A                  | C                | C                    | R                    | I                      | I                 |
+| Communication Plan        | A                  | R                | C                    | R                    | I                      | I                 |
+| **Execution Phase**        |                    |                  |                      |                      |                        |                   |
+| Manage Work Packages       | I                  | I                | I                    | R                    | I                      | A, C               |
+| Implement Configuration  | I                  | I                | I                    | C                    | I                      | R, A               |
+| Manage Issues/Risks        | I                  | C                | C                    | R                    | I                      | A                  |
+| Monitor Performance        | A                  | C                | C                    | R                    | I                      | I                 |
+| **Closing Phase**          |                    |                  |                      |                      |                        |                   |
+| Deliver Project Outputs    | A                  | R                | C                    | C                    | I                      | A                  |
+| Conduct Closure Review    | C                  | R                | C                    | R                    | I                      | I                 |
+| Obtain Formal Acceptance  | A                  | R                | C                    | C                    | I                      | I                 |
+| Archive Documentation      | I                  | I                | I                    | R                    | I                      | A                  |
+
+**RACI Codes:**
+
+*   **R:** Responsible (The person who does the work)
+*   **A:** Accountable (The person who owns the work and approves it)
+*   **C:** Consulted (People who provide input)
+*   **I:** Informed (People who are kept up-to-date)
+
+-----
+
+**5. Decision Gates**
+
+I. **End of Initiation Phase:** Decision to proceed to the Planning Phase. This gate reviews the Project Initiation Documentation (PID) to ensure the project is viable and aligned with organizational goals.
+II. **End of Planning Phase:** Decision to proceed to the Execution Phase. This gate reviews the project plan, budget, and schedule to ensure they are realistic and achievable [Ref 3].
+III. **End of Each Stage (During Execution):** Decision to continue the next stage or end. These decision gates assess the progress made during the stage, the remaining risks, and the overall project viability [Ref 9].
+IV. **Project Closure:** Decision to formally close the project. This gate reviews the project deliverables and lessons learned to ensure that the project has achieved its objectives [Ref 11].
+
+-----
+
+**6. Embeddings & Citations Section**
+
+**Note:**
+
+Ref 1: ISO21502, Page 9 (Similarity: 0.588)
+Ref 2: PMBOK, Page 24 (Similarity: 0.586)
+Ref 3: PMBOK, Page 30 (Similarity: 0.573)
+Ref 4: ISO21502, Page 12 (Similarity: 0.543)
+Ref 5: PRINCE2, Page 4 (Similarity: 0.534)
+Ref 6: ISO21500, Page 9 (Similarity: 0.520)
+Ref 9: PRINCE2, Page 6 (Similarity: 0.503)
+Ref 11: ISO21502, Page 11 (Similarity: 0.500)
+Ref 12: PMBOK, Page 10 (Similarity: 0.499)
+Ref 15: PMBOK, Page 20 (Similarity: 0.476)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 6: Page 9, Similarity: 0.520 (/pdf/ISO21500#page=9)
+- Ref 7: Page 9, Similarity: 0.508 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 10: Page 1, Similarity: 0.500 (/pdf/ISO21502#page=1)
+- Ref 14: Page 7, Similarity: 0.479 (/pdf/ISO21502#page=7)
+- Ref 1: Page 9, Similarity: 0.588 (/pdf/ISO21502#page=9)
+- Ref 8: Page 10, Similarity: 0.503 (/pdf/ISO21502#page=10)
+- Ref 11: Page 11, Similarity: 0.500 (/pdf/ISO21502#page=11)
+- Ref 4: Page 12, Similarity: 0.543 (/pdf/ISO21502#page=12)
+
+**PMBOK:**
+- Ref 13: Page 9, Similarity: 0.484 (/pdf/PMBOK#page=9)
+- Ref 12: Page 10, Similarity: 0.499 (/pdf/PMBOK#page=10)
+- Ref 15: Page 20, Similarity: 0.476 (/pdf/PMBOK#page=20)
+- Ref 2: Page 24, Similarity: 0.586 (/pdf/PMBOK#page=24)
+- Ref 3: Page 30, Similarity: 0.573 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 5: Page 4, Similarity: 0.534 (/pdf/PRINCE2#page=4)
+- Ref 9: Page 6, Similarity: 0.503 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 15342_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.588) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.586) → /pdf/PMBOK#page=24
+• [Ref 3] PMBOK - Page 30 (Similarity: 0.573) → /pdf/PMBOK#page=30
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.543) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.534) → /pdf/PRINCE2#page=4
+• [Ref 6] ISO21500 - Page 9 (Similarity: 0.520) → /pdf/ISO21500#page=9
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.508) → /pdf/ISO21500#page=9
+• [Ref 8] ISO21502 - Page 10 (Similarity: 0.503) → /pdf/ISO21502#page=10
+• [Ref 9] PRINCE2 - Page 6 (Similarity: 0.503) → /pdf/PRINCE2#page=6
+• [Ref 10] ISO21502 - Page 1 (Similarity: 0.500) → /pdf/ISO21502#page=1
+• [Ref 11] ISO21502 - Page 11 (Similarity: 0.500) → /pdf/ISO21502#page=11
+• [Ref 12] PMBOK - Page 10 (Similarity: 0.499) → /pdf/PMBOK#page=10
+• [Ref 13] PMBOK - Page 9 (Similarity: 0.484) → /pdf/PMBOK#page=9
+• [Ref 14] ISO21502 - Page 7 (Similarity: 0.479) → /pdf/ISO21502#page=7
+• [Ref 15] PMBOK - Page 20 (Similarity: 0.476) → /pdf/PMBOK#page=20

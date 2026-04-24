@@ -1,0 +1,147 @@
+Scenario: [11142] Custom Project (Manual Configuration) | Software Development | Small (< 6 months) | Finance | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Finance Software Development Project (Small, PRINCE2)
+
+#### Process Summary
+
+This process recommendation outlines a streamlined approach for a small-scale, finance software development project, leveraging the PRINCE2 methodology. The project, estimated to be completed in under six months, involves manual configuration within the finance industry. This recommendation emphasizes a structured yet adaptable approach, considering the project's size and the need for efficiency. It follows the guidance of ISO 21502, which provides guidance for project management applicable to any type of project [Ref 1, Ref 6, Ref 13], and integrates principles from PMBOK and PRINCE2 to ensure successful project delivery. The process is designed to address typical project challenges such as ambiguity regarding responsibilities and deliverables [Ref 5]. The project will focus on value delivery, effective stakeholder engagement, and adaptable planning [Ref 10, Ref 14]. This is a temporary endeavour to achieve the defined objectives [Ref 7].
+
+-----
+
+#### Phases and Activities
+
+This project will follow a phased approach, aligned with PRINCE2 principles [Ref 8]. The project will go through the entire project lifecycle, and each phase includes checklist recommendations [Ref 8].
+
+**I. Project Initiation**
+
+This phase is crucial for setting the foundation of the project.
+
+i.  **Define Project Objectives and Scope:** Clearly define the project's goals, deliverables, and scope, with careful consideration for the finance industry’s requirements. This involves understanding the product scope and project scope, including estimates of cost and effort [Ref 2].
+ii.  **Stakeholder Analysis:** Identify and analyze all stakeholders and their interests [Ref 3, Ref 4, Ref 7].
+iii. **Create Project Initiation Documentation (PID):** Develop key documents (e.g., project brief, project plan, risk log) that will define the project's purpose and how success will be measured.
+iv.  **Obtain Project Mandate & Sponsor Approval:** Ensure the project has a clear mandate and gain formal approval from the sponsor [Ref 7].
+v.  **Establish Project Team:** Determine the team composition and assign roles and responsibilities [Ref 2].
+
+**II. Planning**
+
+This phase will refine the plan created in Project Initiation and establish specific plans for execution.
+
+i.  **Refine Project Plan:** Update the project plan with detailed activities, resources, and a schedule.
+ii.  **Develop Detailed Requirements:** Document the specific software requirements in detail.
+iii. **Create Quality and Configuration Management Plan** This ensures the quality of the software.
+iv.  **Risk Management Plan:** Develop a comprehensive risk management plan, identify potential risks, and plan for mitigation and contingency [Ref 9].
+v.  **Create a Communication Plan:** Outline how communication will be managed between the project team, stakeholders, and other relevant parties [Ref 2].
+vi. **Define Procurement Process:** Identify any procurement that is required for the project [Ref 2].
+
+**III. Execution and Delivery**
+
+This is where the software development and configuration take place.
+
+i.  **Software Development and Configuration:** Implement the software according to the requirements and configuration specifications.
+ii.  **Regular Progress Reviews:** Conduct regular project meetings to monitor progress, address issues, and manage changes.
+iii. **Configuration Management:** All project processes should use configuration management [Ref 2].
+iv.  **Risk Mitigation:** Implement risk mitigation plans.
+v.  **Communication & Reporting:** Ensure that stakeholders are up-to-date and that reports are delivered on time, as planned.
+vi.  **Testing and Quality Assurance:** Conduct regular testing.
+
+**IV. Monitoring and Control**
+
+Ongoing monitoring and control are essential.
+
+i.  **Track Progress Against Plan:** Regularly monitor project performance against the plan, using metrics, and identify deviations.
+ii.  **Manage Issues and Risks:** Address any issues promptly and manage identified risks.
+iii.  **Change Management:** Implement the change management process [Ref 2] to control changes to the project scope and deliverables.
+iv.  **Regular Audits:** Perform regular audits to ensure quality compliance.
+
+**V. Project Closure**
+
+This phase marks the official completion of the project.
+
+i.  **Final Software Testing & Deployment:** Complete final testing, deploy the software, and prepare for handover.
+ii.  **Obtain Project Acceptance:** Obtain formal acceptance of the software from the stakeholders.
+iii. **Handover Deliverables:** Transfer project deliverables to the stakeholders.
+iv.  **Project Review and Evaluation:** Conduct a project review to assess performance, identify lessons learned, and document the outcomes.
+v.  **Close Out Contracts:** Close out all project contracts.
+vi.  **Archive Documentation:** Archive all project documentation.
+
+-----
+
+#### Roles
+
+i.  **Project Manager:** Responsible for overall project management, planning, execution, monitoring, and closure.
+ii.  **Project Sponsor:** Provides resources, support, and executive decisions.
+iii. **Business Analyst (optional):** Gathers and documents requirements.
+iv.  **Software Developer(s):** Develops and configures the software.
+v.  **Quality Assurance (QA) Analyst:** Responsible for testing and quality assurance activities.
+vi.  **Stakeholders:** Individuals or organizations with interests in the project.
+
+-----
+
+#### RACI Matrix
+
+| Phase                    | Project Manager | Project Sponsor | Software Developer(s) | Business Analyst (Optional) | QA Analyst  | Stakeholders |
+|--------------------------|-----------------|-----------------|------------------------|-----------------------------|-------------|--------------|
+| I. Project Initiation     | R               | A               | I                      | C                           | I           | C            |
+| II. Planning            | R               | A               | C                      | C                           | I           | C            |
+| III. Execution & Delivery | R               | I               | A                      | I                           | A           | C            |
+| IV. Monitoring & Control  | R               | C               | I                      | I                           | A           | C            |
+| V. Project Closure        | R               | A               | I                      | I                           | C           | C            |
+
+**Key:** R = Responsible, A = Accountable, C = Consulted, I = Informed
+
+-----
+
+#### Decision Gates
+
+These are critical points where decisions are made to proceed or adjust the project.
+
+i.  **Project Initiation Approval:** A decision gate at the end of Project Initiation to ensure project alignment with business objectives and resource allocation. This should have sponsor approval [Ref 7].
+ii.  **Planning Phase Approval:** A decision gate at the end of the Planning phase to review the detailed project plan and gain approval before proceeding.
+iii. **Requirements Sign-off** Requirements should be signed off before coding to ensure the product meets expectations.
+iv.  **Delivery Phase Acceptance:** A decision gate following the completion of software testing.
+v.  **Project Closure Approval:** The final decision gate involves obtaining acceptance of the deliverables and formal closure of the project [Ref 8].
+-----
+
+#### Note
+
+*   Ref 1: ISO21502, Page 9 (Similarity: 0.643)
+*   Ref 2: PMBOK, Page 30 (Similarity: 0.601)
+*   Ref 3: PMBOK, Page 24 (Similarity: 0.596)
+*   Ref 4: ISO21502, Page 12 (Similarity: 0.582)
+*   Ref 5: PRINCE2, Page 4 (Similarity: 0.562)
+*   Ref 6: ISO21502, Page 1 (Similarity: 0.542)
+*   Ref 7: ISO21500, Page 9 (Similarity: 0.531)
+*   Ref 8: PRINCE2, Page 6 (Similarity: 0.531)
+*   Ref 9: ISO21500, Page 9 (Similarity: 0.525)
+*   Ref 10: PMBOK, Page 10 (Similarity: 0.525)
+*   Ref 11: ISO21500, Page 7 (Similarity: 0.512)
+*   Ref 12: ISO21502, Page 14 (Similarity: 0.501)
+*   Ref 13: ISO21502, Page 7 (Similarity: 0.501)
+*   Ref 14: PMBOK, Page 9 (Similarity: 0.493)
+*   Ref 15: ISO21502, Page 7 (Similarity: 0.492)
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 11142_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.643) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.601) → /pdf/PMBOK#page=30
+• [Ref 3] PMBOK - Page 24 (Similarity: 0.596) → /pdf/PMBOK#page=24
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.582) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.562) → /pdf/PRINCE2#page=4
+• [Ref 6] ISO21502 - Page 1 (Similarity: 0.542) → /pdf/ISO21502#page=1
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.531) → /pdf/ISO21500#page=9
+• [Ref 8] PRINCE2 - Page 6 (Similarity: 0.531) → /pdf/PRINCE2#page=6
+• [Ref 9] ISO21500 - Page 9 (Similarity: 0.525) → /pdf/ISO21500#page=9
+• [Ref 10] PMBOK - Page 10 (Similarity: 0.525) → /pdf/PMBOK#page=10
+• [Ref 11] ISO21500 - Page 7 (Similarity: 0.512) → /pdf/ISO21500#page=7
+• [Ref 12] ISO21502 - Page 14 (Similarity: 0.501) → /pdf/ISO21502#page=14
+• [Ref 13] ISO21502 - Page 7 (Similarity: 0.501) → /pdf/ISO21502#page=7
+• [Ref 14] PMBOK - Page 9 (Similarity: 0.493) → /pdf/PMBOK#page=9
+• [Ref 15] ISO21502 - Page 7 (Similarity: 0.492) → /pdf/ISO21502#page=7

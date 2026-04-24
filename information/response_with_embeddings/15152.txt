@@ -1,0 +1,206 @@
+Scenario: [15152] Custom Project (Manual Configuration) | Infrastructure | Small (< 6 months) | Education | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation for Small-Scale Education Infrastructure Project (PRINCE2)
+
+#### 1. Process Summary
+
+This process recommendation outlines the project management approach for a small-scale education infrastructure project, specifically tailored for manual configuration. This approach aligns with PRINCE2 principles [Ref 5, Ref 8] and is designed for projects expected to complete within six months. The project will leverage key PRINCE2 processes and focus areas, including a clearly defined project structure, roles and responsibilities, and decision gates to ensure successful delivery. The project will adhere to a defined lifecycle with phases, activities, and deliverables [Ref 13]. Effective stakeholder management, planning, and control are crucial for achieving project objectives. Project management involves the application of methods, tools, techniques, and competencies to enable the project to meet its objectives [Ref 5]. The project will deliver value and adapt to change [Ref 15].
+
+-----
+
+#### 2. Phases and Activities
+
+The project will be managed using the following phases, drawing upon PRINCE2 best practices:
+
+I.  **Starting Up a Project:** This phase focuses on the initial assessment and setup of the project [Ref 8].
+    i.  **Appoint the Project Manager:** Identify and appoint the Project Manager with clear responsibilities [Ref 5].
+    ii. **Capture Project Approach:** Define the project approach and the use of PRINCE2.
+    iii. **Design and Appoint Project Team:** Establish a core project team.
+    iv.  **Create Project Brief:** Develop a high-level project brief outlining the project's purpose, scope, and objectives.
+
+II. **Initiating a Project:** This phase expands the project brief to detail, and gain authorisation to proceed [Ref 8].
+    i.  **Define Project Scope:** Define the project deliverables, using a Work Breakdown Structure (WBS) to decompose scope [Ref 4].
+    ii.  **Develop Project Plan:** Create a detailed project plan including timelines, resources, and budget. Planning includes product scope, project scope, estimating, scheduling, budget, team composition, communication plan, procurement, and change management [Ref 3].
+    iii. **Identify and Manage Risks:** Identify potential risks and develop mitigation strategies [Ref 9].
+    iv.  **Develop Quality Plan:** Define quality standards and how they will be met [Ref 6].
+    v.  **Refine Project Brief and Create the Project Initiation Document (PID):** Consolidate all the information.
+
+III. **Directing a Project:** This phase involves the project board decision-making [Ref 7].
+    i. **Authorise the Project:** Review and approve the PID and project plan.
+    ii. **Authorise a Stage or Exception Plan:** Review and approve stage plans and manage changes.
+    iii. **Give Ad-hoc Direction:** Make decisions based on project progress and issues.
+    iv. **Project Closure:** Review the project's success.
+
+IV. **Controlling a Stage:** This phase is focused on the day-to-day management [Ref 8].
+    i.  **Authorize Work Packages:** Delegate and authorize work.
+    ii.  **Review the State of the Stage:** Review progress and performance.
+    iii. **Report Highlights and Exceptions:** Manage and report issues.
+    iv. **Escalate Issues:** Escalate issues if necessary.
+    v.  **Take Corrective Action:** Implement actions to stay on plan.
+
+V.  **Managing Product Delivery:** This phase focuses on the team delivering the work packages.
+    i. **Accept Work Package:** Ensure that team are working on authorised work.
+    ii. **Do Work Package:** Perform the work.
+    iii. **Deliver Work Package:** Deliver work package and provide status report.
+
+VI. **Managing Stage Boundaries:** This phase involves closing a stage and making a decision [Ref 10].
+    i. **Review Stage Status:** Review current stage status.
+    ii.  **Create an Exception Plan (if needed):** Manage stage changes.
+    iii. **Prepare the next Stage Plan:** Plan the next stage.
+    iv. **Report Stage End:** Report stage end.
+
+VII. **Closing a Project:** This final phase formalizes project completion [Ref 8].
+    i.  **Prepare Project Closure Documentation:** Consolidate all information and close out all contracts.
+    ii.  **Hand Over Products:** Ensure all products are transferred.
+    iii.  **Evaluate the Project:** Review the project's success against objectives.
+    iv.  **Recommend Follow-Up Actions:** Provide any follow-up actions.
+
+-----
+
+#### 3. Roles
+
+Key project roles with defined responsibilities are essential [Ref 5].
+
+*   **Project Board:** Responsible for overall project direction and decision-making. Includes a Senior User, Senior Supplier, and Project Executive.
+*   **Project Executive:** Accountable for the project's success [Ref 7].
+*   **Senior User:** Represents the users and their requirements.
+*   **Senior Supplier:** Represents the resources to be used and provides them [Ref 7].
+*   **Project Manager:** Manages the day-to-day activities of the project and is accountable for the delivery of the project's products.
+*   **Team Manager:** Manages the creation of the deliverables.
+*   **Project Support:** Provides administrative and project support.
+
+-----
+
+#### 4. RACI Matrix
+
+| **Phase**                               | **Project Executive** | **Senior User** | **Senior Supplier** | **Project Manager** | **Team Manager** | **Project Support** |
+| --------------------------------------- | --------------------- | --------------- | ------------------- | ------------------- | ---------------- | ------------------- |
+| **I. Starting Up a Project**            | I                     | C               | I                   | R                   |                   | C                   |
+| i. Appoint the Project Manager         | I                     | C               | I                   | R                   |                   | C                   |
+| ii. Capture Project Approach            | I                     | C               | I                   | R                   |                   | C                   |
+| iii. Design and Appoint Project Team   | I                     | C               | I                   | R                   |                   | C                   |
+| iv. Create Project Brief                | I                     | C               | I                   | R                   |                   | C                   |
+| **II. Initiating a Project**          | A                     | C               | C                   | R                   |                   | I                   |
+| i. Define Project Scope                  | A                     | C               | C                   | R                   |                   | I                   |
+| ii. Develop Project Plan               | A                     | C               | C                   | R                   |                   | I                   |
+| iii. Identify and Manage Risks          | A                     | C               | C                   | R                   |                   | I                   |
+| iv. Develop Quality Plan                 | A                     | C               | C                   | R                   |                   | I                   |
+| v. Refine Project Brief and PID        | A                     | C               | C                   | R                   |                   | I                   |
+| **III. Directing a Project**            | A                     | C               | C                   | I                   |                   | I                   |
+| i. Authorise the Project                | A                     | C               | C                   | I                   |                   | I                   |
+| ii. Authorise a Stage or Exception Plan | A                     | C               | C                   | I                   |                   | I                   |
+| iii. Give Ad-hoc Direction              | A                     | C               | C                   | I                   |                   | I                   |
+| iv. Project Closure                      | A                     | C               | C                   | I                   |                   | I                   |
+| **IV. Controlling a Stage**             | I                     | C               | C                   | R                   |                   | I                   |
+| i. Authorize Work Packages             | I                     | C               | C                   | R                   | A                 | I                   |
+| ii. Review the State of the Stage       | I                     | C               | C                   | R                   | A                 | I                   |
+| iii. Report Highlights and Exceptions   | I                     | C               | C                   | R                   | A                 | I                   |
+| iv. Escalate Issues                     | I                     | C               | C                   | R                   | A                 | I                   |
+| v. Take Corrective Action              | I                     | C               | C                   | R                   | A                 | I                   |
+| **V. Managing Product Delivery**         | I                     | C               | C                   | C                   | R                 | I                   |
+| i. Accept Work Package                 | I                     | C               | C                   | C                   | R                 | I                   |
+| ii. Do Work Package                    | I                     | C               | C                   | C                   | R                 | I                   |
+| iii. Deliver Work Package                | I                     | C               | C                   | C                   | R                 | I                   |
+| **VI. Managing Stage Boundaries**        | A                     | C               | C                   | R                   |                   | I                   |
+| i. Review Stage Status                 | A                     | C               | C                   | R                   |                   | I                   |
+| ii. Create an Exception Plan            | A                     | C               | C                   | R                   |                   | I                   |
+| iii. Prepare the next Stage Plan       | A                     | C               | C                   | R                   |                   | I                   |
+| iv. Report Stage End                   | A                     | C               | C                   | R                   |                   | I                   |
+| **VII. Closing a Project**              | A                     | C               | C                   | R                   |                   | I                   |
+| i. Prepare Project Closure Documentation | A                     | C               | C                   | R                   |                   | I                   |
+| ii. Hand Over Products                  | A                     | C               | C                   | R                   |                   | I                   |
+| iii. Evaluate the Project              | A                     | C               | C                   | R                   |                   | I                   |
+| iv. Recommend Follow-Up Actions        | A                     | C               | C                   | R                   |                   | I                   |
+
+*   **R** = Responsible, **A** = Accountable, **C** = Consulted, **I** = Informed
+
+-----
+
+#### 5. Decision Gates
+
+Critical decision points will occur throughout the project [Ref 8]. Key decision gates include:
+
+*   **Project Initiation Approval:** The Project Board reviews and approves the Project Initiation Document (PID) to authorize the project to proceed (Phase II).
+*   **Stage Boundary Reviews:** At the end of each stage, the Project Board reviews progress, performance, and the next stage plan to authorize continuation (Phase VI).
+*   **Project Closure Approval:** The Project Board reviews the final project documentation and approves project closure (Phase VII).
+
+-----
+
+#### 6. Embeddings & Citations Section
+
+Note:
+*   Ref 1: PMBOK, Page 24 (Similarity: 0.594)
+*   Ref 2: ISO21502, Page 9 (Similarity: 0.582)
+*   Ref 3: PMBOK, Page 30 (Similarity: 0.551)
+*   Ref 4: ISO21502, Page 12 (Similarity: 0.541)
+*   Ref 5: PRINCE2, Page 4 (Similarity: 0.527)
+*   Ref 6: PMBOK, Page 10 (Similarity: 0.524)
+*   Ref 7: ISO21500, Page 9 (Similarity: 0.521)
+*   Ref 8: PRINCE2, Page 6 (Similarity: 0.508)
+*   Ref 9: ISO21500, Page 9 (Similarity: 0.508)
+*   Ref 10: ISO21502, Page 10 (Similarity: 0.495)
+*   Ref 11: ISO21502, Page 1 (Similarity: 0.492)
+*   Ref 12: ISO21502, Page 11 (Similarity: 0.491)
+*   Ref 13: ISO21502, Page 11 (Similarity: 0.488)
+*   Ref 14: ISO21502, Page 7 (Similarity: 0.482)
+*   Ref 15: PMBOK, Page 9 (Similarity: 0.481)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 7: Page 9, Similarity: 0.521 (/pdf/ISO21500#page=9)
+- Ref 9: Page 9, Similarity: 0.508 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 11: Page 1, Similarity: 0.492 (/pdf/ISO21502#page=1)
+- Ref 14: Page 7, Similarity: 0.482 (/pdf/ISO21502#page=7)
+- Ref 2: Page 9, Similarity: 0.582 (/pdf/ISO21502#page=9)
+- Ref 10: Page 10, Similarity: 0.495 (/pdf/ISO21502#page=10)
+- Ref 12: Page 11, Similarity: 0.491 (/pdf/ISO21502#page=11)
+- Ref 13: Page 11, Similarity: 0.488 (/pdf/ISO21502#page=11)
+- Ref 4: Page 12, Similarity: 0.541 (/pdf/ISO21502#page=12)
+
+**PMBOK:**
+- Ref 15: Page 9, Similarity: 0.481 (/pdf/PMBOK#page=9)
+- Ref 6: Page 10, Similarity: 0.524 (/pdf/PMBOK#page=10)
+- Ref 1: Page 24, Similarity: 0.594 (/pdf/PMBOK#page=24)
+- Ref 3: Page 30, Similarity: 0.551 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 5: Page 4, Similarity: 0.527 (/pdf/PRINCE2#page=4)
+- Ref 8: Page 6, Similarity: 0.508 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 15152_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 24 (Similarity: 0.594) → /pdf/PMBOK#page=24
+• [Ref 2] ISO21502 - Page 9 (Similarity: 0.582) → /pdf/ISO21502#page=9
+• [Ref 3] PMBOK - Page 30 (Similarity: 0.551) → /pdf/PMBOK#page=30
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.541) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.527) → /pdf/PRINCE2#page=4
+• [Ref 6] PMBOK - Page 10 (Similarity: 0.524) → /pdf/PMBOK#page=10
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.521) → /pdf/ISO21500#page=9
+• [Ref 8] PRINCE2 - Page 6 (Similarity: 0.508) → /pdf/PRINCE2#page=6
+• [Ref 9] ISO21500 - Page 9 (Similarity: 0.508) → /pdf/ISO21500#page=9
+• [Ref 10] ISO21502 - Page 10 (Similarity: 0.495) → /pdf/ISO21502#page=10
+• [Ref 11] ISO21502 - Page 1 (Similarity: 0.492) → /pdf/ISO21502#page=1
+• [Ref 12] ISO21502 - Page 11 (Similarity: 0.491) → /pdf/ISO21502#page=11
+• [Ref 13] ISO21502 - Page 11 (Similarity: 0.488) → /pdf/ISO21502#page=11
+• [Ref 14] ISO21502 - Page 7 (Similarity: 0.482) → /pdf/ISO21502#page=7
+• [Ref 15] PMBOK - Page 9 (Similarity: 0.481) → /pdf/PMBOK#page=9

@@ -1,0 +1,197 @@
+Scenario: [15322] Custom Project (Manual Configuration) | Infrastructure | Large (> 18 months) | Construction | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Large-Scale Construction Infrastructure Project (PRINCE2)
+
+#### 1. Process Summary
+
+This process recommendation outlines a comprehensive project management framework for a large-scale construction infrastructure project using the PRINCE2 methodology. The project, expected to exceed 18 months, involves manual configuration and encompasses the entire project lifecycle, from initiation to closure [Ref 7]. This framework leverages the principles and practices of PRINCE2, as well as relevant guidance from PMBOK and ISO standards (ISO21502, ISO21500), to ensure the project meets its objectives, delivers value, and is managed effectively [Ref 8, 11, 12]. The core of this project management plan will focus on areas from the references, including stakeholder management, planning, risk management, and change management [Ref 1, 2, 13].
+
+-----
+
+#### 2. Phases and Activities
+
+This project will be structured into distinct phases, mirroring the PRINCE2 recommended structure. Each phase will have defined activities, deliverables, and decision points.
+
+**I. Project Initiation**
+
+i.  **Define Project Objectives and Scope:** Establish clear, measurable, achievable, relevant, and time-bound (SMART) objectives [Ref 8, 20]. Define the project scope, including deliverables, in a Work Breakdown Structure (WBS) [Ref 4].
+ii.  **Identify and Engage Stakeholders:** Identify all stakeholders and document their needs, expectations, and influence [Ref 1, 8]. Develop a stakeholder communication plan.
+iii.  **Establish Project Governance:** Define the project governance structure, including roles, responsibilities, reporting lines, and escalation procedures [Ref 6, 9].
+iv.  **Develop Project Plan:** Create a comprehensive project plan encompassing scope, schedule, budget, resource allocation, risk management, quality management, and communication plans [Ref 2]. This will be the main point of reference throughout the entire project.
+
+**II. Project Planning and Design**
+
+i.  **Detailed Design and Engineering:** Develop detailed designs and engineering specifications.
+ii.  **Procurement:** Identify and select vendors and subcontractors; prepare and manage procurement contracts [Ref 2].
+iii.  **Risk Assessment and Management:** Identify potential risks (threats and opportunities) [Ref 13], assess their impact, and develop mitigation plans [Ref 10, 13].
+iv.  **Scheduling and Resource Planning:** Create a detailed project schedule, allocate resources, and establish a budget.
+v.  **Configuration Management Plan:** This is crucial given the manual configuration requirement, which will guide the documentation and implementation of project configurations.
+
+**III. Construction and Implementation**
+
+i.  **Site Preparation and Construction:** Execute construction activities according to the approved plans and specifications.
+ii.  **Progress Monitoring and Control:** Monitor progress against the project schedule and budget. Manage changes, issues, and risks effectively.
+iii.  **Quality Assurance:** Implement quality control measures and ensure deliverables meet the defined quality standards [Ref 8].
+iv.  **Configuration Implementation:** Implement project configurations based on the developed and approved plans.
+v.  **Issue and Change Management:** Manage all issues and changes throughout the project using the change management plan [Ref 2].
+
+**IV. Testing and Commissioning**
+
+i.  **Testing:** Conduct thorough testing of all implemented configurations and functionalities.
+ii.  **Commissioning:** Commission the infrastructure, ensuring its readiness for operation.
+iii.  **Handover Documentation:** Preparing all project information in order to effectively handover the project, including training documentation.
+
+**V. Project Closure**
+
+i.  **Project Acceptance:** Obtain formal acceptance of the project deliverables from the client.
+ii.  **Finalize Documentation:** Complete all project documentation, including as-built drawings and operation manuals.
+iii.  **Project Evaluation:** Conduct a post-project review to identify lessons learned and improve future project management practices.
+iv.  **Project Closure and Sign-Off:** Formally close out the project, including financial close-out and stakeholder sign-off.
+
+-----
+
+#### 3. Roles
+
+The following roles are essential for the successful execution of this project:
+
+*   **Project Sponsor:** Responsible for obtaining resources and making executive decisions [Ref 8].
+*   **Project Manager:** Responsible for the day-to-day management of the project, leading the project team and ensuring project objectives are met [Ref 5].
+*   **Senior User(s):** Represent the project's beneficiaries and ensure the project delivers the required outputs to achieve the desired outcomes.
+*   **Senior Supplier(s):** Represent the individuals, roles, and/or organizations responsible for the design, development, and delivery of the project's products.
+*   **Project Assurance:** Provides independent oversight to ensure the project is being managed correctly and that all of the projects aspects align with the PRINCE2 method.
+*   **Configuration Manager:** Responsible for managing and controlling the project's configurations and documentation.
+*   **Construction Manager:** Oversees the day-to-day construction activities.
+*   **Quality Manager:** Responsible for ensuring the quality of all project deliverables.
+*   **Risk Manager:** Manages the identification, assessment, and mitigation of project risks [Ref 10, 13].
+*   **Stakeholder Representatives:** Represent specific stakeholder interests and provide input throughout the project lifecycle.
+
+-----
+
+#### 4. RACI Matrix
+
+This RACI matrix provides a high-level overview of responsibilities for key project activities.
+
+| **Phase/Activity**                     | Project Sponsor | Project Manager | Senior User | Senior Supplier | Configuration Manager | Construction Manager | Quality Manager | Risk Manager |
+| :------------------------------------- | :-------------- | :-------------- | :---------- | :------------- | :-------------------- | :--------------------- | :-------------- | :----------- |
+| **I. Project Initiation**               | A               | R               | C           | I              | I                     | I                      | C               | C            |
+| Define Objectives & Scope              |                 |                 |             |                |                       |                        |                 |              |
+| Identify & Engage Stakeholders         |                 | R               | A           | C              | I                     | I                      | C               | C            |
+| Establish Project Governance           | A               | R               | C           | C              | I                     | I                      | I               | C            |
+| Develop Project Plan                    | C               | R               | C           | C              | I                     | I                      | C               | R            |
+| **II. Project Planning & Design**       | C               | R               | C           | A              | R                     | I                      | C               | R            |
+| Detailed Design and Engineering        |                 |                 |             |                | R                     | A                      | C               | I            |
+| Procurement                            | C               | R               | C           | A              | I                     | I                      | I               | I            |
+| Risk Assessment & Management           | C               | R               | C           | I              | I                     | I                      | C               | A            |
+| Scheduling & Resource Planning         | C               | R               | C           | C              | I                     | I                      | C               | I            |
+| Configuration Management Plan           | C               | R               | C           | C              | A                     | I                      | C               | I            |
+| **III. Construction & Implementation**  | C               | R               | C           | C              | A                     | R                      | A               | R            |
+| Site Preparation & Construction       |                 |                 |             |                | I                     | R                      | A               | I            |
+| Progress Monitoring & Control          | C               | R               | C           | C              | A                     | R                      | C               | R            |
+| Quality Assurance                     | C               | R               | C           | C              | A                     | I                      | R               | I            |
+| Configuration Implementation           | C               | R               | C           | C              | R                     | I                      | C               | I            |
+| Issue and Change Management           | C               | R               | C           | C              | A                     | I                      | C               | C            |
+| **IV. Testing & Commissioning**        | C               | R               | A           | C              | A                     | I                      | R               | I            |
+| Testing                                |                 |                 |             |                | A                     | I                      | R               | I            |
+| Commissioning                          |                 |                 |             |                | A                     | I                      | R               | I            |
+| Handover Documentation                  | C               | R               | A           | C              | R                     | I                      | C               | I            |
+| **V. Project Closure**                  | A               | R               | C           | C              | I                     | I                      | C               | I            |
+| Project Acceptance                    | A               | R               | A           | C              | I                     | I                      | C               | I            |
+| Finalize Documentation                 | C               | R               | C           | C              | A                     | I                      | C               | I            |
+| Project Evaluation                    | A               | R               | C           | C              | I                     | I                      | C               | I            |
+| Project Closure and Sign-Off          | A               | R               | C           | C              | I                     | I                      | C               | I            |
+
+*   **R** = Responsible, **A** = Accountable, **C** = Consulted, **I** = Informed
+
+-----
+
+#### 5. Decision Gates
+
+Decision gates are critical points in the project lifecycle where key decisions are made to authorize the project to proceed to the next phase [Ref 7, 9]. The following are key decision gates for this project, aligning with PRINCE2 principles:
+
+*   **Project Initiation Sign-Off:** Approval of the Project Initiation Documentation (PID), signifying the project's official start.
+*   **Project Plan Approval:** Approval of the detailed project plan, including the scope, schedule, budget, risk management, and communication plans [Ref 2].
+*   **Phase-End Reviews:** Reviews at the end of each project phase to assess progress against the plan, review risks, and approve the initiation of the next phase.
+*   **Construction Completion Sign-Off:** Approval of the construction phase, including validation of completed work packages.
+*   **Testing & Commissioning Results Review:** Approval of test results and the commissioning process.
+*   **Project Closure Sign-Off:** Formal acceptance of the completed project and final handover of deliverables.
+
+-----
+
+#### 6. Embeddings & Citations Section
+
+Note:
+Ref 1: PMBOK, Page 24 (Similarity: 0.599)
+Ref 2: PMBOK, Page 30 (Similarity: 0.589)
+Ref 3: ISO21502, Page 9 (Similarity: 0.554)
+Ref 4: ISO21502, Page 12 (Similarity: 0.552)
+Ref 5: PRINCE2, Page 4 (Similarity: 0.549)
+Ref 6: ISO21502, Page 10 (Similarity: 0.527)
+Ref 7: PRINCE2, Page 6 (Similarity: 0.521)
+Ref 8: ISO21500, Page 9 (Similarity: 0.506)
+Ref 9: ISO21502, Page 11 (Similarity: 0.503)
+Ref 10: PMBOK, Page 10 (Similarity: 0.502)
+Ref 11: PMBOK, Page 9 (Similarity: 0.491)
+Ref 12: ISO21502, Page 7 (Similarity: 0.488)
+Ref 13: PMBOK, Page 20 (Similarity: 0.485)
+Ref 14: ISO21500, Page 9 (Similarity: 0.479)
+Ref 15: ISO21502, Page 11 (Similarity: 0.472)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 8: Page 9, Similarity: 0.506 (/pdf/ISO21500#page=9)
+- Ref 14: Page 9, Similarity: 0.479 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 12: Page 7, Similarity: 0.488 (/pdf/ISO21502#page=7)
+- Ref 3: Page 9, Similarity: 0.554 (/pdf/ISO21502#page=9)
+- Ref 6: Page 10, Similarity: 0.527 (/pdf/ISO21502#page=10)
+- Ref 9: Page 11, Similarity: 0.503 (/pdf/ISO21502#page=11)
+- Ref 15: Page 11, Similarity: 0.472 (/pdf/ISO21502#page=11)
+- Ref 4: Page 12, Similarity: 0.552 (/pdf/ISO21502#page=12)
+
+**PMBOK:**
+- Ref 11: Page 9, Similarity: 0.491 (/pdf/PMBOK#page=9)
+- Ref 10: Page 10, Similarity: 0.502 (/pdf/PMBOK#page=10)
+- Ref 13: Page 20, Similarity: 0.485 (/pdf/PMBOK#page=20)
+- Ref 1: Page 24, Similarity: 0.599 (/pdf/PMBOK#page=24)
+- Ref 2: Page 30, Similarity: 0.589 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 5: Page 4, Similarity: 0.549 (/pdf/PRINCE2#page=4)
+- Ref 7: Page 6, Similarity: 0.521 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 15322_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 24 (Similarity: 0.599) → /pdf/PMBOK#page=24
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.589) → /pdf/PMBOK#page=30
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.554) → /pdf/ISO21502#page=9
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.552) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.549) → /pdf/PRINCE2#page=4
+• [Ref 6] ISO21502 - Page 10 (Similarity: 0.527) → /pdf/ISO21502#page=10
+• [Ref 7] PRINCE2 - Page 6 (Similarity: 0.521) → /pdf/PRINCE2#page=6
+• [Ref 8] ISO21500 - Page 9 (Similarity: 0.506) → /pdf/ISO21500#page=9
+• [Ref 9] ISO21502 - Page 11 (Similarity: 0.503) → /pdf/ISO21502#page=11
+• [Ref 10] PMBOK - Page 10 (Similarity: 0.502) → /pdf/PMBOK#page=10
+• [Ref 11] PMBOK - Page 9 (Similarity: 0.491) → /pdf/PMBOK#page=9
+• [Ref 12] ISO21502 - Page 7 (Similarity: 0.488) → /pdf/ISO21502#page=7
+• [Ref 13] PMBOK - Page 20 (Similarity: 0.485) → /pdf/PMBOK#page=20
+• [Ref 14] ISO21500 - Page 9 (Similarity: 0.479) → /pdf/ISO21500#page=9
+• [Ref 15] ISO21502 - Page 11 (Similarity: 0.472) → /pdf/ISO21502#page=11

@@ -1,0 +1,121 @@
+Scenario: [24111] Custom Software Development | Marketing | Small (< 6 months) | Information Technology | PMBOK
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: ISO21500, ISO21502, PRINCE2, PMBOK
+
+================================================================================
+
+### Process Recommendation for Small IT Marketing Project (PMBOK)
+
+This document outlines a recommended project management process for a small (< 6 months) Information Technology marketing project, utilizing the PMBOK methodology. The process is designed to be scalable and efficient, focusing on clear communication, stakeholder engagement, and value delivery.
+
+-----
+
+#### 1. Process Summary
+
+This process leverages PMBOK principles [Ref 2] to provide a structured approach to managing a small IT marketing project. It emphasizes tailoring [Ref 10] to the specific context of the project and building quality into processes and deliverables. The process includes defining the product and project scope, estimating resources, scheduling activities, managing the budget, composing the team, creating a communication plan, and developing a change management process [Ref 1]. Risk management is integral to the project [Ref 14]. Adaptability and embracing change are also important aspects of the process [Ref 10].
+
+-----
+
+#### 2. Phases and Activities
+
+The project will be executed in four key phases:
+
+**I. Initiation:**
+   i. **Define Project Objectives:** Clearly articulate the goals and objectives of the marketing campaign.
+   ii. **Identify Stakeholders:** Determine all relevant stakeholders and their interests [Ref 2].
+   iii. **Develop Project Charter:** Formally authorize the project and define key constraints.
+   iv. **High-Level Risk Assessment:** Identify potential risks and opportunities [Ref 14].
+
+**II. Planning:**
+   i. **Define Scope:** Develop a detailed project scope statement, including deliverables. [Ref 1]
+   ii. **Create Work Breakdown Structure (WBS):** Decompose the project scope into manageable tasks [Ref 5].
+   iii. **Estimate Resources:** Determine the resources required for each task. [Ref 1]
+   iv. **Develop Schedule:** Create a realistic project schedule with dependencies and milestones [Ref 1].
+   v. **Create Budget:** Develop a project budget based on resource estimates [Ref 1].
+   vi. **Develop Communication Plan:** Define communication protocols and frequency. [Ref 1]
+   vii. **Develop Risk Management Plan:** Identify, analyze, and plan responses to potential risks [Ref 14].
+
+**III. Execution:**
+   i. **Execute Tasks:** Carry out the tasks defined in the WBS.
+   ii. **Manage Resources:** Ensure resources are available when needed.
+   iii. **Monitor Progress:** Track project progress against the schedule and budget.
+   iv. **Manage Stakeholder Engagement:** Communicate regularly with stakeholders [Ref 10].
+   v. **Implement Risk Responses:** Execute planned risk responses as needed [Ref 14].
+   vi. **Manage Changes:** Implement change requests according to the change management plan. [Ref 1]
+   vii. **Ensure Quality:** Build quality into all deliverables. [Ref 10]
+
+**IV. Closure:**
+   i. **Final Deliverable Acceptance:** Obtain formal acceptance of all project deliverables.
+   ii. **Project Documentation:** Archive all project documentation.
+   iii. **Lessons Learned:** Document lessons learned for future projects.
+   iv. **Release Resources:** Release project resources back to the organization.
+   v. **Formal Project Closure:** Officially close the project.
+
+-----
+
+#### 3. Roles
+
+*   **Project Sponsor:** Provides overall direction and resources.
+*   **Project Manager:** Plans, executes, monitors, and controls the project.
+*   **Marketing Team:** Executes marketing activities.
+*   **IT Team:** Provides technical support.
+*   **Stakeholders:** Provide input and feedback.
+
+-----
+
+#### 4. RACI Matrix
+
+| Phase          | Project Sponsor | Project Manager | Marketing Team | IT Team | Stakeholders |
+| -------------- | --------------- | --------------- | ------------- | ------- | ------------ |
+| **Initiation**   | A [Ref 7]     | R             | C           | I       | I         |
+| **Planning**     | I             | R             | C           | I       | C         |
+| **Execution**    | I             | R [Ref 12]   | R, C        | C, I    | I         |
+| **Closure**      | A             | R             | I           | I       | I         |
+
+**R:** Responsible (Does the work)
+**A:** Accountable (Approves the work)
+**C:** Consulted (Provides input)
+**I:** Informed (Kept up-to-date)
+
+-----
+
+#### 5. Decision Gates
+
+i. **End of Initiation:** Review project charter and approve to proceed to planning.
+ii. **End of Planning:** Review project plan (scope, schedule, budget, resources, risks) and approve to proceed to execution [Ref 1].
+iii. **Mid-Execution Review:** Assess project progress and address any issues before continuing execution.
+iv. **Pre-Closure Review:** Verify all deliverables are complete and ready for acceptance before proceeding to formal closure.
+
+-----
+
+#### Note
+
+Ref 1: PMBOK, Page 30 (Similarity: 0.625)
+Ref 2: PMBOK, Page 24 (Similarity: 0.598)
+Ref 5: ISO21502, Page 12 (Similarity: 0.579)
+Ref 7: ISO21500, Page 9 (Similarity: 0.529)
+Ref 10: PMBOK, Page 10 (Similarity: 0.513)
+Ref 12: ISO21502, Page 14 (Similarity: 0.503)
+Ref 14: PMBOK, Page 20 (Similarity: 0.497)
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 24111_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 30 (Similarity: 0.625) → /pdf/PMBOK#page=30
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.598) → /pdf/PMBOK#page=24
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.591) → /pdf/ISO21502#page=9
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.588) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.579) → /pdf/ISO21502#page=12
+• [Ref 6] ISO21500 - Page 9 (Similarity: 0.530) → /pdf/ISO21500#page=9
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.529) → /pdf/ISO21500#page=9
+• [Ref 8] PRINCE2 - Page 6 (Similarity: 0.527) → /pdf/PRINCE2#page=6
+• [Ref 9] ISO21502 - Page 14 (Similarity: 0.518) → /pdf/ISO21502#page=14
+• [Ref 10] PMBOK - Page 10 (Similarity: 0.513) → /pdf/PMBOK#page=10
+• [Ref 11] ISO21502 - Page 1 (Similarity: 0.511) → /pdf/ISO21502#page=1
+• [Ref 12] ISO21502 - Page 14 (Similarity: 0.503) → /pdf/ISO21502#page=14
+• [Ref 13] ISO21502 - Page 7 (Similarity: 0.501) → /pdf/ISO21502#page=7
+• [Ref 14] PMBOK - Page 20 (Similarity: 0.497) → /pdf/PMBOK#page=20
+• [Ref 15] ISO21502 - Page 14 (Similarity: 0.492) → /pdf/ISO21502#page=14

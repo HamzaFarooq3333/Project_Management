@@ -1,0 +1,201 @@
+Scenario: [13252] Custom Project (Manual Configuration) | Research | Medium (6-18 months) | Education | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Process Recommendation: Education Research Project
+
+#### 1. Process Summary
+
+This recommendation outlines a project management process for a medium-scale education research project, aligned with the PRINCE2 methodology [Ref 3, Ref 10]. This process incorporates key principles and practices from PRINCE2, adapted for the specific context of a research project in the education sector. The project, involving manual configuration, is expected to span a medium duration (6-18 months). The approach emphasizes clear roles and responsibilities, structured phases, and rigorous control mechanisms to ensure the project meets its objectives. This approach aligns with the guidance provided by ISO 21502, which offers general guidance on project management [Ref 1, Ref 7, Ref 13]. Effective stakeholder engagement is crucial for success [Ref 8]. The project will adhere to a defined project life cycle [Ref 9].
+
+-----
+
+#### 2. Phases and Activities
+
+The project will be managed through the following phases, adhering to the PRINCE2 framework.
+
+**I. Project Initiation**
+
+This phase sets the foundation for the project.
+
+i.  **Define Project Objectives and Scope:** Clearly articulate the research goals, objectives, and deliverables. This aligns with the definition of a project [Ref 4].
+ii. **Develop a Project Initiation Documentation (PID):** This key document will define the project's scope, cost, timelines, and risks [Ref 6].
+iii. **Establish Project Governance:** Define roles, responsibilities, and decision-making processes. Project governance is fundamental for controlling the project [Ref 9, Ref 12].
+iv. **Identify Stakeholders:** Identify and document all stakeholders and their interests [Ref 2, Ref 4, Ref 5].
+v. **Conduct Risk Assessment:** Identify potential risks and develop a risk management plan. Risk management is crucial for the success of any project [Ref 8, Ref 14].
+
+**II. Planning**
+
+This phase focuses on the detailed planning of the project.
+
+i.  **Create a Work Breakdown Structure (WBS):** Decompose the project scope into manageable work packages [Ref 5].
+ii.  **Develop a Project Schedule:** Create a realistic schedule, considering task dependencies and resource availability [Ref 6].
+iii.  **Develop a Budget:** Estimate and allocate resources to the project tasks.
+iv.  **Develop a Communication Plan:** Define how information will be disseminated to stakeholders [Ref 6].
+v.  **Create Quality Control Plan:** Determine quality standards and the methods for ensuring quality throughout the project.
+
+**III. Execution**
+
+This is the phase of doing the research.
+
+i.  **Conduct Research Activities:** Perform the research activities outlined in the plan.
+ii.  **Manage Resources:** Efficiently allocate and manage project resources.
+iii.  **Monitor Project Progress:** Track progress against the plan and take corrective actions when needed.
+iv.  **Manage Issues and Risks:** Address any issues or risks as they arise [Ref 12, Ref 14].
+
+**IV. Monitoring and Controlling**
+
+This phase ensures projects are kept on track.
+
+i.  **Track the project performance:** Monitor and document the progress using key metrics.
+ii.  **Manage Project Change:** Manage any changes to the project scope, schedule, or budget and adhere to a proper change management process [Ref 6].
+iii.  **Report to stakeholders:** Communicate the project's status to stakeholders via defined reporting channels.
+
+**V. Project Closure**
+
+This phase marks the end of the project.
+
+i.  **Complete all project activities:** Ensure all activities are completed to agreed deliverables.
+ii.  **Obtain Project Acceptance:** Obtain formal acceptance of project deliverables from stakeholders.
+iii.  **Conduct a Project Review:** Document lessons learned and identify areas for improvement in future projects.
+iv.  **Archive Project Documentation:** Preserve all project documentation for future reference.
+
+-----
+
+#### 3. Roles
+
+The following roles will be essential for the success of the project:
+
+*   **Project Manager:** Responsible for the day-to-day management of the project, including planning, execution, monitoring, and controlling.
+*   **Project Sponsor:** Responsible for securing resources and providing overall direction and support [Ref 4].
+*   **Research Lead:** Manages the research activities, ensuring the quality and integrity of the research.
+*   **Project Team Members:** Perform specific tasks as assigned by the Project Manager and Research Lead.
+*   **Stakeholders:** Individuals or groups with an interest in the project's outcome [Ref 2, Ref 4, Ref 5].
+
+-----
+
+#### 4. RACI Matrix
+
+The following RACI matrix outlines the responsibilities for each phase and activity:
+
+| Phase/Activity                 | Project Manager | Project Sponsor | Research Lead | Project Team | Stakeholders |
+| ----------------------------- | --------------- | --------------- | ------------- | ------------ | ------------- |
+| **I. Project Initiation**      |                 |                 |               |              |               |
+| i. Define Objectives & Scope | R               | A               | R             | I            | C             |
+| ii. Develop PID               | R               | A               | C             | I            | C             |
+| iii. Establish Governance      | R               | A               | C             | I            | I             |
+| iv. Identify Stakeholders      | R               | C               | R             | I            | C             |
+| v. Conduct Risk Assessment     | R               | C               | R             | I            | C             |
+| **II. Planning**              |                 |                 |               |              |               |
+| i. Create WBS                  | R               | C               | R             | I            | I             |
+| ii. Develop Schedule          | R               | C               | R             | I            | I             |
+| iii. Develop Budget            | R               | A               | C             | I            | C             |
+| iv. Develop Communication Plan | R               | C               | R             | I            | C             |
+| v. Create Quality Control Plan | R               | C               | R             | I            | C             |
+| **III. Execution**            |                 |                 |               |              |               |
+| i. Conduct Research           | R               | C               | A             | R            | I             |
+| ii. Manage Resources           | R               | C               | C             | R            | I             |
+| iii. Monitor Progress          | R               | C               | R             | I            | C             |
+| iv. Manage Issues & Risks     | R               | C               | R             | I            | C             |
+| **IV. Monitoring & Controlling**   |              |              |               |              |               |
+| i. Track Performance            | R               | C              | C             | I            | C            |
+| ii. Manage Project Change       | R               | A              | C             | I            | C            |
+| iii. Report to Stakeholders    | R               | A              | C             | I            | C            |
+| **V. Project Closure**         |                 |                 |               |              |               |
+| i. Complete Activities         | R               | C               | A             | R            | I             |
+| ii. Obtain Acceptance          | R               | A               | C             | I            | C             |
+| iii. Conduct Review             | R               | C               | R             | I            | C             |
+| iv. Archive Documentation      | R               | C               | C             | I            | I             |
+
+*   **R** = Responsible
+*   **A** = Accountable
+*   **C** = Consulted
+*   **I** = Informed
+
+-----
+
+#### 5. Decision Gates
+
+Decision gates are crucial milestones where project progress is formally reviewed, and decisions are made regarding whether to proceed to the next phase [Ref 9].
+
+*   **Project Initiation Approval:** The Project Sponsor approves the Project Initiation Documentation (PID), formally authorizing the project to begin.
+*   **Planning Phase Approval:** The Project Sponsor approves the Project Plan, including the schedule, budget, and communication plan.
+*   **Execution Phase Approval:** Reviews the deliverables and assesses ongoing risks and resources.
+*   **Closure Phase Approval:** Formal acceptance of deliverables and closure of the project.
+
+-----
+
+#### 6. Embeddings & Citations Section
+
+*   Ref 1: ISO21502, Page 9 (Similarity: 0.619)
+*   Ref 2: PMBOK, Page 24 (Similarity: 0.599)
+*   Ref 3: PRINCE2, Page 4 (Similarity: 0.571)
+*   Ref 4: ISO21500, Page 9 (Similarity: 0.564)
+*   Ref 5: ISO21502, Page 12 (Similarity: 0.563)
+*   Ref 6: PMBOK, Page 30 (Similarity: 0.562)
+*   Ref 7: ISO21502, Page 1 (Similarity: 0.550)
+*   Ref 8: PMBOK, Page 10 (Similarity: 0.538)
+*   Ref 9: ISO21502, Page 11 (Similarity: 0.536)
+*   Ref 10: PRINCE2, Page 6 (Similarity: 0.530)
+*   Ref 11: ISO21502, Page 7 (Similarity: 0.518)
+*   Ref 12: ISO21502, Page 10 (Similarity: 0.514)
+*   Ref 13: ISO21502, Page 7 (Similarity: 0.511)
+*   Ref 14: ISO21500, Page 9 (Similarity: 0.511)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 15: Page 7, Similarity: 0.490 (/pdf/ISO21500#page=7)
+- Ref 4: Page 9, Similarity: 0.564 (/pdf/ISO21500#page=9)
+- Ref 14: Page 9, Similarity: 0.511 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 7: Page 1, Similarity: 0.550 (/pdf/ISO21502#page=1)
+- Ref 11: Page 7, Similarity: 0.518 (/pdf/ISO21502#page=7)
+- Ref 13: Page 7, Similarity: 0.511 (/pdf/ISO21502#page=7)
+- Ref 1: Page 9, Similarity: 0.619 (/pdf/ISO21502#page=9)
+- Ref 12: Page 10, Similarity: 0.514 (/pdf/ISO21502#page=10)
+- Ref 9: Page 11, Similarity: 0.536 (/pdf/ISO21502#page=11)
+- Ref 5: Page 12, Similarity: 0.563 (/pdf/ISO21502#page=12)
+
+**PMBOK:**
+- Ref 8: Page 10, Similarity: 0.538 (/pdf/PMBOK#page=10)
+- Ref 2: Page 24, Similarity: 0.599 (/pdf/PMBOK#page=24)
+- Ref 6: Page 30, Similarity: 0.562 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 3: Page 4, Similarity: 0.571 (/pdf/PRINCE2#page=4)
+- Ref 10: Page 6, Similarity: 0.530 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 13252_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.619) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.599) → /pdf/PMBOK#page=24
+• [Ref 3] PRINCE2 - Page 4 (Similarity: 0.571) → /pdf/PRINCE2#page=4
+• [Ref 4] ISO21500 - Page 9 (Similarity: 0.564) → /pdf/ISO21500#page=9
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.563) → /pdf/ISO21502#page=12
+• [Ref 6] PMBOK - Page 30 (Similarity: 0.562) → /pdf/PMBOK#page=30
+• [Ref 7] ISO21502 - Page 1 (Similarity: 0.550) → /pdf/ISO21502#page=1
+• [Ref 8] PMBOK - Page 10 (Similarity: 0.538) → /pdf/PMBOK#page=10
+• [Ref 9] ISO21502 - Page 11 (Similarity: 0.536) → /pdf/ISO21502#page=11
+• [Ref 10] PRINCE2 - Page 6 (Similarity: 0.530) → /pdf/PRINCE2#page=6
+• [Ref 11] ISO21502 - Page 7 (Similarity: 0.518) → /pdf/ISO21502#page=7
+• [Ref 12] ISO21502 - Page 10 (Similarity: 0.514) → /pdf/ISO21502#page=10
+• [Ref 13] ISO21502 - Page 7 (Similarity: 0.511) → /pdf/ISO21502#page=7
+• [Ref 14] ISO21500 - Page 9 (Similarity: 0.511) → /pdf/ISO21500#page=9
+• [Ref 15] ISO21500 - Page 7 (Similarity: 0.490) → /pdf/ISO21500#page=7

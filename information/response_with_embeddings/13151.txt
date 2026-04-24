@@ -1,0 +1,138 @@
+Scenario: [13151] Custom Project (Manual Configuration) | Research | Small (< 6 months) | Education | PMBOK
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Project Management Process Recommendation: Education Research Project
+
+#### Process Summary
+
+This recommendation outlines a PMBOK-aligned process for managing a small-scale (under 6 months) education research project involving manual configuration. The project leverages PMBOK best practices [Ref 2, Ref 5] and acknowledges that all project types can utilize project management practices [Ref 1]. It focuses on key performance domains such as Stakeholders, Team, Development Approach and Life cycle, Planning, Project Work, Delivery, Measurement, and Uncertainty [Ref 2]. This process prioritizes iterative planning, ongoing monitoring, and flexibility for a successful project completion. This process is applicable to any organization [Ref 1, Ref 15]. The goal is to apply coordinated activities to direct and control the accomplishment of agreed objectives [Ref 6].
+
+-----
+
+#### Phases and Activities
+
+I. **Initiation**
+
+   i.  Define Project Objectives and Scope: Clearly articulate the research question(s), project goals, and expected outcomes. The project scope should be precisely defined [Ref 4, Ref 5]. This includes the desired deliverable(s) [Ref 12].
+   ii. Identify Stakeholders: Identify all individuals and groups with an interest in the project [Ref 6, Ref 4]. Document their roles and expectations. Effective stakeholder engagement is crucial [Ref 8].
+   iii. Develop Project Charter: Formally authorize the project and outline high-level information, including objectives, scope, and key stakeholders. The project charter can be tailored based on the context [Ref 8].
+   iv. Define High-Level Risks: Identify potential risks and uncertainties [Ref 11, Ref 19] that could affect project success.
+
+II. **Planning**
+
+   i.  Develop the Project Management Plan: Create a comprehensive plan that includes the following:
+       *   **Scope Management:** Detailed project scope, work breakdown structure (WBS), and deliverables [Ref 4, Ref 5].
+       *   **Schedule Management:** Define project activities, dependencies, and a realistic schedule.
+       *   **Cost Management:** Estimate project costs and establish a budget.
+       *   **Resource Management:** Identify and allocate required resources.
+       *   **Communication Management:** Define a communication plan to ensure timely and effective information sharing [Ref 5].
+       *   **Risk Management:** Develop a detailed risk register, including mitigation strategies. This involves evaluating and responding to system interactions [Ref 8].
+       *   **Quality Management:** Define quality standards and processes.
+       *   **Procurement Management:** (If applicable) Plan for any external procurement needs.
+       *   **Change Management:** Establish a change management process [Ref 5].
+   ii.  Develop configuration plans and documentation for manual configuration.
+   iii. Define the Project Life Cycle: Determine the appropriate project life cycle (e.g., iterative, incremental) for the research project [Ref 10].
+   iv. Document all aspects of the planning process with a comprehensive project management plan.
+   v. Define key metrics for measuring the project’s performance [Ref 5].
+
+III. **Execution**
+
+   i.  Execute the Project Management Plan: Carry out the activities outlined in the project plan.
+   ii. Perform the research activities, including any required manual configuration steps.
+   iii.  Manage Resources: Ensure resources are available and utilized effectively.
+   iv.  Conduct stakeholder engagement activities as planned.
+   v.  Implement the communication plan.
+   vi. Manage Risks: Monitor identified risks and implement mitigation strategies.
+
+IV. **Monitoring and Controlling**
+
+   i.  Track Progress: Regularly monitor project progress against the plan.
+   ii.  Control Changes: Manage changes through the established change management process.
+   iii.  Manage Issues: Address and resolve project issues promptly [Ref 12].
+   iv.  Monitor Risks: Continuously monitor identified risks and any new risks that may arise.
+   v.  Performance Reporting: Provide regular project status reports to stakeholders. Measurement is a key performance domain [Ref 2].
+
+V. **Closure**
+
+   i.  Project Deliverable Verification: Verify that all project deliverables meet the defined quality standards.
+   ii.  Obtain Stakeholder Acceptance: Secure formal acceptance of the project deliverables from stakeholders.
+   iii.  Finalize Documentation: Ensure all project documentation is complete, accurate, and archived.
+   iv.  Conduct a Project Review: Review the project's performance, identify lessons learned, and document them for future projects.
+   v.  Close Project: Formally close the project and archive all project documents.
+
+-----
+
+#### Roles
+
+*   **Project Sponsor:** Responsible for obtaining resources and making executive decisions [Ref 6].
+*   **Project Manager:** Responsible for managing the project and ensuring its successful completion.
+*   **Researcher(s):** Responsible for conducting the research and producing the deliverables.
+*   **Stakeholders:** Individuals and groups with an interest in the project [Ref 6].
+*   **Team Members:** Responsible for performing project tasks (if more than one researcher)
+
+-----
+
+#### RACI Matrix
+
+| Phase              | Project Sponsor | Project Manager | Researcher(s) | Team Members | Stakeholders |
+| ------------------ | --------------- | --------------- | --------------- | ------------ | ------------- |
+| I. Initiation      | A               | R               | C               | I           | C             |
+| II. Planning       | C               | A               | R               | I            | C             |
+| III. Execution     | I               | A               | R               | R           | C             |
+| IV. Monitoring & Controlling | I            | A               | R               | I           | C             |
+| V. Closure         | A               | R               | C               | I           | C             |
+
+**R** = Responsible, **A** = Accountable, **C** = Consulted, **I** = Informed
+
+-----
+
+#### Decision Gates
+
+*   **Project Charter Approval:** Approved by the Project Sponsor (Initiation Phase). This authorizes the project [Ref 10].
+*   **Project Management Plan Approval:** Approved by the Project Sponsor and relevant stakeholders (Planning Phase). This includes scope, schedule, budget, and other relevant aspects [Ref 5].
+*   **Deliverable Acceptance:** Formal acceptance of deliverables by the Project Sponsor and relevant stakeholders (Closure Phase).
+
+-----
+
+#### Note
+
+*   Ref 1: ISO21502, Page 9 (Similarity: 0.615)
+*   Ref 2: PMBOK, Page 24 (Similarity: 0.591)
+*   Ref 3: PRINCE2, Page 4 (Similarity: 0.560)
+*   Ref 4: ISO21502, Page 12 (Similarity: 0.559)
+*   Ref 5: PMBOK, Page 30 (Similarity: 0.558)
+*   Ref 6: ISO21500, Page 9 (Similarity: 0.552)
+*   Ref 7: ISO21502, Page 1 (Similarity: 0.539)
+*   Ref 8: PMBOK, Page 10 (Similarity: 0.532)
+*   Ref 9: PRINCE2, Page 6 (Similarity: 0.518)
+*   Ref 10: ISO21502, Page 11 (Similarity: 0.511)
+*   Ref 11: ISO21500, Page 9 (Similarity: 0.507)
+*   Ref 12: ISO21502, Page 10 (Similarity: 0.505)
+*   Ref 13: ISO21502, Page 7 (Similarity: 0.502)
+*   Ref 14: ISO21502, Page 7 (Similarity: 0.497)
+*   Ref 15: ISO21500, Page 7 (Similarity: 0.488)
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 13151_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.615) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.591) → /pdf/PMBOK#page=24
+• [Ref 3] PRINCE2 - Page 4 (Similarity: 0.560) → /pdf/PRINCE2#page=4
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.559) → /pdf/ISO21502#page=12
+• [Ref 5] PMBOK - Page 30 (Similarity: 0.558) → /pdf/PMBOK#page=30
+• [Ref 6] ISO21500 - Page 9 (Similarity: 0.552) → /pdf/ISO21500#page=9
+• [Ref 7] ISO21502 - Page 1 (Similarity: 0.539) → /pdf/ISO21502#page=1
+• [Ref 8] PMBOK - Page 10 (Similarity: 0.532) → /pdf/PMBOK#page=10
+• [Ref 9] PRINCE2 - Page 6 (Similarity: 0.518) → /pdf/PRINCE2#page=6
+• [Ref 10] ISO21502 - Page 11 (Similarity: 0.511) → /pdf/ISO21502#page=11
+• [Ref 11] ISO21500 - Page 9 (Similarity: 0.507) → /pdf/ISO21500#page=9
+• [Ref 12] ISO21502 - Page 10 (Similarity: 0.505) → /pdf/ISO21502#page=10
+• [Ref 13] ISO21502 - Page 7 (Similarity: 0.502) → /pdf/ISO21502#page=7
+• [Ref 14] ISO21502 - Page 7 (Similarity: 0.497) → /pdf/ISO21502#page=7
+• [Ref 15] ISO21500 - Page 7 (Similarity: 0.488) → /pdf/ISO21500#page=7

@@ -1,0 +1,183 @@
+Scenario: [11323] Custom Project (Manual Configuration) | Software Development | Large (> 18 months) | Construction | ISO Standards
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Project Management Process Recommendation: Construction Software Development
+
+This recommendation outlines a comprehensive project management process for a large-scale construction software development project, taking into account the need for manual configuration and the constraints of a long duration (>18 months) while adhering to ISO standards. This process leverages best practices from the PMBOK Guide and ISO standards for effective project delivery.
+
+-----
+
+### I. Process Summary
+
+This project requires a structured, phased approach aligning with ISO 21502 guidelines [Ref 2, Ref 9, Ref 12]. The core tenets involve rigorous planning, stakeholder management, change management, and continuous monitoring, specifically focusing on product scope, project scope, and defining deliverables [Ref 1]. Given the project's size and the manual configuration requirement, adaptability, and risk mitigation are crucial. PRINCE2's focus on defining responsibilities [Ref 5] and ISO’s emphasis on stakeholder engagement [Ref 4, Ref 7] are critical for success. This project will use a phased approach considering a defined project life cycle [Ref 11].
+
+-----
+
+### II. Phases and Activities
+
+The project will be structured into the following phases:
+
+#### Phase I: Initiation and Planning
+
+i. **Project Charter Development:** Defining the project objectives, scope, stakeholders, and high-level requirements [Ref 1, Ref 2].
+ii. **Stakeholder Identification and Analysis:** Identifying and analyzing all stakeholders, their interests, and influence [Ref 3].
+iii. **Scope Definition:** Creating a detailed Work Breakdown Structure (WBS) to decompose the project scope into manageable work packages [Ref 4].
+iv. **Requirement Gathering and Documentation:** Comprehensive documentation of software requirements.
+v. **Risk Management Planning:** Identifying, assessing, and planning responses to potential risks [Ref 10].
+vi. **Scheduling and Resource Planning:** Developing a detailed project schedule, estimating resource requirements, and assigning resources [Ref 1].
+vii. **Budgeting:** Creating a comprehensive project budget [Ref 1].
+viii. **Communication Planning:** Developing a communication plan to manage stakeholder communication [Ref 1].
+ix. **Procurement Planning:** Planning for the procurement of any necessary resources or services [Ref 1].
+
+#### Phase II: Design and Development
+
+i. **Detailed Design:** Creation of detailed software design specifications based on the documented requirements.
+ii. **Development:** Software code development based on the design specifications.
+iii. **Configuration:** Manual configuration and setup as per the project requirements and defined scope.
+iv. **Testing:** Unit, integration, and system testing conducted to ensure software quality.
+v. **Iterative Reviews:** Regular reviews of work products and testing results.
+
+#### Phase III: Testing and Integration
+
+i. **System Integration Testing:** Integrating developed modules and testing the system as a whole.
+ii. **User Acceptance Testing (UAT):** Allowing stakeholders to test the software and provide feedback.
+iii. **Defect Management:** Tracking, resolving, and retesting defects identified during testing.
+iv. **Training Material Development:** Creation of training documentation and materials for users.
+v. **Go-No-Go decision** on proceeding towards deployment.
+
+#### Phase IV: Deployment and Implementation
+
+i. **Deployment Planning:** Planning for software deployment to the construction environment.
+ii. **Deployment Execution:** Deploying the software to the construction environment.
+iii. **Data Migration:** Migrating any required data from legacy systems.
+iv. **Training and User Support:** Providing training to users and ongoing support.
+v. **Post-Implementation Review:** Conducting a review of the project to identify lessons learned.
+
+#### Phase V: Closure
+
+i. **Project Close-out:** Formally closing the project, including administrative closure activities.
+ii. **Final Documentation:** Ensuring all project documentation is complete and archived.
+iii. **Stakeholder Sign-off:** Obtaining final stakeholder sign-off and approval.
+iv. **Archiving:** Archiving all project-related documents and assets.
+v. **Lessons Learned:** Analyzing the project to identify lessons learned for future projects.
+
+-----
+
+### III. Roles
+
+*   **Project Sponsor:** Responsible for obtaining resources and making executive decisions to enable success [Ref 7].
+*   **Project Manager:** Leads and manages the project, ensuring all phases and activities are completed successfully, including all aspects of project scope, cost, time, and quality.
+*   **Business Analyst:** Elicits, analyzes, and documents software requirements.
+*   **Software Architects/Developers:** Designs, develops, and implements the software.
+*   **Quality Assurance (QA) Team:** Tests the software to ensure quality.
+*   **Configuration Specialists:** Manages the manual configuration of the software.
+*   **Stakeholders:** Individuals or organizations who have interests in or can affect or be affected by the project [Ref 4].
+
+-----
+
+### IV. RACI Matrix
+
+| Phase                    | Project Sponsor | Project Manager | Business Analyst | Software Architects/Developers | QA Team | Configuration Specialists | Stakeholders |
+| ------------------------ | --------------- | --------------- | ---------------- | ----------------------------- | ------- | -------------------------- | ------------ |
+| **I. Initiation & Planning** | A              | R               | C                | I                            | I       | I                         | C           |
+| **II. Design & Development** | C              | R               | C                | R/A                          | I       | A                         | I           |
+| **III. Testing & Integration** | C              | R               | C                | I                            | R/A     | I                         | A/C          |
+| **IV. Deployment & Implementation** | A              | R               | C                | I                            | I       | A                         | C           |
+| **V. Closure**             | A              | R               | C                | I                            | I       | I                         | C           |
+
+*   **R** = Responsible: The person or role who does the work.
+*   **A** = Accountable: The person or role ultimately answerable for the correct and thorough completion of the deliverable or task.
+*   **C** = Consulted: The person or role who needs to be consulted before a decision or action is taken.
+*   **I** = Informed: The person or role who needs to be kept informed of progress or decisions.
+
+-----
+
+### V. Decision Gates
+
+Decision gates are crucial checkpoints throughout the project lifecycle:
+
+i.  **Phase I Completion Approval:** Approval to proceed to Phase II based on the Project Charter and the detailed planning documents, [Ref 1, Ref 9].
+ii.  **Design Review Approval:** Approval of the detailed design specifications before development commences.
+iii.  **Code Complete/Review Approval:** Review and approval of code quality.
+iv.  **Testing Results Approval:** Approval to proceed from the Testing & Integration Phase to Deployment & Implementation [Ref 3].
+v.  **Go/No-Go Decision (Before Deployment):** Stakeholder and Sponsor sign-off to deploy the software based on successful UAT results [Ref 11].
+vi.  **Project Closure Approval:** Formal stakeholder and sponsor approval to close out the project.
+
+-----
+
+### VI. Embeddings & Citations Section
+
+*   Ref 1: PMBOK, Page 30 (Similarity: 0.607)
+*   Ref 2: ISO21502, Page 9 (Similarity: 0.603)
+*   Ref 3: PMBOK, Page 24 (Similarity: 0.602)
+*   Ref 4: ISO21502, Page 12 (Similarity: 0.586)
+*   Ref 5: PRINCE2, Page 4 (Similarity: 0.572)
+*   Ref 6: PRINCE2, Page 6 (Similarity: 0.546)
+*   Ref 7: ISO21500, Page 9 (Similarity: 0.522)
+*   Ref 8: ISO21502, Page 10 (Similarity: 0.518)
+*   Ref 9: ISO21502, Page 7 (Similarity: 0.517)
+*   Ref 10: PMBOK, Page 10 (Similarity: 0.514)
+*   Ref 11: ISO21502, Page 11 (Similarity: 0.513)
+*   Ref 12: ISO21502, Page 1 (Similarity: 0.508)
+*   Ref 13: ISO21500, Page 9 (Similarity: 0.494)
+*   Ref 14: PMBOK, Page 9 (Similarity: 0.493)
+*   Ref 15: ISO21502, Page 11 (Similarity: 0.489)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 7: Page 9, Similarity: 0.522 (/pdf/ISO21500#page=9)
+- Ref 13: Page 9, Similarity: 0.494 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 12: Page 1, Similarity: 0.508 (/pdf/ISO21502#page=1)
+- Ref 9: Page 7, Similarity: 0.517 (/pdf/ISO21502#page=7)
+- Ref 2: Page 9, Similarity: 0.603 (/pdf/ISO21502#page=9)
+- Ref 8: Page 10, Similarity: 0.518 (/pdf/ISO21502#page=10)
+- Ref 11: Page 11, Similarity: 0.513 (/pdf/ISO21502#page=11)
+- Ref 15: Page 11, Similarity: 0.489 (/pdf/ISO21502#page=11)
+- Ref 4: Page 12, Similarity: 0.586 (/pdf/ISO21502#page=12)
+
+**PMBOK:**
+- Ref 14: Page 9, Similarity: 0.493 (/pdf/PMBOK#page=9)
+- Ref 10: Page 10, Similarity: 0.514 (/pdf/PMBOK#page=10)
+- Ref 3: Page 24, Similarity: 0.602 (/pdf/PMBOK#page=24)
+- Ref 1: Page 30, Similarity: 0.607 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 5: Page 4, Similarity: 0.572 (/pdf/PRINCE2#page=4)
+- Ref 6: Page 6, Similarity: 0.546 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 11323_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 30 (Similarity: 0.607) → /pdf/PMBOK#page=30
+• [Ref 2] ISO21502 - Page 9 (Similarity: 0.603) → /pdf/ISO21502#page=9
+• [Ref 3] PMBOK - Page 24 (Similarity: 0.602) → /pdf/PMBOK#page=24
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.586) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.572) → /pdf/PRINCE2#page=4
+• [Ref 6] PRINCE2 - Page 6 (Similarity: 0.546) → /pdf/PRINCE2#page=6
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.522) → /pdf/ISO21500#page=9
+• [Ref 8] ISO21502 - Page 10 (Similarity: 0.518) → /pdf/ISO21502#page=10
+• [Ref 9] ISO21502 - Page 7 (Similarity: 0.517) → /pdf/ISO21502#page=7
+• [Ref 10] PMBOK - Page 10 (Similarity: 0.514) → /pdf/PMBOK#page=10
+• [Ref 11] ISO21502 - Page 11 (Similarity: 0.513) → /pdf/ISO21502#page=11
+• [Ref 12] ISO21502 - Page 1 (Similarity: 0.508) → /pdf/ISO21502#page=1
+• [Ref 13] ISO21500 - Page 9 (Similarity: 0.494) → /pdf/ISO21500#page=9
+• [Ref 14] PMBOK - Page 9 (Similarity: 0.493) → /pdf/PMBOK#page=9
+• [Ref 15] ISO21502 - Page 11 (Similarity: 0.489) → /pdf/ISO21502#page=11

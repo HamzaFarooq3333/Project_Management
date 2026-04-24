@@ -1,0 +1,174 @@
+Scenario: [13121] Custom Project (Manual Configuration) | Research | Small (< 6 months) | Construction | PMBOK
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21502, ISO21500
+
+================================================================================
+
+### Project Management Process Recommendation: Construction Research Project
+
+#### 1. Process Summary
+
+This recommendation outlines a PMBOK-aligned process for managing a small-scale (< 6 months) research project in the construction industry. The project will involve manual configuration. This project will follow a structured yet flexible approach [Ref 9], ensuring value delivery, adaptability to change, and ethical/effective management. The key to success is to achieve project objectives through coordinated activities [Ref 8]. The project will encompass planning, execution, and control activities. Based on the PMBOK Guide and other standards, we will consider relevant performance domains to achieve the project objectives [Ref 1]. This process leverages established project management principles, practices, and processes appropriate for the project context [Ref 6].
+
+-----
+
+#### 2. Phases and Activities
+
+The project will be structured in the following phases:
+
+I.  **Initiation:**
+
+    i.  Define project objectives, scope, and deliverables. [Ref 8] (Project is a "temporary endeavor to achieve one or more defined objectives").
+    ii.  Identify stakeholders and their expectations. [Ref 1, Ref 8]
+    iii.  Develop a Project Charter outlining project purpose, objectives, and high-level requirements.
+    iv.  Identify initial risks and assumptions.
+    v.  Form the core project team.
+
+II.  **Planning:** [Ref 2]
+
+    i.  Develop a detailed Work Breakdown Structure (WBS) to decompose the project scope. [Ref 5]
+    ii.  Define specific activities and tasks within each work package. [Ref 5]
+    iii.  Estimate the time, resources, and budget required for each task. [Ref 2]
+    iv.  Develop a project schedule.
+    v.  Create a communication plan to manage stakeholder expectations and communication frequency. [Ref 2]
+    vi.  Define a risk management plan, including identifying, analyzing, and planning for risk responses.
+    vii.  Develop a Change Management plan. [Ref 2]
+    viii. Establish a quality assurance plan.
+    ix.  Procurement planning if any resources needed. [Ref 2]
+    x. Define metrics and measurement for project success.
+
+III. **Execution:**
+
+    i.  Execute the project plan, performing tasks as defined in the WBS and schedule.
+    ii.  Manage the project team and allocated resources effectively.
+    iii.  Conduct regular project team meetings to monitor progress, address issues, and make decisions.
+    iv.  Implement the communication plan, keeping stakeholders informed of progress and issues.
+    v.  Execute risk mitigation plans as needed.
+
+IV. **Monitoring & Controlling:**
+
+    i.  Track project progress against the plan, schedule, and budget.
+    ii.  Monitor and control project scope, schedule, budget, and quality.
+    iii.  Manage changes to the project through the Change Management Plan. [Ref 2]
+    iv.  Manage project risks by monitoring, assessing, and addressing them.
+    v.  Report project performance to stakeholders regularly, via the communication plan.
+    vi.  Use Key Performance Indicators (KPIs) to monitor project performance.
+
+V.  **Closure:**
+
+    i.  Obtain formal acceptance of project deliverables from the stakeholders.
+    ii.  Conduct a post-project review to document lessons learned.
+    iii.  Close out contracts and procurements.
+    iv.  Archive project documents and records.
+    v.  Release project resources.
+
+-----
+
+#### 3. Roles
+
+*   **Project Manager:** Responsible for overall project management, planning, execution, monitoring and controlling, and closure.
+*   **Project Sponsor:** Responsible for obtaining the resources and making executive decisions for success [Ref 8].
+*   **Project Team:** Individuals assigned to execute specific project tasks.
+*   **Stakeholders:** Individuals, groups, or organizations that have interests in the project [Ref 8].
+
+-----
+
+#### 4. RACI Matrix
+
+| Phase               | Project Manager | Project Sponsor | Project Team | Stakeholders |
+| :------------------ | :-------------- | :-------------- | :----------- | :----------- |
+| I. Initiation        | R               | A               | C            | I            |
+| II. Planning         | R               | A               | C            | I            |
+| III. Execution       | A               | C               | R            | I            |
+| IV. Monitoring & Controlling | A               | C               | R            | C, I         |
+| V. Closure          | R               | A               | C            | I            |
+
+*   **R** = Responsible: Does the work.
+*   **A** = Accountable: The one ultimately answerable for the correct and thorough completion of the deliverable or task.
+*   **C** = Consulted: Consulted to provide information or expertise.
+*   **I** = Informed: Kept informed of progress and decisions.
+
+-----
+
+#### 5. Decision Gates
+
+*   **Project Charter Approval:** Approval of the project charter, defining the project's objectives, scope, and high-level requirements. (Initiation Phase)
+*   **Project Plan Approval:** Approval of the detailed project plan, including the WBS, schedule, budget, communication plan, risk management plan, and change management plan. (Planning Phase)
+*   **Deliverable Acceptance:** Formal acceptance of project deliverables by stakeholders. (Closure Phase) [Ref 7] (A deliverable is a "unique and verifiable element that is required to be produced by a project").
+*   **Change Request Approval:** Any change request needs approval, especially when scope, schedule or budget are changed. (Monitoring and Controlling Phase)
+
+-----
+
+#### 6. Embeddings & Citations Section
+
+*   Ref 1: PMBOK, Page 24
+*   Ref 2: PMBOK, Page 30
+*   Ref 3: ISO21502, Page 9
+*   Ref 4: PRINCE2, Page 4
+*   Ref 5: ISO21502, Page 12
+*   Ref 6: PRINCE2, Page 6
+*   Ref 7: ISO21502, Page 10
+*   Ref 8: ISO21500, Page 9
+*   Ref 9: PMBOK, Page 10
+*   Ref 10: ISO21502, Page 11
+*   Ref 11: ISO21502, Page 1
+*   Ref 12: ISO21502, Page 7
+*   Ref 13: PMBOK, Page 9
+*   Ref 14: ISO21502, Page 7
+*   Ref 15: PRINCE2, Page 1
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 8: Page 9, Similarity: 0.530 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 11: Page 1, Similarity: 0.515 (/pdf/ISO21502#page=1)
+- Ref 12: Page 7, Similarity: 0.508 (/pdf/ISO21502#page=7)
+- Ref 14: Page 7, Similarity: 0.502 (/pdf/ISO21502#page=7)
+- Ref 3: Page 9, Similarity: 0.587 (/pdf/ISO21502#page=9)
+- Ref 7: Page 10, Similarity: 0.541 (/pdf/ISO21502#page=10)
+- Ref 10: Page 11, Similarity: 0.517 (/pdf/ISO21502#page=11)
+- Ref 5: Page 12, Similarity: 0.565 (/pdf/ISO21502#page=12)
+
+**PMBOK:**
+- Ref 13: Page 9, Similarity: 0.508 (/pdf/PMBOK#page=9)
+- Ref 9: Page 10, Similarity: 0.524 (/pdf/PMBOK#page=10)
+- Ref 1: Page 24, Similarity: 0.625 (/pdf/PMBOK#page=24)
+- Ref 2: Page 30, Similarity: 0.606 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 15: Page 1, Similarity: 0.487 (/pdf/PRINCE2#page=1)
+- Ref 4: Page 4, Similarity: 0.580 (/pdf/PRINCE2#page=4)
+- Ref 6: Page 6, Similarity: 0.549 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 13121_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 24 (Similarity: 0.625) → /pdf/PMBOK#page=24
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.606) → /pdf/PMBOK#page=30
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.587) → /pdf/ISO21502#page=9
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.580) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.565) → /pdf/ISO21502#page=12
+• [Ref 6] PRINCE2 - Page 6 (Similarity: 0.549) → /pdf/PRINCE2#page=6
+• [Ref 7] ISO21502 - Page 10 (Similarity: 0.541) → /pdf/ISO21502#page=10
+• [Ref 8] ISO21500 - Page 9 (Similarity: 0.530) → /pdf/ISO21500#page=9
+• [Ref 9] PMBOK - Page 10 (Similarity: 0.524) → /pdf/PMBOK#page=10
+• [Ref 10] ISO21502 - Page 11 (Similarity: 0.517) → /pdf/ISO21502#page=11
+• [Ref 11] ISO21502 - Page 1 (Similarity: 0.515) → /pdf/ISO21502#page=1
+• [Ref 12] ISO21502 - Page 7 (Similarity: 0.508) → /pdf/ISO21502#page=7
+• [Ref 13] PMBOK - Page 9 (Similarity: 0.508) → /pdf/PMBOK#page=9
+• [Ref 14] ISO21502 - Page 7 (Similarity: 0.502) → /pdf/ISO21502#page=7
+• [Ref 15] PRINCE2 - Page 1 (Similarity: 0.487) → /pdf/PRINCE2#page=1

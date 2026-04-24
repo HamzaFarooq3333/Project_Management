@@ -1,0 +1,158 @@
+Scenario: [33142] Innovative Product Development | Research | Small (< 6 months) | Finance | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21500, ISO21502
+
+================================================================================
+
+### Process Recommendation: Finance Research Project (PRINCE2, Small Scale)
+
+#### Process Summary
+This process recommendation outlines a project management framework for a small-scale finance research project, lasting less than 6 months, utilizing the PRINCE2 methodology. It adheres to project management guidance outlined in standards like ISO21502 [Ref 1], PMBOK [Ref 2], and emphasizes tailoring the approach to the project context [Ref 9]. It focuses on effectively planning project scope [Ref 3], engaging stakeholders [Ref 8, Ref 7], and managing potential ambiguity [Ref 4]. The approach emphasizes adaptability and resiliency [Ref 8] to ensure project success within the dynamic finance industry.
+
+-----
+
+#### Phases and Activities
+
+I. **Starting Up a Project (SU):** This phase focuses on the initial assessment of the project's feasibility and justification, as well as defining the project mandate.
+    i. Define the Project Mandate: Articulate the problem or opportunity driving the research.
+    ii. Conduct a Project Brief: Develop a preliminary outline of the project's scope, objectives, and potential benefits, aligning with PRINCE2's emphasis on clarifying project deliverables [Ref 4].
+    iii. Appoint the Project Management Team: Assign roles and responsibilities, establishing clear accountability [Ref 4].
+
+II. **Initiating a Project (IP):** This phase builds upon the foundation laid in SU, creating a detailed project plan.
+    i. Define Project Scope: Clearly articulate the research question, objectives, and deliverables. This needs to match the definition of project scope [Ref 3].
+    ii. Develop the Project Initiation Documentation (PID): This comprehensive document outlines all aspects of the project, including the business case, project management plan, communication plan, and risk management approach.
+    iii. Create a detailed schedule: Include tasks, durations, and dependencies to develop a detailed schedule for project tasks [Ref 3].
+
+III. **Controlling a Stage (CS):** This phase focuses on the day-to-day management of the project activities within a defined stage. It involves monitoring progress, managing issues, and taking corrective actions as needed.
+    i. Authorize Work Packages: Assign specific tasks to team members with clear deliverables and deadlines.
+    ii. Monitor Progress: Track actual progress against the project plan, using techniques like earned value management.
+    iii. Manage Issues and Risks: Identify, assess, and manage potential issues and risks that could impact the project's objectives [Ref 5, Ref 10].
+    iv. Report Stage Progress: Provide regular updates to stakeholders on project progress, risks, and issues.
+
+IV. **Managing Product Delivery (MP):** This process governs the creation and quality control of the project's deliverables.
+    i. Execute Work Packages: Conduct the research activities as defined in the work packages.
+    ii. Quality Review: Ensure that all deliverables meet the defined quality criteria.
+    iii. Obtain Approval: Seek formal approval of completed deliverables from the relevant stakeholders.
+
+V. **Managing Stage Boundaries (SB):** This process occurs at the end of each stage, assessing performance, updating the project plan, and seeking approval to proceed to the next stage.
+    i. Review Stage Performance: Assess the stage's performance against the agreed-upon objectives and metrics.
+    ii. Update the Project Plan: Refine the project plan based on the lessons learned from the previous stage.
+    iii. Obtain Approval to Proceed: Seek approval from the Project Board to move to the next stage.
+
+VI. **Closing a Project (CP):** This final phase involves formally closing the project, documenting lessons learned, and releasing resources.
+    i. Confirm Project Completion: Verify that all project objectives have been met and deliverables have been accepted.
+    ii. Document Lessons Learned: Capture key lessons learned throughout the project to improve future projects.
+    iii. Release Resources: Reassign project resources to other projects or activities.
+    iv. Conduct Project Closure Meeting: Formally close the project with key stakeholders.
+
+-----
+
+#### Roles
+
+*   **Executive:** Provides overall direction and ensures alignment with organizational strategy.
+*   **Senior User:** Represents the interests of the users of the research findings.
+*   **Senior Supplier:** Represents the interests of the individuals providing the research expertise.
+*   **Project Manager:** Responsible for the day-to-day management of the project.
+*   **Team Manager:** Responsible for managing a team of researchers.
+*   **Project Assurance:** Monitors the project's progress and ensures adherence to PRINCE2 principles.
+
+-----
+
+#### RACI Matrix
+
+| Phase/Activity            | Executive (Ex) | Senior User (SU) | Senior Supplier (SS) | Project Manager (PM) | Team Manager (TM) | Project Assurance (PA) |
+| ------------------------- | ------------- | --------------- | ------------------ | ------------------ | --------------- | --------------------- |
+| Starting Up a Project    | A             | C               | C                  | R                  | -               | I                     |
+| Initiating a Project     | A             | C               | C                  | R                  | I               | I                     |
+| Controlling a Stage [Ref 4]| -             | I               | I                  | R                  | A               | C                     |
+| Managing Product Delivery| -             | I               | I                  | I                  | R/A             | C                     |
+| Managing Stage Boundaries| A             | C               | C                  | R                  | I               | I                     |
+| Closing a Project        | A             | C               | C                  | R                  | I               | I                     |
+
+Key:
+
+*   **R** = Responsible (does the work)
+*   **A** = Accountable (owns the work)
+*   **C** = Consulted (provides input)
+*   **I** = Informed (kept up-to-date)
+
+-----
+
+#### Decision Gates
+
+I. **End of Starting Up a Project (SU):** Is the project feasible and justified? Approval is required to proceed to the Initiating a Project phase.
+II. **End of Initiating a Project (IP):** Is the project plan comprehensive and realistic? Approval is required to proceed to the first delivery stage.
+III. **End of Each Stage (SB):** Has the stage achieved its objectives? Are there any significant deviations from the project plan? Decision on whether to proceed to the next stage or to close the project.
+IV. **Project Closure (CP):** Have all project objectives been met and deliverables accepted? Decision on formal project closure. ISO21502 outlines what is expected here [Ref 14].
+
+-----
+
+#### Embeddings & Citations
+
+**Note:**
+Ref 1: ISO21502, Page 9 (Similarity: 0.629)
+Ref 2: PMBOK, Page 24 (Similarity: 0.602)
+Ref 3: PMBOK, Page 30 (Similarity: 0.580)
+Ref 4: PRINCE2, Page 4 (Similarity: 0.565)
+Ref 5: ISO21502, Page 12 (Similarity: 0.564)
+Ref 7: ISO21500, Page 9 (Similarity: 0.551)
+Ref 8: PMBOK, Page 10 (Similarity: 0.523)
+Ref 9: PRINCE2, Page 6 (Similarity: 0.519)
+Ref 10: ISO21500, Page 9 (Similarity: 0.515)
+Ref 14: ISO21502, Page 11 (Similarity: 0.498)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 11: Page 7, Similarity: 0.504 (/pdf/ISO21500#page=7)
+- Ref 7: Page 9, Similarity: 0.551 (/pdf/ISO21500#page=9)
+- Ref 10: Page 9, Similarity: 0.515 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 6: Page 1, Similarity: 0.552 (/pdf/ISO21502#page=1)
+- Ref 13: Page 7, Similarity: 0.500 (/pdf/ISO21502#page=7)
+- Ref 1: Page 9, Similarity: 0.629 (/pdf/ISO21502#page=9)
+- Ref 12: Page 10, Similarity: 0.503 (/pdf/ISO21502#page=10)
+- Ref 14: Page 11, Similarity: 0.498 (/pdf/ISO21502#page=11)
+- Ref 5: Page 12, Similarity: 0.564 (/pdf/ISO21502#page=12)
+
+**PMBOK:**
+- Ref 15: Page 9, Similarity: 0.492 (/pdf/PMBOK#page=9)
+- Ref 8: Page 10, Similarity: 0.523 (/pdf/PMBOK#page=10)
+- Ref 2: Page 24, Similarity: 0.602 (/pdf/PMBOK#page=24)
+- Ref 3: Page 30, Similarity: 0.580 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 4: Page 4, Similarity: 0.565 (/pdf/PRINCE2#page=4)
+- Ref 9: Page 6, Similarity: 0.519 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 33142_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.629) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.602) → /pdf/PMBOK#page=24
+• [Ref 3] PMBOK - Page 30 (Similarity: 0.580) → /pdf/PMBOK#page=30
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.565) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.564) → /pdf/ISO21502#page=12
+• [Ref 6] ISO21502 - Page 1 (Similarity: 0.552) → /pdf/ISO21502#page=1
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.551) → /pdf/ISO21500#page=9
+• [Ref 8] PMBOK - Page 10 (Similarity: 0.523) → /pdf/PMBOK#page=10
+• [Ref 9] PRINCE2 - Page 6 (Similarity: 0.519) → /pdf/PRINCE2#page=6
+• [Ref 10] ISO21500 - Page 9 (Similarity: 0.515) → /pdf/ISO21500#page=9
+• [Ref 11] ISO21500 - Page 7 (Similarity: 0.504) → /pdf/ISO21500#page=7
+• [Ref 12] ISO21502 - Page 10 (Similarity: 0.503) → /pdf/ISO21502#page=10
+• [Ref 13] ISO21502 - Page 7 (Similarity: 0.500) → /pdf/ISO21502#page=7
+• [Ref 14] ISO21502 - Page 11 (Similarity: 0.498) → /pdf/ISO21502#page=11
+• [Ref 15] PMBOK - Page 9 (Similarity: 0.492) → /pdf/PMBOK#page=9

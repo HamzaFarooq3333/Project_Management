@@ -1,0 +1,183 @@
+Scenario: [33312] Innovative Product Development | Research | Large (> 18 months) | Information Technology | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21500, ISO21502
+
+================================================================================
+
+### Process Summary
+
+This process recommendation outlines a comprehensive project management approach for a large (>18 months) IT research project, using PRINCE2 methodology [Ref 3, Ref 9]. It leverages principles from PMBOK and ISO standards where applicable to enhance governance, planning, execution, and control. The process emphasizes clear role definitions, communication, risk management, and adherence to predefined project objectives and benefits [Ref 3]. This recommendation aims to provide a structured framework to mitigate ambiguity, manage expectations, and ensure successful project delivery. Project management should be performed through a set of practices [Ref 13].
+
+-----
+
+### Phases and Activities
+
+I. **Initiation Phase (SU - Starting Up a Project)**
+
+i. **Project Mandate:** Define the initial project idea and rationale.
+ii. **Project Brief:** Develop a high-level project description, including objectives, scope, benefits, and constraints.
+iii. **Assemble Project Management Team:** Identify and assign key project roles and responsibilities [Ref 3].
+iv. **Outline Business Case:** Create an initial business case that justifies the project investment.
+v. **Project Initiation Document (PID) Outline:** Begin the framework for the PID. This will include the project scope [Ref 1].
+
+II. **Planning Phase (IP - Initiating a Project)**
+
+i. **Define Project Scope:** Clearly define the project deliverables, boundaries, and acceptance criteria [Ref 1, Ref 4].
+ii. **Develop Project Management Plan (PMP):** Create a comprehensive plan that includes:
+     a. Scope Management Plan
+     b. Schedule Management Plan [Ref 1]
+     c. Cost Management Plan [Ref 1]
+     d. Quality Management Plan
+     e. Resource Management Plan
+     f. Communications Management Plan [Ref 1]
+     g. Risk Management Plan
+     h. Procurement Management Plan [Ref 1]
+     i. Stakeholder Engagement Plan [Ref 5]
+iii. **Detailed Business Case:** Refine the business case with detailed cost-benefit analysis.
+iv. **Risk Assessment:** Identify and assess potential risks and develop mitigation strategies [Ref 4].
+v. **Communication Plan:** Establish a communication plan to ensure timely and effective information flow [Ref 1, Ref 3].
+vi. **Define Project Controls:** Establish processes for monitoring, controlling, and reporting project performance.
+
+III. **Execution Phase (CS - Controlling a Stage)**
+
+i. **Direct Project Work:** Execute the project activities according to the PMP.
+ii. **Manage Project Resources:** Allocate and manage project resources effectively.
+iii. **Implement Risk Mitigation Plans:** Execute risk mitigation strategies as needed.
+iv. **Manage Stakeholder Engagement:** Engage with stakeholders to ensure their needs and expectations are met.
+v. **Monitor and Control Project Work:** Track project progress against the PMP and identify any deviations.
+vi. **Issue Management:** Manage and resolve project issues promptly [Ref 10].
+vii. **Change Control:** Manage and control changes to the project scope, schedule, and budget [Ref 1].
+viii. **Regular Reporting:** Provide regular progress reports to stakeholders.
+
+IV. **Monitoring and Controlling Phase**
+
+i. **Performance Measurement:** Track project performance against planned baselines.
+ii. **Variance Analysis:** Analyze variances between planned and actual performance.
+iii. **Change Management:** Implement change requests.
+iv. **Risk Monitoring and Control:** Track identified risks.
+v. **Quality Assurance:** Ensure that project deliverables meet quality standards.
+vi. **Stakeholder Management:** Engage with stakeholders.
+
+V. **Closing Phase (CP - Closing a Project)**
+
+i. **Obtain Project Acceptance:** Obtain formal acceptance of project deliverables from stakeholders.
+ii. **Conduct Project Closure Activities:** Complete all project closure activities, including documentation, archiving, and knowledge transfer.
+iii. **Release Project Resources:** Release project resources and close out contracts.
+iv. **Conduct Post-Project Review:** Conduct a post-project review to identify lessons learned and areas for improvement [Ref 9].
+v. **Final Project Report:** Prepare a final project report summarizing project performance and outcomes.
+vi. **Benefits Realization:** Plan for and track the realization of project benefits after project closure.
+
+-----
+
+### Roles
+
+*   **Executive/Project Sponsor:** Provides overall direction and resources [Ref 6].
+*   **Senior User:** Represents the interests of those who will use the project’s outputs.
+*   **Senior Supplier:** Represents those who will provide the resources to the project.
+*   **Project Manager:** Responsible for planning, executing, and controlling the project.
+*   **Project Team Members:** Responsible for completing specific project tasks.
+*   **Project Assurance:** Provides independent oversight of the project.
+
+-----
+
+### RACI Matrix
+
+| Phase/Activity               | Executive/Sponsor | Senior User | Senior Supplier | Project Manager | Project Team | Assurance | Reference |
+| ----------------------------- | --------------- | ----------- | --------------- | --------------- | ----------- | -------- | -------- |
+| Initiation (SU)           | A             | I           | I             | R             | C           | I       | [Ref 3]    |
+| Planning (IP)             | A             | C           | C             | R             | C           | I        | [Ref 1]    |
+| Execution (CS)          | I             | C           | C             | R             | R             | C      |          |
+| Monitoring & Controlling  | I             | C           | C             | R             | R/C         | C      |          |
+| Closing (CP)              | A             | C           | C             | R             | C           | C       | [Ref 9]    |
+
+**R** = Responsible, **A** = Accountable, **C** = Consulted, **I** = Informed
+
+-----
+
+### Decision Gates
+
+I. **End of Initiation Phase:** Approval to proceed to the Planning Phase, based on the initial Business Case and Project Brief.
+
+II. **End of Planning Phase:** Approval of the Project Management Plan and detailed Business Case before proceeding to the Execution Phase.
+
+III. **End of Each Stage (if applicable):** Review of stage deliverables, performance, and updated Business Case to determine whether to proceed to the next stage or terminate the project [Ref 9].
+
+IV. **Project Closure:** Formal acceptance of project deliverables and completion of all closure activities.
+
+-----
+
+### Embeddings & Citations
+
+**Note:**
+
+Ref 1: PMBOK, Page 30 (Similarity: 0.595)
+Ref 2: ISO21502, Page 9 (Similarity: 0.591)
+Ref 3: PRINCE2, Page 4 (Similarity: 0.576)
+Ref 4: ISO21502, Page 12 (Similarity: 0.572)
+Ref 5: PMBOK, Page 24 (Similarity: 0.567)
+Ref 6: ISO21500, Page 9 (Similarity: 0.536)
+Ref 7: ISO21502, Page 11 (Similarity: 0.530)
+Ref 8: ISO21502, Page 1 (Similarity: 0.527)
+Ref 9: PRINCE2, Page 6 (Similarity: 0.527)
+Ref 10: ISO21502, Page 10 (Similarity: 0.520)
+Ref 11: ISO21502, Page 7 (Similarity: 0.520)
+Ref 12: ISO21502, Page 7 (Similarity: 0.510)
+Ref 13: ISO21502, Page 14 (Similarity: 0.510)
+Ref 14: ISO21500, Page 9 (Similarity: 0.509)
+Ref 15: PMBOK, Page 10 (Similarity: 0.492)
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 6: Page 9, Similarity: 0.536 (/pdf/ISO21500#page=9)
+- Ref 14: Page 9, Similarity: 0.509 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 8: Page 1, Similarity: 0.527 (/pdf/ISO21502#page=1)
+- Ref 11: Page 7, Similarity: 0.520 (/pdf/ISO21502#page=7)
+- Ref 12: Page 7, Similarity: 0.510 (/pdf/ISO21502#page=7)
+- Ref 2: Page 9, Similarity: 0.591 (/pdf/ISO21502#page=9)
+- Ref 10: Page 10, Similarity: 0.520 (/pdf/ISO21502#page=10)
+- Ref 7: Page 11, Similarity: 0.530 (/pdf/ISO21502#page=11)
+- Ref 4: Page 12, Similarity: 0.572 (/pdf/ISO21502#page=12)
+- Ref 13: Page 14, Similarity: 0.510 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 15: Page 10, Similarity: 0.492 (/pdf/PMBOK#page=10)
+- Ref 5: Page 24, Similarity: 0.567 (/pdf/PMBOK#page=24)
+- Ref 1: Page 30, Similarity: 0.595 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 3: Page 4, Similarity: 0.576 (/pdf/PRINCE2#page=4)
+- Ref 9: Page 6, Similarity: 0.527 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 33312_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 30 (Similarity: 0.595) → /pdf/PMBOK#page=30
+• [Ref 2] ISO21502 - Page 9 (Similarity: 0.591) → /pdf/ISO21502#page=9
+• [Ref 3] PRINCE2 - Page 4 (Similarity: 0.576) → /pdf/PRINCE2#page=4
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.572) → /pdf/ISO21502#page=12
+• [Ref 5] PMBOK - Page 24 (Similarity: 0.567) → /pdf/PMBOK#page=24
+• [Ref 6] ISO21500 - Page 9 (Similarity: 0.536) → /pdf/ISO21500#page=9
+• [Ref 7] ISO21502 - Page 11 (Similarity: 0.530) → /pdf/ISO21502#page=11
+• [Ref 8] ISO21502 - Page 1 (Similarity: 0.527) → /pdf/ISO21502#page=1
+• [Ref 9] PRINCE2 - Page 6 (Similarity: 0.527) → /pdf/PRINCE2#page=6
+• [Ref 10] ISO21502 - Page 10 (Similarity: 0.520) → /pdf/ISO21502#page=10
+• [Ref 11] ISO21502 - Page 7 (Similarity: 0.520) → /pdf/ISO21502#page=7
+• [Ref 12] ISO21502 - Page 7 (Similarity: 0.510) → /pdf/ISO21502#page=7
+• [Ref 13] ISO21502 - Page 14 (Similarity: 0.510) → /pdf/ISO21502#page=14
+• [Ref 14] ISO21500 - Page 9 (Similarity: 0.509) → /pdf/ISO21500#page=9
+• [Ref 15] PMBOK - Page 10 (Similarity: 0.492) → /pdf/PMBOK#page=10

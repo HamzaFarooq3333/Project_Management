@@ -1,0 +1,144 @@
+Scenario: [24122] Custom Software Development | Marketing | Small (< 6 months) | Construction | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: ISO21500, ISO21502, PRINCE2, PMBOK
+
+================================================================================
+
+### Project Management Process Recommendation: Construction Marketing Project (PRINCE2)
+
+#### Process Summary
+
+This process recommendation outlines the key project management processes for a small-scale (less than 6 months) marketing project within the construction industry, utilizing the PRINCE2 methodology. It considers the project's focus on stakeholder engagement, planning rigor, and adaptability. The recommendation focuses on delivering value through a structured and controlled approach, paying close attention to risk management and communication. The overall project lifecycle is considered, encompassing initiation, delivery stages, and closure [Ref 6].
+
+-----
+
+#### Phases and Activities
+
+This project will follow a PRINCE2 inspired structure with the following phases:
+
+**I. Starting Up a Project (SU)**
+
+i.   **Appoint the Project Management Team:** Define roles and responsibilities, crucial for accountability and clarity [Ref 4].
+ii.  **Create the Project Mandate:** Document the initial project scope, objectives, and benefits.
+iii. **Develop the Project Brief:**  A high-level plan outlining the project's objectives, scope, approach, and justification.
+iv.  **Define the Project Approach:** Decide on the method (e.g., agile, waterfall) best suited for the project's deliverables.
+
+**II. Initiating a Project (IP)**
+
+i.   **Develop the Project Initiation Document (PID):** A comprehensive document that defines the project's business case, objectives, scope, organization, and controls.
+ii.  **Define Project Scope:** Clearly articulate what will be delivered by the project [Ref 2].
+iii. **Identify Stakeholders:** Determine all parties impacted by or having an interest in the project [Ref 1, Ref 8].
+iv.  **Create Communication Plan:** Establish how information will be disseminated to stakeholders [Ref 2].
+v.   **Develop Detailed Plans:** Create project, stage, team, communication, quality, risk and change management plans, using the project brief as a foundation.
+vi.  **Refine Business Case:** Develop a fully costed business case including benefits and risks [Ref 4].
+
+**III. Controlling a Stage (CS)**
+
+i.   **Authorize Work Packages:** Assign tasks to team members.
+ii.  **Monitor Progress:** Track progress against the plan and take corrective action as needed.
+iii. **Review Stage Status:** Regularly assess stage progress, identify issues, and make necessary adjustments.
+iv.  **Report Highlights:** Provide regular updates to the Project Board.
+v.   **Capture and Assess Issues and Risks:** Continuously monitor and manage risks and issues [Ref 13].
+vi. **Take Corrective Action:** Take necessary actions if the stage is not progressing in line with the plan.
+
+**IV. Managing Product Delivery (MP)**
+
+i.   **Accept Work Packages:** Receive and review work packages from the Project Manager.
+ii.  **Execute Tasks:** Complete tasks as defined in the work packages.
+iii. **Deliver Products:** Submit completed deliverables to the Project Manager.
+iv.  **Report Progress:** Provide regular updates to the Project Manager on progress against the work package.
+
+**V. Managing Stage Boundary (SB)**
+
+i.   **Plan the Next Stage:** Prepare detailed plans for the next stage, based on the progress and lessons learned from the current stage.
+ii.  **Update the Project Plan:** Incorporate any changes or updates into the overall project plan.
+iii. **Update the Business Case:** Reassess and update the business case based on the latest progress and financial information.
+iv.  **Report Stage End:** Prepare a stage end report summarizing the stage's performance.
+
+**VI. Closing a Project (CP)**
+
+i.   **Confirm Project Closure:** Verify that all project objectives have been met.
+ii.  **Evaluate Project Performance:** Assess the overall project performance against the plan and identify lessons learned.
+iii. **Document Lessons Learned:** Capture key insights and recommendations for future projects.
+iv.  **Dispose of Project Assets:** Properly dispose of any remaining project assets.
+v.   **Communicate Project Closure:** Inform stakeholders of the project closure [Ref 1].
+
+-----
+
+#### Roles
+
+*   **Project Board:** Provides overall direction and control for the project.
+*   **Senior User:** Represents the interests of those who will use the project's outputs.
+*   **Senior Supplier:** Represents the interests of those providing the resources and expertise needed for the project.
+*   **Project Manager:** Responsible for the day-to-day management of the project.
+*   **Team Manager:** Manages a team of specialists delivering specific project products.
+*   **Project Assurance:** Monitors all aspects of the project's performance and products independently of the Project Manager.
+*   **Project Support:** Provides administrative, financial, and technical support to the Project Manager.
+
+-----
+
+#### RACI Matrix
+
+| Activity                      | Starting Up Project (SU) | Initiating Project (IP) | Controlling a Stage (CS) | Managing Product Delivery (MP) | Managing a Stage Boundary (SB) | Closing a Project (CP) |
+|-------------------------------|----------------------------|--------------------------|-----------------------------|---------------------------------|-----------------------------------|--------------------------|
+| Appoint PM Team [Ref 4]    | A (Project Board)          | -                        | -                           | -                               | -                                 | -                        |
+| Create Project Mandate        | R (Project Board)          | -                        | -                           | -                               | -                                 | -                        |
+| Develop Project Brief         | R (Project Manager)        | -                        | -                           | -                               | -                                 | -                        |
+| Define Project Scope [Ref 2]  | I                        | R (Project Manager)      | I                             | -                               | C                                 | -                        |
+| Identify Stakeholders [Ref 8] | C (Project Manager)       | R (Project Manager)      | I                             | -                               | C                                 | I                        |
+| Create Communication Plan     | I                        | R (Project Manager)      | C                             | I                               | C                                 | I                        |
+| Authorize Work Packages      | -                        | -                        | A (Project Manager)         | R (Team Manager)                | -                                 | -                        |
+| Monitor Progress               | -                        | -                        | R (Project Manager)         | C (Team Manager)                | I                                 | -                        |
+| Review Stage Status            | -                        | -                        | R (Project Manager)         | I                               | C (Project Board)                 | -                        |
+| Report Stage End              | -                        | -                        | I                             | -                               | R (Project Manager)               | -                        |
+| Evaluate Project Performance   | -                        | -                        | -                           | -                               | -                                 | R (Project Manager)      |
+| Document Lessons Learned       | -                        | -                        | -                           | -                               | -                                 | R (Project Manager)      |
+
+**Key:**
+*   **R** = Responsible: The person who does the work.
+*   **A** = Accountable: The person who is ultimately accountable for the correct and thorough completion of the deliverable or task.
+*   **C** = Consulted: Individuals to be consulted prior to a decision or action.
+*   **I** = Informed: Individuals to be informed after a decision or action.
+
+-----
+
+#### Decision Gates
+
+i.   **End of Starting Up a Project (SU):** Project Board approval to proceed to the Initiation Stage.  Based on the Project Brief and initial business justification.
+ii.  **End of Initiating a Project (IP):** Project Board approval to proceed to the first Delivery Stage. Approval based on the PID and fully developed business case. This ensures that the project is viable and aligned with the organization's objectives [Ref 4, Ref 7].
+iii. **End of Each Stage (SB):** Project Board approval to proceed to the next Stage. Based on the Stage End Report and updated plans. This allows for course correction and ensures continued alignment with the business case.
+iv.  **Project Closure (CP):** Project Board approval to formally close the project. Based on verification of all project objectives being met and benefits realized.
+
+-----
+
+#### Note: Embeddings & Citations
+
+Ref 1: PMBOK, Page 24 (Similarity: 0.631)
+Ref 2: PMBOK, Page 30 (Similarity: 0.625)
+Ref 4: PRINCE2, Page 4 (Similarity: 0.575)
+Ref 6: PRINCE2, Page 6 (Similarity: 0.541)
+Ref 7: PMBOK, Page 10 (Similarity: 0.527)
+Ref 8: ISO21500, Page 9 (Similarity: 0.527)
+Ref 13: PMBOK, Page 20 (Similarity: 0.494)
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 24122_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] PMBOK - Page 24 (Similarity: 0.631) → /pdf/PMBOK#page=24
+• [Ref 2] PMBOK - Page 30 (Similarity: 0.625) → /pdf/PMBOK#page=30
+• [Ref 3] ISO21502 - Page 9 (Similarity: 0.586) → /pdf/ISO21502#page=9
+• [Ref 4] PRINCE2 - Page 4 (Similarity: 0.575) → /pdf/PRINCE2#page=4
+• [Ref 5] ISO21502 - Page 12 (Similarity: 0.572) → /pdf/ISO21502#page=12
+• [Ref 6] PRINCE2 - Page 6 (Similarity: 0.541) → /pdf/PRINCE2#page=6
+• [Ref 7] PMBOK - Page 10 (Similarity: 0.527) → /pdf/PMBOK#page=10
+• [Ref 8] ISO21500 - Page 9 (Similarity: 0.527) → /pdf/ISO21500#page=9
+• [Ref 9] ISO21500 - Page 9 (Similarity: 0.503) → /pdf/ISO21500#page=9
+• [Ref 10] ISO21502 - Page 7 (Similarity: 0.501) → /pdf/ISO21502#page=7
+• [Ref 11] ISO21502 - Page 1 (Similarity: 0.499) → /pdf/ISO21502#page=1
+• [Ref 12] ISO21502 - Page 10 (Similarity: 0.499) → /pdf/ISO21502#page=10
+• [Ref 13] PMBOK - Page 20 (Similarity: 0.494) → /pdf/PMBOK#page=20
+• [Ref 14] ISO21502 - Page 14 (Similarity: 0.493) → /pdf/ISO21502#page=14
+• [Ref 15] PMBOK - Page 9 (Similarity: 0.489) → /pdf/PMBOK#page=9

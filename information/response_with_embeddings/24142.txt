@@ -1,0 +1,179 @@
+Scenario: [24142] Custom Software Development | Marketing | Small (< 6 months) | Finance | PRINCE2
+Generated with embeddings - 15 evidence snippets sent to GPT model
+Embedding Sources: PRINCE2, PMBOK, ISO21500, ISO21502
+
+================================================================================
+
+### Process Recommendation: Small-Scale Finance Marketing Project (PRINCE2)
+
+This recommendation outlines a process for managing a small-scale finance marketing project using the PRINCE2 methodology, which is applicable to projects of any size and type [Ref 1]. It focuses on efficient execution within the constraints of a project lifecycle expected to complete in under six months. The project will leverage principles from both PRINCE2 and PMBOK while adhering to standards found in ISO21502.
+
+-----
+
+#### I. Process Summary
+
+This project will follow a streamlined PRINCE2 approach emphasizing clear responsibilities, controlled stages, and focused decision-making. The project will be broken down into manageable phases, with each phase having defined objectives, deliverables, and approval points (decision gates). This ensures that the project team is aligned, and decisions are made in an organized fashion [Ref 10]. Key to the project's success is effective stakeholder engagement [Ref 9], proactive risk management, and the flexibility to adapt to changing requirements or challenges [Ref 5, 9, 15]. The project will encompass elements of planning, project work, delivery, and measurement [Ref 2, 3]. It will also focus on building quality into processes [Ref 9] and understanding project context [Ref 12].
+
+-----
+
+#### II. Phases and Activities
+
+The project will proceed through the following phases:
+
+I.  **Starting Up a Project:** This phase establishes the foundation.
+    i.  Develop the Project Brief. (Outlines the project’s purpose, objectives, and scope. [Ref 3])
+    ii.  Appoint the Project Manager and Project Board. (Defines roles and responsibilities.)
+    iii.  Prepare the Project Initiation Documentation (PID) outline.
+
+II. **Initiating a Project:** This phase formally authorizes the project.
+    i.  Refine the Project Brief into the PID. (Includes the Business Case, project approach, and risk management plan. [Ref 3, 4])
+    ii.  Define the project scope and deliverables. (Referencing [Ref 3, 4])
+    iii.  Create the Project Plan, including schedules and budget. (Referencing [Ref 3])
+    iv.  Establish communication plan and stakeholder register. (Referencing [Ref 3])
+    v.  Obtain Project Board approval of the PID. (Decision Gate 1)
+
+III. **Directing a Project:** This phase enables the project board to provide overall direction and guidance.
+    i.  Review and approve stage plans and exception plans.
+    ii.  Provide overall direction to the project manager.
+    iii.  Monitor project progress and address major issues.
+    iv.  Make key decisions.
+    v.  Approve project closure. (Decision Gate 3)
+
+IV.  **Managing a Stage (Marketing Campaign Execution):** This is where the core marketing activities are performed.
+    i.  Execute marketing campaign activities according to the stage plan (e.g., content creation, social media, paid advertising, SEO).
+    ii.  Monitor progress against the plan, schedule and budget. (Referencing [Ref 3])
+    iii.  Manage risks and issues. (Referencing [Ref 4, 15])
+    iv.  Report progress to the Project Board.
+    v.  Control Change. (Referencing [Ref 3])
+    vi.  Prepare stage-end report. (Referencing [Ref 10])
+    vii. Project status reports
+    viii.  Obtain Project Board approval to proceed to the next stage. (Decision Gate 2)
+
+V.  **Managing Product Delivery:** This phase focuses on the control of the creation and delivery of project’s products.
+    i.  Ensure the quality of deliverables.
+    ii.  Accept completed products.
+    iii.  Handover of project deliverables.
+
+VI. **Closing a Project:** Formal closure of the project.
+    i.  Confirm product acceptance.
+    ii.  Prepare the end project report.
+    iii.  Update lessons learned.
+    iv.  Evaluate the project (post-implementation review).
+    v.  Handover of products.
+    vi.  Obtain Project Board sign-off.
+
+-----
+
+#### III. Roles
+
+Key project roles and their responsibilities include:
+
+*   **Project Sponsor/Senior Responsible Owner (SRO):** Responsible for obtaining the resources and executive decisions [Ref 6]. Ensures the project continues to deliver value.
+*   **Project Board:** Provides overall direction, monitors progress, and makes key decisions [Ref 5, 6].
+*   **Project Manager:** Manages the day-to-day project activities, including planning, execution, and monitoring. [Ref 5]
+*   **Team Manager(s):** Responsible for managing the production of deliverables.
+*   **Stakeholders:** Individuals or groups with an interest in the project. (Referencing [Ref 4, 6, 9])
+
+-----
+
+#### IV. RACI Matrix
+
+| Phase                    | Project Sponsor/SRO | Project Board | Project Manager | Team Manager(s) | Stakeholders |
+| :----------------------- | :------------------ | :------------ | :-------------- | :-------------- | :----------- |
+| I. Starting Up a Project | I                   | A             | R               | C               | C           |
+| II. Initiating a Project | A                   | A             | R               | C               | C           |
+| III. Directing a Project | A                   | R             | C               | I               | C           |
+| IV. Managing a Stage     | C                   | A             | R               | R               | I           |
+| V. Managing Product Delivery | C                  | A             | R               | R               | I           |
+| VI. Closing a Project    | A                   | A             | R               | C               | C           |
+
+*   **R** = Responsible: The person or role who does the work.
+*   **A** = Accountable: The person or role ultimately accountable for the correct and thorough completion of the deliverable.
+*   **C** = Consulted: The person or role who is consulted before a decision is made or an activity is performed.
+*   **I** = Informed: The person or role who is kept informed of progress and results.
+
+-----
+
+#### V. Decision Gates
+
+Decision gates are essential for controlling the project [Ref 10]. These are key approval points:
+
+1.  **PID Approval:** Project Board approves the Project Initiation Documentation, authorizing the project to proceed to the Execution Phase.
+2.  **Stage Plan Approval:** Project Board approves a stage plan, enabling a defined scope of marketing activities.
+3.  **Project Closure Approval:** Project Board formally approves project closure.
+
+-----
+
+#### VI. Embeddings & Citations Section
+
+*   Ref 1: ISO21502, Page 9
+*   Ref 2: PMBOK, Page 24
+*   Ref 3: PMBOK, Page 30
+*   Ref 4: ISO21502, Page 12
+*   Ref 5: PRINCE2, Page 4
+*   Ref 6: ISO21500, Page 9
+*   Ref 7: ISO21500, Page 9
+*   Ref 8: ISO21502, Page 1
+*   Ref 9: PMBOK, Page 10
+*   Ref 10: PRINCE2, Page 6
+*   Ref 11: ISO21500, Page 7
+*   Ref 12: ISO21502, Page 14
+*   Ref 13: ISO21500, Page 1
+*   Ref 14: ISO21502, Page 7
+*   Ref 15: ISO21502, Page 14
+
+-----
+
+### Note
+
+**Embedding References Used:**
+
+**ISO21500:**
+- Ref 13: Page 1, Similarity: 0.487 (/pdf/ISO21500#page=1)
+- Ref 11: Page 7, Similarity: 0.504 (/pdf/ISO21500#page=7)
+- Ref 6: Page 9, Similarity: 0.536 (/pdf/ISO21500#page=9)
+- Ref 7: Page 9, Similarity: 0.530 (/pdf/ISO21500#page=9)
+
+**ISO21502:**
+- Ref 8: Page 1, Similarity: 0.528 (/pdf/ISO21502#page=1)
+- Ref 14: Page 7, Similarity: 0.481 (/pdf/ISO21502#page=7)
+- Ref 1: Page 9, Similarity: 0.610 (/pdf/ISO21502#page=9)
+- Ref 4: Page 12, Similarity: 0.565 (/pdf/ISO21502#page=12)
+- Ref 12: Page 14, Similarity: 0.491 (/pdf/ISO21502#page=14)
+- Ref 15: Page 14, Similarity: 0.479 (/pdf/ISO21502#page=14)
+
+**PMBOK:**
+- Ref 9: Page 10, Similarity: 0.514 (/pdf/PMBOK#page=10)
+- Ref 2: Page 24, Similarity: 0.602 (/pdf/PMBOK#page=24)
+- Ref 3: Page 30, Similarity: 0.602 (/pdf/PMBOK#page=30)
+
+**PRINCE2:**
+- Ref 5: Page 4, Similarity: 0.553 (/pdf/PRINCE2#page=4)
+- Ref 10: Page 6, Similarity: 0.514 (/pdf/PRINCE2#page=6)
+
+**Total Embeddings Used:** 15
+
+All references cited in the response are from the embedded PM standards evidence found in the FAISS index.
+No external citations available beyond the embedded references listed above.
+
+-----
+
+NOTE: Detailed book references with full metadata have been saved to 24142_references.json
+This JSON file contains complete information about all books, pages, and embeddings used.
+
+EMBEDDING REFERENCES (Clickable Links):
+• [Ref 1] ISO21502 - Page 9 (Similarity: 0.610) → /pdf/ISO21502#page=9
+• [Ref 2] PMBOK - Page 24 (Similarity: 0.602) → /pdf/PMBOK#page=24
+• [Ref 3] PMBOK - Page 30 (Similarity: 0.602) → /pdf/PMBOK#page=30
+• [Ref 4] ISO21502 - Page 12 (Similarity: 0.565) → /pdf/ISO21502#page=12
+• [Ref 5] PRINCE2 - Page 4 (Similarity: 0.553) → /pdf/PRINCE2#page=4
+• [Ref 6] ISO21500 - Page 9 (Similarity: 0.536) → /pdf/ISO21500#page=9
+• [Ref 7] ISO21500 - Page 9 (Similarity: 0.530) → /pdf/ISO21500#page=9
+• [Ref 8] ISO21502 - Page 1 (Similarity: 0.528) → /pdf/ISO21502#page=1
+• [Ref 9] PMBOK - Page 10 (Similarity: 0.514) → /pdf/PMBOK#page=10
+• [Ref 10] PRINCE2 - Page 6 (Similarity: 0.514) → /pdf/PRINCE2#page=6
+• [Ref 11] ISO21500 - Page 7 (Similarity: 0.504) → /pdf/ISO21500#page=7
+• [Ref 12] ISO21502 - Page 14 (Similarity: 0.491) → /pdf/ISO21502#page=14
+• [Ref 13] ISO21500 - Page 1 (Similarity: 0.487) → /pdf/ISO21500#page=1
+• [Ref 14] ISO21502 - Page 7 (Similarity: 0.481) → /pdf/ISO21502#page=7
+• [Ref 15] ISO21502 - Page 14 (Similarity: 0.479) → /pdf/ISO21502#page=14
